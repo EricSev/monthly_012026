@@ -1,0 +1,1766 @@
+WEBVTT
+
+00:02:21.000 --> 00:02:23.000
+Misti Kill: Good morning!
+
+00:02:30.000 --> 00:02:32.000
+Tony Atchley: Good morning.
+
+00:02:34.000 --> 00:02:36.000
+Misti Kill: How you doing, Tony?
+
+00:02:36.000 --> 00:02:38.000
+Tony Atchley: Great, how are you?
+
+00:02:38.000 --> 00:02:39.000
+Keith Cullen: Good morning, everybody.
+
+00:02:38.000 --> 00:02:40.000
+Misti Kill: I'm doing alright, thanks!
+
+00:02:40.000 --> 00:02:44.000
+Tony Atchley: How's your… how's your Friday?
+
+00:02:44.000 --> 00:02:56.000
+Misti Kill: It's cold! It's definitely a cold Friday. It's, uh… this is the time of the year where we probably get our… our coldest weather, and it is.
+
+00:02:56.000 --> 00:02:59.000
+Misti Kill: It's coming, it's hittin' us hard today, so…
+
+00:02:59.000 --> 00:03:03.000
+Tony Atchley: Not disappointing, yeah.
+
+00:03:01.000 --> 00:03:03.000
+Misti Kill: Yeah, absolutely.
+
+00:03:02.000 --> 00:03:09.000
+Eric Severson: I, uh, I went to college in Minnesota, in, uh, Northfield, Minnesota, St. Olaf College. I'm a.
+
+00:03:09.000 --> 00:03:12.000
+Misti Kill: Oh, I know, say no love! Okay, nice!
+
+00:03:11.000 --> 00:03:24.000
+Eric Severson: Yeah, I'm a fine Scandinavian kid, you can't tell it anymore, but I also was the, uh, manager for outside sales organization that covered all the Dakotas, Iowa, Nebraska.
+
+00:03:24.000 --> 00:03:30.000
+Eric Severson: And Minnesota, plus I grew up in Iowa, so I know that this time of year is tough.
+
+00:03:31.000 --> 00:03:42.000
+Eric Severson: In, uh, in Arizona, it gets to 70 degrees almost every day, and so I just had to run out and bring the cushions in from the pool area, because we're getting a little bit of sprinkling rain today.
+
+00:03:42.000 --> 00:03:44.000
+Eric Severson: So…
+
+00:03:44.000 --> 00:03:54.000
+Misti Kill: Well, in North Dakota, it's negative 30 wind chill, so we have absolutely no moisture, but we do have a couple of feet of standing snow, so…
+
+00:03:55.000 --> 00:04:04.000
+Eric Severson: And you have pheasants. I think you still have pheasants, which I was still a member of pheasants forever. Growing up in Iowa, that was, uh, that was part of the… part of the fun on the weekends, was a little pheasant hunt.
+
+00:04:04.000 --> 00:04:14.000
+Misti Kill: Yeah, I'm originally from South Dakota, so we… there's loads of pheasants and things there as well, and so, yeah, Iowa, South Dakota, and… I mean, North Dakota has a lot, too, I just…
+
+00:04:15.000 --> 00:04:19.000
+Misti Kill: I think they're frozen right now.
+
+00:04:18.000 --> 00:04:26.000
+Eric Severson: The hardest place I ever went into an airport was Minot, uh, Minot, North Dakota, and I thought, wow, look at, look at this, so…
+
+00:04:22.000 --> 00:04:24.000
+Misti Kill: All of them.
+
+00:04:26.000 --> 00:04:29.000
+Misti Kill: Yeah.
+
+00:04:27.000 --> 00:04:33.000
+Eric Severson: All good stuff, all good stuff. Well, I hope our… we were on with Luke and Signal Mutual earlier today.
+
+00:04:33.000 --> 00:04:46.000
+Eric Severson: Uh, and so, we continue to be really excited about the partnership opportunities here, um, and Signal Mutual represents one tier of partnership, but as Luke gets here, he's got other things.
+
+00:04:46.000 --> 00:04:50.000
+Eric Severson: Uh, from an expansion perspective that he's thinking about as well, so…
+
+00:04:51.000 --> 00:04:56.000
+Eric Severson: So, thank you again for getting together today. Hopefully Luke shows up here shortly.
+
+00:04:56.000 --> 00:05:01.000
+Misti Kill: Yeah, no, that's good. So, actually, Tamara just messaged me, she's…
+
+00:05:01.000 --> 00:05:03.000
+Misti Kill: She says that…
+
+00:05:03.000 --> 00:05:10.000
+Misti Kill: she needs to be let in, the host needs to let her in this meeting. She's off today, but she was gonna try to call in and.
+
+00:05:07.000 --> 00:05:09.000
+Eric Severson: Oh, really?
+
+00:05:11.000 --> 00:05:14.000
+Misti Kill: And at least be able to listen in on things.
+
+00:05:14.000 --> 00:05:19.000
+Eric Severson: Sure. Did you guys have any trouble getting in? I…
+
+00:05:15.000 --> 00:05:17.000
+Misti Kill: Um…
+
+00:05:18.000 --> 00:05:23.000
+Misti Kill: I didn't, but sometimes when… oh, there we go, perfect.
+
+00:05:19.000 --> 00:05:21.000
+Eric Severson: Here we go. They were…
+
+00:05:23.000 --> 00:05:25.000
+Tony Atchley: There we go, yep.
+
+00:05:24.000 --> 00:05:29.000
+Eric Severson: Yeah, that's my bad. I didn't realize that Zoom had that admit… admit function, so…
+
+00:05:29.000 --> 00:05:42.000
+Misti Kill: Yeah, so for us, um, it lets you in if you're logged in to Zoom, into, like, the app of it, but if you're not logged in, then you have to be admitted. It's an interesting process.
+
+00:05:40.000 --> 00:05:42.000
+Eric Severson: Gotcha. Gotcha.
+
+00:05:43.000 --> 00:05:45.000
+Eric Severson: All new and exciting things.
+
+00:05:45.000 --> 00:05:51.000
+Eric Severson: Uh, so, thank you very much for joining us, uh, Tamara and Luke.
+
+00:05:51.000 --> 00:05:57.000
+Eric Severson: And maybe we could just start off by going round the horn, uh, and give a quick introduction.
+
+00:05:57.000 --> 00:06:02.000
+Eric Severson: Uh, I think you guys know me. My name is Eric. I'm the newest member of the business development team.
+
+00:06:03.000 --> 00:06:08.000
+Eric Severson: Uh, and… and we're excited together, uh, to be here together today to talk about this potential partnership.
+
+00:06:09.000 --> 00:06:13.000
+Eric Severson: Uh… Misti, you want to go ahead and introduce yourself?
+
+00:06:13.000 --> 00:06:20.000
+Misti Kill: Yeah, thank you, good morning. So, my name's Misti Kill, I'm the Senior Vice Provost of Academic Affairs at Columbia Southern.
+
+00:06:20.000 --> 00:06:27.000
+Misti Kill: Um, and I don't think that Dr. Moura has a mic, or she's, she's actually off today, so she was.
+
+00:06:24.000 --> 00:06:26.000
+Eric Severson: Ah.
+
+00:06:27.000 --> 00:06:39.000
+Misti Kill: kind enough to join in on her day off, because she didn't want to miss anything, but she doesn't have a mic or a camera, so I will introduce her really quickly as well. So, Dr. Moura is the Dean for the College of Safety.
+
+00:06:39.000 --> 00:06:46.000
+Misti Kill: and emergency services at CSU, which encompasses programs like FIRE and A/C safety and health and that sort of thing.
+
+00:06:48.000 --> 00:06:50.000
+Eric Severson: Sweet. Keith?
+
+00:06:50.000 --> 00:06:56.000
+Keith Cullen: Hi, I'm Keith Cullen. I'm the Assistant Provost for Continuing Ed and Career Services.
+
+00:06:57.000 --> 00:07:01.000
+Keith Cullen: Two problems you wouldn't think would be together, but somehow we make it work.
+
+00:06:59.000 --> 00:07:01.000
+Tony Atchley: Alright.
+
+00:07:01.000 --> 00:07:04.000
+Eric Severson: Perfect, perfect. Tony?
+
+00:07:04.000 --> 00:07:14.000
+Tony Atchley: Yeah, I'm, uh, Tony, part of the BD team, uh, here, and uh… yeah, excited for, uh, you know, the potential of where this.
+
+00:07:14.000 --> 00:07:21.000
+Tony Atchley: partnership can grow to with Luke and CTR and the involvement there to, uh, broaden our.
+
+00:07:21.000 --> 00:07:24.000
+Tony Atchley: Uh, efforts into the maritime industry.
+
+00:07:25.000 --> 00:07:36.000
+Eric Severson: And Luke, I've distributed a little bit of background information, but it'd be great to help us understand your role in your organization, and just a quick perspective on our… what we're talking about today from your perspective.
+
+00:07:37.000 --> 00:07:42.000
+Luke Tierney: Sure, absolutely. Um, you know, really appreciate everyone's time, uh, nice to meet all of y'all.
+
+00:07:42.000 --> 00:07:51.000
+Luke Tierney: Um, I'm, uh, Luke Tierney. I'm in charge of corporate development at the group level at CTR. I'm also the president of our training division.
+
+00:07:51.000 --> 00:07:58.000
+Luke Tierney: Um, my… and I mean, as another relevant point of contact, CTR is a family-owned business. My grandfather started it.
+
+00:07:59.000 --> 00:08:03.000
+Luke Tierney: in 1987, so I'm the, uh, next generation there.
+
+00:08:04.000 --> 00:08:10.000
+Luke Tierney: Um… I actually own our trainee division as well. I was transferred to me. But, um…
+
+00:08:10.000 --> 00:08:16.000
+Luke Tierney: So, you know, my role within the organization is that I'm in charge of all of our external partnerships, uh…
+
+00:08:16.000 --> 00:08:25.000
+Luke Tierney: new business development and sales, uh, really kind of anything dealing with new things and external stakeholders, I'm… I'm in charge of that.
+
+00:08:26.000 --> 00:08:29.000
+Luke Tierney: Uh, you know, I think, uh…
+
+00:08:29.000 --> 00:08:34.000
+Luke Tierney: Would it help, Eric, if I gave some background about, kind of, what CTR does as a company? Okay.
+
+00:08:34.000 --> 00:08:46.000
+Luke Tierney: So we were founded in 1987 as, you know, kind of a traditional staffing and recruiting business. Uh, we're headquartered, and for y'all's context, we're headquartered here in Newport News, Virginia, that's where I sit.
+
+00:08:34.000 --> 00:08:36.000
+Eric Severson: Please.
+
+00:08:46.000 --> 00:08:51.000
+Luke Tierney: We have offices in Portsmouth, Virginia, Kittery, Maine, Mobile, Alabama.
+
+00:08:51.000 --> 00:08:56.000
+Luke Tierney: Houston, Texas, uh, San Diego, California, and Bremerton, Washington.
+
+00:08:56.000 --> 00:09:08.000
+Luke Tierney: Um, you know, I don't know how much y'all know about the Tidewater, but, you know, the largest industry here, I would say, is shipbuilding and ship repair. It's very focused on supporting the Navy. It's kind of similar to Mobile in some ways.
+
+00:09:09.000 --> 00:09:18.000
+Luke Tierney: Um… so, we're always in that lane of being in the personnel business. Over time, our company has evolved, um…
+
+00:09:18.000 --> 00:09:33.000
+Luke Tierney: You know, we still do traditional contract staffing, but, you know, on one side, we've gotten more into actual contracting for the government, you know, functioning more as a labor subcontractor, we got a security clearance, we're actually working on government programs on the shipbuilding, ship repair side.
+
+00:09:33.000 --> 00:09:46.000
+Luke Tierney: Um, and then the service line that is sort of most relevant to our conversation today is that we've gotten into the training business, uh, specifically sort of a training-to-contract labor model that we pioneered.
+
+00:09:46.000 --> 00:10:00.000
+Luke Tierney: Uh, currently, we have our first program running with Austell U.S.A. and Mobile. Uh, we're partnered with the community college system, uh, Bishop State specifically. Uh, and CTR has its own facility as well that we're currently building out. The model is a paid.
+
+00:10:00.000 --> 00:10:06.000
+Luke Tierney: Training model, uh, very much focused on the exact skills that students would need for.
+
+00:10:06.000 --> 00:10:18.000
+Luke Tierney: Um, working at Austal as Shipfitters. Uh, we're in discussions with Ingalls Shipbuilding, uh, Newport News Shipbuilding, you know, we're trying to grow this model in other parts of the country and in other industries.
+
+00:10:18.000 --> 00:10:26.000
+Luke Tierney: Um, we were connected with CSU through Signal Mutual, that's our insurance mutual. I know y'all already have a partnership with them for maritime safety.
+
+00:10:26.000 --> 00:10:34.000
+Luke Tierney: And, you know, Eric, Tony, and I have been having a lot of discussions over the last few months about other ways that CTR and CSU could work together.
+
+00:10:34.000 --> 00:10:45.000
+Luke Tierney: Um, and that, I think, is sort of what led to the document, Eric, that you circulated about kind of a long-term vision for what a partnership could look like between our two orgs. So I just talked a lot.
+
+00:10:45.000 --> 00:10:49.000
+Luke Tierney: I hope that wasn't too much information. Happy to answer any questions.
+
+00:10:50.000 --> 00:10:54.000
+Eric Severson: I think if… Misti, if you've got a, um…
+
+00:10:55.000 --> 00:10:59.000
+Eric Severson: A preference on how to proceed, please feel free to, you know.
+
+00:10:59.000 --> 00:11:04.000
+Eric Severson: proceed. I was just gonna ask Luke to speak, just for a second, to the…
+
+00:11:04.000 --> 00:11:11.000
+Eric Severson: demand that you're seeing and why this whole, I'm now calling it, uh.
+
+00:11:12.000 --> 00:11:17.000
+Eric Severson: Recruit, train, deploy model is developed in the first place.
+
+00:11:17.000 --> 00:11:30.000
+Luke Tierney: Yeah, yeah, that's good context. Um, you know, I think that, and I'm sure y'all are aware, being in the educational space, that there's a really significant shortage of skilled tradespeople in the United States. Um, you know, Eric, I know, given your background, you're very aware of this.
+
+00:11:31.000 --> 00:11:41.000
+Luke Tierney: Um, and it's, you know, there are a lot of reasons for it. I mean, there's overall a labor shortage, we have an aging population, but the situation in trades is really pretty acute.
+
+00:11:42.000 --> 00:11:50.000
+Luke Tierney: Um, you know, a lot of the pipelines and pathways that used to exist for people to get Skilled Trades jobs don't anymore, or…
+
+00:11:51.000 --> 00:12:02.000
+Luke Tierney: you know, from our standpoint, they're not… they're outdated models, right? The traditional model of someone paying a community college or a for-profit trade school to get a certification, a trade skill.
+
+00:12:03.000 --> 00:12:09.000
+Luke Tierney: Is less affordable now than it was previously, and in many cases, it doesn't guarantee someone employment.
+
+00:12:09.000 --> 00:12:15.000
+Luke Tierney: Um, it made a lot of sense, I think, when there was a large surplus of labor and candidates had to compete.
+
+00:12:15.000 --> 00:12:20.000
+Luke Tierney: To get jobs, make themselves as appealing as possible to employers, but that's just not the reality now.
+
+00:12:20.000 --> 00:12:25.000
+Luke Tierney: The candidate and the student actually has more leverage because of these structural, uh…
+
+00:12:25.000 --> 00:12:31.000
+Luke Tierney: forces. Um, and we have a lot of data and materials to talk about this, um…
+
+00:12:32.000 --> 00:12:36.000
+Luke Tierney: But what I would flag, um…
+
+00:12:36.000 --> 00:12:46.000
+Luke Tierney: To… specifically to shipbuilding and ship repair is that the situation is actually worse than in other parts of the economy from a labor shortage standpoint, and there are a couple of reasons for it.
+
+00:12:46.000 --> 00:12:54.000
+Luke Tierney: Um, one is that the shipyards were very reliant on the military for training their workforce for a long time.
+
+00:12:54.000 --> 00:13:02.000
+Luke Tierney: You know, they under-invested in their own training programs because they could take people directly out of the military who'd already been trained by the government.
+
+00:13:03.000 --> 00:13:10.000
+Luke Tierney: Uh, you know, back in the 80s and 90s, really up until the early 90s, the government still did a lot of its own repair work.
+
+00:13:10.000 --> 00:13:26.000
+Luke Tierney: Uh, they phased out new construction of vessels in the 60s, but there was still a lot of complex repair and overhaul, so folks that were being trained by the military could pretty much plug and play in private shipyards. It was… the skill sets were very similar.
+
+00:13:26.000 --> 00:13:31.000
+Luke Tierney: Uh, the vessels were not as complex as the ones we're working on today, so the skills required weren't as, you know.
+
+00:13:31.000 --> 00:13:36.000
+Luke Tierney: there's a little bit more of that. Two apprentices equals a journeyman. If people…
+
+00:13:36.000 --> 00:13:49.000
+Luke Tierney: sort of have relevant skills, we can plug them in, they'll learn on the job. That's… you can't really do that anymore, because the government has ratcheted up QA standards, and also just that the military doesn't do nearly as much work on its own vessels anymore, so people coming out of the military cannot just.
+
+00:13:49.000 --> 00:13:52.000
+Luke Tierney: typically slide into shipyards easily. Um…
+
+00:13:53.000 --> 00:14:04.000
+Luke Tierney: union pipelines for training people have dried up a lot, uh, they're just not doing it in the same way that they used to. Shipyard unions have gotten a lot weaker, there are a lot of… that's true in other parts of the economy, too.
+
+00:14:04.000 --> 00:14:09.000
+Luke Tierney: And then I think the other one is that shipyard work is difficult, um, it's physically demanding.
+
+00:14:10.000 --> 00:14:16.000
+Luke Tierney: You know, compared to other parts of the economy, it's… it's not always the most attractive job to people.
+
+00:14:16.000 --> 00:14:22.000
+Luke Tierney: And until recently, the wages probably were not commensurate with what they should be. Now.
+
+00:14:22.000 --> 00:14:28.000
+Luke Tierney: the wages for shipyard workers have gone up a lot, like, over the last 10 years. Like, we're talking about.
+
+00:14:28.000 --> 00:14:34.000
+Luke Tierney: probably 40-50% increases over the last 10 years in wages. The president has just increased them even more.
+
+00:14:34.000 --> 00:14:46.000
+Luke Tierney: At various private shipyards. So it's becoming… it's flipping, it's becoming something that's more appealing to people. And shipyards are investing money in becoming better working environments, becoming safer. This is a big thing with Signal. Shipyards used to be very dangerous.
+
+00:14:46.000 --> 00:14:51.000
+Luke Tierney: Um… and, yeah, the last thing I'll say is relevant to that, too, is that.
+
+00:14:52.000 --> 00:14:59.000
+Luke Tierney: For better or worse, shipyard work, unlike some other trade categories, is very, very difficult for people to do after they get past a certain age.
+
+00:14:59.000 --> 00:15:05.000
+Luke Tierney: It's very hard, it's very… it's not like working in some other manufacturing environments.
+
+00:15:05.000 --> 00:15:16.000
+Luke Tierney: you know, where you can safely and comfortably do the job, you know, later into life. I mean, really, it's tough. You know, there are roles for older workers in shipyards, but it's difficult.
+
+00:15:17.000 --> 00:15:26.000
+Luke Tierney: Um, I would say after… really, once you get into your 60s, it's pretty hard to climb… because you have to get into confined spaces and climb ladders, there's a lot of, sort of.
+
+00:15:27.000 --> 00:15:31.000
+Luke Tierney: physical… physical demanding… physically demanding aspects of the job. So, for that reason.
+
+00:15:32.000 --> 00:15:36.000
+Luke Tierney: And then, the most important recent thing I would say.
+
+00:15:36.000 --> 00:15:49.000
+Luke Tierney: is… I'm sure y'all have seen, the government is putting a lot of money into shipyards. There's a lot of pressure right now to increase U.S. shipbuilding capacity. Trump has made it a huge priority. It was a priority under Biden as well, though.
+
+00:15:49.000 --> 00:15:58.000
+Luke Tierney: Um, and it's becoming really intense. I mean, the Navy is forecasting that we need 250,000 additional people to enter the shipyards in the next 10 years.
+
+00:15:58.000 --> 00:16:05.000
+Luke Tierney: Uh, that number could go up even more as the Navy looks up, looks at more programs. Also, those numbers don't include commercial.
+
+00:16:05.000 --> 00:16:13.000
+Luke Tierney: shipbuilding efforts in the U.S. The Koreans have said that Hanwha and various Korean companies want to turn the US into a hub for commercial shipbuilding.
+
+00:16:13.000 --> 00:16:23.000
+Luke Tierney: does not include Department of Homeland Security-related work, which could easily be another 50,000 people that have to go into shipyards, and it doesn't even include the broader supply base.
+
+00:16:23.000 --> 00:16:29.000
+Luke Tierney: Right? So we're talking about a huge need for skilled workers, young skilled workers, younger skilled workers.
+
+00:16:29.000 --> 00:16:36.000
+Luke Tierney: That current pipelines to meet these sorts of numbers just aren't sufficient. Like, there aren't enough.
+
+00:16:36.000 --> 00:16:47.000
+Luke Tierney: The shipyards don't have the capacity or infrastructure to train enough people to meet these needs. They probably won't be able to get there on their own, just because it's capital intensive and expensive.
+
+00:16:47.000 --> 00:16:55.000
+Luke Tierney: And a lot of community college programs that currently exist are not well aligned to what shipyards actually need, and there are a lot of structural reasons for that.
+
+00:16:55.000 --> 00:17:05.000
+Luke Tierney: Um, so that's why we've developed our model as a way to… our model was started with a problem, and we developed a solution that we thought would be most efficient and most cost-effective around the problem.
+
+00:17:06.000 --> 00:17:12.000
+Eric Severson: So, I'd love to add a couple of color comments to this, Luke, and then ask you to describe.
+
+00:17:12.000 --> 00:17:20.000
+Eric Severson: The model that you have in place now, and then how you would envision our partnership carrying that forward.
+
+00:17:20.000 --> 00:17:27.000
+Eric Severson: Uh, so, one of the reasons that I'm so excited about the Skilled Trades opportunity for CSU.
+
+00:17:27.000 --> 00:17:32.000
+Eric Severson: Is there is a small new incremental revenue opportunity in the short-term training piece.
+
+00:17:32.000 --> 00:17:43.000
+Eric Severson: Uh, and certainly professionalizing the content in that has great merit. Uh, prior to joining CSU, I spent 5 years as the head of admissions for a fairly large.
+
+00:17:43.000 --> 00:17:50.000
+Eric Severson: trade school, Universal Technical Institute, and they, uh, we there at that, at that time, and still.
+
+00:17:50.000 --> 00:18:00.000
+Eric Severson: worked across a number of different trades. And the… the reality is that your labor-to-leader pathway is critical because.
+
+00:18:00.000 --> 00:18:06.000
+Eric Severson: For most tradespeople, they realize at about the year 5 or 10 mark.
+
+00:18:06.000 --> 00:18:15.000
+Eric Severson: that their body can't do it. And it's not just shipworkers, it's welders of all types, it's diesel, automotive.
+
+00:18:15.000 --> 00:18:25.000
+Eric Severson: Uh, even things like a wind turbine technician, where you have to climb 250 feet in the air to get to your workspace, right? There's… there's a limit on what…
+
+00:18:25.000 --> 00:18:35.000
+Eric Severson: physically you can do, which creates a natural pathway to degree attainment, and seeking. We already see evidence of that in OSH, I know you guys know that, coming and going.
+
+00:18:35.000 --> 00:18:45.000
+Eric Severson: But the part that I thought was very exciting about Skilled Trades in general is that there's this huge supply and demand imbalance, and that it's a natural place for us to.
+
+00:18:45.000 --> 00:18:52.000
+Eric Severson: To begin to build a greater presence with employers and the cohorts of people going through this, because there is an absolute.
+
+00:18:52.000 --> 00:19:00.000
+Eric Severson: Awareness that down the road, that labor-to-leader pathway is important to people for longevity.
+
+00:19:01.000 --> 00:19:10.000
+Eric Severson: So, all those things seem super exciting. So… so, Luke, could you just give us a quick description of how your training is working today, and then how you see us.
+
+00:19:11.000 --> 00:19:14.000
+Eric Severson: Uh, uh, fitting in, uh, in the future.
+
+00:19:14.000 --> 00:19:21.000
+Luke Tierney: Absolutely. I would also just flag on your point about labor to leader, I think shipbuilding is a uniquely well-situated industry for this.
+
+00:19:21.000 --> 00:19:31.000
+Luke Tierney: I mean, I think other types of manufacturing can as well, because shipbuilding is very specific, right? I mean, I always say that it's something between a construction site and a manufacturing environment.
+
+00:19:31.000 --> 00:19:39.000
+Luke Tierney: So, you know, you can't really, like, plug and play someone who's run an automotive manufacturing plant.
+
+00:19:39.000 --> 00:19:47.000
+Luke Tierney: and then have them be a leader at a shipyard. Like, really, the most effective progression is going to be people that started out on the deck plate.
+
+00:19:42.000 --> 00:19:44.000
+Eric Severson: Right.
+
+00:19:47.000 --> 00:19:53.000
+Luke Tierney: So to speak, and then went and got higher education and are qualified for a more senior role.
+
+00:19:53.000 --> 00:19:59.000
+Luke Tierney: That would be probably the ideal future shipyard manager, executive, engineer.
+
+00:19:59.000 --> 00:20:04.000
+Luke Tierney: What have you, because they know… they have the background to know how this stuff is actually done.
+
+00:20:04.000 --> 00:20:15.000
+Luke Tierney: Um, as far as how our program is currently working, um, you know, basically, we in Austell are identifying people on the front end, we're putting them through pre-employment screening.
+
+00:20:15.000 --> 00:20:27.000
+Luke Tierney: Um, there are, you know, people that pass and are selected some aptitude testing on the front end as well, because, you know, it's a short training cycle, it's 10 weeks. We're right now focused on people that have some baseline. They've gone through a community college program.
+
+00:20:27.000 --> 00:20:33.000
+Luke Tierney: They've gone through AIDT, you know, which is state-funded training, but they're not yet able to actually.
+
+00:20:33.000 --> 00:20:39.000
+Luke Tierney: be a net value add for Austell, so we're trying to get them there, to that sort of second-class trades level.
+
+00:20:39.000 --> 00:20:43.000
+Luke Tierney: Where they can be helpful and productive for Astral on day one.
+
+00:20:43.000 --> 00:20:53.000
+Luke Tierney: But doing it as quickly and efficiently as possible. The instruction is currently taking place at Bishop State with a contractor that they've hired. Um, this guy who's a retired shipfitter.
+
+00:20:53.000 --> 00:21:03.000
+Luke Tierney: Uh, instructor. Um, the plan… currently, all 10 weeks are taking place at Bishop. You know, we're working on renovating our facility so that there will be a 6-week period where the student.
+
+00:21:03.000 --> 00:21:11.000
+Luke Tierney: is it Bishop? Then they take Austel's pre-employment test, and then there are 4 weeks of targeted instruction, which will hopefully happen at our facility.
+
+00:21:11.000 --> 00:21:16.000
+Luke Tierney: Um… from a curriculum standpoint, we are using the curriculum from the Navy.
+
+00:21:16.000 --> 00:21:20.000
+Luke Tierney: the MIB curriculum for ship fitting. Um…
+
+00:21:20.000 --> 00:21:27.000
+Luke Tierney: that's fine for what we're doing right now, and just one nuance to understand is that the folks that we're training for Austell right now.
+
+00:21:27.000 --> 00:21:34.000
+Luke Tierney: are actually working for Electric Boat. You know, because Austell has a contract with Electric Boat to build submarine modules.
+
+00:21:34.000 --> 00:21:40.000
+Luke Tierney: Um, and so these folks are actually working for EB at Austell. It's almost, they're like a tier… we're like…
+
+00:21:41.000 --> 00:21:46.000
+Luke Tierney: functioning as, like, a Tier 2 subcontractor under Austell, basically. Um…
+
+00:21:46.000 --> 00:21:52.000
+Luke Tierney: That's important because the curriculum that the Navy developed for shipfitters was essentially written by electric mode.
+
+00:21:52.000 --> 00:22:00.000
+Luke Tierney: So with that… and we've gotten this feedback from other shipyards, so it's fine for our current program, because they wrote the curriculum and they're the end user.
+
+00:22:00.000 --> 00:22:07.000
+Luke Tierney: Other shipyards don't want to use this curriculum. Like, Newport News has told us they don't want to use this curriculum. Ingalls, I'm…
+
+00:22:07.000 --> 00:22:12.000
+Luke Tierney: 100% confident won't want to use this curriculum, because the skills these folks need to know are different.
+
+00:22:12.000 --> 00:22:22.000
+Luke Tierney: even if they're in the same trade labor category, what it means to be a shipfitter at Austell and Ingalls is actually very different. They're very different jobs. They have different points of emphasis, they have different skills.
+
+00:22:23.000 --> 00:22:28.000
+Luke Tierney: When you're trying to train people quickly and efficiently, those small differences add up and they matter. Um…
+
+00:22:29.000 --> 00:22:35.000
+Luke Tierney: There are a lot of reasons for that, they just have different production processes, they're building different types of vessels, they have different levels of automation.
+
+00:22:35.000 --> 00:22:42.000
+Luke Tierney: Austell's a lot more automated than Ingalls, so there are certain manual skills that fitters at Ingalls need to have that they don't at Austell.
+
+00:22:42.000 --> 00:22:45.000
+Luke Tierney: Um… so…
+
+00:22:45.000 --> 00:22:52.000
+Luke Tierney: it's a 10-week program, that's kind of the instructional side, and then after, if the folks pass at the end of the program, they pass the B class.
+
+00:22:52.000 --> 00:22:58.000
+Luke Tierney: chip fitter test at Austell, they begin work as a CTR contract employee, and then they're on our books.
+
+00:22:58.000 --> 00:23:07.000
+Luke Tierney: it's not… that part's not really any different from traditional contract labor. They're our employee, we're paying them, we're handling their benefits, all of that, we're billing Austal hourly for it.
+
+00:23:07.000 --> 00:23:13.000
+Luke Tierney: Uh, Austin has the option to bring these folks on direct after a year for no additional charge, um…
+
+00:23:13.000 --> 00:23:19.000
+Luke Tierney: It's at their discretion. It's kind of between them and the employee, if they want to do that. Um, some…
+
+00:23:19.000 --> 00:23:26.000
+Luke Tierney: Austell's kind of signaled to us that they're fine with keeping these folks on contract for longer. Other shipyards are probably going to be more interested in.
+
+00:23:26.000 --> 00:23:29.000
+Luke Tierney: A contract to permanent pathway.
+
+00:23:29.000 --> 00:23:35.000
+Luke Tierney: again, that's… those sorts of details will have to be… kind of like the curriculum will have to be worked out on a client-to-client level, I think.
+
+00:23:36.000 --> 00:23:37.000
+Luke Tierney: Um…
+
+00:23:37.000 --> 00:23:42.000
+Eric Severson: So, can you describe the learning environment that, uh, you're taking, uh.
+
+00:23:42.000 --> 00:23:47.000
+Eric Severson: These… I don't know if you call them students or employees, through trainings.
+
+00:23:45.000 --> 00:23:50.000
+Luke Tierney: Trainees. They are employees, but they're also students, right? It's kind of…
+
+00:23:49.000 --> 00:23:58.000
+Eric Severson: Yeah, yeah. Can you describe the learning environment that they're in today, and then what you're picturing the interaction to be with CSU?
+
+00:23:59.000 --> 00:24:05.000
+Luke Tierney: Yeah, so right now, it's a… it's… and I think that there will always be a component of this that is classroom.
+
+00:24:05.000 --> 00:24:14.000
+Luke Tierney: or, you know, kind of knowledge-based, and then there's going to be a hands-on skills-based component. And I would say for our current cohorts, it's about 50-50.
+
+00:24:14.000 --> 00:24:23.000
+Luke Tierney: I mean, during the four-week period for the reinforcement training, it's much more heavy on the skill side, because the idea is that folks already have the knowledge, or should already have the knowledge.
+
+00:24:20.000 --> 00:24:22.000
+Eric Severson: Correct.
+
+00:24:23.000 --> 00:24:27.000
+Luke Tierney: Um, and you know, I mean, I think that…
+
+00:24:27.000 --> 00:24:38.000
+Luke Tierney: So the skills side, you know, there's not that… I don't see CSU unless y'all have products that I'm not aware of, being that involved in that part, because that's just something that has to be done.
+
+00:24:38.000 --> 00:24:47.000
+Luke Tierney: at a facility, right? Whether, like, at our welding facility or at a community college that has the welding machines and the cutting tables and all of that fun stuff already in place.
+
+00:24:47.000 --> 00:24:57.000
+Luke Tierney: Um, the classroom side, though, the way that's currently being done is pretty old school and pretty low-tech. It's basically someone has a smart board, or…
+
+00:24:58.000 --> 00:25:04.000
+Luke Tierney: like, a TV monitor, there's a PowerPoint, maybe there's some printouts with some handouts on it.
+
+00:25:05.000 --> 00:25:09.000
+Luke Tierney: you know, they go through a lesson, people ask questions, it's not…
+
+00:25:09.000 --> 00:25:11.000
+Luke Tierney: Particularly.
+
+00:25:09.000 --> 00:25:14.000
+Eric Severson: And are you doing this in a hotel room? Where's the physical classroom located today?
+
+00:25:13.000 --> 00:25:19.000
+Luke Tierney: classroom at the community college. And then we have… we have classroom space at our…
+
+00:25:15.000 --> 00:25:17.000
+Eric Severson: Oh, it is.
+
+00:25:19.000 --> 00:25:25.000
+Luke Tierney: facility, like an old onboarding area that we're just gonna install, like, a smart board or TV in.
+
+00:25:26.000 --> 00:25:35.000
+Luke Tierney: Um, I mean, the place that I could see CSU participating or being involved, I think kind of Eric onlines what we've talked about, is that classroom instructional piece.
+
+00:25:35.000 --> 00:25:41.000
+Luke Tierney: I know we've talked about some other things, like we could do some online pre-training to try to give folks a knowledge base prior.
+
+00:25:41.000 --> 00:25:46.000
+Luke Tierney: to the beginning of training, you know, so I think that that's the side of things where.
+
+00:25:46.000 --> 00:25:49.000
+Luke Tierney: You know, if we could make…
+
+00:25:50.000 --> 00:25:56.000
+Luke Tierney: Because, you know, the key for us is we want to make this… the training as engaging as possible for the students.
+
+00:25:56.000 --> 00:26:03.000
+Luke Tierney: and as efficient as possible. So if there are ways that we could leverage online delivery to.
+
+00:26:04.000 --> 00:26:14.000
+Luke Tierney: better… you know, to help students with better retention. Like, for example, I don't know what kind of assessments are currently… I don't even know what kind of assessments are currently being done. If they are, they're, like, just…
+
+00:26:14.000 --> 00:26:19.000
+Luke Tierney: it's gonna be like a pop quiz the instructor writes up, right? It's not really a standardized…
+
+00:26:19.000 --> 00:26:23.000
+Luke Tierney: Again, it's been at a small scale right now, so it's worked okay, but…
+
+00:26:23.000 --> 00:26:35.000
+Luke Tierney: you know, as we… I think that's a key thing, right? That, you know, if there's a way that we could have more students in the classes, and they learn better, essentially, to sort of TLDR it.
+
+00:26:35.000 --> 00:26:42.000
+Luke Tierney: then that… that would be good. Um, I'm also a big believer, I think the knowledge side.
+
+00:26:42.000 --> 00:26:51.000
+Luke Tierney: and this is one philosophical difference I will flag. I think the knowledge side is really, really important. I mean, people tend to focus more on the skills side.
+
+00:26:51.000 --> 00:26:56.000
+Luke Tierney: Just because they're like, well, this is, you know, they need to be able to plug and start working at the shipyard right away.
+
+00:26:56.000 --> 00:27:02.000
+Luke Tierney: I think with advancements in technology, the knowledge side is going to be more important, because students are going to have to.
+
+00:27:02.000 --> 00:27:09.000
+Luke Tierney: The students that adapt to higher levels of automation are going to be the people that understand the trade, and so they see, like, okay.
+
+00:27:10.000 --> 00:27:17.000
+Luke Tierney: you know, maybe I'm not the best… if I understand what it… like, what I'm doing with cutting this metal, how the chemistry works, how the…
+
+00:27:17.000 --> 00:27:23.000
+Luke Tierney: physics work, that I can work better with a robot that's gonna be doing this in 5 years, right?
+
+00:27:23.000 --> 00:27:25.000
+Luke Tierney: Um…
+
+00:27:26.000 --> 00:27:29.000
+Luke Tierney: So… did that answer your question?
+
+00:27:29.000 --> 00:27:38.000
+Eric Severson: I think that's a great context. Why don't we just pause and hear from our academic partners, and if you guys… Misti, if you want to take over, that's totally fine from here as well.
+
+00:27:39.000 --> 00:27:46.000
+Misti Kill: Um, so thank you for all of that, that was really incredibly helpful. Um, so I do have a couple of questions.
+
+00:27:46.000 --> 00:27:58.000
+Misti Kill: what is your actual agreement look like right now with Bishop State? Because we also have partnerships with Bishop, and I always want to be sure that we're careful about those types of things, so what does that kind of look like?
+
+00:27:59.000 --> 00:28:04.000
+Luke Tierney: So, yeah, that's a great question, and it's actually something that's being, uh…
+
+00:28:04.000 --> 00:28:08.000
+Luke Tierney: revisited right now. Um, so…
+
+00:28:08.000 --> 00:28:14.000
+Luke Tierney: For the first year of the program, and this is an important… and I think under… we're all under, um…
+
+00:28:15.000 --> 00:28:19.000
+Luke Tierney: We have a non-disclosure, right, Eric, as part of the learning partnership?
+
+00:28:20.000 --> 00:28:24.000
+Luke Tierney: I think… I think… I think we have a confidentiality agreement, right?
+
+00:28:23.000 --> 00:28:30.000
+Eric Severson: Uh, yeah, that's a great question. I don't think that there's an NDA component to our MOU.
+
+00:28:30.000 --> 00:28:32.000
+Eric Severson: Luke, if that's what you're asking.
+
+00:28:31.000 --> 00:28:36.000
+Luke Tierney: Well, alright, well, I… can I just say that, like, this is confidential, because it is an ongoing…
+
+00:28:36.000 --> 00:28:38.000
+Luke Tierney: Contract negotiation.
+
+00:28:36.000 --> 00:28:42.000
+Eric Severson: We'll take it as an informal NDA, and if, Luke, if you need to send us one afterwards, we're fine with that, too, I'm sure.
+
+00:28:38.000 --> 00:28:40.000
+Luke Tierney: Yeah, let us know anyway.
+
+00:28:42.000 --> 00:28:47.000
+Luke Tierney: Okay, I mean, I trust y'all, and it's not, I mean, you know… okay, so…
+
+00:28:47.000 --> 00:28:51.000
+Luke Tierney: This current situation with Bishop is that…
+
+00:28:52.000 --> 00:29:03.000
+Luke Tierney: They were given a grant by the state of Alabama to cover the first year of the program's operation. So they were doing the first 6 weeks of training for free. We were paying the instructor's salaries.
+
+00:29:03.000 --> 00:29:09.000
+Luke Tierney: And paying them some rent, like $1,000 a week for the 4 weeks, to help cover some of the material costs.
+
+00:29:10.000 --> 00:29:17.000
+Luke Tierney: The problem is that grant is going to run out from the state of Alabama, and also Bishop, I think correctly feels that.
+
+00:29:17.000 --> 00:29:23.000
+Luke Tierney: You know, okay, we take… we're not… because the grant covered the cost, but they weren't making any money on it.
+
+00:29:23.000 --> 00:29:32.000
+Luke Tierney: Which, obviously, they're not a for-profit institution, but they have overhead that needs to be covered. So, they are trying to revisit that.
+
+00:29:32.000 --> 00:29:36.000
+Luke Tierney: Basically, with the logic being that someone needs to actually pay for the training.
+
+00:29:37.000 --> 00:29:42.000
+Luke Tierney: as a comp… so they proposed that we would pay 50%. As a separate…
+
+00:29:42.000 --> 00:29:58.000
+Luke Tierney: Now, the agreement that we had for them to very specifically answer your question, Misti, was basically like a rental agreement, right? Like, we were just renting the space from them for the 4 weeks, and then the 6 weeks, I don't really think we even had a contract with them. They were just delivering the instruction for free.
+
+00:29:59.000 --> 00:30:04.000
+Luke Tierney: We're going to have to have a contract with them moving forward, obviously, if we're paying them for the instruction.
+
+00:30:04.000 --> 00:30:06.000
+Luke Tierney: For the instructional piece.
+
+00:30:06.000 --> 00:30:08.000
+Luke Tierney: Um…
+
+00:30:08.000 --> 00:30:11.000
+Luke Tierney: Again, exactly what that's gonna look like…
+
+00:30:11.000 --> 00:30:22.000
+Luke Tierney: is… is… it's not clear. One thing that we are trying to get from them is that if we're going to pay for training, we want to have exclusivity at your facility.
+
+00:30:22.000 --> 00:30:28.000
+Luke Tierney: So no other… so no other… we want to be the only company that can do maritime training at Bishop.
+
+00:30:28.000 --> 00:30:33.000
+Luke Tierney: Part of that is also that Austell is trying to get other staffing companies to do different trade sets.
+
+00:30:34.000 --> 00:30:36.000
+Luke Tierney: So, we want to stop that.
+
+00:30:37.000 --> 00:30:47.000
+Luke Tierney: again, this is part of why this is a confidential, uh, conversation, and I mean, I'm not trying to be unfair, we're not trying to tell Austal who they can use, but our feeling is, like.
+
+00:30:47.000 --> 00:30:54.000
+Luke Tierney: Bishop State is our… is… if we're going to have to pay them to use their facility.
+
+00:30:54.000 --> 00:30:57.000
+Luke Tierney: Then, it's necessary…
+
+00:30:57.000 --> 00:31:00.000
+Luke Tierney: For us to…
+
+00:31:00.000 --> 00:31:04.000
+Luke Tierney: you know, to get something out of that, right? Like, you know…
+
+00:31:04.000 --> 00:31:09.000
+Luke Tierney: So, I think as far as where CSU could fit in.
+
+00:31:09.000 --> 00:31:13.000
+Luke Tierney: I mean, it's probably good that we're having this conversation now. I mean, maybe we could…
+
+00:31:15.000 --> 00:31:19.000
+Luke Tierney: Uh, I guess the… yeah, I mean, I guess the question is…
+
+00:31:19.000 --> 00:31:34.000
+Luke Tierney: do you think, and I guess, obviously, this is part of what we're talking about, is timeline, right? Because, I mean, I can sign a one-year contract with Bishop, basically where it's the status quo, where they're doing the instruction, and then later go to them and say, actually, we want CSU to do the instruction.
+
+00:31:34.000 --> 00:31:40.000
+Luke Tierney: Uh, therefore, we want to pay you less, because we're basically just using your facility. To be honest with you.
+
+00:31:40.000 --> 00:31:46.000
+Luke Tierney: Bishop's main priority is that they want people trained, and they want their facilities utilized, and they.
+
+00:31:46.000 --> 00:31:52.000
+Luke Tierney: And they want someone to pay for it. That's their big thing, that no one wants to pay for the instruction.
+
+00:31:52.000 --> 00:31:58.000
+Luke Tierney: Which is why CTR is having to step up as the underwriter for the program, basically, because Austell won't do it.
+
+00:31:58.000 --> 00:32:10.000
+Luke Tierney: I mean, that's… they feel that they're paying for the student wages during training, so they shouldn't have to pay for the training cost. So they want this, like, us to pay for that, which is not unreasonable, but we want exclusivity.
+
+00:32:10.000 --> 00:32:16.000
+Luke Tierney: So, sorry, that was a long answer to a fairly straightforward question, but the answer…
+
+00:32:14.000 --> 00:32:30.000
+Misti Kill: No, I get it. I absolutely get it. There are a lot of dynamics to something like this, and I think, I'm sure after you've spoken with Tony and Eric so much, like, we're very ethical at CSU, so yes, please know that we'll keep it 100% confidential.
+
+00:32:16.000 --> 00:32:18.000
+Luke Tierney: Is that…
+
+00:32:30.000 --> 00:32:42.000
+Misti Kill: But in that same regard, I don't want to be seen as swooping in and taking something from a local HBCU community college, because that is a very bad look.
+
+00:32:42.000 --> 00:32:50.000
+Misti Kill: So, I just want to be really sure that everything is out and open and everyone knows what's happening here, you know?
+
+00:32:50.000 --> 00:32:53.000
+Luke Tierney: No, absolutely, but I don't think that…
+
+00:32:53.000 --> 00:33:02.000
+Luke Tierney: So, I don't think, though, that Bishop… I mean, I haven't spoken to them about this topic at great length, but they've shown a lot of flexibility. Like, for example.
+
+00:33:03.000 --> 00:33:08.000
+Luke Tierney: here's a contrast. Austell's trying to run a pilot right now with Coastal.
+
+00:33:08.000 --> 00:33:20.000
+Luke Tierney: Coastal's refusing to work with… not refusing to work with them, but it's not playing ball. Like, they're insisting that the instructor be faculty, they're not letting them set the hours. Bishop is pretty much letting us do what we want on some of that stuff.
+
+00:33:20.000 --> 00:33:29.000
+Luke Tierney: Like, for example, the instructor isn't actually a Bishop employee. He's a 1099 contractor. There are a lot of reasons for that. We wanted to get around, uh, the state of Alabama's.
+
+00:33:29.000 --> 00:33:39.000
+Luke Tierney: hiring requirements, the pay bans that they set people with. Um, that's another reason why a lot of community colleges struggle to do trades training well, because they can't actually pay competitive wages.
+
+00:33:39.000 --> 00:33:47.000
+Luke Tierney: Because it's set by the state, right? Like, you're a government employee, which is often not that good compared to the private sector, so you can't get good instructors.
+
+00:33:48.000 --> 00:33:52.000
+Luke Tierney: Um… I think that the way it would work…
+
+00:33:52.000 --> 00:34:00.000
+Luke Tierney: Um, Misti, and I agree with you. I mean, Bishop has the facility, which is really necessary, and they've gotten a lot of money from the government to build out their facility.
+
+00:34:01.000 --> 00:34:06.000
+Luke Tierney: but I don't know how tethered they are, and I think we would all have to have a conversation with them.
+
+00:34:06.000 --> 00:34:16.000
+Luke Tierney: like, I don't know if they would have a problem if CSU came in as an additional partner to take some responsibility or be involved in the instruction. Like, I don't…
+
+00:34:16.000 --> 00:34:20.000
+Luke Tierney: I mean, I don't know why that would be… I mean, because I don't think Bishop is…
+
+00:34:20.000 --> 00:34:25.000
+Luke Tierney: Is committed, or is determined.
+
+00:34:26.000 --> 00:34:29.000
+Luke Tierney: From my experience with them, to…
+
+00:34:30.000 --> 00:34:40.000
+Luke Tierney: you know, I mean, if they were really trying to maintain control of the process, they wouldn't want to work with us at all, right? They would prefer to just deal directly with Austell. The issue is that Austell won't pay for the training.
+
+00:34:40.000 --> 00:34:50.000
+Luke Tierney: They're more willing to pay for certain wages. So, I think it would have to be a conversation. I see what's delicate, why it's delicate, but I don't… I… we have a really good relationship with them. They really like us.
+
+00:34:50.000 --> 00:34:55.000
+Luke Tierney: Uh, in part because we're offering to underwrite all of their training, right? Which, for them is huge, because.
+
+00:34:55.000 --> 00:34:58.000
+Luke Tierney: They have all these facilities, but…
+
+00:34:58.000 --> 00:35:01.000
+Luke Tierney: They know that they can't fill them.
+
+00:35:01.000 --> 00:35:06.000
+Luke Tierney: with a traditional tuition model, right? Like, they… they can't… I mean, they've gotten, like.
+
+00:35:07.000 --> 00:35:16.000
+Luke Tierney: millions of dollars from the Navy. They have a ton of space, they have all these welding machines, but they're… like, when we started working with them, their capacity utilization was only 30%.
+
+00:35:17.000 --> 00:35:23.000
+Luke Tierney: Which, for welding machines, is, like, they had, like, 100 welding booths, most of which were not even in service.
+
+00:35:23.000 --> 00:35:25.000
+Eric Severson: Well, that's expensive, yep.
+
+00:35:23.000 --> 00:35:25.000
+Luke Tierney: Um…
+
+00:35:25.000 --> 00:35:35.000
+Luke Tierney: Well, it's very… well, but the thing is, they got grants from the government, so… because one of the dynamics here, too, I'm just throwing so much information, but it's obviously a very complicated and multi-stakeholder thing.
+
+00:35:35.000 --> 00:35:40.000
+Luke Tierney: The Navy doesn't want to pay for programs. They want to pay for equipment.
+
+00:35:40.000 --> 00:35:47.000
+Luke Tierney: So, they're willing to give the colleges money to build facilities and get equipment, but they don't want to subsidize training directly.
+
+00:35:47.000 --> 00:36:00.000
+Luke Tierney: Because their feeling is that if they're paying for a program, it's not really sustainable long-term. They're worried that, like, their budget will get cut at some point in the future for workforce dev, and then you'll have all these programs that are dependent on Navy money that can't stand on their own.
+
+00:36:01.000 --> 00:36:06.000
+Luke Tierney: They want state funding. We are getting state funding from SWAPT from the state of Alabama.
+
+00:36:06.000 --> 00:36:11.000
+Luke Tierney: to cover some of our costs, it's very important. Uh, WIOA funding.
+
+00:36:11.000 --> 00:36:12.000
+Luke Tierney: Um…
+
+00:36:13.000 --> 00:36:29.000
+Luke Tierney: So… yeah, that's another thing, too, where Bishop needs someone to pay the ongoing program administration costs. And then, the other thing, too, is that they don't want to be completely dependent on Austal. That's another dynamic as well. They want to support the entire maritime ecosystem in the area.
+
+00:36:29.000 --> 00:36:34.000
+Luke Tierney: Um… so I think they would be open, again, I mean, given that.
+
+00:36:35.000 --> 00:36:43.000
+Luke Tierney: these courses are not part of their accredited program, right? I don't even think they're part of a certificate program. It's basically contract ed.
+
+00:36:43.000 --> 00:36:47.000
+Luke Tierney: So, I would think that if CTR.
+
+00:36:47.000 --> 00:36:56.000
+Luke Tierney: I mean, if we're paying for the program, and we say, we want to use CSU for content delivery, I don't know why Bishop would have a problem with that, is my opinion, but…
+
+00:36:55.000 --> 00:37:01.000
+Eric Severson: And I kind of wonder if there's not an opportunity to figure out a bishop win in this whole thing. So, uh…
+
+00:37:01.000 --> 00:37:07.000
+Eric Severson: By extending the partnership to a nationally present, because the online present.
+
+00:37:08.000 --> 00:37:09.000
+Eric Severson: Group.
+
+00:37:10.000 --> 00:37:19.000
+Eric Severson: I mean, and again, I'm just spitballing, so if this is silly, you know, feel free to shoot it down, but is there a possibility that, through the partnership.
+
+00:37:19.000 --> 00:37:31.000
+Eric Severson: it enables more students to be involved in this that do ultimately need to show up at Bishop for the… if we're talking about Bishop does the on-ground skills validation skills piece.
+
+00:37:31.000 --> 00:37:37.000
+Eric Severson: And your online partner, CSU does all of the, you know, classroom instruction online.
+
+00:37:37.000 --> 00:37:45.000
+Eric Severson: portion. Is there a story that says this partnership will enhance or increase the number of students that we can get through that pipe.
+
+00:37:46.000 --> 00:37:53.000
+Eric Severson: Ultimately, that will need to go through an abbreviated, but there's no escaping the need for the skills validation that are on campus.
+
+00:37:53.000 --> 00:37:57.000
+Eric Severson: At… at Bishop. Is that…
+
+00:37:56.000 --> 00:38:03.000
+Luke Tierney: Yeah, I think that would make a lot of sense, and I mean, the other thing is, remember, they want to be able to say they have more throughput.
+
+00:38:03.000 --> 00:38:11.000
+Luke Tierney: I also think that for them, being able to go to the Navy and say, we've taken these steps to maximize the number of people that can come through this facility would be good.
+
+00:38:11.000 --> 00:38:13.000
+Luke Tierney: Um…
+
+00:38:13.000 --> 00:38:18.000
+Luke Tierney: And, I mean, again, you know, one of the advantages with them not being a for-profit institution is that.
+
+00:38:19.000 --> 00:38:28.000
+Luke Tierney: If CSU can lower their costs, right, that go into instruction, then that's just a win for them. It's not like they're… they're not worried about losing.
+
+00:38:29.000 --> 00:38:35.000
+Luke Tierney: I think… and I think it's not really a threat, right, Eric? Because, like, we're not trying to stand up.
+
+00:38:35.000 --> 00:38:41.000
+Luke Tierney: like, CSU isn't trying to stand up a trade school and take all of the… the…
+
+00:38:41.000 --> 00:38:47.000
+Luke Tierney: you know, take all of Bishop's market share, you're trying to basically make the program they already have running be more efficient.
+
+00:38:48.000 --> 00:38:50.000
+Luke Tierney: I think that's good for them.
+
+00:38:50.000 --> 00:38:52.000
+Luke Tierney: I mean…
+
+00:38:51.000 --> 00:39:01.000
+Eric Severson: I mean, it definitely is worth mulling over what's the win for Bishop, and if it's greater throughput on just the physical piece, I think that we could tell a story that enables that.
+
+00:39:01.000 --> 00:39:09.000
+Eric Severson: But to Misti's earlier point, you know, we are an education institution that is in favor of more education.
+
+00:39:09.000 --> 00:39:18.000
+Eric Severson: not a cutthroat competitor, and certainly not one that wants to get caught in a PR issue with an HBCU, right? That's definitely not where we want to be.
+
+00:39:19.000 --> 00:39:27.000
+Luke Tierney: Well, no, well, no, and CTR doesn't either. I mean, we, you know, I mean, we kind of are relying on Bishop for facilities, right? I mean…
+
+00:39:19.000 --> 00:39:21.000
+Misti Kill: Yeah.
+
+00:39:26.000 --> 00:39:28.000
+Eric Severson: Yeah.
+
+00:39:27.000 --> 00:39:29.000
+Luke Tierney: We don't, um…
+
+00:39:29.000 --> 00:39:34.000
+Luke Tierney: you know, and also, I will also just say, as relevant context, in addition to HBCU.
+
+00:39:34.000 --> 00:39:41.000
+Luke Tierney: Bishop is a big favorite of the Navy. Like, the Navy wants to give them a lot of money. They really want them to be, like, the…
+
+00:39:41.000 --> 00:39:48.000
+Luke Tierney: main training site for maritime Skilled Trades in the area. I think a lot of that is location.
+
+00:39:48.000 --> 00:39:55.000
+Luke Tierney: They're in, like, a very good location in Mobile. I mean, Coastal will get some money as well, but it is in Baldwin County, which I don't think is…
+
+00:39:56.000 --> 00:40:03.000
+Luke Tierney: as central. I also… I think Bishop is closer also. I think they also probably figure the student profile of Bishop is better for shipyard trades.
+
+00:40:03.000 --> 00:40:07.000
+Luke Tierney: Like, there are… you know, the folks living in Mobile.
+
+00:40:07.000 --> 00:40:15.000
+Luke Tierney: The bishop primarily serves are more likely to want to go into shipyards, then, you know, it's not as affluent a part of the city.
+
+00:40:15.000 --> 00:40:17.000
+Luke Tierney: It's, you know, the kind of place…
+
+00:40:16.000 --> 00:40:29.000
+Eric Severson: It probably makes sense, Luke, for us to get an audience, and by us, I'm not sure who is the best, Misti, I'm happy to do it. If there's anybody here that has a built-in relationship with people at.
+
+00:40:29.000 --> 00:40:42.000
+Eric Severson: the right people at Bishop. It seems like a joint meeting to describe what we're thinking about here makes sense to sort out. Is there going to be friction, and is that friction on the surface that we can address, or is that really.
+
+00:40:42.000 --> 00:40:47.000
+Eric Severson: Hey, we see this as a competitive threat move, and… and…
+
+00:40:47.000 --> 00:40:54.000
+Luke Tierney: The one thing I would ask, Eric, is, do you mind if we… if we just… I think that that's the right next step.
+
+00:40:47.000 --> 00:40:49.000
+Eric Severson: That's a bigger front.
+
+00:40:54.000 --> 00:40:58.000
+Luke Tierney: I'm wondering, though, if we should finalize our arrangement with them first.
+
+00:40:58.000 --> 00:41:01.000
+Luke Tierney: Just… do you think that that's…
+
+00:41:00.000 --> 00:41:10.000
+Misti Kill: I think that that's a good move, because then it just kind of keeps us on the outside of it, right? Like, what you choose to do with them is your business, obviously.
+
+00:41:10.000 --> 00:41:23.000
+Misti Kill: just so you know, I'm sure Eric and Tony have shared, we have the ability to handle all of that on in-course type training, and do it wherever the person lives.
+
+00:41:23.000 --> 00:41:28.000
+Misti Kill: And then if they need to come on site to Bishop for 4 weeks instead of 10 weeks.
+
+00:41:28.000 --> 00:41:33.000
+Misti Kill: they can do that, so it would be… I think it would probably broaden the… the…
+
+00:41:34.000 --> 00:41:42.000
+Misti Kill: the scope for who could actually go into this training to, like Eric said, get more people and all of that kind of stuff, because then they would only have to.
+
+00:41:42.000 --> 00:41:47.000
+Misti Kill: be at Bishop, or wherever you have your on-site stuff for 4 weeks instead of 10 weeks.
+
+00:41:47.000 --> 00:41:56.000
+Misti Kill: So, we have the ability to do that, we have the ability to work with whatever material you want, we can expand that material to… or…
+
+00:41:56.000 --> 00:42:04.000
+Misti Kill: or adjust it for the manufacturers, because you said that they all have kind of specific criteria that they would want them to be able to learn, we can do that.
+
+00:42:04.000 --> 00:42:06.000
+Misti Kill: Um, we can have…
+
+00:42:07.000 --> 00:42:12.000
+Misti Kill: our faculty, or your people, however, working through CE, to be able to.
+
+00:42:12.000 --> 00:42:22.000
+Misti Kill: to teach it. We can also auto-teach a lot of it as well, just depending on content and things like that. So we have the ability to do, I think, what you're wanting.
+
+00:42:22.000 --> 00:42:29.000
+Misti Kill: But yes, I do think it would make sense to… for your… your team to have that conversation with Bishop first.
+
+00:42:30.000 --> 00:42:37.000
+Luke Tierney: Yes. I mean, I'm just… again, I'm not trying to be selfish here, I just think that, like, I need to close this deal with them.
+
+00:42:37.000 --> 00:42:52.000
+Luke Tierney: and kind of lock us in. And then… it… I mean, I will also say, though, I don't think that means we should stop what we're trying to do, because it is also worth noting, I mean, Eric, we are looking at this in other markets, too, like in Virginia, where CTR doesn't already have.
+
+00:42:52.000 --> 00:42:57.000
+Luke Tierney: these relationships. Or San Diego, where we're talking to community colleges.
+
+00:42:57.000 --> 00:43:03.000
+Luke Tierney: They… I don't know how to put this. They really want to train people for shipyards, and they have no idea how to do it.
+
+00:43:04.000 --> 00:43:12.000
+Luke Tierney: It's a big… they've never done it before, they want to, but they have… they don't know how to get from point A to point B because they've never done it.
+
+00:43:12.000 --> 00:43:14.000
+Luke Tierney: That's, um…
+
+00:43:14.000 --> 00:43:19.000
+Luke Tierney: So, I think that the oper… like, I do think that…
+
+00:43:19.000 --> 00:43:27.000
+Luke Tierney: I mean, I will also say, I mean, if we were to have a contract with y'all for some online education, I mean, if there were a pre-training.
+
+00:43:27.000 --> 00:43:38.000
+Luke Tierney: section, I don't think that has anything to do with Bishop, right? I mean, even in, like, the worst-case scenario, where Bishop says, we don't want anything to do with CSU, we view them as a competitor, well, okay, CTR has a contract.
+
+00:43:38.000 --> 00:43:41.000
+Luke Tierney: For some pre…
+
+00:43:42.000 --> 00:43:49.000
+Luke Tierney: training program modules with y'all. Like, that's… I mean, that has nothing to do with… it's not taking anything away from them, it's just…
+
+00:43:49.000 --> 00:43:53.000
+Luke Tierney: better preparing the students for when they get to Bishop.
+
+00:43:53.000 --> 00:44:01.000
+Misti Kill: Or you could do, like, kind of almost a duel. I mean, whether it's with Bishop or whatever community college.
+
+00:43:53.000 --> 00:43:55.000
+Luke Tierney: Um…
+
+00:44:01.000 --> 00:44:06.000
+Misti Kill: you could have it… you could allow students to choose, right? So you could still…
+
+00:44:07.000 --> 00:44:18.000
+Misti Kill: do whatever Bishop is doing the way that they're normally doing it, but you can expand it to a wider audience, more nationwide, and say, hey, if you… if you want this type of training.
+
+00:44:18.000 --> 00:44:25.000
+Misti Kill: You can do it online for 6 weeks or whatever the time frame is, and then you'd have to go on site for a shorter time like you could do both.
+
+00:44:25.000 --> 00:44:30.000
+Misti Kill: If they are not interested in making adjustments, so…
+
+00:44:29.000 --> 00:44:33.000
+Luke Tierney: I also think post-graduation support is another one.
+
+00:44:33.000 --> 00:44:38.000
+Luke Tierney: Um, is another area where we could, um, you know, potentially.
+
+00:44:39.000 --> 00:44:45.000
+Luke Tierney: Uh, you know, where we could potentially… there could also be opportunities for us working together.
+
+00:44:46.000 --> 00:44:48.000
+Luke Tierney: Um…
+
+00:44:48.000 --> 00:44:50.000
+Luke Tierney: So, I think all of that…
+
+00:44:51.000 --> 00:44:53.000
+Luke Tierney: Makes sense. Um…
+
+00:44:53.000 --> 00:45:00.000
+Tony Atchley: Let me, uh, let me interject, uh, just circling back to, you know, what's the, what's the potential win for…
+
+00:45:00.000 --> 00:45:06.000
+Tony Atchley: Uh, Bishop, um, and Luke, to your point, with the Navy.
+
+00:45:06.000 --> 00:45:15.000
+Tony Atchley: really being in favor with Bishop. Um, you know, is there… is there an opportunity to model this.
+
+00:45:15.000 --> 00:45:28.000
+Tony Atchley: with Bishop, and then have them serve other community colleges in a consulting-type role with what they build out and what they perfect and develop here to be able to scale it.
+
+00:45:29.000 --> 00:45:31.000
+Tony Atchley: In… in other markets.
+
+00:45:31.000 --> 00:45:38.000
+Luke Tierney: No, I think so. I mean, I also think that that's something that the Alabama Community College Board, Tony, at the state level, would be very interested in.
+
+00:45:38.000 --> 00:45:40.000
+Tony Atchley: Yeah.
+
+00:45:39.000 --> 00:45:51.000
+Luke Tierney: Because, you know, Alabama is trying to position itself as a leader in advanced manufacturing, and specifically in their community college system is very aligned with that. I mean, I've met with Barry May, you know, the guy who's in charge of the workforce side.
+
+00:45:51.000 --> 00:45:57.000
+Luke Tierney: And they are all about manufacturing. Like, I think it's probably the sector that they care about the most.
+
+00:45:57.000 --> 00:46:04.000
+Luke Tierney: Um… I would also flag, and I'm sorry, not just to just keep spitballing, but…
+
+00:46:04.000 --> 00:46:07.000
+Luke Tierney: you know, as we have conversations with Ingalls.
+
+00:46:07.000 --> 00:46:15.000
+Luke Tierney: We've also talked to the Mississippi Community College system as well. Um, that's a very different situation.
+
+00:46:15.000 --> 00:46:21.000
+Luke Tierney: they're already pretty much all they do is train people for Ingles, is my impression. Like, Mississippi.
+
+00:46:21.000 --> 00:46:27.000
+Luke Tierney: Uh, Gulf Coast, but they're open to working with us, so that could be another place that we could potentially.
+
+00:46:27.000 --> 00:46:29.000
+Luke Tierney: Like, they weren't against it.
+
+00:46:29.000 --> 00:46:32.000
+Luke Tierney: Uh, I guess I'll put it this way. Um…
+
+00:46:32.000 --> 00:46:42.000
+Luke Tierney: they would probably be even less against it if they realized… because Bishop wants to train people for Ingles, too. I think the Mississippi community college system would be even more interested in working with us if they knew that.
+
+00:46:43.000 --> 00:46:49.000
+Luke Tierney: Because there's more… I haven't said it to them, but there's more… it's a delicate thing, but there's more pressure on them.
+
+00:46:49.000 --> 00:46:51.000
+Luke Tierney: Um…
+
+00:46:52.000 --> 00:46:57.000
+Luke Tierney: because, I mean, the reality is what they're currently doing is not meeting those labor needs. It's…
+
+00:46:58.000 --> 00:47:03.000
+Luke Tierney: They train a lot of people, they're struggling with retention, there are a lot of… there are a lot of problems there, um…
+
+00:47:04.000 --> 00:47:10.000
+Luke Tierney: So that's another even local avenue for us to look at, right? I have a feeling that Bitco will be.
+
+00:47:11.000 --> 00:47:15.000
+Luke Tierney: from my experience of talking to President Olivier and Dean Spears.
+
+00:47:16.000 --> 00:47:21.000
+Luke Tierney: they're open to anything, like, they'll listen to anything. That's been my experience. Uh…
+
+00:47:21.000 --> 00:47:23.000
+Luke Tierney: You know, and they…
+
+00:47:23.000 --> 00:47:29.000
+Luke Tierney: They're very focused on this working well and I think that if they can be convinced that something that we're offering.
+
+00:47:30.000 --> 00:47:32.000
+Luke Tierney: will…
+
+00:47:32.000 --> 00:47:43.000
+Luke Tierney: help that, help them do a better job training. So I'll also say they're very mission-driven, they care a lot about their student base, they really want them to succeed, and I think if it can be framed to them as.
+
+00:47:43.000 --> 00:47:49.000
+Luke Tierney: CSU's technology helps that, I think they'll be for it. Especially if they don't have to pay for it, I'll say.
+
+00:47:50.000 --> 00:48:00.000
+Misti Kill: So… so just so you know, we have a really big connection with Bishop State through their, um, VP of Academics, or something like that. I can't remember exactly what her title is.
+
+00:48:00.000 --> 00:48:08.000
+Misti Kill: But Dr. Burton, Dr. Khalil Burton, who reports directly to President Olivier, worked at CSU with us for about 8 years.
+
+00:48:08.000 --> 00:48:19.000
+Misti Kill: So, they're super familiar with us, and again, that's another reason we just… we really want to foster that relationship. We have such a strong relationship with them.
+
+00:48:08.000 --> 00:48:10.000
+Luke Tierney: I'm ready.
+
+00:48:19.000 --> 00:48:31.000
+Misti Kill: Um, so that's another reason why I love the idea of you talking it through with them, finding what's gonna be best for all of you, and, um, if CSU can come in and partner in any way.
+
+00:48:31.000 --> 00:48:41.000
+Misti Kill: Like I said, we have the ability, and if they are totally against it, and you decide to do whatever you want with them, I do think there's a lot of opportunity here for other options as well, like you said.
+
+00:48:41.000 --> 00:48:49.000
+Luke Tierney: Yeah, when we're also looking at… I will also just say, and again, some of this is early stage, but we're looking… you know, we have our own facility that we're building out.
+
+00:48:49.000 --> 00:48:54.000
+Luke Tierney: So that's another potential place. Uh, we're actually in negotiations with.
+
+00:48:55.000 --> 00:49:01.000
+Luke Tierney: a semi-competitor that has a training facility to cut an exclusive deal with them in Mobile, so that.
+
+00:49:01.000 --> 00:49:06.000
+Luke Tierney: They do… they do the hands-on training, we do the, um, staffing side.
+
+00:49:06.000 --> 00:49:17.000
+Luke Tierney: uh… as y'all can probably tell, I'm trying to get as much of the training capacity as possible under contract. That's one of my objectives, because I don't think that…
+
+00:49:18.000 --> 00:49:23.000
+Luke Tierney: people realize… I don't think a lot of people realize how serious these needs are gonna be over the next…
+
+00:49:23.000 --> 00:49:29.000
+Luke Tierney: Just in Mobile and Pascagoula over the next, like, 5 years. It's going to… I mean, Engels just won another.
+
+00:49:30.000 --> 00:49:34.000
+Luke Tierney: $20 billion contract for the National Security Cutter based… forget design.
+
+00:49:35.000 --> 00:49:37.000
+Luke Tierney: Um, they have no way to staff that.
+
+00:49:38.000 --> 00:49:41.000
+Luke Tierney: They have…
+
+00:49:40.000 --> 00:49:49.000
+Misti Kill: Yeah, I'm, um, I'm a little less familiar with, on the maritime side, um, I've done some stuff with DHS, and just the manufacturing and everything there.
+
+00:49:49.000 --> 00:49:59.000
+Misti Kill: it's gonna be big. I mean, it's already big, but it's… I agree with you, it's gonna explode, and there just aren't enough skilled workers for it, so…
+
+00:49:59.000 --> 00:50:05.000
+Misti Kill: I absolutely think that there is a lot of opportunity for us to partner with you and be able to.
+
+00:50:05.000 --> 00:50:09.000
+Misti Kill: To expand some of that training, um…
+
+00:50:09.000 --> 00:50:14.000
+Misti Kill: We have the ability to make… to develop pretty much however you think.
+
+00:50:14.000 --> 00:50:19.000
+Misti Kill: Would be best, and would be best, so… just know that we're open to all of that.
+
+00:50:28.000 --> 00:50:36.000
+Eric Severson: relationships with Bishop. And then, Misti, that was a great ending statement. There are at least three pathways we could be partnered with.
+
+00:50:36.000 --> 00:50:49.000
+Eric Severson: CTR in your own facility. We could be partnered in, you know, an adjacent to Bishop State, or we could be partnered thoroughly with you and Bishop State.
+
+00:50:49.000 --> 00:51:01.000
+Eric Severson: So, that's 3 possible pathways forward, and, uh, you know, let's see how things develop over with your contract negotiations and discussions, and then we'll come back together and figure out which.
+
+00:51:01.000 --> 00:51:03.000
+Eric Severson: Path we like the most.
+
+00:51:02.000 --> 00:51:08.000
+Luke Tierney: And remember also, Eric, other markets, too. Um, you know, I mean…
+
+00:51:08.000 --> 00:51:10.000
+Luke Tierney: I mean…
+
+00:51:08.000 --> 00:51:19.000
+Eric Severson: Sure, we started on this one just because it was, uh, there's an Alabama connection, and we are highly focused on manufacturing in Alabama, but you're absolutely right, if you think that there's an alternate path.
+
+00:51:20.000 --> 00:51:26.000
+Eric Severson: other than one that we've started down with curriculum that's easier to fit, we can bring that forward any time, Luke.
+
+00:51:26.000 --> 00:51:32.000
+Luke Tierney: Yeah. Well, I've just been in Virginia as well, um, and in, um…
+
+00:51:32.000 --> 00:51:38.000
+Luke Tierney: you know, in some of these other areas. I mean, those conversations are a little bit earlier stage, but, I mean, I'm definitely gonna keep y'all looped in.
+
+00:51:38.000 --> 00:51:43.000
+Luke Tierney: As we, you know, because there might come a time where we need an instructional partner.
+
+00:51:43.000 --> 00:51:49.000
+Luke Tierney: well, there probably will in Virginia. Um, and we've talked to the community colleges there, but…
+
+00:51:50.000 --> 00:51:58.000
+Luke Tierney: you know, we might, you know, it could be a similar situation where it would make sense for CSU to also be a stakeholder in that.
+
+00:51:58.000 --> 00:52:05.000
+Luke Tierney: You know, where there's an instructional delivery component that's… I mean, I like the idea of doing online.
+
+00:52:06.000 --> 00:52:11.000
+Luke Tierney: training for these folks. I think it will lower barriers, I think it'll…
+
+00:52:11.000 --> 00:52:13.000
+Luke Tierney: make it more efficient. It'll probably…
+
+00:52:13.000 --> 00:52:17.000
+Luke Tierney: help us with limiting attrition. I think it's good.
+
+00:52:18.000 --> 00:52:28.000
+Misti Kill: I think it definitely expands the population for who can actually have this kind of training, right? Like, it is one thing for someone to say, you gotta spend 10 weeks somewhere.
+
+00:52:28.000 --> 00:52:34.000
+Misti Kill: Versus 4 weeks for the hands-on, and you can do the other, the in-classroom training from wherever.
+
+00:52:34.000 --> 00:52:42.000
+Misti Kill: it… for us, at least, it has really opened doors for a lot of people in different industries, so I could absolutely see the benefit here, too.
+
+00:52:45.000 --> 00:52:46.000
+Luke Tierney: Right.
+
+00:52:46.000 --> 00:52:58.000
+Eric Severson: Okay, well, so, uh, Luke, we'll stay in touch on next steps, and as soon as we feel like we've got something concrete, we'll try to get the group back together again and start looking at.
+
+00:52:58.000 --> 00:53:08.000
+Eric Severson: What does it take to take, uh, the content that exists and start to think about how do we want to structure that over an 8-week or a 6-week process?
+
+00:53:09.000 --> 00:53:17.000
+Luke Tierney: Now, I will be in Mobile the first week of February, so maybe, Eric, I could… yeah, I can ping you or something if you want to meet in person, or if you're not going to be…
+
+00:53:16.000 --> 00:53:24.000
+Eric Severson: Yeah, I think that would be great. I think we have a space conference that we're doing on the 2nd in Tallahassee.
+
+00:53:24.000 --> 00:53:30.000
+Eric Severson: Uh, and so that's, you know, pretty close to Orange Beach, which is pretty close to Mobile, so…
+
+00:53:30.000 --> 00:53:37.000
+Eric Severson: later in that week would be pretty close to a kid that grew up in the Upper Midwest, where nothing is close, right? So…
+
+00:53:38.000 --> 00:53:41.000
+Eric Severson: So, happy to try to make that work out in the back half of that week.
+
+00:53:41.000 --> 00:53:46.000
+Misti Kill: I will be in Orange Beach that first week of February as well, so if… if…
+
+00:53:41.000 --> 00:53:43.000
+Luke Tierney: Yeah.
+
+00:53:46.000 --> 00:53:54.000
+Misti Kill: you want to come to CSU? We would love to host you at any time as well, so please know that that is an open invitation.
+
+00:53:49.000 --> 00:53:50.000
+Luke Tierney: Yeah.
+
+00:53:54.000 --> 00:53:59.000
+Luke Tierney: Yeah, I'm pretty open on Thursday and Friday, so I can… I can send y'all an email to coordinate that.
+
+00:53:59.000 --> 00:54:08.000
+Eric Severson: Yeah, that'd be great. That'd be terrific. Thursday in particular, Mobile, and then maybe if you wanted to do a quick breakfast in Orange Beach on Friday.
+
+00:54:08.000 --> 00:54:10.000
+Eric Severson: Uh, that'd be awesome.
+
+00:54:10.000 --> 00:54:12.000
+Luke Tierney: Sounds good.
+
+00:54:14.000 --> 00:54:17.000
+Eric Severson: Alright, well, thank you, everybody, for coming together.
+
+00:54:15.000 --> 00:54:19.000
+Misti Kill: Thank you. Very nice to meet you, Luke.
+
+00:54:16.000 --> 00:54:18.000
+Luke Tierney: Yeah, it was fine.
+
+00:54:18.000 --> 00:54:22.000
+Luke Tierney: Nice to meet you too, Misti, appreciate it. Appreciate everyone's time.
+
+00:54:23.000 --> 00:54:25.000
+Eric Severson: Bye, guys.
+
+00:54:24.000 --> 00:54:26.000
+Tony Atchley: Thank you.
+
+00:54:31.000 --> 00:54:44.000
+Eric Severson: Well, I did for a second. I so appreciate the opportunity to listen to that. I did not even think about our pre-existing relationship with Bishop. Part of that is because I'm still going through the new guy stuff, but…
+
+00:54:31.000 --> 00:54:33.000
+Misti Kill: Did you want to stay?
+
+00:54:34.000 --> 00:54:36.000
+Misti Kill: Yeah.
+
+00:54:40.000 --> 00:54:42.000
+Misti Kill: Oh my god.
+
+00:54:43.000 --> 00:54:53.000
+Misti Kill: No, it's just, when he started saying that, and I know Bishop has a big facility for… and there's a lot of money in there for their welding and all of that.
+
+00:54:53.000 --> 00:54:59.000
+Misti Kill: I was like, can you imagine the narrative of CSU 100% online for profit.
+
+00:54:59.000 --> 00:55:01.000
+Eric Severson: Yes.
+
+00:54:59.000 --> 00:55:03.000
+Misti Kill: taking away money from an HBCU.
+
+00:55:04.000 --> 00:55:07.000
+Eric Severson: That would go badly. That'll go badly.
+
+00:55:04.000 --> 00:55:12.000
+Misti Kill: That would look and sound so bad, because you know if they're mad about it, that's what they would say. Like, why wouldn't they say that?
+
+00:55:08.000 --> 00:55:10.000
+Eric Severson: Yep.
+
+00:55:13.000 --> 00:55:14.000
+Eric Severson: Of course.
+
+00:55:13.000 --> 00:55:23.000
+Misti Kill: So, we, I, when I first, when I heard that, I was like, uh-oh, we need to make sure they care, they need to take care of that the way they want to take care of that.
+
+00:55:23.000 --> 00:55:35.000
+Misti Kill: And then we will come in, and like I said, I don't think that you were here ever with Kalila, who… she used to work, um, in academics. I worked with her for… really closely for a long time.
+
+00:55:35.000 --> 00:55:41.000
+Misti Kill: So I'm… I have a great relationship with her still, so if at some point.
+
+00:55:41.000 --> 00:55:47.000
+Misti Kill: The door is open for us to communicate with them on this. I, I mean, I can call her at any time and be like, hey, what do you think?
+
+00:55:47.000 --> 00:55:58.000
+Eric Severson: Yeah, that's fantastic, because it may be the kind of thing where, at first blush, I can imagine, uh, folks at a bishop getting their back up a little bit, right?
+
+00:55:58.000 --> 00:56:08.000
+Misti Kill: Right. Like, oh, you're gonna try to take our students from us when… when the… when that area is… it's bread and butter for them, like, it's a big deal for them.
+
+00:55:59.000 --> 00:56:01.000
+Eric Severson: Uh, I don't know.
+
+00:56:08.000 --> 00:56:10.000
+Misti Kill: So…
+
+00:56:08.000 --> 00:56:14.000
+Eric Severson: Yeah, and do they have a well-developed online, um, presence? So that's fantastic.
+
+00:56:13.000 --> 00:56:16.000
+Misti Kill: I don't think so. Yeah.
+
+00:56:14.000 --> 00:56:18.000
+Eric Severson: I didn't think so. Most community colleges really don't, and so they're…
+
+00:56:17.000 --> 00:56:21.000
+Misti Kill: Yeah, it's… it's a lot of hands-on stuff. Mm-hmm.
+
+00:56:19.000 --> 00:56:27.000
+Eric Severson: If there's… yeah, if there's a story about expanding that pipeline, it might be shorter, but still, you know, hey, if you've got…
+
+00:56:27.000 --> 00:56:34.000
+Eric Severson: I mean, he was talking about 150 students a year in one program, in that one program, and so…
+
+00:56:28.000 --> 00:56:30.000
+Misti Kill: Hmm.
+
+00:56:32.000 --> 00:56:34.000
+Misti Kill: Yeah.
+
+00:56:34.000 --> 00:56:39.000
+Eric Severson: You know, by expanding that, and you're exactly right, if you're…
+
+00:56:40.000 --> 00:56:45.000
+Eric Severson: Sitting in a hotel for, uh, 10 weeks that's a lot of wear and tear.
+
+00:56:43.000 --> 00:56:45.000
+Misti Kill: Yeah.
+
+00:56:45.000 --> 00:56:47.000
+Misti Kill: Yup.
+
+00:56:46.000 --> 00:56:48.000
+Eric Severson: Plus, if you…
+
+00:56:49.000 --> 00:56:54.000
+Eric Severson: flame out, you generally take one or two people next to you out.
+
+00:56:52.000 --> 00:56:55.000
+Misti Kill: Yeah.
+
+00:56:54.000 --> 00:56:59.000
+Eric Severson: And so this, you're gonna flame out online by yourself at your home, that's fine.
+
+00:56:58.000 --> 00:57:00.000
+Misti Kill: Yeah.
+
+00:56:59.000 --> 00:57:07.000
+Eric Severson: There's not collateral damage, and it, you know, it solves a bunch of other problems, but it all hinges on how is it presented, and.
+
+00:57:04.000 --> 00:57:06.000
+Misti Kill: Yeah.
+
+00:57:07.000 --> 00:57:12.000
+Eric Severson: when I heard the relationship with the former CSU person there, I thought, oh, good.
+
+00:57:12.000 --> 00:57:21.000
+Eric Severson: If it gets off to a rough start, where they view it as filled with friction, maybe there's an opportunity for calmer heads to come in and say.
+
+00:57:21.000 --> 00:57:23.000
+Eric Severson: Well, how about this? We think we could…
+
+00:57:22.000 --> 00:57:28.000
+Misti Kill: I really hope they would see it as a positive, and if it ever is communicated, like.
+
+00:57:28.000 --> 00:57:36.000
+Misti Kill: This meeting is on record for us of us saying, we are not trying to steal it, you take care of, like…
+
+00:57:32.000 --> 00:57:34.000
+Eric Severson: Sure.
+
+00:57:37.000 --> 00:57:39.000
+Eric Severson: Yep.
+
+00:57:37.000 --> 00:57:43.000
+Misti Kill: I really want, I was like, okay, well, we gotta make sure that the narrative doesn't weirdly get spun here with.
+
+00:57:43.000 --> 00:57:45.000
+Misti Kill: us versus them, so…
+
+00:57:45.000 --> 00:57:53.000
+Eric Severson: I had, you know, he's very excited about the partnerships with the community colleges because he found a way to fund, between them and the Navy the equipment.
+
+00:57:52.000 --> 00:57:54.000
+Misti Kill: Sure.
+
+00:57:53.000 --> 00:58:01.000
+Eric Severson: Right? But the whole time I'm… having spent 5 years at a for-profit institution, I know the frictions that can immediately start to pop up there.
+
+00:58:01.000 --> 00:58:02.000
+Misti Kill: Yeah.
+
+00:58:02.000 --> 00:58:08.000
+Eric Severson: And have stopped just short of saying to him, you guys ever think about funding your own facilities? It's not, I mean…
+
+00:58:08.000 --> 00:58:14.000
+Eric Severson: You can find the money and build a facility, then you don't really have to worry about all of these other relationships and.
+
+00:58:13.000 --> 00:58:15.000
+Misti Kill: Yeah.
+
+00:58:14.000 --> 00:58:19.000
+Eric Severson: Then we can slide in and be your partner, and there's no… there's no downside to that.
+
+00:58:19.000 --> 00:58:29.000
+Misti Kill: Yeah, yeah. Yeah, I mean, it's… I think that there's a wealth of opportunity here, because we can do pretty much all the things he was kind of saying would be helpful for them.
+
+00:58:19.000 --> 00:58:21.000
+Eric Severson: So…
+
+00:58:30.000 --> 00:58:36.000
+Misti Kill: Um, and we can tailor it to each of the manufacturers, we can do all of that, so…
+
+00:58:36.000 --> 00:58:43.000
+Misti Kill: there's a huge opportunity. They just need to clean up their…
+
+00:58:41.000 --> 00:58:45.000
+Eric Severson: Figure out how to keep everybody feeling good about it, right?
+
+00:58:44.000 --> 00:58:46.000
+Misti Kill: Yeah. Yeah.
+
+00:58:45.000 --> 00:58:55.000
+Eric Severson: I have another company that I'm talking to later today that I've worked with in the past who does exactly the same thing, but they do it for HVAC, mostly large data centers.
+
+00:58:53.000 --> 00:58:54.000
+Misti Kill: Sure.
+
+00:58:55.000 --> 00:59:07.000
+Eric Severson: field technicians, and they have the exact same model, and they're looking for, uh, education partners for the exact same reasons. Better credentials, better pathways, a little bit, you know, they're… they're…
+
+00:59:07.000 --> 00:59:13.000
+Eric Severson: Tired of trying to do the curriculum development effectively, and then all the apparatus around registering students.
+
+00:59:07.000 --> 00:59:09.000
+Misti Kill: Yeah.
+
+00:59:13.000 --> 00:59:20.000
+Eric Severson: Doing the assessments, getting them through, and so, I see more opportunities for this sort of thing, and.
+
+00:59:21.000 --> 00:59:23.000
+Eric Severson: Seems exciting, so…
+
+00:59:22.000 --> 00:59:33.000
+Misti Kill: It's the same thing, we have the ability to do all of that, and we are, you know, super interested to partner with any… any major player in the industry who can do the hands-on part of it.
+
+00:59:33.000 --> 00:59:40.000
+Misti Kill: And take that on, and also probably give us some content because this is very, these are niche areas, and we do.
+
+00:59:40.000 --> 00:59:48.000
+Misti Kill: The last thing I want is for us to put out some content and then them go into the field and do something wrong or get hurt or whatever, like.
+
+00:59:48.000 --> 00:59:50.000
+Eric Severson: Yeah.
+
+00:59:49.000 --> 00:59:54.000
+Misti Kill: that looks bad, so we definitely want that expertise. Um…
+
+00:59:54.000 --> 00:59:57.000
+Misti Kill: But yeah, we have the ability to do all of that, so…
+
+00:59:57.000 --> 01:00:04.000
+Eric Severson: And have you ever had any discussions with, uh, for-profit trade schools about articulation or just partnerships?
+
+01:00:04.000 --> 01:00:07.000
+Eric Severson: Like, Lincoln Tech or Universal Technical Institute.
+
+01:00:06.000 --> 01:00:09.000
+Misti Kill: I mean, we… sure, we have, um…
+
+01:00:10.000 --> 01:00:22.000
+Misti Kill: I would think we do have probably some articulations or learning partnerships and those types of things, but that's as far as it has gone. It hasn't gone, like, this conversation is different in that it's not like.
+
+01:00:22.000 --> 01:00:27.000
+Misti Kill: Your students could come to us and get credit for what they've done and get in this program.
+
+01:00:27.000 --> 01:00:36.000
+Misti Kill: this is very much like, let's… you… we'll do the… this is a different level of partnership, right? Like, let's have a shared kind of program, essentially.
+
+01:00:33.000 --> 01:00:35.000
+Eric Severson: Yeah.
+
+01:00:36.000 --> 01:00:40.000
+Misti Kill: So, we've not had those kind of conversations yet.
+
+01:00:39.000 --> 01:00:46.000
+Eric Severson: So I still have very close connections to those major, uh, trade schools, and…
+
+01:00:46.000 --> 01:00:49.000
+Eric Severson: I know they're constantly looking at.
+
+01:00:49.000 --> 01:00:59.000
+Eric Severson: these higher-trained deploy models as opportunities, but also as risk, right? Because that undercuts a big chunk of their.
+
+01:00:56.000 --> 01:00:58.000
+Misti Kill: Yeah.
+
+01:00:59.000 --> 01:01:02.000
+Eric Severson: Current business, but I think they're…
+
+01:00:59.000 --> 01:01:01.000
+Misti Kill: Right.
+
+01:01:02.000 --> 01:01:09.000
+Eric Severson: stressed about their current business, right? $68,000 is the entry-level fee for somebody to go in and out of an automotive program.
+
+01:01:09.000 --> 01:01:19.000
+Eric Severson: At UTI, and you don't need that, right? You definitely don't need that. You can get your basic skills done in probably 10 weeks, and then get in there.
+
+01:01:19.000 --> 01:01:29.000
+Eric Severson: Uh, and so they're always… they're always eyeing these shorter-term training models, trying to figure out, should we, and how would we do that, and what way would we go about that, so…
+
+01:01:19.000 --> 01:01:21.000
+Misti Kill: Yes.
+
+01:01:28.000 --> 01:01:30.000
+Misti Kill: Yeah.
+
+01:01:29.000 --> 01:01:31.000
+Eric Severson: Never know where those things go.
+
+01:01:30.000 --> 01:01:35.000
+Misti Kill: Yeah, absolutely. Feel free to mention us to any of them, like…
+
+01:01:35.000 --> 01:01:37.000
+Eric Severson: Cool.
+
+01:01:36.000 --> 01:01:48.000
+Misti Kill: we can do it, and we can do it with their content, and they… this is the other thing, too, like, they can remain owners of their content, like, and that's something that we've done with, like, the National Fire Academy, and with.
+
+01:01:48.000 --> 01:02:03.000
+Misti Kill: ODP and stuff, like, when we partner, the partnership is only as good as the industry entity backing that content, right? Like, that's what validates our programs, especially in continuing ed.
+
+01:02:04.000 --> 01:02:06.000
+Misti Kill: Um, so…
+
+01:02:06.000 --> 01:02:10.000
+Misti Kill: We… we would entertain all of those types of conversations.
+
+01:02:10.000 --> 01:02:15.000
+Eric Severson: Cool. Alright, well, thanks again. Good seeing you. Good luck with the weather this weekend.
+
+01:02:13.000 --> 01:02:18.000
+Misti Kill: Thank you! Thank you very much! We'll talk to you later. Have a good weekend.
+
+01:02:16.000 --> 01:02:19.000
+Eric Severson: Talk to you later. You too, bye.
+
