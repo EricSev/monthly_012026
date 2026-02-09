@@ -1,0 +1,155 @@
+From: Eric Severson 
+Sent: Monday, February 2, 2026 4:12 PM
+To: Amy Ross <Amy.Ross@columbiasouthern.edu>
+Subject: RE: Weekly Reports are due
+
+Summary of January 26-30, 2026
+
+January 26
+Weekly Setup with BDev Team: Discussed Utah conference planning, CLO initiative follow-ups, Mobile meeting travel with Luke, Zoom AI features, ADTC challenges, and Orlando event strategies.
+
+Randy/Caroline/Tony Weekly Call: Covered Zoom AI capabilities and your upcoming CSU visit (Tallahassee Tuesday, office Wednesday-Friday, potential Mobile CTR meeting Thursday).
+
+MS Copilot Agent as Copy Compliance Checker: Presented Green Light Copy Checker, an AI compliance tool for marketing copy using 35 vetted sources. Team agreed it would serve as a pre-check tool before a formal compliance review.
+
+Project Reviews with Tom: Analyzed Salesforce data showing 4% lead decline, discussed conversion tracking improvements and educational pricing strategies.
+
+January 27
+AI Center of Excellence Meeting: Discussed AI strategy, governance, and use cases. I raised questions about institutional AI strategy documentation and offered to help Mike re-engage with the Executive Steering Committee and to work on developing the AI strategies for the non-academic departments.
+
+January 28
+Weekly Connect with Caroline/Sherri: Covered CTR partnership visit to Mobile (Thursday) for welding training observation, Bishop State coordination with Kalila Burton, Ken's AI admissions request (after-hours text/voice agents), HubSpot lead tracking access, and partnership narratives for Ken's board assessment (due mid-February, week of Feb 16).
+
+Discussion with Tom Malek: Suggested how best to have Tom get involved with the Admissions team to support their AI journey.
+
+January 29
+Leadership Briefing Meeting
+Capacity building framework.  Signs of excessing and overcapacity.  Self Worth vs Self Confidence.
+
+OCSC Data Work with Duane/Tony: Orlando City Partners analysis, AI tool demos (CSU GreenLight, Copilot, Google AI Studio), Signal Mutual landing page.
+
+Board Narrative Prep with Tony
+
+AI Strategy with Mike Perry:  Follow up to AICOE – we discussed AI steering committee needs, use case library, tool approval challenges, and plans to present to Ken and leadership.
+
+Eric
+
+
+From: Eric Severson 
+Sent: Saturday, January 24, 2026 12:37 PM
+To: Amy Ross <Amy.Ross@columbiasouthern.edu>
+Subject: EAS - Weekly Update: 1/19/2026
+
+Hi Amy,
+
+Here is the update for last week:
+
+AI Discussion w Compliance 
+•	Discussed using AI to streamline the marketing approval process and create compliant content for learning partners
+•	Sonya mentioned marketing had been working on an AI/compliance tool, and agreed to schedule a group meeting with Dale and BG to discuss the project status
+
+Orlando City SC & Orlando Pride Agreements
+•	Kickoff meeting for the 3-year partnership between CSU and Orlando City/Orlando Pride soccer teams
+•	Business-to-business networking events scheduled, including partner summit on April 23rd
+
+Meeting with Caroline and Sherri
+•	Zoom AI Features Demo: Demonstrated AI companion, meeting transcripts, and automatic summaries; discussed enabling these features for better meeting follow-up and transparency
+•	2026 Business Development Strategy: Focused on partnership development (space, skilled trades, energy, aerospace), channel optimization, and operational infrastructure; agreed that Eric and Tony should focus on less-established areas rather than well-known sectors like education/healthcare
+•	Role Clarity Discussion: Suggested that Sherri should handle nursing partnerships; discussed articulation agreements vs. MOUs and the need for better organizational clarity
+•	Conference Strategy: Reviewed CLO conference ROI (~$24,000 spent); discussed nursing event sponsorship opportunity from Bonnie (Eric to provide summary)
+•	Orlando Event Planning: Discussed targeting local partners for free tickets rather than distant aerospace companies
+•	AI Tools Discussion: Eric demonstrated Google Notebook LM for regulatory analysis (DOE rulemaking); planned meeting with Ken (February 4th or 5th) to demonstrate AI capabilities.  Still need to sort out unblocking AI tool access.
+•	Ken's Board Evaluation: Eric to prepare supporting documentation highlighting 2025 wins (LiveView, Signal Mutual, healthcare partnerships, Fortune 500 relationships)
+
+CTR-CSU Training update with SM
+We discussed updates on a shipbuilding and ship repair training initiative involving partnerships between CTR, CSU, and Signal Mutual, with discussions on outreach efforts to various shipyards and companies, including Austal, BAE, and Fincantieri to drive registrations. The group also discussed establishing a scholarship program with potential contributions from Signal Mutual and agreed on next steps for promotional activities and partnership development.
+Next Steps
+•	Luke: Follow up with Victor Figuera at NASCO next week regarding training program materials and decision-making process
+•	Richard: Reach out to NASCO and Hampton Roads contacts to promote the CTR/CSU training program
+•	Richard: Send email to BAE Jacksonville CEO to make connection about manning/training needs
+•	Richard: Reach out to Fincantieri leadership today with brochure and suggest call in next few weeks about training program
+•	Luke: Send email to Adrien about meeting in Mobile first week of February
+•	Eric/Tony: Draft 100-word description for Signal Mutual marketing about maritime safety series
+•	Eric/Tony: Send course schedule to Richard
+•	Eric/Tony: Send marketing description to Richard in first week of February for Signal Mutual marketing review
+•	Richard: Promote scholarship program during March-April period with increased visibility
+•	Eric/Tony: Prepare updated scholarship program details for 2023
+
+CSU - CTR Partnership: Welding & Skilled Trades Training Discussion with Academics
+•	Partnership Exploration: Discussed potential partnership between Columbia Southern University and CTR (family-owned staffing/training business) to expand maritime training programs addressing U.S. shipbuilding labor shortages
+•	Training Model Overview: Luke described CTR's 10-week "recruit, train, deploy" program for Austell in Mobile, using Navy curriculum tailored for Electric Boat shipfitters, with training at Bishop State Community College
+•	Bishop State Dynamics: Complex contract negotiations with Bishop State regarding training costs (grant ending, Bishop requesting 50% payment, CTR seeking exclusivity); CSU has existing relationship with Bishop through Dr. Khalil Burton
+•	Partnership Pathways: Three potential approaches identified: working with CTR directly, using Luke's own facility, or collaborating with Bishop State
+•	CSU Capabilities: Misti highlighted CSU's ability to deliver online classroom instruction, customize content for manufacturers, and reduce on-site training time from 10 weeks to 4 weeks
+•	Strategic Considerations: Team agreed to let CTR finalize Bishop contract first to avoid friction; emphasized ethical approach given Bishop's HBCU status
+•	Expansion Opportunities: Discussed potential programs in Virginia, San Diego, Mississippi (Ingalls), and other markets
+•	Next Steps: Eric and Luke plan to meet in person in Mobile/Orange Beach during first week of February to continue discussions
+
+From: Eric Severson 
+Sent: Saturday, January 24, 2026 12:07 PM
+To: Amy Ross <Amy.Ross@columbiasouthern.edu>
+Subject: EAS - Weekly Update: 1/5/2026
+
+Hi Amy,
+
+I am very sorry for the time it has taken me to update on 1/5.  I’ll send last week’s update shortly
+
+Weekly Setup Meeting 
+•	Jim discussed a potential partnership with Novellus (an aluminum recycling company planning to employ 2,000 people) and explored new training/recruiting models with CTR and American Diesel Training Centers
+•	Discussed Space Operations program coordination needs and upcoming BMW partnership progress
+•	Planned costume themes for the kickoff meeting
+
+UR Leadership Meeting 
+•	Discussed 2025 year-end results showing 11,167 leads (53% increase), 2,241 apps (13.5% increase), and 819 enrollments (13% increase)
+•	Team shared reflections on 2025 and priorities for 2026, including workforce development initiatives, Space Operations program, nursing program development, and wildland fire concentration
+
+Eric | Tom Project Review (3:06 PM - 4:16 PM)
+•	Coordinated Florida trip logistics and flight arrangements
+•	Demonstrated Notebook LM capabilities for creating infographics, landing pages, and marketing materials
+
+Space Day Marketing Request Discussion 
+•	Discussed marketing materials for Space Day events while navigating DOD compliance restrictions around using "Space Command" branding
+•	Brittany emphasized extreme caution with military-related marketing due to DOD MOU requirements and endorsement restrictions
+•	Mike explained the new STARCOM partnership is a pilot program to help credential Space Force guardians, with CSU developing pathways from associate's through doctoral programs
+•	The team agreed to use image-based marketing with quotes from high-ranking military leaders rather than logos or explicit STARCOM mentions
+•	Discussed the value proposition for civilian employers (Boeing, General Dynamics) at space industry events - focusing on CSU's expertise and instructor credentials
+•	Mike confirmed the Bachelor of Science in Space Operations targets military personnel initially (17,000+ at STARCOM/Space Force), and will expand to recruit civilian candidates.
+  
+
+Meeting with Continuing Education 
+•	Met with Laurie and Keith from Continuing Education to understand CE operations, course development, and pricing
+•	Discussed pre-employment training opportunities in skilled trades (welding, shipbuilding) with recruiting firms like CTR
+•	Explored the two facets of CE: course creation and CEU provider services for validating external training
+
+CTR - CSU Curriculum Partnership Meeting 
+•	Discussed workforce development partnerships with CTR for skilled trades training in shipbuilding and manufacturing
+•	Reviewed volume projections: Austell committed to 132 trainees, with interest from Newport News and Ingalls shipyards
+•	Explored pilot program with Airbus (Craig Savage identified as key contact)
+•	Discussed converting CTR's welding PDF into a 6-10 week pilot program through continuing education, targeting late 2026 launch
+•	Scheduled facility visit to CTR in Mobile, AL for late January/early February
+
+Landing Page Discussion w Brittany Armistead
+•	Discussed strategies to improve landing pages for learning partners and benefit companies
+•	Learned CMS migration to HubSpot will take about 6 months, enabling better audience-based customization
+•	Identified Ben Jameson as contact for landing page analytics
+•	Explored developing an AI copy checker tool for compliance pre-screening (contacts: Sonya Fillmore and Jennifer Lee Hooper)
+Meeting with IDT (Tom)
+•	Comprehensive overview of IDT's operations: 35-person remote team with 10-week course development process
+•	Discussed CSU's 8-unit course model and AI implementation (Blackboard chatbot, Synthesia avatars)
+•	Reviewed custom curriculum process, similar to LiveView Technologies and Green Training Services projects
+•	Tom recommended talking to Misty about Green Training Services as a model for CTR partnership
+•	Agreed to quarterly check-ins to stay updated on IDT innovations
+
+Signal Mutual, CTR/CSU Custom Curriculum Proposal 
+•	Discussed partnership with CTR to develop a 10-week pre-employment welding training program for the shipbuilding industry
+•	Misti confirmed CSU's capability to develop and deliver the online portion through Continuing Education
+•	Explored course structure, including converting CTR's 75-page welding PDF into enhanced online materials with improved safety content
+•	Discussed pricing models (enrollment-based or per-student fees) and factors affecting costs (course length, faculty involvement, automation)
+•	CTR's current pilot programs show 97% placement rate; they're seeking to scale beyond face-to-face delivery
+•	Explored expansion opportunities into additional skilled trades: ship fitting, pipe fitting, and machining
+•	Agreed to schedule meeting with CTR team, Tony, Misti, and Tamara Murra to clarify partnership details
+•	Positioned Continuing Education as an entry point with a potential pathway to academic programs and credit transfer
+
+
+Eric
+

@@ -1,0 +1,4250 @@
+WEBVTT
+
+00:00:32.000 --> 00:00:34.000
+Eric Severson: Good morning.
+
+00:00:32.000 --> 00:00:34.000
+Caroline Walters: Hi, good morning!
+
+00:00:34.000 --> 00:00:36.000
+Caroline Walters: Do you have a good ride?
+
+00:00:37.000 --> 00:00:41.000
+Eric Severson: I'm so sore, I can almost fall over, so it's been…
+
+00:00:41.000 --> 00:00:53.000
+Eric Severson: been 5 weeks. I was sick for 2, uh, and then 2 trips to Alabama, so… and then the holidays, and the kids were here for 2 full weeks, and so…
+
+00:00:44.000 --> 00:00:46.000
+Caroline Walters: Um…
+
+00:00:53.000 --> 00:00:59.000
+Eric Severson: We are doing a solid detox, both the South Beach diet and no alcohol, for all of this month.
+
+00:00:58.000 --> 00:01:00.000
+Caroline Walters: Oh, wow!
+
+00:00:59.000 --> 00:01:08.000
+Eric Severson: Which is good, right? It feels good, but it sucks because every night at 5 o'clock, I'm like, yeah, gee, it's the end of the day!
+
+00:01:06.000 --> 00:01:10.000
+Caroline Walters: Uh-huh, no! Yeah, yeah.
+
+00:01:09.000 --> 00:01:18.000
+Eric Severson: Wouldn't that be nice? Uh, and then today, you know, the group that I ride with is kind of intense, and they've been recruiting young people, so…
+
+00:01:19.000 --> 00:01:24.000
+Eric Severson: The age is down probably between 25 and 35, and.
+
+00:01:24.000 --> 00:01:30.000
+Eric Severson: They did not take a break, and they are a little bit too hardcore, so I got wrung out this morning.
+
+00:01:26.000 --> 00:01:28.000
+Caroline Walters: Yeah.
+
+00:01:30.000 --> 00:01:33.000
+Caroline Walters: Uh-oh, be careful!
+
+00:01:33.000 --> 00:01:42.000
+Eric Severson: So, I wanted to, uh, chat about, uh, two things. That meeting, a quick debrief on that meeting, definitely wanted to show you and, um…
+
+00:01:42.000 --> 00:01:46.000
+Eric Severson: Sherri the AI integration with Zoom, and the trans…
+
+00:01:45.000 --> 00:01:50.000
+Caroline Walters: Okay, she's jumping on. She went to the restroom, and she'll be on with us.
+
+00:01:47.000 --> 00:01:49.000
+Eric Severson: Okay.
+
+00:01:50.000 --> 00:01:58.000
+Eric Severson: Yeah, so there were two things that I wanted to hit. One, just to make sure that you saw the AI integration with Zoom in meeting, but then after meeting.
+
+00:01:58.000 --> 00:02:05.000
+Eric Severson: Super powerful, super powerful for, um, first turning it on and making sure that it's there, and then.
+
+00:01:58.000 --> 00:02:00.000
+Caroline Walters: Okay.
+
+00:02:05.000 --> 00:02:19.000
+Eric Severson: doing your follow-up, your after-meeting follow-up, it's gold, right? And to have transcripts mean that you can go back, and everybody's got memory moments, right? And so, Sherri and I were texting.
+
+00:02:19.000 --> 00:02:28.000
+Eric Severson: Because she asked me, hey, did you catch that last part? And I didn't, of course, because, you know, it's. And so we missed a couple of dates, and then…
+
+00:02:28.000 --> 00:02:33.000
+Eric Severson: And I said, well, let's see, you can go in there and ask it the questions.
+
+00:02:33.000 --> 00:02:42.000
+Eric Severson: The first question is a good example of a bad question. I couldn't… she said, did you miss that date? And I was like, I don't know, is it talking about all sorts of dates? Josh was.
+
+00:02:42.000 --> 00:02:50.000
+Eric Severson: So I asked a poor question, and then she asked a more specific question, so I threw it in there. I just wanted you guys to see that, because.
+
+00:02:49.000 --> 00:02:51.000
+Caroline Walters: Yeah.
+
+00:02:50.000 --> 00:03:00.000
+Eric Severson: there's a level of efficiency and productivity in our meetings that are on Zoom based on the AI features in the meeting, but really afterwards, so…
+
+00:03:00.000 --> 00:03:10.000
+Eric Severson: I take those transcripts. You can go… you can use the AI in Zoom, but if it's important, you can pull them out and put them in ChatGPT, or MS Copilot, or whatever.
+
+00:03:10.000 --> 00:03:25.000
+Eric Severson: and say, you know, give me a list of follow-up items. What do I need to do? What do they need to do? I also do it for, is there anything I could have handled differently in this conversation? And it could be an emotional intelligence thing, or it might just be.
+
+00:03:15.000 --> 00:03:17.000
+Caroline Walters: Mm-hmm.
+
+00:03:25.000 --> 00:03:27.000
+Caroline Walters: Mm-hmm.
+
+00:03:26.000 --> 00:03:29.000
+Eric Severson: did I hit my agenda items, right? Uh…
+
+00:03:28.000 --> 00:03:30.000
+Caroline Walters: Yeah.
+
+00:03:29.000 --> 00:03:36.000
+Eric Severson: High-stakes meetings like that, it's super, super helpful to me. I almost feel like it's a lifeline sometimes.
+
+00:03:37.000 --> 00:03:40.000
+Caroline Walters: Yeah, so do they live in docks?
+
+00:03:40.000 --> 00:03:43.000
+Caroline Walters: On your Zoom? Yeah.
+
+00:03:40.000 --> 00:03:50.000
+Eric Severson: Yeah, they should. If the meeting organizer turns it on and shares it. If they don't, I just go to ask them to do that, right? So that you can have access to it.
+
+00:03:50.000 --> 00:03:52.000
+Caroline Walters: Okay.
+
+00:03:50.000 --> 00:03:59.000
+Eric Severson: And then, like, right now, my window, Zoom workplace window, is kind of small, and so at the bottom, I don't see.
+
+00:03:59.000 --> 00:04:11.000
+Eric Severson: the AI companion. So, you should see the AI Companion at the bottom of your toolbar of the Zoom window. If you don't, just make the window a little bigger until it pops up.
+
+00:04:07.000 --> 00:04:09.000
+Caroline Walters: Yeah.
+
+00:04:11.000 --> 00:04:25.000
+Eric Severson: When you click on that in the middle of a meeting, you can ask it any question. I mean, it's common to say, catch me up, is there anything that I should really be paying attention to from the perspective of business development, from the perspective of.
+
+00:04:17.000 --> 00:04:19.000
+Caroline Walters: Mm-hmm.
+
+00:04:25.000 --> 00:04:27.000
+Eric Severson: Whatever it is.
+
+00:04:26.000 --> 00:04:29.000
+Caroline Walters: Yeah. Yep.
+
+00:04:27.000 --> 00:04:40.000
+Eric Severson: So, cool stuff, super glad we're using Zoom, super glad they turned it on, uh, as well. This is just one way to start to make sure that every… I don't think most people realize it's there.
+
+00:04:40.000 --> 00:04:45.000
+Eric Severson: Uh, and, you know, it's a great, it's a great productivity tool. Um…
+
+00:04:46.000 --> 00:04:49.000
+Eric Severson: You know, just for making sure that you've got.
+
+00:04:50.000 --> 00:04:52.000
+Eric Severson: you know it's there, so…
+
+00:04:51.000 --> 00:04:58.000
+Caroline Walters: Yeah, I've used the AI companion, asking questions and different things, so I'm familiar with that piece.
+
+00:04:58.000 --> 00:05:06.000
+Caroline Walters: But a lot of times… for a while, I couldn't find the transcript from the meetings, but now they've started showing up in docs.
+
+00:05:06.000 --> 00:05:14.000
+Eric Severson: you can… you can also go to your web version of, uh, AI and download the full transcript, right? So…
+
+00:05:13.000 --> 00:05:21.000
+Caroline Walters: Now, I'm… tell me how to do that. Um, or do you want to go back and start over now Sherri's here? Yeah, go ahead.
+
+00:05:16.000 --> 00:05:18.000
+Eric Severson: I'll show you how to do that.
+
+00:05:18.000 --> 00:05:20.000
+Eric Severson: Let's just… yeah, let's get…
+
+00:05:20.000 --> 00:05:34.000
+Eric Severson: Yep, do a quick… do a quick reboot. Sherri can always count on me to be, I am AI obsessed, right? I wake up thinking about AI, I think about AI most of the hours of the day, and I go to sleep thinking about AI, only because.
+
+00:05:27.000 --> 00:05:29.000
+Sherri Twitty: Rick and Tim.
+
+00:05:35.000 --> 00:05:43.000
+Eric Severson: I think in our lifetime, there are very few things that have the potential to change our lives as much as this stuff comes along. So…
+
+00:05:43.000 --> 00:05:50.000
+Eric Severson: The AI companion is turned on in Zoom, which is fantastic. Uh, if your Zoom window is… so have you used it before? Do you know what I'm talking about in there?
+
+00:05:51.000 --> 00:05:57.000
+Sherri Twitty: Yeah, I get all the… the meetings that I've had this all week, I keep getting the AI transcripts.
+
+00:05:57.000 --> 00:05:59.000
+Sherri Twitty: So…
+
+00:05:57.000 --> 00:06:06.000
+Eric Severson: So the AI transcript comes afterwards, and that's super. The AI companion allows you to ask questions in the meeting, so if…
+
+00:06:00.000 --> 00:06:02.000
+Sherri Twitty: Mm-hmm.
+
+00:06:05.000 --> 00:06:07.000
+Sherri Twitty: Okay.
+
+00:06:07.000 --> 00:06:17.000
+Eric Severson: And I'll tell you, there are things like, uh, I will use it for catch-up, certainly, and I sent you two emails. One was a good example of a bad question, so I asked the AI.
+
+00:06:17.000 --> 00:06:23.000
+Eric Severson: a vague question. When you sent me that text, I was like, I don't know, do I look like I'm catching all of this.
+
+00:06:23.000 --> 00:06:31.000
+Eric Severson: Operational detail? Nope, I missed it too. And then I asked a bad question. A bad question because it was vague, it wasn't specific.
+
+00:06:31.000 --> 00:06:42.000
+Eric Severson: And so it gave me the best guess, but it wasn't the answer that you were looking for. When you then asked the more specific question, I plump that into AI as well, and it's just a quick…
+
+00:06:42.000 --> 00:06:48.000
+Eric Severson: sort of prompt engineering thing of more specific is better. Quality input gets you quality output.
+
+00:06:49.000 --> 00:06:55.000
+Eric Severson: And so, I will also do things like, if I'm not really clear on the implication to business development.
+
+00:06:55.000 --> 00:07:07.000
+Eric Severson: or to university relations, or to any number of topics, I will sit there and brainstorm with the AI during the meeting to say, help me understand the implications of.
+
+00:07:07.000 --> 00:07:20.000
+Eric Severson: maybe it's something in continuing ed that's being talked about in a leadership meeting, and I'll just ask it those questions so that I can, you know, sit there and make sure that I've got anything that's on my mind squared away.
+
+00:07:20.000 --> 00:07:26.000
+Eric Severson: So then the transcripts. You can get the transcript through, uh… if they've turned… yep, sorry.
+
+00:07:26.000 --> 00:07:33.000
+Caroline Walters: Show Sherri where the AI companion is located. You mind sharing your screen and just showing her how that works?
+
+00:07:33.000 --> 00:07:40.000
+Eric Severson: I don't know that I can share this Zoom screen, but let me see if that's a… I've never tried, let's see.
+
+00:07:40.000 --> 00:07:42.000
+Caroline Walters: I didn't even think about that, Eric!
+
+00:07:40.000 --> 00:07:45.000
+Sherri Twitty: I see… I see it, I see it down at the bottom of the screen, AI Companion.
+
+00:07:44.000 --> 00:07:47.000
+Eric Severson: Okay, great. Great. Because…
+
+00:07:46.000 --> 00:07:48.000
+Caroline Walters: Click it.
+
+00:07:47.000 --> 00:07:51.000
+Sherri Twitty: So, I'm gonna click on it, and I'm gonna say, what the is Eric talking about?
+
+00:07:47.000 --> 00:07:49.000
+Eric Severson: I tend…
+
+00:07:50.000 --> 00:07:55.000
+Eric Severson: Why does he like it? Does that guy like AI?
+
+00:07:54.000 --> 00:08:00.000
+Sherri Twitty: Just to test, just to test, you know, so… but, um, yeah, I see it.
+
+00:07:57.000 --> 00:08:01.000
+Eric Severson: Yes, fine. Rock and roll! Rock on!
+
+00:08:01.000 --> 00:08:13.000
+Eric Severson: So that's great, because if the window is too small, and I have these huge monitors, and so I often am doing a lot of things at one time, if the Zoom window is too small, the AI companion.
+
+00:08:13.000 --> 00:08:19.000
+Eric Severson: Might not be visible. You just have to make it wide enough so that you see it, but if you see it, you're good to go.
+
+00:08:19.000 --> 00:08:34.000
+Eric Severson: terrific for in meetings, especially if, you know, you're multitasking, and you're there not as the primary, and you want to catch caught up, or if there's ever a time, and again, for me, maybe it's the new guy thing, maybe I'm just not smart enough, but it's always helpful for me to get.
+
+00:08:34.000 --> 00:08:47.000
+Eric Severson: hey, help me make the linkages or connections between what's being talked about and adjacent topics or ideas. So, good for that. Now, let's go to… let's say the meeting ends and they don't.
+
+00:08:47.000 --> 00:08:57.000
+Eric Severson: automatically send out. Some will automatically send out a Zoom summary, and it's an interesting thing for us as a team to decide how do we want to handle this.
+
+00:08:57.000 --> 00:09:03.000
+Eric Severson: You can build custom summaries, so after a certain meeting, like maybe your leadership meeting, Caroline.
+
+00:09:03.000 --> 00:09:11.000
+Eric Severson: You can have a custom summary that includes who agreed to do what, and on what date, and you've got follow-up items, and it will automatically send them.
+
+00:09:12.000 --> 00:09:19.000
+Eric Severson: Uh, takes a little bit of tweaking, so I find that I've got to ask it to disregard the, you know, the beginnings of meetings when we're talking about social stuff.
+
+00:09:20.000 --> 00:09:29.000
+Eric Severson: That doesn't need to go in the… in the… in the follow-up meeting notes. Uh, but there's stuff like that that you can start to fine-tune, and it just… it makes it easy.
+
+00:09:23.000 --> 00:09:25.000
+Caroline Walters: Hmm.
+
+00:09:29.000 --> 00:09:35.000
+Eric Severson: And then always being able to go back to a transcript, I find is enormously freeing.
+
+00:09:35.000 --> 00:09:48.000
+Eric Severson: there's never this… I never said that. Well, hold on. I understand that you might not remember saying that, but let's go look at the instant replay. And so it has a way of really taking any of the…
+
+00:09:48.000 --> 00:09:53.000
+Eric Severson: Recollection burden out of, uh, of moving forward.
+
+00:09:53.000 --> 00:09:58.000
+Eric Severson: So, let me see if I can't get to our Zoom link here, and I'll share that with you.
+
+00:10:01.000 --> 00:10:04.000
+Eric Severson: This is also…
+
+00:10:05.000 --> 00:10:07.000
+Eric Severson: Where you can set up…
+
+00:10:08.000 --> 00:10:10.000
+Eric Severson: Um…
+
+00:10:10.000 --> 00:10:12.000
+Eric Severson: Custom features…
+
+00:10:12.000 --> 00:10:15.000
+Eric Severson: in Zoom, so I'll share the…
+
+00:10:15.000 --> 00:10:17.000
+Eric Severson: Window, real quick.
+
+00:10:19.000 --> 00:10:21.000
+Eric Severson: And…
+
+00:10:20.000 --> 00:10:29.000
+Sherri Twitty: Well, I'm sorry, I can't see all of this stuff, so… and I'm not gonna kill myself doing it, so I'm trying, but I'm just telling you now.
+
+00:10:30.000 --> 00:10:37.000
+Eric Severson: It's all good. So, the goal that I have with all of this stuff is first to drive awareness. Is it because you're on laptop screen, or, uh…
+
+00:10:31.000 --> 00:10:33.000
+Caroline Walters: She's been to the eye doctor.
+
+00:10:37.000 --> 00:10:39.000
+Eric Severson: Or…
+
+00:10:37.000 --> 00:10:46.000
+Sherri Twitty: I've, I've been to the retina specialist today and I'm not, I can't, my eyes are dilated and I'm not supposed to be straining my eyes and looking at screens.
+
+00:10:46.000 --> 00:10:52.000
+Eric Severson: I have that coming up next… the week after next, and uh… and we put it at…
+
+00:10:52.000 --> 00:10:56.000
+Eric Severson: I love it when they dilate your eyes and you spend the rest of the day trying to figure out what to do.
+
+00:10:57.000 --> 00:11:01.000
+Eric Severson: Alright, so, uh, Columbia Southern…
+
+00:11:10.000 --> 00:11:14.000
+Caroline Walters: So, Eric, I usually get there on my workplace app.
+
+00:11:14.000 --> 00:11:24.000
+Eric Severson: I… so the reason I'm doing this is that I find feature and functionality here that I haven't been able to find in the Workplace app.
+
+00:11:15.000 --> 00:11:17.000
+Caroline Walters: Oh my.
+
+00:11:21.000 --> 00:11:23.000
+Caroline Walters: Okay.
+
+00:11:25.000 --> 00:11:27.000
+Eric Severson: So, I know it's…
+
+00:11:25.000 --> 00:11:31.000
+Caroline Walters: So, if you just go to the Zoom login, in general, and put your Columbia Southern address.
+
+00:11:31.000 --> 00:11:34.000
+Caroline Walters: You should be able to log in like this.
+
+00:11:31.000 --> 00:11:33.000
+Eric Severson: Yeah.
+
+00:11:34.000 --> 00:11:40.000
+Eric Severson: Yes, that's exactly what I just did. Now, here are the docs.
+
+00:11:35.000 --> 00:11:37.000
+Caroline Walters: Alright.
+
+00:11:40.000 --> 00:11:47.000
+Eric Severson: Right? So, that are… this is your meeting transcript, but I've only found this to include.
+
+00:11:48.000 --> 00:11:51.000
+Eric Severson: I haven't found this to… like, there's not a…
+
+00:11:51.000 --> 00:11:58.000
+Eric Severson: transcript from that last meeting here, right? So, we don't have access to that full transcript.
+
+00:11:58.000 --> 00:12:04.000
+Eric Severson: My pitch to, you know, the leadership here would be to.
+
+00:12:06.000 --> 00:12:12.000
+Eric Severson: Find a way to be okay with this. What it is, when you share transcripts, you're committing to transparency.
+
+00:12:13.000 --> 00:12:20.000
+Eric Severson: If someone has a problem with that, it's a bigger question mark about, well, why are you, uh, unsure about transparency?
+
+00:12:20.000 --> 00:12:22.000
+Eric Severson: Well…
+
+00:12:20.000 --> 00:12:25.000
+Caroline Walters: So, I think that's… I think people just don't know to do it, Eric.
+
+00:12:25.000 --> 00:12:27.000
+Eric Severson: Okay. That's…
+
+00:12:25.000 --> 00:12:33.000
+Caroline Walters: you know what I'm saying? I don't think it's about not being transparent, it's just, we went from RingCentral to Zoom, and we're having meetings.
+
+00:12:33.000 --> 00:12:35.000
+Eric Severson: Yeah.
+
+00:12:33.000 --> 00:12:40.000
+Caroline Walters: And no one's evolving to share in this. And tell me again, I've got my page pulled up.
+
+00:12:40.000 --> 00:12:42.000
+Caroline Walters: But where are the documents? Because I don't…
+
+00:12:42.000 --> 00:12:48.000
+Eric Severson: Oh, right here, so there's two ways. First, we'll go through the Zoom workplace.
+
+00:12:48.000 --> 00:12:52.000
+Caroline Walters: Like, I don't see your cursor pointed at anything.
+
+00:12:49.000 --> 00:12:54.000
+Eric Severson: Home? Oh, my bad, my bad, my bad. It helps if I share the right screen, doesn't it?
+
+00:12:54.000 --> 00:12:58.000
+Caroline Walters: Oh, I'm like, I'm not saying anything!
+
+00:12:58.000 --> 00:13:03.000
+Eric Severson: The guy is so excited to teach people about stuff, but he forgets to share the screen.
+
+00:13:01.000 --> 00:13:07.000
+Sherri Twitty: And I'm just struggling to see, and so I know I'm not, I'm like, what is going on?
+
+00:13:07.000 --> 00:13:17.000
+Eric Severson: Now, we're back to the same problem. I don't know how to share… to use Zoom to share the Zoom workplace screen.
+
+00:13:17.000 --> 00:13:20.000
+Caroline Walters: Do I need to click the word docs?
+
+00:13:18.000 --> 00:13:20.000
+Eric Severson: Right.
+
+00:13:20.000 --> 00:13:26.000
+Eric Severson: Yes, if you see across that menu bar at the top, Home, Calendar, docs.
+
+00:13:21.000 --> 00:13:23.000
+Caroline Walters: Alright.
+
+00:13:27.000 --> 00:13:33.000
+Eric Severson: Then, then you should see over on the left-hand side…
+
+00:13:33.000 --> 00:13:36.000
+Eric Severson: uh, meetings…
+
+00:13:36.000 --> 00:13:44.000
+Eric Severson: CR Meeting, view details… you can get a summary of the transcript, but you can't get the full one here.
+
+00:13:44.000 --> 00:13:53.000
+Eric Severson: So, meeting, we do not have permission to view. You can request it, but I'm guessing that this is more about what you just mentioned, that people haven't had.
+
+00:13:54.000 --> 00:13:59.000
+Eric Severson: a training session on Zoom, so they don't know that it's here, and how to get at it.
+
+00:14:00.000 --> 00:14:09.000
+Eric Severson: Um, and so I'll… I'll, uh, you can see your docs, so here are the meeting summaries for any of the meetings that I have.
+
+00:14:09.000 --> 00:14:12.000
+Caroline Walters: Hey, look, we're still seeing your profile screen.
+
+00:14:09.000 --> 00:14:11.000
+Eric Severson: Right.
+
+00:14:11.000 --> 00:14:14.000
+Eric Severson: Oh, I'm sorry. I guess maybe…
+
+00:14:14.000 --> 00:14:25.000
+Eric Severson: I need to think about how to do this, because again, uh, you can't share the Zoom workplace screen from Zoom. Let me try one more time and make sure that that.
+
+00:14:24.000 --> 00:14:26.000
+Caroline Walters: Well, look, I think I can.
+
+00:14:26.000 --> 00:14:28.000
+Eric Severson: You can?
+
+00:14:28.000 --> 00:14:29.000
+Caroline Walters: Look!
+
+00:14:30.000 --> 00:14:33.000
+Eric Severson: I got a blank screen. Oh, uh, that's the website.
+
+00:14:33.000 --> 00:14:38.000
+Caroline Walters: Yeah, and that's what… this is what we were seeing on you, was this page, except it said Eric.
+
+00:14:39.000 --> 00:14:41.000
+Eric Severson: So, you know, the…
+
+00:14:39.000 --> 00:14:41.000
+Caroline Walters: And then…
+
+00:14:42.000 --> 00:14:48.000
+Eric Severson: The Zoom… the Zoom app is where I wanted to just quickly start there.
+
+00:14:42.000 --> 00:14:44.000
+Caroline Walters: I'm listening.
+
+00:14:48.000 --> 00:14:54.000
+Eric Severson: And I… let's see if we can do it this way. Maybe there's another way to do it.
+
+00:14:54.000 --> 00:14:56.000
+Caroline Walters: Now, this is my app.
+
+00:14:54.000 --> 00:14:57.000
+Sherri Twitty: Is all of this gonna be in the transcript?
+
+00:14:57.000 --> 00:15:10.000
+Eric Severson: Our transcript for this meeting, yes. And so there's all sorts of junk that goes into transcripts, which is why it's helpful, but in the AI, you say ignore all this stuff, right? I just want to know, you ask questions about.
+
+00:14:58.000 --> 00:15:00.000
+Caroline Walters: Can you…
+
+00:14:59.000 --> 00:15:01.000
+Sherri Twitty: Yes.
+
+00:15:10.000 --> 00:15:15.000
+Eric Severson: What are the follow-up points, who committed to what, where, and when, that sort of stuff.
+
+00:15:15.000 --> 00:15:18.000
+Caroline Walters: So, can you see my workplace now?
+
+00:15:15.000 --> 00:15:17.000
+Sherri Twitty: Gotcha.
+
+00:15:15.000 --> 00:15:17.000
+Eric Severson: I'm…
+
+00:15:18.000 --> 00:15:21.000
+Eric Severson: No, I can still see the website.
+
+00:15:21.000 --> 00:15:23.000
+Caroline Walters: Ah!
+
+00:15:22.000 --> 00:15:24.000
+Eric Severson: But not the workplace.
+
+00:15:23.000 --> 00:15:25.000
+Caroline Walters: Interesting.
+
+00:15:25.000 --> 00:15:32.000
+Eric Severson: Yeah, I'm struggling with that as well, going, how do I… I can do… I can try this, but it'll be…
+
+00:15:33.000 --> 00:15:36.000
+Eric Severson: It'll be the whole screen, uh…
+
+00:15:37.000 --> 00:15:43.000
+Eric Severson: And when you, when you look at screens, the workplace screen doesn't show up.
+
+00:15:45.000 --> 00:15:49.000
+Caroline Walters: Okay. Oh, that is so weird!
+
+00:15:49.000 --> 00:15:51.000
+Eric Severson: Yeah, yeah, yeah.
+
+00:15:51.000 --> 00:16:01.000
+Eric Severson: We could do a Google Meets and then show it on Zoom via Google Meets, but that seems like a whole lot of hassle. Let me just try this. I'll share my…
+
+00:16:01.000 --> 00:16:05.000
+Eric Severson: Full screen for a second, uh, and see how that works.
+
+00:16:08.000 --> 00:16:11.000
+Eric Severson: Okay, so this is my full screen.
+
+00:16:11.000 --> 00:16:16.000
+Eric Severson: Uh, and in the center here is the Zoom workplace. Can you guys see that?
+
+00:16:18.000 --> 00:16:21.000
+Eric Severson: Yeah, so here, across…
+
+00:16:20.000 --> 00:16:25.000
+Caroline Walters: No, no, no, it's still showing your web. It's not showing workplace.
+
+00:16:24.000 --> 00:16:33.000
+Eric Severson: So, I'm… that's crazy. So, even when you do… okay. So, not surprising, you're trying to share with the app, and it won't let you.
+
+00:16:26.000 --> 00:16:28.000
+Caroline Walters: Yeah.
+
+00:16:33.000 --> 00:16:43.000
+Eric Severson: So, I've been thinking about starting to do a series of quick YouTube videos on stuff, just to make it easier for people to consume it when they think about it.
+
+00:16:43.000 --> 00:16:53.000
+Eric Severson: I know, uh, I know you mentioned that Ken is interested in Notebook LM. Finding a time for us all to do a 30-minute meeting, it'd be great, I'd love to do that, but I'm also thinking, gee, it might be interesting.
+
+00:16:53.000 --> 00:17:02.000
+Eric Severson: to just start posting videos and say, here's a YouTube video I did on some things that you might be interested in when you have them in it, right? And so…
+
+00:17:02.000 --> 00:17:07.000
+Eric Severson: Uh, I think I'll try that. And here, with the Zoom thing, same, same deal.
+
+00:17:08.000 --> 00:17:15.000
+Eric Severson: Um, but let's look at the website for just one second, because that is worth understanding.
+
+00:17:15.000 --> 00:17:19.000
+Eric Severson: what's here. So here…
+
+00:17:19.000 --> 00:17:22.000
+Eric Severson: is the Zoom website for us.
+
+00:17:23.000 --> 00:17:29.000
+Eric Severson: You can go down through all of these issues, but it's really recordings and transcripts.
+
+00:17:29.000 --> 00:17:32.000
+Eric Severson: And then… transcripts.
+
+00:17:33.000 --> 00:17:40.000
+Eric Severson: So, uh, it… these are where you can download. It keeps it for 120 days.
+
+00:17:35.000 --> 00:17:37.000
+Caroline Walters: Hmm.
+
+00:17:40.000 --> 00:17:45.000
+Eric Severson: Which is sort of unfortunate, you know, honestly, these things are not that big, you could probably keep them forever.
+
+00:17:45.000 --> 00:17:54.000
+Eric Severson: But it does keep it for 120 days, so I just simply download them, and they come as text files, and I stick them in a folder called transcripts.
+
+00:17:54.000 --> 00:18:03.000
+Eric Severson: That way, if I ever really feel compelled to go back and take a look at, what did I say? What did we agree to? So the Signal Mutual.
+
+00:18:03.000 --> 00:18:09.000
+Eric Severson: Uh, custom CTR, CSU custom curriculum proposal, any of these things.
+
+00:18:10.000 --> 00:18:15.000
+Eric Severson: Give me the ability to be extremely specific in my follow-up notes with people.
+
+00:18:16.000 --> 00:18:25.000
+Eric Severson: Without having to rely on taking crazy notes by hand or remembering everything, right? So, I am not blessed with a great memory.
+
+00:18:26.000 --> 00:18:33.000
+Eric Severson: I forget stuff all the time, which is probably a big part of why I love the AI tools and the transcripts so much.
+
+00:18:33.000 --> 00:18:37.000
+Eric Severson: Uh, in here, there's…
+
+00:18:35.000 --> 00:18:41.000
+Caroline Walters: Quick question, Eric, quick question. So, if I open one of these meetings up.
+
+00:18:41.000 --> 00:18:51.000
+Caroline Walters: It's coming, like you say, and it's got a timestamp for everyone's response. Is that what you have on your end? It's not just a pretty Word document that's transcript.
+
+00:18:50.000 --> 00:18:55.000
+Eric Severson: No, it's not… it is definitely not a pretty Word document. It is… it is…
+
+00:18:53.000 --> 00:18:57.000
+Caroline Walters: Okay, I'm just making sure I'm getting the right thing, so…
+
+00:18:56.000 --> 00:19:08.000
+Eric Severson: that I think it's totally unusable unless you drop it into AI. ChatGPT, Microsoft Copilot, you drop it in there, and then you ask questions about it, right? And otherwise, it's… it's…
+
+00:19:01.000 --> 00:19:02.000
+Caroline Walters: Yeah.
+
+00:19:05.000 --> 00:19:07.000
+Caroline Walters: Okay.
+
+00:19:08.000 --> 00:19:15.000
+Eric Severson: not… it's barely human-readable, I don't know, I've never once tried to scan through the whole thing to go, uh, what is in here?
+
+00:19:11.000 --> 00:19:13.000
+Caroline Walters: Yeah.
+
+00:19:15.000 --> 00:19:27.000
+Eric Severson: Um, we should probably do, you know, uh, I think you can set these things to build the agendas as well, if you want to, beforehand, so everybody sees an agenda ahead of time.
+
+00:19:27.000 --> 00:19:34.000
+Eric Severson: Um, the rest of this, other than recordings and summaries.
+
+00:19:34.000 --> 00:19:40.000
+Eric Severson: I actually now forget where you set some of the, uh…
+
+00:19:40.000 --> 00:19:44.000
+Eric Severson: Some of the settings for things like…
+
+00:19:44.000 --> 00:19:54.000
+Eric Severson: where am I when AutoCompanion on the web, locked by admin, this is my favorite thing on the world, to see that the IT people are making bad decisions for us.
+
+00:19:55.000 --> 00:20:04.000
+Eric Severson: Um, but you can go down through here and make sure that you're checking and enabling things. So, Meeting Summary with AI Companion.
+
+00:20:04.000 --> 00:20:15.000
+Eric Severson: I would just check these and turn them on, right? Now, we've restricted users from sharing summaries. Again, IT, bad decision, I would say. Policy decision at some.
+
+00:20:15.000 --> 00:20:25.000
+Eric Severson: Buddy made when they were checking the check boxes. At some point, I will either go to Scott or to Ken and say, here's some opportunities that we were being limited by.
+
+00:20:25.000 --> 00:20:33.000
+Eric Severson: on choices, were they conscious? If they are conscious, you know, would love to know it. If they're not conscious, should probably go in and have a little bit of a debate about these things.
+
+00:20:33.000 --> 00:20:41.000
+Eric Severson: Because again, this to me is about full transparency, and it just relieves me of either having to take notes or having to remember things.
+
+00:20:42.000 --> 00:20:52.000
+Eric Severson: So I would definitely scroll through and look at… you can send pre-meeting email notifications. Send an email notification to the host and or participants 10 minutes before the meeting starts.
+
+00:20:52.000 --> 00:20:57.000
+Eric Severson: There's all sorts of stuff in here that is worth looking at and going.
+
+00:20:57.000 --> 00:21:00.000
+Eric Severson: Is this how I want it to do it? Um…
+
+00:21:00.000 --> 00:21:06.000
+Eric Severson: Here's the webinar summary with AI Companion. Why we have that locked? I…
+
+00:21:06.000 --> 00:21:14.000
+Eric Severson: Can't even imagine why that would be the case. We're not doing webinars right now, but it doesn't… it doesn't really matter, so I would just focus mostly on the meetings.
+
+00:21:15.000 --> 00:21:27.000
+Eric Severson: Uh, and it would be here, turn on Meeting Summary automatically when meetings start, include an email notification when sharing with users, include summary text in the email. And this is, again, in the settings.
+
+00:21:27.000 --> 00:21:33.000
+Eric Severson: On the website. I haven't been able to find these things in the app, only on the website.
+
+00:21:34.000 --> 00:21:36.000
+Eric Severson: So…
+
+00:21:36.000 --> 00:21:40.000
+Eric Severson: I'll run through… I'll look first and see if there is a good video from…
+
+00:21:40.000 --> 00:21:49.000
+Eric Severson: Zoom itself, and then just run through and say, here are a few things to at least consider how to use these things and how to turn them on.
+
+00:21:49.000 --> 00:21:57.000
+Eric Severson: Um, summaries is worth looking at, too, and again, just to see, here are all your summaries for your meetings.
+
+00:21:57.000 --> 00:22:03.000
+Eric Severson: What's a bummer is if people aren't sharing them, like, I would be… I would love to see.
+
+00:22:04.000 --> 00:22:09.000
+Eric Severson: you're sharing them, so if you turned it on, fantastic. Here's your…
+
+00:22:09.000 --> 00:22:14.000
+Eric Severson: Uh, September 23rd UR leadership meeting summary.
+
+00:22:14.000 --> 00:22:20.000
+Eric Severson: That was in there. I think this is terrific, right? So, it gives you a quick recap.
+
+00:22:20.000 --> 00:22:22.000
+Eric Severson: It gives you next steps.
+
+00:22:22.000 --> 00:22:33.000
+Eric Severson: Now, are all of these always exactly right? Maybe yes, maybe no, right? So, sometimes you can go in here and go, hey guys, if you see a next step that AI is picking out, but you.
+
+00:22:33.000 --> 00:22:39.000
+Eric Severson: don't agree with, just let me know, and it's not hard and fast, right? As we're getting to know the tool in particular.
+
+00:22:39.000 --> 00:22:46.000
+Eric Severson: A little grace around the learning curve makes a ton of sense. And then over time, we can… we can, uh…
+
+00:22:46.000 --> 00:22:50.000
+Eric Severson: Customize the way that you have these summaries.
+
+00:22:50.000 --> 00:22:58.000
+Eric Severson: I love that there's one in here, so there was one and done, maybe that's when they first rolled out Zoom, and then they decided they would go in and uncheck everything.
+
+00:22:58.000 --> 00:23:09.000
+Eric Severson: at a centralized level. I think this is, you know, this is a nice service for people to see this immediately after your meetings, to go, oh yeah, these are the things that we committed to, and here's.
+
+00:23:09.000 --> 00:23:16.000
+Eric Severson: Here are the marching orders going forward, without you having to sit down and either, you know, write a marching orders note or any of that sort of stuff.
+
+00:23:19.000 --> 00:23:30.000
+Eric Severson: But that's it. So, after… after sharing, like, I would love it if Dale had turned on sharing, because then we would be able to see a complete summary, and then maybe get the full.
+
+00:23:30.000 --> 00:23:40.000
+Eric Severson: details of that last meeting. What does that get you? What dates did they mention? Give me a list of dates they mentioned that are relevant for either outreach or business development.
+
+00:23:40.000 --> 00:23:44.000
+Eric Severson: Bang, it comes back in complete clarity.
+
+00:23:44.000 --> 00:23:49.000
+Caroline Walters: Okay, Speedy Gonzales, I have a question for you.
+
+00:23:47.000 --> 00:23:52.000
+Eric Severson: Yes. Yes, I am highly caffeinated this morning, so…
+
+00:23:51.000 --> 00:23:56.000
+Caroline Walters: I have not turned on anything. I think I push that manually after a meeting.
+
+00:23:56.000 --> 00:23:57.000
+Eric Severson: You did? Okay.
+
+00:23:56.000 --> 00:24:07.000
+Caroline Walters: like, you know how it'll give you a summary, then you can drop people's email addresses and share your summary? So, where in here do you go in to turn on summaries? I'm sure you showed us, but…
+
+00:24:07.000 --> 00:24:12.000
+Eric Severson: We'll do it again. And so, under settings…
+
+00:24:08.000 --> 00:24:12.000
+Caroline Walters: Yes, just go to that one… that one thing right now.
+
+00:24:12.000 --> 00:24:15.000
+Eric Severson: Yep, under Settings on the left-hand nav bar.
+
+00:24:14.000 --> 00:24:16.000
+Caroline Walters: Mm-hmm.
+
+00:24:15.000 --> 00:24:20.000
+Eric Severson: And then let's go to Meeting. You can do it either here or here.
+
+00:24:19.000 --> 00:24:21.000
+Caroline Walters: Okay.
+
+00:24:20.000 --> 00:24:24.000
+Eric Severson: And then let's just roll down through. Participants can request…
+
+00:24:25.000 --> 00:24:29.000
+Eric Severson: Allow users to ask questions about the meeting…
+
+00:24:30.000 --> 00:24:40.000
+Eric Severson: share with all participants only when they join, right? So, I don't know why I have that set. I mean, you want to encourage people not to skip your meetings.
+
+00:24:40.000 --> 00:24:46.000
+Eric Severson: But if they do miss your meeting, you can do participants and invitees in our organization.
+
+00:24:47.000 --> 00:24:52.000
+Eric Severson: So that, that way, if they miss it, they still basically get the summary.
+
+00:24:52.000 --> 00:24:58.000
+Eric Severson: Summary… and so, is yours checked here? Send an email notification when sharing with users?
+
+00:24:59.000 --> 00:25:04.000
+Caroline Walters: Let me get down to it, because I had to go back and click something different to get to this.
+
+00:25:04.000 --> 00:25:06.000
+Eric Severson: Okay.
+
+00:25:05.000 --> 00:25:10.000
+Caroline Walters: Meeting summary with AI Companion, is that what I'm… is that what I'm looking for?
+
+00:25:09.000 --> 00:25:17.000
+Eric Severson: it's a little bit below that. It's in the, uh, it's that, first of all, send an email notification when sharing with users.
+
+00:25:17.000 --> 00:25:19.000
+Eric Severson: Include summary text in the email.
+
+00:25:20.000 --> 00:25:22.000
+Caroline Walters: Alright, did that.
+
+00:25:21.000 --> 00:25:26.000
+Eric Severson: And then down here is automatically share summary with.
+
+00:25:26.000 --> 00:25:30.000
+Eric Severson: Only me, only meeting host, co-host, and alternate.
+
+00:25:30.000 --> 00:25:35.000
+Eric Severson: Only me and meeting invitees in our organization is what I have selected.
+
+00:25:35.000 --> 00:25:43.000
+Eric Severson: Uh, and that way, it automatically goes out to anybody that I have a meeting with will then get that automatically share the summary.
+
+00:25:44.000 --> 00:25:53.000
+Eric Severson: And then I… again, I'm… I'm trying to be good about saying to people, hey, this is new, right? So we've… this is right out of the box, I'm sure we can fine-tune it. If you see stuff that… that…
+
+00:25:53.000 --> 00:26:02.000
+Eric Severson: AI is committing you to as a follow-up that you don't agree with, just call me, right? We're not going to get all bent out of shape about it. It's just a tool to try to help us all.
+
+00:26:02.000 --> 00:26:05.000
+Eric Severson: You know, be clear about what happens after the meetings.
+
+00:26:06.000 --> 00:26:12.000
+Caroline Walters: Yeah, to my knowledge, there's been no training on how to use anything with Zoom. Sherri, are you aware of it?
+
+00:26:12.000 --> 00:26:14.000
+Caroline Walters: I hadn't seen it.
+
+00:26:14.000 --> 00:26:17.000
+Eric Severson: So, who on our team.
+
+00:26:14.000 --> 00:26:18.000
+Caroline Walters: I mean, they just… this is what we're doing, damn.
+
+00:26:18.000 --> 00:26:24.000
+Eric Severson: besides the three of us, and Tony and Dwayne, and I'll handle Tony and Dwayne in terms of.
+
+00:26:24.000 --> 00:26:32.000
+Eric Severson: just making them aware and giving them quick training. Who else… I'm happy to do a training, if you want, with our team, but who else uses Zoom.
+
+00:26:32.000 --> 00:26:38.000
+Eric Severson: on a regular basis, where, you know, I think the big thing is the AI assistant.
+
+00:26:38.000 --> 00:26:46.000
+Eric Severson: Either as a participant or as a host, and then, how do you want to think about, uh, summaries, sharing them automatically?
+
+00:26:46.000 --> 00:26:57.000
+Eric Severson: Uh, and then the last piece is, how can you, uh, get at the transcript to make sure that if you need to do, you know, a careful deep dive on what was said 2 weeks ago, again, because I am.
+
+00:26:57.000 --> 00:27:08.000
+Eric Severson: chronically bad at remembering the details of a meeting two weeks ago, and this just makes that… here's how to do that. You can do it inside of Zoom, or you take that transcript, drop it in.
+
+00:27:08.000 --> 00:27:11.000
+Eric Severson: MS Copilot and ask the questions.
+
+00:27:11.000 --> 00:27:13.000
+Caroline Walters: Yeah, Ernie for sure.
+
+00:27:13.000 --> 00:27:15.000
+Eric Severson: Okay.
+
+00:27:15.000 --> 00:27:19.000
+Caroline Walters: And then, um, who… anybody else you think, Sherri?
+
+00:27:19.000 --> 00:27:21.000
+Sherri Twitty: Well, I… you know, Eric…
+
+00:27:21.000 --> 00:27:27.000
+Sherri Twitty: The team is familiar with Zoom because we actually used this before RingCentral when we whipped COVID.
+
+00:27:27.000 --> 00:27:29.000
+Eric Severson: Uh-huh.
+
+00:27:27.000 --> 00:27:34.000
+Sherri Twitty: But, um, as far as who's using it regularly right now, I don't really.
+
+00:27:34.000 --> 00:27:37.000
+Sherri Twitty: You know, they haven't…
+
+00:27:37.000 --> 00:27:43.000
+Sherri Twitty: officially done the shift from RingCentral to Zoom, uh, internally for CSU.
+
+00:27:43.000 --> 00:27:48.000
+Sherri Twitty: So, um, that I'm aware of, but, um…
+
+00:27:49.000 --> 00:27:55.000
+Sherri Twitty: But I don't mean, I don't really know of anybody who's using it regularly or other than Ernie.
+
+00:27:55.000 --> 00:27:58.000
+Sherri Twitty: And, of course, myself, um…
+
+00:27:57.000 --> 00:28:01.000
+Eric Severson: Do your managers use Zoom to have management meetings with their teams?
+
+00:28:02.000 --> 00:28:10.000
+Sherri Twitty: I don't know if they're using RingCentral or Zoom. I know, I mean, I think they're kind of using them interchangeably right now.
+
+00:28:10.000 --> 00:28:22.000
+Sherri Twitty: Uh, I know Renee schedules hers on Zoom now, uh, but we… the instructions we got were, we're gonna be going to Zoom, you can use RingCentral until we do… we officially move to Zoom.
+
+00:28:22.000 --> 00:28:32.000
+Sherri Twitty: Um, and so, I don't know who's using what specifically. I think probably Natalie does, Kim Smith, most of them are.
+
+00:28:32.000 --> 00:28:34.000
+Sherri Twitty: Using Zoom.
+
+00:28:34.000 --> 00:28:38.000
+Eric Severson: So, I would be happy to have a management meeting. Sorry, go ahead, Caroline.
+
+00:28:34.000 --> 00:28:36.000
+Caroline Walters: Well, I would… I would…
+
+00:28:37.000 --> 00:28:47.000
+Caroline Walters: I was gonna say, I recommend, why don't we just do a training for anyone who is interested? Not a mandated training, but just, hey, as a college, we're moving.
+
+00:28:43.000 --> 00:28:45.000
+Eric Severson: Sure.
+
+00:28:47.000 --> 00:28:52.000
+Caroline Walters: to the Zoom Platform, be ready for the move.
+
+00:28:52.000 --> 00:28:56.000
+Caroline Walters: you're doing an AI, you know, 411, um…
+
+00:28:56.000 --> 00:28:58.000
+Caroline Walters: Zoom.
+
+00:28:57.000 --> 00:29:02.000
+Eric Severson: Yeah, and I'll give it a little detail, because the people that I think would…
+
+00:29:02.000 --> 00:29:08.000
+Eric Severson: Benefit the most are managers, if they're having team meetings.
+
+00:29:08.000 --> 00:29:15.000
+Eric Severson: And, Sherri, when your eyesight is clear, I'm happy to spend as much time as you would like on this stuff.
+
+00:29:15.000 --> 00:29:20.000
+Eric Severson: But with the managers, then, for a team meeting.
+
+00:29:20.000 --> 00:29:26.000
+Eric Severson: as a simple follow-up, this is gold, right? Then you can focus on being present in the meeting.
+
+00:29:26.000 --> 00:29:36.000
+Eric Severson: You can make your agenda, and then you can focus on the conversation with each person. You don't have to wildly record or remember what everybody said.
+
+00:29:36.000 --> 00:29:41.000
+Eric Severson: The end of that meeting, we can tune the summaries for.
+
+00:29:41.000 --> 00:29:49.000
+Eric Severson: you know, what were the big ideas? What are the themes of this meeting and week? What are the things that we need to think about as a team to, uh…
+
+00:29:49.000 --> 00:29:55.000
+Eric Severson: to move forward on. And then you, Sherri, if you're looking forever interested in.
+
+00:29:54.000 --> 00:29:59.000
+Sherri Twitty: Hey, I'm sorry, I'm gonna have to get off. I'm… I'm sick. I'm gonna have to get off. I'll have to…
+
+00:29:59.000 --> 00:30:01.000
+Sherri Twitty: Talk to y'all later.
+
+00:30:00.000 --> 00:30:03.000
+Eric Severson: No problem. I'm sorry to hear that.
+
+00:30:02.000 --> 00:30:04.000
+Caroline Walters: Hi Sherri hope you feel better.
+
+00:30:04.000 --> 00:30:12.000
+Eric Severson: So what I was gonna finish that thought, Caroline, is that for Sherri then, or anybody that's managing across a bunch of managers.
+
+00:30:07.000 --> 00:30:09.000
+Caroline Walters: Yeah.
+
+00:30:12.000 --> 00:30:19.000
+Eric Severson: Being able to take the summaries, and we can set up some… make this easy, but being able to take the summaries.
+
+00:30:19.000 --> 00:30:26.000
+Eric Severson: So that her end of the week can include, what did I hear, what did my teams discuss.
+
+00:30:26.000 --> 00:30:35.000
+Eric Severson: Thematically and specifically, and to pull all that together for a neat document at the end of every week, if they're having weekly team meetings.
+
+00:30:35.000 --> 00:30:45.000
+Eric Severson: then this is one of those things that, you know, look, I manage tons of teams, and the hardest thing that I had a handle on across a large number of people.
+
+00:30:45.000 --> 00:30:55.000
+Eric Severson: was getting the temperature. I didn't need to get lost in, you know, with 800 reps. I didn't need to get lost in some reps.
+
+00:30:55.000 --> 00:31:02.000
+Eric Severson: you know, details at an individual school. I was looking for trends, patterns, and broader areas.
+
+00:31:03.000 --> 00:31:10.000
+Eric Severson: AI is fantastic at that with transcripts. So if you have a weekly meeting across 6 of your managers.
+
+00:31:10.000 --> 00:31:23.000
+Eric Severson: For them to take the time to roll up, uh, what happened in this from a thematic perspective or other things takes a ton of time, especially if they're bad writers, and especially if they're not taking great notes during the meeting they're trying to run.
+
+00:31:23.000 --> 00:31:28.000
+Eric Severson: This makes that all go away. You can concentrate on your people and conversation.
+
+00:31:28.000 --> 00:31:35.000
+Eric Severson: And then you can, you know, make that follow-up way different, and it's just a little bit of skill.
+
+00:31:35.000 --> 00:31:43.000
+Eric Severson: around knowing that these capabilities are in Zoom, and then, you know, how long does it take to get that transcript out.
+
+00:31:43.000 --> 00:31:52.000
+Eric Severson: Uh, to, you know, from your team meeting, and I'm pretty sure we can automate this. We might need to talk to Scott about turning some things on.
+
+00:31:52.000 --> 00:31:58.000
+Eric Severson: Because everything is locked down in the MS Companion, but it is absolutely.
+
+00:31:58.000 --> 00:32:08.000
+Eric Severson: manageable to say, I want to take the team meeting transcripts from these 6, I want to put it into a single place, I want the summary to come to Sherri.
+
+00:32:08.000 --> 00:32:14.000
+Eric Severson: So that she sees just the high-level summary on the team meetings each week.
+
+00:32:14.000 --> 00:32:20.000
+Eric Severson: Does that replace the weekly update stuff? No, probably not, but it gives you another data point.
+
+00:32:20.000 --> 00:32:26.000
+Eric Severson: based on… I, as a field-based leader, I mandated.
+
+00:32:26.000 --> 00:32:32.000
+Eric Severson: weekly meetings with teams, because when you're remote, I thought it was way too easy.
+
+00:32:32.000 --> 00:32:41.000
+Eric Severson: For people to become isolated, and that's bad news, right? You want to make sure that you're bringing people together, lifting it up and supporting, but also getting.
+
+00:32:41.000 --> 00:32:50.000
+Eric Severson: Meaningful information from a distributed organization is hard, and so we wrestled with this for years on.
+
+00:32:50.000 --> 00:32:57.000
+Eric Severson: is it good use of management time to do all these calls and roll-ups, and we're not actually doing the work? I'm like, oh, the work?
+
+00:32:57.000 --> 00:33:05.000
+Eric Severson: is to provide meaningful insight across the management layer so that you can think about it and have some unique insights. And these tools now.
+
+00:33:05.000 --> 00:33:09.000
+Eric Severson: make that super possible. Um, so…
+
+00:33:10.000 --> 00:33:12.000
+Eric Severson: That's my pitch. If… if…
+
+00:33:13.000 --> 00:33:18.000
+Caroline Walters: Well, I turned mine on. You'll be getting summaries from me.
+
+00:33:15.000 --> 00:33:19.000
+Eric Severson: Okay, good. Good. Yay.
+
+00:33:18.000 --> 00:33:25.000
+Caroline Walters: Um, and have patience with Sherri she's not quite, she's not quite as transparent.
+
+00:33:21.000 --> 00:33:23.000
+Eric Severson: No, no, I…
+
+00:33:25.000 --> 00:33:28.000
+Eric Severson: I get it. Well, so they're… yeah, yeah.
+
+00:33:26.000 --> 00:33:32.000
+Caroline Walters: And so, it takes a little while. It's almost going to be probably some modeling from us.
+
+00:33:33.000 --> 00:33:35.000
+Eric Severson: Sure.
+
+00:33:33.000 --> 00:33:35.000
+Caroline Walters: Get her on board.
+
+00:33:35.000 --> 00:33:41.000
+Eric Severson: Yeah, I mean, again, I've had clients that said to me, I don't want anything to do with this, I think it's the devil's work, to…
+
+00:33:35.000 --> 00:33:37.000
+Caroline Walters: And…
+
+00:33:41.000 --> 00:33:56.000
+Eric Severson: you're trying to replace me, to why in the world do you need to see my chit-chat comments? I'm like, I don't, and we'll work out the social bits, you know, get AI to focus on the meaningful bits, right? I don't care about your social stuff.
+
+00:33:51.000 --> 00:33:53.000
+Caroline Walters: Mm-hmm.
+
+00:33:54.000 --> 00:33:56.000
+Caroline Walters: Mm-hmm.
+
+00:33:56.000 --> 00:34:01.000
+Eric Severson: Uh, let's just focus on the other. And then, yeah, so, I'm obviously a fan. Let me…
+
+00:34:01.000 --> 00:34:03.000
+Eric Severson: Do you have 5 more minutes I want to shift gears on.
+
+00:34:02.000 --> 00:34:04.000
+Caroline Walters: Yeah! Yeah, yeah.
+
+00:34:05.000 --> 00:34:10.000
+Eric Severson: So, uh, we didn't really get a chance to talk about the, um…
+
+00:34:11.000 --> 00:34:15.000
+Eric Severson: The ideas that Tony, Dwayne, and I.
+
+00:34:15.000 --> 00:34:19.000
+Eric Severson: We're putting forward about 2026.
+
+00:34:18.000 --> 00:34:22.000
+Caroline Walters: By the way, I love this notebook, Elliom.
+
+00:34:22.000 --> 00:34:24.000
+Eric Severson: Good, good.
+
+00:34:23.000 --> 00:34:25.000
+Caroline Walters: Like, uh, yes.
+
+00:34:25.000 --> 00:34:30.000
+Eric Severson: Yeah, yeah, and the deeper I go in it, you can control it.
+
+00:34:30.000 --> 00:34:35.000
+Eric Severson: at a very granular level, but it takes a little work, so I started.
+
+00:34:34.000 --> 00:34:36.000
+Caroline Walters: Okay.
+
+00:34:36.000 --> 00:34:40.000
+Eric Severson: with Notebook LM in early 2024.
+
+00:34:41.000 --> 00:34:52.000
+Eric Severson: and probably have 50 notebooks at this point, and I'm still climbing up the learning curve, right? So, as… but I am blown away by what you can do.
+
+00:34:47.000 --> 00:34:49.000
+Caroline Walters: Yeah, okay.
+
+00:34:52.000 --> 00:34:58.000
+Eric Severson: With a little bit of work, right? So, uh, and if you ever get stuck.
+
+00:34:53.000 --> 00:34:54.000
+Caroline Walters: Mm-hmm.
+
+00:34:58.000 --> 00:35:03.000
+Eric Severson: I just, yesterday, or 2 days ago, found a website where you can drop an image in.
+
+00:35:03.000 --> 00:35:08.000
+Eric Severson: from Notebook LM, and it will deconstruct it to a PowerPoint where you can edit everything. Yeah.
+
+00:35:08.000 --> 00:35:10.000
+Eric Severson: Absolutely amazing. I was like…
+
+00:35:08.000 --> 00:35:12.000
+Caroline Walters: Uh, pass that my way, yes!
+
+00:35:10.000 --> 00:35:22.000
+Eric Severson: Yeah, I think that Google will build that in the notebook LM at some point, but today, if there's something that you don't like, but that, you know, you're stuck with this whole image, now there… I'll send you the link to that when we're done here.
+
+00:35:22.000 --> 00:35:24.000
+Caroline Walters: Cool, yeah.
+
+00:35:22.000 --> 00:35:28.000
+Eric Severson: So there… there are 3 things that… that I wanted to make sure that we hit for a minute, and it's…
+
+00:35:29.000 --> 00:35:37.000
+Eric Severson: It's really this first one. So these are the three priorities that I think we should have in business development for 2026.
+
+00:35:38.000 --> 00:35:49.000
+Eric Severson: partnership development, channel optimization, which is really the benefit companies, and then, uh, operational infrastructure, which is really 3 things. The, you know, the soccer thing.
+
+00:35:49.000 --> 00:35:55.000
+Eric Severson: Finishing off some playbooks and looking at ways to boost internal visibility and communication across our teams.
+
+00:35:55.000 --> 00:36:00.000
+Eric Severson: But it's really partnership development that I wanted to talk about for a minute to see…
+
+00:36:00.000 --> 00:36:02.000
+Eric Severson: See what you think about this.
+
+00:36:02.000 --> 00:36:07.000
+Eric Severson: So, um, because there's really just me and Tony doing this.
+
+00:36:08.000 --> 00:36:13.000
+Eric Severson: And because there are so many people.
+
+00:36:13.000 --> 00:36:18.000
+Eric Severson: across CSU that are doing MOUs and articulation agreements.
+
+00:36:18.000 --> 00:36:25.000
+Eric Severson: I've been mulling over what's our role? What can we do that contributes the most?
+
+00:36:25.000 --> 00:36:33.000
+Eric Severson: I don't think it's, you know, Fortune 500, honestly. That was more about having a lot of people that could bang on it with a singular focus.
+
+00:36:33.000 --> 00:36:35.000
+Eric Severson: I, um…
+
+00:36:36.000 --> 00:36:38.000
+Eric Severson: I think that…
+
+00:36:39.000 --> 00:36:44.000
+Eric Severson: we have the ability, Eric and Tony have the ability.
+
+00:36:45.000 --> 00:36:51.000
+Eric Severson: To really help in the areas that are less well-known, that are new.
+
+00:36:51.000 --> 00:36:56.000
+Eric Severson: and maybe a little unclear. And so, when I think about.
+
+00:36:56.000 --> 00:36:58.000
+Eric Severson: That concept.
+
+00:36:58.000 --> 00:37:01.000
+Eric Severson: It's not education.
+
+00:37:01.000 --> 00:37:12.000
+Eric Severson: Could we help in education? Sure. Do you need us in education? I don't think so, because the education is extremely well understood, it's well organized, right? It structures.
+
+00:37:12.000 --> 00:37:17.000
+Eric Severson: At every state and county level that are not hard to discern, and…
+
+00:37:18.000 --> 00:37:23.000
+Eric Severson: our offerings are… are not brand new. They're tried and true offerings, and so…
+
+00:37:23.000 --> 00:37:33.000
+Eric Severson: to penetrate the education marketplace, you need people. You need people on the education team with network connections, and frankly, your outreach team is probably extremely well-suited.
+
+00:37:33.000 --> 00:37:40.000
+Eric Severson: To begin to build the relationships and the presence at those conferences, and then look for learning partnerships.
+
+00:37:49.000 --> 00:38:00.000
+Eric Severson: be pretty standard. And so, maybe, when it starts to ebb over into custom curriculum, somebody calls us and says, hey, can you help us with this? But I'm not even sure that's the case.
+
+00:38:01.000 --> 00:38:11.000
+Eric Severson: I start to think about healthcare and I think, okay, healthcare is also, it's not as easy as, um, education.
+
+00:38:11.000 --> 00:38:18.000
+Eric Severson: But it's pretty clear, right? So there are major hospital organizations, it's commercial, there are some associations.
+
+00:38:18.000 --> 00:38:24.000
+Eric Severson: It's not hard to figure out, takes a little bit of work, but it's more about the mass.
+
+00:38:25.000 --> 00:38:34.000
+Eric Severson: ability to do it. So you've got a good product team, and you've got the outreach team starting to build those relationships through presence.
+
+00:38:35.000 --> 00:38:43.000
+Eric Severson: So, I get the sense that Sherri didn't love the nurses. I'm telling you, we… I rolled out a specialized nursing sales force at Pearson.
+
+00:38:43.000 --> 00:38:51.000
+Eric Severson: And I loved it. Uh, I love the nurses, we had so much fun with them over the years, we had… we did a big business with them, so…
+
+00:38:51.000 --> 00:38:56.000
+Eric Severson: It's not that I don't want to be part of healthcare, because I thought that that population is.
+
+00:38:56.000 --> 00:39:02.000
+Eric Severson: Uh, super fun and, you know, you're doing good in the world, but she seems like she's got that.
+
+00:39:03.000 --> 00:39:05.000
+Eric Severson: So, where Eric and Tony can be…
+
+00:39:03.000 --> 00:39:06.000
+Caroline Walters: Well, I will plug in now.
+
+00:39:05.000 --> 00:39:07.000
+Eric Severson: Yep.
+
+00:39:07.000 --> 00:39:13.000
+Caroline Walters: Sherri's not going to big hospital systems trying to get a partnership.
+
+00:39:13.000 --> 00:39:18.000
+Caroline Walters: like, I think that's where you, your team could plug in.
+
+00:39:18.000 --> 00:39:20.000
+Caroline Walters: At a much higher level.
+
+00:39:20.000 --> 00:39:29.000
+Caroline Walters: Sherri gets in the weeds, and I'm trying to get her from staying in the weeds so much, because if… I mean, I know she would like to advance.
+
+00:39:29.000 --> 00:39:34.000
+Caroline Walters: In leadership, but until she changes some of the things.
+
+00:39:29.000 --> 00:39:31.000
+Eric Severson: Yep. Yep.
+
+00:39:34.000 --> 00:39:39.000
+Caroline Walters: She's still acting very much as a manager of the team.
+
+00:39:39.000 --> 00:39:43.000
+Eric Severson: Well, but the ANA thing is a pretty good indication that she…
+
+00:39:44.000 --> 00:39:47.000
+Eric Severson: has the ability. Now, you know.
+
+00:39:45.000 --> 00:39:50.000
+Caroline Walters: Oh! She does have the ability! It's getting her to… to do it.
+
+00:39:47.000 --> 00:39:49.000
+Eric Severson: Yes.
+
+00:39:50.000 --> 00:39:54.000
+Caroline Walters: just like this thing, the opportunity that, uh, Bonnie.
+
+00:39:54.000 --> 00:39:59.000
+Caroline Walters: emailed, you know, and Ken included me, and I sent to you guys.
+
+00:39:55.000 --> 00:39:57.000
+Eric Severson: Yep.
+
+00:39:58.000 --> 00:40:00.000
+Eric Severson: Yep.
+
+00:39:59.000 --> 00:40:09.000
+Caroline Walters: In my mind, I feel like that's more you, because that's a very similar thing that you guys did, and if you don't want it, I mean, Sherri can do it.
+
+00:40:09.000 --> 00:40:19.000
+Eric Severson: No, no, we'll get to that. This is exactly what I'm building up to, is that this is the trigger for… to have this conversation a little bit, and it's forced me to… there's been a couple of things that I've been.
+
+00:40:09.000 --> 00:40:11.000
+Caroline Walters: But…
+
+00:40:12.000 --> 00:40:14.000
+Caroline Walters: Okay.
+
+00:40:15.000 --> 00:40:17.000
+Caroline Walters: Okay.
+
+00:40:19.000 --> 00:40:24.000
+Eric Severson: mulling over as I get to know the organization more. And the thing that sort of sticks out to me is.
+
+00:40:25.000 --> 00:40:31.000
+Eric Severson: thank you for putting me on that MOU thing and the articulation thing. I had no idea that they were being signed like that.
+
+00:40:31.000 --> 00:40:42.000
+Eric Severson: Uh, and so I've really, you know, in a big corporation, that would never, you would never have this level of decentralization. You have a deal desk, and it all flows through the deal desk, but…
+
+00:40:31.000 --> 00:40:33.000
+Caroline Walters: Mm-hmm.
+
+00:40:42.000 --> 00:40:47.000
+Eric Severson: There's a lot more cost and revenue associated with those.
+
+00:40:47.000 --> 00:40:52.000
+Eric Severson: partnerships in a big corporation, right? You're extracting money, and it's a whole different deal.
+
+00:40:52.000 --> 00:40:59.000
+Eric Severson: These are not that complex. And so, I believe now that the decentralized thing is a.
+
+00:40:59.000 --> 00:41:09.000
+Eric Severson: positive strength of CSU, and I'm trying to figure out how do I fit in with Tony to that, and how do we take advantage of that.
+
+00:41:09.000 --> 00:41:15.000
+Eric Severson: Scale. To do a decentralized approach, but to do it a little better, right? Because I do…
+
+00:41:15.000 --> 00:41:21.000
+Eric Severson: So… so then, to… for our… for Tony and Eric for 26.
+
+00:41:22.000 --> 00:41:30.000
+Eric Severson: Uh, new programs, like space. So space compared to education or nursing, it's less clear.
+
+00:41:30.000 --> 00:41:37.000
+Eric Severson: There's not unifying central organization, there are very tight geography-specific stuff.
+
+00:41:37.000 --> 00:41:42.000
+Eric Severson: There's not a list that you can go to anywhere to say, give me all these things, so it requires a little bit of research.
+
+00:41:43.000 --> 00:41:49.000
+Eric Severson: And then everything requires some investment in building the relationship, the connection's there.
+
+00:41:49.000 --> 00:41:56.000
+Eric Severson: I do think that Jim, Tony, Eric can help in the more difficult areas.
+
+00:41:56.000 --> 00:42:02.000
+Eric Severson: Uh, so that and, you know, I've got skilled trades here, I definitely think that's worth.
+
+00:42:02.000 --> 00:42:09.000
+Eric Severson: You know, us spending focused time on opening up the pipelines from all the various skilled trades into.
+
+00:42:09.000 --> 00:42:18.000
+Eric Severson: CSU for both the hire, train, deploy model, which is that pre-employment thing, right, we'll pick up a little revenue there, but the real big gain.
+
+00:42:18.000 --> 00:42:28.000
+Eric Severson: is working with the employers and establishing our brand, so as they start to think about degree attainment and management, you know, succession planning, management, staffing.
+
+00:42:28.000 --> 00:42:32.000
+Eric Severson: We are a natural, uh, partner in all those things.
+
+00:42:32.000 --> 00:42:43.000
+Eric Severson: Beyond that, it's… well, we have some relationships that are mostly around custom curriculum, and I think there, it does make sense for us to continue to focus. So that's live view.
+
+00:42:43.000 --> 00:42:52.000
+Eric Severson: That's the energy consortium, that's Signal Mutual, right? We have a meeting with Richard, who, uh, tomorrow, who's the Signal Mutual guy.
+
+00:42:52.000 --> 00:43:02.000
+Eric Severson: And, you know, we have not been keeping him up to speed with what's going on. I think he will be elated tomorrow, because we have been working while he's been absent or doing other things.
+
+00:43:02.000 --> 00:43:08.000
+Eric Severson: And you know how that goes. When you're not involved, you wonder, is anybody working? You guys doing anything with this stuff?
+
+00:43:03.000 --> 00:43:05.000
+Caroline Walters: Yeah.
+
+00:43:06.000 --> 00:43:08.000
+Caroline Walters: Mm-hmm.
+
+00:43:08.000 --> 00:43:14.000
+Eric Severson: So, I expect that to be a fun meeting, but the flip side of it is, we've still not registered any students in those courses.
+
+00:43:13.000 --> 00:43:16.000
+Caroline Walters: Yes. What are we gonna do about that, Eric?
+
+00:43:14.000 --> 00:43:16.000
+Eric Severson: So…
+
+00:43:16.000 --> 00:43:21.000
+Eric Severson: Correct. That is… Tony and I had this conversation yesterday, saying.
+
+00:43:20.000 --> 00:43:22.000
+Caroline Walters: Okay.
+
+00:43:21.000 --> 00:43:26.000
+Eric Severson: reach out to Richard, he had a 30-minute update to him, asked for another 30 minutes.
+
+00:43:26.000 --> 00:43:35.000
+Eric Severson: And we will give him, you know, here are the start dates, here's our registration so far, there's zero. What can we do together to try to amp up our promotion?
+
+00:43:35.000 --> 00:43:45.000
+Eric Severson: We're also going to show them the web… the landing page to say, listen, help us figure out what would you like to see on this landing page. I know, if I, you know.
+
+00:43:45.000 --> 00:43:57.000
+Eric Severson: if he doesn't have ideas, we're going to put the courses there. The Signal Mutual landing page is super generic. There's no mention of the maritime safety curriculum at all. So, number one, gee, let's fix that.
+
+00:43:57.000 --> 00:44:04.000
+Eric Severson: And then, you know, start to engage with, uh, with Sigma mutual head. So that, to me.
+
+00:44:04.000 --> 00:44:09.000
+Eric Severson: Makes total sense and is something that 2 guys can focus on and do.
+
+00:44:09.000 --> 00:44:17.000
+Eric Severson: then maintaining a strong local focus is kind of what Jim does, and Jim is going to do what Jim does. So, I think the best thing to do there is.
+
+00:44:14.000 --> 00:44:16.000
+Caroline Walters: Mm-hmm.
+
+00:44:17.000 --> 00:44:24.000
+Eric Severson: lightly corral and guide, enable, and get out of the way. Let them go do that. If we were hiring.
+
+00:44:20.000 --> 00:44:22.000
+Caroline Walters: Mm-hmm.
+
+00:44:24.000 --> 00:44:29.000
+Eric Severson: 200 reps, I would say, hmm, well, let's take that model and figure out.
+
+00:44:29.000 --> 00:44:36.000
+Eric Severson: In major metro areas where we have great partnership potential to put that model in place, but that's not what we're doing, so Jim sort of.
+
+00:44:36.000 --> 00:44:47.000
+Eric Severson: Jim. So then that gets to, what about everything else? And so, Tony is a good example of somebody who I think has been opportunistic and been event-based.
+
+00:44:47.000 --> 00:44:54.000
+Eric Severson: that are outreach events, and so, you know, it's great that he has the Filipino Nursing Association thing.
+
+00:44:54.000 --> 00:44:58.000
+Eric Severson: I don't know that we're doing anything with that, and I… yes.
+
+00:44:59.000 --> 00:45:01.000
+Caroline Walters: We don't have a student with them.
+
+00:45:01.000 --> 00:45:11.000
+Eric Severson: Yeah, so this is where it gets real quiet when I asked Tony about what are we doing to activate these things. In 26, we have to start to.
+
+00:45:11.000 --> 00:45:16.000
+Eric Severson: formulate a plan to activate post-MOU.
+
+00:45:16.000 --> 00:45:22.000
+Caroline Walters: I'm gonna circle back to what we were saying about nursing, and you said Sherri has a firm hand on it.
+
+00:45:22.000 --> 00:45:24.000
+Eric Severson: Yep.
+
+00:45:22.000 --> 00:45:36.000
+Caroline Walters: Do you want Sherri just across the board to leave nursing efforts? We can pull… Tony was in there because no one else could go. Not because… I mean, it was like a last-minute thing. He went, and then he went again.
+
+00:45:27.000 --> 00:45:29.000
+Eric Severson: Well, this is the question.
+
+00:45:32.000 --> 00:45:34.000
+Eric Severson: Okay.
+
+00:45:37.000 --> 00:45:39.000
+Caroline Walters: Tony's not locked into nursing.
+
+00:45:39.000 --> 00:45:46.000
+Caroline Walters: Even though Bonnie dropped his name in that email she sent to Ken, that's not Bonnie's decision who's working.
+
+00:45:46.000 --> 00:45:52.000
+Caroline Walters: Nursing events, that's between all of us, and I mean, I know.
+
+00:45:52.000 --> 00:45:58.000
+Caroline Walters: Sherri has a lot of ownership in it, because it's a new program her reps are promoting, so if you want her to wrap.
+
+00:45:55.000 --> 00:45:57.000
+Eric Severson: Yeah.
+
+00:45:59.000 --> 00:46:03.000
+Caroline Walters: totally around it. I don't think she'd have a problem with that at all.
+
+00:46:03.000 --> 00:46:12.000
+Eric Severson: Well, I… I wanted… I wanted this question to come up, uh, because again, I think that considerations are two.
+
+00:46:07.000 --> 00:46:09.000
+Caroline Walters: Yeah.
+
+00:46:12.000 --> 00:46:20.000
+Eric Severson: One, how do we work with this decentralized approach that I think plays to the CSU strengths? I think that's good, right?
+
+00:46:20.000 --> 00:46:26.000
+Eric Severson: Uh, and then, how do we make the most out of the Eric and Tony?
+
+00:46:26.000 --> 00:46:32.000
+Eric Severson: Uh, investment. And I think that, you know, again, I think it can be a little bit more focused.
+
+00:46:32.000 --> 00:46:37.000
+Eric Severson: On areas that are difficult, that we're not already, you know, down the road of.
+
+00:46:35.000 --> 00:46:37.000
+Caroline Walters: Mm-hmm.
+
+00:46:37.000 --> 00:46:42.000
+Eric Severson: And then along with that comes, you know, we're going to continue to look at.
+
+00:46:42.000 --> 00:46:49.000
+Eric Severson: What can we do on the amplification perspective, right? Like this Orlando thing.
+
+00:46:47.000 --> 00:46:49.000
+Caroline Walters: Mm-hmm.
+
+00:46:49.000 --> 00:47:03.000
+Eric Severson: This Orlando thing's a great example, similar to the nursing. So I'm definitely open to the nursing, and I've had this conversation, and Tony doesn't want to let go of the Filipino thing, because he's had some success there, but I don't think that's the right question. I think the way that you just put it is the right question.
+
+00:47:03.000 --> 00:47:08.000
+Eric Severson: I think the extension of that might be with the Orlando Soccer Club.
+
+00:47:08.000 --> 00:47:14.000
+Eric Severson: So, it depends on those partners. I took a quick scan at those partners.
+
+00:47:13.000 --> 00:47:15.000
+Caroline Walters: Mm-hmm.
+
+00:47:14.000 --> 00:47:20.000
+Eric Severson: And I don't know that those are partners that we would put in a high-value list.
+
+00:47:20.000 --> 00:47:22.000
+Eric Severson: Right?
+
+00:47:21.000 --> 00:47:24.000
+Caroline Walters: I think the main one is that Orlando Health.
+
+00:47:24.000 --> 00:47:37.000
+Eric Severson: I agree. And in that case, but let's look at all of them. We need to… we need to be a little… we need to put industry identifiers on them, and I'll do this. I'm already down the road of a TAF done, right? Well, that's what I was doing during this meeting, was looking at that.
+
+00:47:28.000 --> 00:47:30.000
+Caroline Walters: Yeah, mhm.
+
+00:47:34.000 --> 00:47:36.000
+Caroline Walters: Okay.
+
+00:47:37.000 --> 00:47:40.000
+Eric Severson: And thinking about, if…
+
+00:47:40.000 --> 00:47:47.000
+Eric Severson: the main benefit to CSU is partnership with healthcare, then it may not be me at all. Then it might be Sherri.
+
+00:47:47.000 --> 00:47:57.000
+Eric Severson: And that should go and work these things now. I assume Sherri's got the skills to do that, and so, you know, to work those things, and I think then.
+
+00:47:58.000 --> 00:48:00.000
+Eric Severson: Think that plays to our strengths.
+
+00:48:00.000 --> 00:48:06.000
+Eric Severson: The 2 other thoughts I had about this is, one is kind of tactical. I definitely think.
+
+00:48:06.000 --> 00:48:12.000
+Eric Severson: Now that I'm seeing all these articulation agreements, and I know you mentioned that there's been an attempt to clean this up.
+
+00:48:12.000 --> 00:48:19.000
+Eric Severson: I think it is confusing and probably unhealthy that we have articulation agreements.
+
+00:48:19.000 --> 00:48:28.000
+Eric Severson: True articulation agreement is just credit transfer for a designated set of things, but they have marketing stuff that starts to slip in there. So you've got articulation.
+
+00:48:28.000 --> 00:48:33.000
+Eric Severson: That… that leaks over into custom curriculum and in the promotion.
+
+00:48:34.000 --> 00:48:39.000
+Eric Severson: I… I, if I could wave a wand, would say.
+
+00:48:39.000 --> 00:48:45.000
+Eric Severson: No more articulation agreements, it's a module that is… that fits into an MOU.
+
+00:48:45.000 --> 00:48:57.000
+Eric Severson: that is a component of it. And so, you may have pure articulation, which is credit transfer. You may have custom curriculum, which shouldn't be called articulation, that should be called custom curriculum.
+
+00:48:57.000 --> 00:49:02.000
+Eric Severson: And then you have the promotion and marketing agreements in exchange for the discount.
+
+00:49:03.000 --> 00:49:09.000
+Eric Severson: Now we have two competing documents, and even within that articulation agreement, I see.
+
+00:49:09.000 --> 00:49:17.000
+Eric Severson: the marketing stuff and the custom curriculum ebbing over is just sloppy. It's messy and it's confusing internally and externally.
+
+00:49:17.000 --> 00:49:24.000
+Eric Severson: I… if you need to go to Ken to say, here's something that we should fix, right? This is one of those things where I would say.
+
+00:49:25.000 --> 00:49:30.000
+Eric Severson: Clean… someone should clean that up, so that it's modules, and then the extension of that is.
+
+00:49:31.000 --> 00:49:37.000
+Eric Severson: It would be great to explain to the organization the way that we are.
+
+00:49:37.000 --> 00:49:41.000
+Eric Severson: focused for 26. I sat with…
+
+00:49:41.000 --> 00:49:55.000
+Eric Severson: uh, Tamara and her team and Tony, and they absolutely have no idea what he does. So they absolutely think he is Sherri. Sherri would probably get her back up fiercely about the amount of time that they are asking him.
+
+00:49:55.000 --> 00:50:07.000
+Eric Severson: for help and directions with basic outreach. And I get that everybody does everything, but there's a level of clarity that if we can get to an agreement on, then I think is smart to help the.
+
+00:50:07.000 --> 00:50:10.000
+Eric Severson: Uh, academic side of the house really understand it.
+
+00:50:10.000 --> 00:50:13.000
+Caroline Walters: What really aggravates me…
+
+00:50:13.000 --> 00:50:16.000
+Caroline Walters: Is that they call our department outreach.
+
+00:50:16.000 --> 00:50:18.000
+Eric Severson: Oh yeah, oh yeah, they…
+
+00:50:16.000 --> 00:50:22.000
+Caroline Walters: Holistically, and that's not who we are, and I am continuously.
+
+00:50:22.000 --> 00:50:27.000
+Caroline Walters: saying, university relations, business development, corporate outreach, right?
+
+00:50:27.000 --> 00:50:33.000
+Caroline Walters: And so that… that's been going on for years, Eric. Years.
+
+00:50:33.000 --> 00:50:49.000
+Caroline Walters: And, um, probably one of the reasons they think Tony is outreach is because a lot of the times he's acting as an outreach rep, not a true business development individual. And that's something we've got to move him, I think, to more of a BB role, as opposed to that outreach, like we talked about.
+
+00:50:49.000 --> 00:50:55.000
+Caroline Walters: Tony doesn't need to be working those nursing events as a rep.
+
+00:50:55.000 --> 00:51:00.000
+Eric Severson: We've talked about this, and I mean, this week we had the conversation about.
+
+00:50:56.000 --> 00:50:58.000
+Caroline Walters: Yeah.
+
+00:50:59.000 --> 00:51:01.000
+Caroline Walters: I gotcha.
+
+00:51:00.000 --> 00:51:03.000
+Eric Severson: And it was really me…
+
+00:51:03.000 --> 00:51:13.000
+Eric Severson: floating this conversation about role clarity, and I've been trying to make up my own mind on this, Caroline as I… the two things that really helped me.
+
+00:51:10.000 --> 00:51:12.000
+Caroline Walters: Yeah.
+
+00:51:13.000 --> 00:51:18.000
+Eric Severson: Was seeing, frankly, the flow of all the agreements.
+
+00:51:18.000 --> 00:51:23.000
+Eric Severson: And just looking at those, reading them, and thinking about, who are these coming from, and how's… this is…
+
+00:51:23.000 --> 00:51:26.000
+Eric Severson: This is aggressively decentralized.
+
+00:51:25.000 --> 00:51:33.000
+Caroline Walters: So let me give you a little history, real quick, okay? Before Dana Fuller was doing whatever she's doing with articulations.
+
+00:51:26.000 --> 00:51:28.000
+Eric Severson: Then…
+
+00:51:28.000 --> 00:51:30.000
+Eric Severson: Yep. Yep.
+
+00:51:33.000 --> 00:51:42.000
+Caroline Walters: we weren't getting… this wasn't happening at this rate. I mean, I think they're cold calling people, I don't know what they're doing, we've asked them, they won't tell us.
+
+00:51:42.000 --> 00:51:49.000
+Caroline Walters: And inevitably, they signed, ooh, we got an articulation agreement with someone we've been partners with since 2009.
+
+00:51:50.000 --> 00:51:54.000
+Caroline Walters: So, there's a lot of mess there.
+
+00:51:55.000 --> 00:52:01.000
+Caroline Walters: Janelle will never not call it articulations, because that's the.
+
+00:52:01.000 --> 00:52:06.000
+Caroline Walters: academic term, even though they're doing more than articulations, right? So.
+
+00:52:07.000 --> 00:52:23.000
+Caroline Walters: The only reason that we're all in this together is because before even Janelle, I think, came on board, Joe Manjone was over Articulations, and he came to us saying, could we put the partnership as part of Articulations?
+
+00:52:23.000 --> 00:52:29.000
+Caroline Walters: Yes, we can do that, Dr. Joe. And then, it got totally handed to us.
+
+00:52:29.000 --> 00:52:34.000
+Caroline Walters: Because the majority of articulations were with, like, EMS training centers. It wasn't.
+
+00:52:34.000 --> 00:52:41.000
+Caroline Walters: Purely… it was like their training credit articulated into course credit.
+
+00:52:40.000 --> 00:52:43.000
+Eric Severson: It's transfer credit. Sure, it's transfer credit.
+
+00:52:41.000 --> 00:52:45.000
+Caroline Walters: Yes, transfer credit, like that. Um…
+
+00:52:43.000 --> 00:52:45.000
+Eric Severson: Yeah.
+
+00:52:45.000 --> 00:52:59.000
+Caroline Walters: I don't ever see it being separate, because that… we had it separate. It caused a lot of confusion, because Dana would talk to people, and then we'd try to present them with the MOU from our side. Well, I've already signed a document.
+
+00:52:59.000 --> 00:53:02.000
+Caroline Walters: I think that the one thing that may…
+
+00:53:03.000 --> 00:53:12.000
+Caroline Walters: We may can make happen is to say, we would like to add an addendum, another section to the articulation that addresses marketing.
+
+00:53:13.000 --> 00:53:15.000
+Caroline Walters: How we want to market to these people.
+
+00:53:15.000 --> 00:53:21.000
+Caroline Walters: Um, because basically, guess what? They're not doing anything, Eric. After they get the articulation.
+
+00:53:15.000 --> 00:53:17.000
+Eric Severson: Okay.
+
+00:53:23.000 --> 00:53:25.000
+Caroline Walters: They're not servicing them.
+
+00:53:25.000 --> 00:53:28.000
+Eric Severson: So, can we…
+
+00:53:28.000 --> 00:53:33.000
+Eric Severson: pull performance data on schools that have an articulation but not an MOU?
+
+00:53:32.000 --> 00:53:37.000
+Caroline Walters: Oh, I… yeah, I can tell you right now! Just a second.
+
+00:53:35.000 --> 00:53:39.000
+Eric Severson: So how… is that in Power BI? How do you do that?
+
+00:53:38.000 --> 00:53:40.000
+Caroline Walters: Yes! Yeah.
+
+00:53:39.000 --> 00:53:45.000
+Eric Severson: And is it… and how do you differentiate between a partner that is an MOU versus an articulation?
+
+00:53:46.000 --> 00:53:53.000
+Caroline Walters: If it comes in as an articulation, well, there's a drop-down in Omega where you click articulation if they have an articulation with us.
+
+00:53:53.000 --> 00:53:57.000
+Eric Severson: And is that… does that drop down in Power BI?
+
+00:53:57.000 --> 00:53:59.000
+Eric Severson: It is, okay.
+
+00:53:59.000 --> 00:54:04.000
+Caroline Walters: Yeah, hold on, I'm gonna pull up articulations. I was just looking at them. This is for 20…
+
+00:54:05.000 --> 00:54:07.000
+Caroline Walters: 25…
+
+00:54:07.000 --> 00:54:13.000
+Caroline Walters: and of course, you know, on Power BI, I'm only seeing the active articulations, so…
+
+00:54:13.000 --> 00:54:18.000
+Caroline Walters: Of all the articulations in Omega, whatever that number is, only 28.
+
+00:54:18.000 --> 00:54:21.000
+Caroline Walters: Have a student in, um…
+
+00:54:22.000 --> 00:54:28.000
+Caroline Walters: That means a total number of 131 students used in articulation.
+
+00:54:30.000 --> 00:54:33.000
+Caroline Walters: The 10% discount that comes with an articulation.
+
+00:54:33.000 --> 00:54:42.000
+Caroline Walters: for their coursework, and 71 of the 131 were from Sophia Learning.
+
+00:54:43.000 --> 00:54:50.000
+Eric Severson: So, they get the 10% discount, but how many of them get a transfer credit? All of them in that articulation?
+
+00:54:51.000 --> 00:54:52.000
+Eric Severson: Group?
+
+00:54:52.000 --> 00:54:57.000
+Caroline Walters: I mean, I think you'd have to look at that individually. It depends on what they're transferring in, and if it's credible.
+
+00:54:58.000 --> 00:55:00.000
+Eric Severson: So…
+
+00:55:01.000 --> 00:55:03.000
+Eric Severson: I know that…
+
+00:55:02.000 --> 00:55:06.000
+Caroline Walters: Let me ask you a question. Why are you worried about articulation so much?
+
+00:55:06.000 --> 00:55:08.000
+Eric Severson: Um…
+
+00:55:09.000 --> 00:55:16.000
+Eric Severson: I think it adds to the confusion. So there's two things that have friction that I'm struggling with. One is…
+
+00:55:16.000 --> 00:55:26.000
+Eric Severson: uh… the organization sees outreach, that's the visible part of the organization, so they treat the entire organization as outreach, right? They're not clear.
+
+00:55:26.000 --> 00:55:28.000
+Eric Severson: On who does what.
+
+00:55:28.000 --> 00:55:31.000
+Eric Severson: the… that's number one. Number two…
+
+00:55:31.000 --> 00:55:33.000
+Eric Severson: It it's just…
+
+00:55:33.000 --> 00:55:43.000
+Eric Severson: A big organization would never allow this to happen, where you've got conflicting, overlapping, aligning agreements floating around out there. It just…
+
+00:55:43.000 --> 00:55:48.000
+Eric Severson: bad practice, right? And so, then for me.
+
+00:55:48.000 --> 00:55:54.000
+Eric Severson: Uh, if you look up the definition of articulation, that is not what is happening in those agreements.
+
+00:55:55.000 --> 00:56:05.000
+Caroline Walters: I understand, but Eric, that is not gonna change. But you just… I need you to accept that this just… I realize big organizations wouldn't run this way, but.
+
+00:56:05.000 --> 00:56:11.000
+Caroline Walters: Ken Styren is not going to go against Janelle on what she wants to do with articulation and what her team is doing.
+
+00:56:11.000 --> 00:56:13.000
+Eric Severson: So, the thing that might…
+
+00:56:11.000 --> 00:56:18.000
+Caroline Walters: I don't want you to waste a lot of energy on this, because this is… this is not a sword to fall on.
+
+00:56:14.000 --> 00:56:16.000
+Eric Severson: Okay.
+
+00:56:18.000 --> 00:56:21.000
+Caroline Walters: This is not… I mean…
+
+00:56:21.000 --> 00:56:23.000
+Eric Severson: Okay.
+
+00:56:21.000 --> 00:56:34.000
+Caroline Walters: Our team doesn't worry about articulations. If we are with a partner who is interested in transfer credit, we then connect them to… well, the outreach reps connect them to Sherri.
+
+00:56:34.000 --> 00:56:39.000
+Caroline Walters: Sherri connects them to Dana to start that whole conversation.
+
+00:56:39.000 --> 00:56:43.000
+Eric Severson: Yeah, so there, I guess, the…
+
+00:56:43.000 --> 00:56:48.000
+Eric Severson: The problem that I think is worth solving is two here.
+
+00:56:48.000 --> 00:56:55.000
+Eric Severson: I'm not… I don't want to just clean it up to have it cleaned up, although that… my OCD tendencies are definitely tweaked on stuff like this, but…
+
+00:56:57.000 --> 00:57:02.000
+Eric Severson: I wonder, does anybody know whether the ROI articulation.
+
+00:57:02.000 --> 00:57:04.000
+Eric Severson: Is where it should be.
+
+00:57:04.000 --> 00:57:09.000
+Caroline Walters: Oh, well, yes, Ken Styren's very aware, because I have shared this data with him.
+
+00:57:09.000 --> 00:57:14.000
+Eric Severson: Okay, so I also, when you… when you gave me those numbers, my first thought would be…
+
+00:57:15.000 --> 00:57:20.000
+Eric Severson: Holy cow, we are under leveraging the idea of articulation.
+
+00:57:20.000 --> 00:57:28.000
+Eric Severson: Right? And so, uh, if we're signing them and nothing is happening, something's wrong, right? We should be able to…
+
+00:57:28.000 --> 00:57:38.000
+Eric Severson: the concept of credit transfer is… should be a way to encourage more enrollment than what I'm hearing.
+
+00:57:38.000 --> 00:57:41.000
+Eric Severson: It is… yeah.
+
+00:57:38.000 --> 00:57:41.000
+Caroline Walters: Okay, listen, listen.
+
+00:57:42.000 --> 00:57:44.000
+Caroline Walters: This is not our department.
+
+00:57:45.000 --> 00:57:51.000
+Caroline Walters: I don't want you worried about articulations. I need you worrying about business development.
+
+00:57:47.000 --> 00:57:49.000
+Eric Severson: Okay, okay.
+
+00:57:51.000 --> 00:57:53.000
+Caroline Walters: Signal Mutual?
+
+00:57:53.000 --> 00:57:56.000
+Eric Severson: So, they're similar in that…
+
+00:57:56.000 --> 00:57:59.000
+Eric Severson: It all is gonna come down to a couple of things.
+
+00:57:59.000 --> 00:58:06.000
+Eric Severson: The big gap on all of this is they sign the paper and they think it's done and nothing is done, right? Same with the MOUs.
+
+00:58:06.000 --> 00:58:20.000
+Eric Severson: Signal Mutual, we're living it. I'm trying not to get pissed with me, Tony, and Richard, because we say the words, and then it doesn't dissolve into work that drives outcomes, and I've never seen that before.
+
+00:58:20.000 --> 00:58:25.000
+Eric Severson: Now, there is a small dependency to marketing, which we have got to continue to wrestle with.
+
+00:58:25.000 --> 00:58:36.000
+Eric Severson: But, you know, it is taking a stupid amount of my time for 4 courses that are a custom course amount to go, what the do we have to do to actually see success here?
+
+00:58:36.000 --> 00:58:42.000
+Eric Severson: We've got the courses created. It's a good idea. It makes the world a better or safer place.
+
+00:58:36.000 --> 00:58:38.000
+Caroline Walters: Mm-hmm.
+
+00:58:42.000 --> 00:58:48.000
+Eric Severson: And yet, there's crickets. It's silence. There's no buts in seats, there's no even registration, so…
+
+00:58:48.000 --> 00:58:55.000
+Eric Severson: This is the big gap across all of business development, across all of articulations that I see, is.
+
+00:58:55.000 --> 00:59:02.000
+Eric Severson: You're signing paper, but so what? If it doesn't devolve into a pipeline of students, the work doesn't devolve into work that creates a pipeline of students.
+
+00:59:03.000 --> 00:59:13.000
+Eric Severson: who cares? And then it's confusing when I'm starting to work with clients that have custom curriculum, they may… it probably makes sense for us to look, we're doing custom curriculum.
+
+00:59:13.000 --> 00:59:22.000
+Eric Severson: there should be an articulation baked into that, right? I mean, that's part of the pathway. So, 75-page PDF from Larry the Welder.
+
+00:59:22.000 --> 00:59:32.000
+Eric Severson: should count for something. Let's… and then, so these things all come together, and I think of them as modular. If you don't want me to go and have the conversations with academics, that's fine.
+
+00:59:32.000 --> 00:59:42.000
+Eric Severson: Uh, but then we're gonna continue to stew in a, what the does University Relations actually do? It's just outreach. They're the nice people that go to the conferences.
+
+00:59:42.000 --> 00:59:51.000
+Eric Severson: and man the booth, and we wish they had better materials. Marketing sucks. That's where you're going to be stuck with academics, unless we start.
+
+00:59:52.000 --> 01:00:04.000
+Eric Severson: Well, again, I will take your lead on this whole thing. I'm focused on Signal Mutual, believe me, that is where the focus is, because right after that is LiveView, and right after that is CTR.
+
+01:00:04.000 --> 01:00:14.000
+Eric Severson: the custom curriculum part of CTR. Signal Mutual, I'm focused on the most simple thing, which is, wow, we've got the stuff written, custom curriculum's out there, now what do we do to drive success within that?
+
+01:00:14.000 --> 01:00:21.000
+Eric Severson: Uh, and we can just leave it at that, um, and as we involve the MOU to include an articulation piece.
+
+01:00:22.000 --> 01:00:28.000
+Eric Severson: Because I think they're all wrapped up in that same, you know, thing that gives people motivation to come to CSU.
+
+01:00:28.000 --> 01:00:36.000
+Caroline Walters: What I would like for us to do… I know you and Tony met with Misty on the one opportunity, right? The… is it live view?
+
+01:00:36.000 --> 01:00:38.000
+Eric Severson: CTR. CTR.
+
+01:00:36.000 --> 01:00:38.000
+Caroline Walters: Or the other CTR.
+
+01:00:38.000 --> 01:00:43.000
+Caroline Walters: I want to have a meeting with Janelle, myself, Misty, and you.
+
+01:00:43.000 --> 01:00:44.000
+Eric Severson: Okay.
+
+01:00:43.000 --> 01:00:48.000
+Caroline Walters: And I want them to tell us this is the direction they support you going in.
+
+01:00:48.000 --> 01:00:50.000
+Eric Severson: Oh, they do! Well, I'm sure.
+
+01:00:49.000 --> 01:00:56.000
+Caroline Walters: It's one thing to have one or two, but if your whole direction in 2026 is pre-employment.
+
+01:00:56.000 --> 01:01:05.000
+Caroline Walters: and you keep giving the welding example, I need them on board. I can't just sign off on, this is… yes, go for it, until we're in a meeting, and I hear it.
+
+01:00:58.000 --> 01:01:00.000
+Eric Severson: Yeah.
+
+01:01:05.000 --> 01:01:12.000
+Caroline Walters: that this is Janelle. I mean, it's one thing to bring them an opportunity, it's a different thing to say, this is our initiative for 26.
+
+01:01:05.000 --> 01:01:08.000
+Eric Severson: Sure. Yep, yep.
+
+01:01:12.000 --> 01:01:18.000
+Eric Severson: It's not just that. It's one part of, uh, under partnership development.
+
+01:01:18.000 --> 01:01:27.000
+Eric Severson: it is a portion of this. So, like, the NCCR thing, we should deliver that. That's going to be more traditional. Could be custom curriculum, it might not be.
+
+01:01:27.000 --> 01:01:34.000
+Eric Severson: I think Lincoln Tech, I'm having conversations with their COO pretty soon about the same sort of.
+
+01:01:33.000 --> 01:01:35.000
+Caroline Walters: Okay.
+
+01:01:34.000 --> 01:01:42.000
+Eric Severson: uh, agreements, right? Learning partner agreements just focused in the skilled trades area. So it's definitely not the only thing we're focusing on, and it's not even, you know.
+
+01:01:43.000 --> 01:01:52.000
+Eric Severson: I don't know what percentage of our time right now is getting sucked up onto this, but I think that… and I have… I went over and have met with them, both Misty and with.
+
+01:01:46.000 --> 01:01:48.000
+Caroline Walters: Yeah.
+
+01:01:53.000 --> 01:01:59.000
+Eric Severson: Janelle, just to take the temperature, to say, hey, I think there's opportunity here, are you supportive? So, uh…
+
+01:01:59.000 --> 01:02:08.000
+Caroline Walters: Hey, listen, man, I need you to loop me in on these meetings. This is really not looking good when you're doing this.
+
+01:02:00.000 --> 01:02:01.000
+Eric Severson: I agree.
+
+01:02:04.000 --> 01:02:06.000
+Eric Severson: Well, if these were me walking around…
+
+01:02:07.000 --> 01:02:13.000
+Eric Severson: Sure. This is me walking around on Friday. So, one of the things that I learned years ago.
+
+01:02:13.000 --> 01:02:25.000
+Eric Severson: working with academic institutions, show up at the door, see what happens, right? I could have asked you to come with me, I don't think you would have enjoyed it, because I spent an hour walking the halls, waiting for people to be available, right? So…
+
+01:02:25.000 --> 01:02:36.000
+Caroline Walters: So, to me, that's different than a meeting. Walking the halls and mentioning something is a different thing than a meeting, and you will find people are going to be, oh yeah, that's a great idea.
+
+01:02:28.000 --> 01:02:30.000
+Eric Severson: Yeah, okay.
+
+01:02:36.000 --> 01:02:43.000
+Eric Severson: Fair, fair. So we can have the meeting, and if you want to set it up, that'd be totally great, but I just want to make sure you understand.
+
+01:02:38.000 --> 01:02:40.000
+Caroline Walters: Oh, yes.
+
+01:02:41.000 --> 01:02:43.000
+Caroline Walters: Yes.
+
+01:02:43.000 --> 01:02:45.000
+Caroline Walters: Yeah.
+
+01:02:43.000 --> 01:02:53.000
+Eric Severson: it is a focus, it is not the focus. It is… skilled trades is an area to open up through traditional learning partnerships.
+
+01:02:47.000 --> 01:02:49.000
+Caroline Walters: Okay.
+
+01:02:53.000 --> 01:03:02.000
+Eric Severson: Uh, through some non-traditional ones, and that there is this interesting piece that could take a disproportionate amount of time, because it's brand new, right? This is that.
+
+01:03:01.000 --> 01:03:03.000
+Caroline Walters: Hmm.
+
+01:03:02.000 --> 01:03:08.000
+Eric Severson: hire, train, deploy model, this is brand new. And so, yeah, we might spend a little bit more time there, but that's not the only focus.
+
+01:03:08.000 --> 01:03:13.000
+Eric Severson: Then the other one is cultivating the high potential targeted partners. So…
+
+01:03:13.000 --> 01:03:22.000
+Eric Severson: energy, aerospace, uh, space in general, uh, looking at where can we continue to build out the live view stuff.
+
+01:03:22.000 --> 01:03:28.000
+Eric Severson: Those are the areas. What's in here, but I wanted to debate a little bit, is healthcare.
+
+01:03:28.000 --> 01:03:38.000
+Eric Severson: Uh, and so as we continue to talk about this, and I think maybe the soccer thing is a good test pilot for that, let me get you and Sherri a list of their existing learning partners.
+
+01:03:38.000 --> 01:03:43.000
+Eric Severson: And then we have this conversation again. If the primary B2B goal.
+
+01:03:43.000 --> 01:03:52.000
+Eric Severson: is healthcare. I'm happy to be involved, but I'm also happy to let Sherri own the whole thing, and I've had this conversation with.
+
+01:03:52.000 --> 01:04:02.000
+Eric Severson: Tony, and he will let go of the Filipino Nurses Association, right? Uh, I think that's a way for us to figure out how do we play to the strengths of the distributed nature of this.
+
+01:03:54.000 --> 01:03:58.000
+Caroline Walters: Yeah. Yeah. Yeah.
+
+01:04:03.000 --> 01:04:10.000
+Eric Severson: uh, ability to sign learning partners, which is great, I think it's clarity, but then the more important contribution is.
+
+01:04:06.000 --> 01:04:08.000
+Caroline Walters: Mm-hmm.
+
+01:04:10.000 --> 01:04:15.000
+Eric Severson: What do we do to make them productive learning partners, right? That's the more important part.
+
+01:04:14.000 --> 01:04:16.000
+Caroline Walters: Yes.
+
+01:04:16.000 --> 01:04:18.000
+Eric Severson: Okay.
+
+01:04:16.000 --> 01:04:21.000
+Caroline Walters: And then, I would also add a third thing, or maybe a fourth thing to that.
+
+01:04:21.000 --> 01:04:23.000
+Eric Severson: Yep.
+
+01:04:21.000 --> 01:04:26.000
+Caroline Walters: Uh, is… let's evaluate who we have and how we can.
+
+01:04:26.000 --> 01:04:33.000
+Caroline Walters: elevate them. What partners can we identify that we want to move them to a next level of engagement?
+
+01:04:34.000 --> 01:04:36.000
+Eric Severson: So…
+
+01:04:34.000 --> 01:04:41.000
+Caroline Walters: and I'm not talking about Orange Beach Fire, like, from your perspective, a high level, a high level.
+
+01:04:37.000 --> 01:04:39.000
+Eric Severson: Yes.
+
+01:04:41.000 --> 01:04:46.000
+Caroline Walters: partner that we're seeing, you know, we're evaluating to see.
+
+01:04:46.000 --> 01:04:49.000
+Caroline Walters: If we… is there anything more we might can do?
+
+01:04:48.000 --> 01:04:55.000
+Eric Severson: Totally agree with that, and I think some of that is numbers, and then some of that is looking at, do we have.
+
+01:04:50.000 --> 01:04:51.000
+Caroline Walters: Yeah.
+
+01:04:55.000 --> 01:05:01.000
+Eric Severson: an advocate. So, Signal Mutual stands out because they've got Richard. He's a great advocate.
+
+01:04:57.000 --> 01:04:59.000
+Caroline Walters: Mm-hmm.
+
+01:05:00.000 --> 01:05:01.000
+Caroline Walters: Yeah.
+
+01:05:01.000 --> 01:05:09.000
+Eric Severson: And if we don't have a great advocate, let's figure out, you know, is… how do we… what do we do about that? How do we start to develop that advocate?
+
+01:05:09.000 --> 01:05:16.000
+Eric Severson: I'm also talking to Tony a ton about, I don't think it makes sense for us to be at all of the traditional.
+
+01:05:17.000 --> 01:05:27.000
+Eric Severson: outreach events. We might go to one or two where we see that it aligns to or is adjacent to us, or if they need extra help, I'm fine with that, but.
+
+01:05:18.000 --> 01:05:20.000
+Caroline Walters: Mm-hmm.
+
+01:05:26.000 --> 01:05:28.000
+Caroline Walters: Mm-hmm.
+
+01:05:27.000 --> 01:05:36.000
+Eric Severson: you know, I said to him, I don't know that we need to do any fire, or police, or… and he got a little starchy about the police because of the axon thing.
+
+01:05:36.000 --> 01:05:43.000
+Eric Severson: And so, we're still, you know, having these conversations about where we see our time being focused.
+
+01:05:43.000 --> 01:05:49.000
+Eric Severson: The fire was a big thing for him to chew on for a while, and I'm like, look, I know that this is a central part of the CSU success story.
+
+01:05:49.000 --> 01:05:54.000
+Eric Severson: But there's two of us, and if we're going to carve out a clear space.
+
+01:05:54.000 --> 01:06:04.000
+Eric Severson: I don't know that they need us. Yes, we could go and sign, you know, learning partnerships with municipalities that aren't in there already, but that feels like a…
+
+01:06:04.000 --> 01:06:11.000
+Eric Severson: Again, outreach, if they want to do that, that's outreach should do that, and figure out how to do it as an adjacent meeting to.
+
+01:06:10.000 --> 01:06:12.000
+Caroline Walters: Mm-hmm.
+
+01:06:11.000 --> 01:06:16.000
+Eric Severson: Conference or in their non-conference time or elsewhere because it's so well known.
+
+01:06:16.000 --> 01:06:18.000
+Caroline Walters: Yeah.
+
+01:06:16.000 --> 01:06:19.000
+Eric Severson: Um, so…
+
+01:06:19.000 --> 01:06:24.000
+Caroline Walters: No, I like that, Eric. I mean, there's no need… we need to divide and conquer.
+
+01:06:19.000 --> 01:06:21.000
+Eric Severson: Okay.
+
+01:06:24.000 --> 01:06:31.000
+Caroline Walters: You have a very small team. He doesn't need to… y'all… y'all don't have to have a touch on every single program.
+
+01:06:24.000 --> 01:06:26.000
+Eric Severson: Yeah.
+
+01:06:31.000 --> 01:06:33.000
+Caroline Walters: Safety and fire…
+
+01:06:33.000 --> 01:06:36.000
+Caroline Walters: We're the leaders.
+
+01:06:36.000 --> 01:06:42.000
+Caroline Walters: You know, in those areas. Now, safety, I do think there's opportunity with maybe some larger companies.
+
+01:06:40.000 --> 01:06:44.000
+Eric Severson: Yes. Yes, totally agree.
+
+01:06:42.000 --> 01:06:48.000
+Caroline Walters: But I don't know that that's gonna happen on an expo floor.
+
+01:06:49.000 --> 01:06:58.000
+Eric Severson: Yeah, so I'm open to that a little bit, because again, uh, I don't know for a fact, and safety is the point of entry to so many different organizations.
+
+01:06:52.000 --> 01:06:53.000
+Caroline Walters: Mm-hmm.
+
+01:06:58.000 --> 01:07:08.000
+Eric Severson: That, and I… and that was… kept Tony calm. He was… you know, he doesn't get upset, but he was… definitely raised eyebrows on the no-fire thing.
+
+01:07:04.000 --> 01:07:06.000
+Caroline Walters: Yeah.
+
+01:07:08.000 --> 01:07:21.000
+Eric Severson: And a no healthcare thing as a concept. And again, I don't want to sit here and just make all these decisions without your input, without his input, figuring out, do we agree? Because if we don't agree, there's no point, right? We need to be aligned on.
+
+01:07:15.000 --> 01:07:17.000
+Caroline Walters: Yeah.
+
+01:07:21.000 --> 01:07:23.000
+Eric Severson: On this stuff, so…
+
+01:07:23.000 --> 01:07:27.000
+Caroline Walters: Well, I just think, too, like, on some of the…
+
+01:07:27.000 --> 01:07:29.000
+Caroline Walters: Bigger conferences.
+
+01:07:30.000 --> 01:07:35.000
+Caroline Walters: I think we've gotten to a point at some… at some of them, we just have too many people.
+
+01:07:35.000 --> 01:07:46.000
+Caroline Walters: We don't need everybody that's there. If y'all want to come, you certainly know whatever you want to do, I'm fine with, right? Like, I think you should come to FDIC, because you've never been.
+
+01:07:37.000 --> 01:07:39.000
+Eric Severson: Yeah.
+
+01:07:46.000 --> 01:07:48.000
+Eric Severson: Yeah, I…
+
+01:07:46.000 --> 01:07:51.000
+Caroline Walters: And that is the largest conference that we do. So…
+
+01:07:50.000 --> 01:07:52.000
+Eric Severson: Totally agree.
+
+01:07:51.000 --> 01:07:56.000
+Caroline Walters: I think you should be there, whether you want Tony to come, I'm leaving that up to you. It doesn't matter to me.
+
+01:07:56.000 --> 01:08:04.000
+Caroline Walters: You know, however you want to handle that. But I like the priorities that you have, um, on here. I think those are good.
+
+01:08:04.000 --> 01:08:10.000
+Caroline Walters: I like the fact and, um, Sherri being the lead of nursing because she's very passionate.
+
+01:08:10.000 --> 01:08:15.000
+Caroline Walters: you know, she's very passionate about that. And, um…
+
+01:08:13.000 --> 01:08:15.000
+Eric Severson: Yeah.
+
+01:08:15.000 --> 01:08:24.000
+Caroline Walters: And I like this slide a lot, too. This is good. And I may want to use this, because in March, we have our marketing committee meeting, so I will be sharing the strategies.
+
+01:08:25.000 --> 01:08:30.000
+Caroline Walters: of our team, and so this would be great, and then I'll probably work on.
+
+01:08:30.000 --> 01:08:35.000
+Caroline Walters: Some for… like, a slide for each department would be ideal. Community alumni?
+
+01:08:33.000 --> 01:08:35.000
+Eric Severson: Sure.
+
+01:08:36.000 --> 01:08:39.000
+Caroline Walters: Sherri's team, that kind of stuff, so…
+
+01:08:36.000 --> 01:08:43.000
+Eric Severson: Well, put all your documents in Notebook LM, and then if you need help with prompting, I'll help you with prompting.
+
+01:08:43.000 --> 01:08:48.000
+Eric Severson: Um, let's talk about the conference request. So…
+
+01:08:43.000 --> 01:08:45.000
+Caroline Walters: Yeah.
+
+01:08:48.000 --> 01:08:54.000
+Eric Severson: The… uh… this is my follow-up look for the…
+
+01:08:54.000 --> 01:08:59.000
+Eric Severson: CLO. And I'm still working that, and I'm of two minds about this.
+
+01:08:55.000 --> 01:08:57.000
+Caroline Walters: Hmm.
+
+01:09:00.000 --> 01:09:08.000
+Eric Severson: The immediate ROI isn't there. It's the opportunity to build the relationship.
+
+01:09:08.000 --> 01:09:12.000
+Eric Severson: Which you don't really do during speed dating, right?
+
+01:09:12.000 --> 01:09:13.000
+Caroline Walters: Right.
+
+01:09:12.000 --> 01:09:19.000
+Eric Severson: So you get an opportunity for them to respond to your follow-up, not all do.
+
+01:09:19.000 --> 01:09:22.000
+Eric Severson: And so, that's what you get.
+
+01:09:22.000 --> 01:09:26.000
+Eric Severson: Of the population that are at these things.
+
+01:09:26.000 --> 01:09:28.000
+Eric Severson: I'd say.
+
+01:09:28.000 --> 01:09:39.000
+Eric Severson: 15% are there for a boondoggle. They could give a less, and they're not paying attention to whatever anybody says. They have to sit there because that's how they got their free trip to a resort paid for.
+
+01:09:39.000 --> 01:09:43.000
+Eric Severson: I looked at the one for nursing, and I thought.
+
+01:09:43.000 --> 01:09:53.000
+Eric Severson: CNOs are… tend to be a little more serious people, and again, I have 5 years of, uh, managing a dedicated sales organization inside of the nursing, uh, thing at Pearson, so…
+
+01:09:53.000 --> 01:09:59.000
+Eric Severson: We did events with those guys. They're a little more serious, they're not your party nurses, for sure.
+
+01:09:59.000 --> 01:10:05.000
+Eric Severson: Uh, and so, maybe. They're also probably a little more difficult to build relationships with. If Bonnie.
+
+01:10:05.000 --> 01:10:08.000
+Eric Severson: What Tony and Eric didn't have…
+
+01:10:08.000 --> 01:10:14.000
+Eric Severson: Was any brand presence with this group, or any that the chief learning officers.
+
+01:10:14.000 --> 01:10:24.000
+Eric Severson: or any particular awareness, right? To a VP and a director, nobody really cared, right? It was, uh, who are these guys? We're doing this because we… this is how we get our free meal in our fancy hotels.
+
+01:10:24.000 --> 01:10:32.000
+Eric Severson: the message stuck a little bit, but it's speed dating. If you've ever seen speed dating, you're having 10 meetings, you know, in a.
+
+01:10:32.000 --> 01:10:38.000
+Eric Severson: day, your powers of recolla… there's no AI transcript, your powers of recollection are miniscule.
+
+01:10:39.000 --> 01:10:47.000
+Eric Severson: What might be different about the nursing is if Bonnekum is well known and understood and recognized, that might be different.
+
+01:10:47.000 --> 01:10:57.000
+Eric Severson: Uh, if CSU solves a very specific problem that resonates strongly with the CNOs, the chief learning officers have a.
+
+01:10:57.000 --> 01:11:02.000
+Eric Severson: Breath this wide, right? So, we… we connected with 2 or 3.
+
+01:11:03.000 --> 01:11:05.000
+Eric Severson: Not 24.
+
+01:11:05.000 --> 01:11:07.000
+Caroline Walters: Yeah.
+
+01:11:05.000 --> 01:11:10.000
+Eric Severson: Uh, then it might be a little different. And then the last thing, I think Sherri made this point.
+
+01:11:10.000 --> 01:11:15.000
+Eric Severson: I don't… you know, we spent $24,000, and…
+
+01:11:16.000 --> 01:11:26.000
+Eric Severson: I don't know that I would spend more than that for a single event. I would go, and I looked at that event company, they do events across the board, which means they're not specialized in any one area.
+
+01:11:23.000 --> 01:11:25.000
+Caroline Walters: Mm-hmm.
+
+01:11:26.000 --> 01:11:36.000
+Eric Severson: And so I'd be cautious about the price point of that one to go, well, we'd like to participate. What other menu options? Is there a $10,000 menu option that you have?
+
+01:11:26.000 --> 01:11:28.000
+Caroline Walters: Right.
+
+01:11:36.000 --> 01:11:41.000
+Eric Severson: Uh, and then I would send, uh, Sherri and, and Bonnie.
+
+01:11:42.000 --> 01:11:48.000
+Caroline Walters: Yeah, I looked at the agenda, or the sample agenda. There's only 3.
+
+01:11:48.000 --> 01:11:56.000
+Caroline Walters: one-on-one meeting slots. There's, like, an… there's two hours, like a 10.30 to 1230 one-on-one meetings, a…
+
+01:11:56.000 --> 01:12:01.000
+Caroline Walters: In the evening, the one-on-one meetings, and then the next day, the next morning.
+
+01:12:01.000 --> 01:12:08.000
+Caroline Walters: And… Eric, is it right that you pretty much request who you'd like to meet with, and then they pair you up?
+
+01:12:09.000 --> 01:12:12.000
+Caroline Walters: As to who the people who are actually attending want to meet with?
+
+01:12:12.000 --> 01:12:19.000
+Eric Severson: Yeah, so there's a requirement for the attendees who are there for free, right? And it's always at a beautiful place, and so…
+
+01:12:17.000 --> 01:12:18.000
+Caroline Walters: Mm-hmm.
+
+01:12:19.000 --> 01:12:20.000
+Caroline Walters: Yeah.
+
+01:12:19.000 --> 01:12:30.000
+Eric Severson: They have to have a certain number of meetings. So, and there's a request and an approval process. As a participant, you request, these are the groups that we want to meet with.
+
+01:12:31.000 --> 01:12:41.000
+Eric Severson: Uh, some say, no, I have no interest. A few will put you in because they actually want to talk to you, and then the most are you're in there because.
+
+01:12:42.000 --> 01:12:52.000
+Eric Severson: they have to have their dance card filled, and that looks like it might not be super painful, right? Do I want to meet with those nice education folks, or I don't want to have another, you know, high-tension.
+
+01:12:43.000 --> 01:12:45.000
+Caroline Walters: Yes.
+
+01:12:53.000 --> 01:12:59.000
+Eric Severson: brain blowout with people selling a plastic widget. No, I don't want to deal with the sellers of the plastic widget.
+
+01:12:59.000 --> 01:13:11.000
+Eric Severson: Is it a little, that's what CLO was. Is it a little different for nursing? Maybe, maybe. So I would tend to be supportive at a lower price point and look at that, and then.
+
+01:13:12.000 --> 01:13:22.000
+Eric Severson: You know, and then for Sherri it would be, have you ever done one of these? If you've never done one of these, then withhold judgment. Don't get shitty about 75,000 ways to spend the money differently.
+
+01:13:16.000 --> 01:13:19.000
+Caroline Walters: Yeah. He hasn't.
+
+01:13:22.000 --> 01:13:29.000
+Eric Severson: you don't know, because you haven't done it. Go do it, put your head and heart in it, go with Bonnie. If nothing else, you're going to spend time with Bonnie.
+
+01:13:24.000 --> 01:13:26.000
+Caroline Walters: Right.
+
+01:13:29.000 --> 01:13:36.000
+Eric Severson: that seems fantastic. Uh, maybe not at 75 grand, but I bet there's…
+
+01:13:31.000 --> 01:13:33.000
+Caroline Walters: Mm-hmm.
+
+01:13:34.000 --> 01:13:40.000
+Caroline Walters: Yeah, well, we don't have the funds to do $75,000. I mean, we just didn't budget for it.
+
+01:13:38.000 --> 01:13:43.000
+Eric Severson: Oh, it's our money, it's not Bonnie's money. It would be, uh…
+
+01:13:40.000 --> 01:13:44.000
+Caroline Walters: No! They're wanting us to pay for it!
+
+01:13:44.000 --> 01:13:49.000
+Eric Severson: Oh, I'd go back and say, how about we split it, and let's do a lower price point, see what they say.
+
+01:13:45.000 --> 01:13:46.000
+Caroline Walters: Yeah.
+
+01:13:49.000 --> 01:13:51.000
+Caroline Walters: Um… yeah.
+
+01:13:51.000 --> 01:13:58.000
+Caroline Walters: Well, since you explained that perfectly, will you use your AI magic and summarize that? And I'm gonna…
+
+01:13:57.000 --> 01:13:59.000
+Eric Severson: Yes, I will.
+
+01:13:58.000 --> 01:14:04.000
+Caroline Walters: Then I'll put my little two cents to it to an email, and that will be a great response to.
+
+01:14:01.000 --> 01:14:03.000
+Eric Severson: Perfect.
+
+01:14:04.000 --> 01:14:06.000
+Eric Severson: Sure.
+
+01:14:04.000 --> 01:14:10.000
+Caroline Walters: Because that way we're speaking to the experience that we've had and, you know, that kind of good stuff.
+
+01:14:07.000 --> 01:14:09.000
+Eric Severson: Yep.
+
+01:14:11.000 --> 01:14:13.000
+Caroline Walters: And, from what I have…
+
+01:14:13.000 --> 01:14:23.000
+Caroline Walters: I haven't personally experienced it, but from what I've been told via Sherri, I mean, Bonnie always asks for the absolute highest sponsorship, the highest opportunity.
+
+01:14:24.000 --> 01:14:30.000
+Caroline Walters: And we just can't do it for every event. I'm quite sure Sherri could reach out to these people and say, hey, what are the opportunities?
+
+01:14:30.000 --> 01:14:33.000
+Eric Severson: Yeah, she should, because again.
+
+01:14:32.000 --> 01:14:34.000
+Caroline Walters: Yeah.
+
+01:14:33.000 --> 01:14:39.000
+Eric Severson: I… we could have brought 2 more people, and it would have been a waste of time. 2 people is all you need.
+
+01:14:38.000 --> 01:14:40.000
+Caroline Walters: Mm-hmm.
+
+01:14:40.000 --> 01:14:41.000
+Eric Severson: And then…
+
+01:14:40.000 --> 01:14:42.000
+Caroline Walters: Yeah.
+
+01:14:43.000 --> 01:14:53.000
+Eric Severson: I would, you know, uh… so, I used granola, and I took it on my phone, because there's nothing that we have at CSU for this.
+
+01:14:53.000 --> 01:14:59.000
+Eric Severson: And I recorded every one of our one-on-ones because when you do 10 in one day.
+
+01:14:58.000 --> 01:15:00.000
+Caroline Walters: Mm-hmm.
+
+01:14:59.000 --> 01:15:07.000
+Eric Severson: nobody remembers anything, right? You see the people at cocktails, you smile, you look at your name tag, and you struggle to remember.
+
+01:15:07.000 --> 01:15:15.000
+Eric Severson: what are we talking about? Did we have a good connection? Is there anything for me to build on, or are we just gonna chit-chat about the environment, see if we can have fun together, and…
+
+01:15:09.000 --> 01:15:11.000
+Caroline Walters: Mm-hmm.
+
+01:15:15.000 --> 01:15:20.000
+Eric Severson: Go from there. Uh, and frankly, Tony's best relationship came from.
+
+01:15:20.000 --> 01:15:25.000
+Eric Severson: Our icebreaker, he sat next to a guy, they paired us up, and he got paired up with the guy.
+
+01:15:25.000 --> 01:15:31.000
+Eric Severson: Uh, and they had fun in their icebreaker, and so that's our number one best follow-up connection.
+
+01:15:31.000 --> 01:15:39.000
+Eric Severson: which we still haven't gotten into a learning partnership, but the guy responds to Tony, because they had a great time at that intro thing. So…
+
+01:15:36.000 --> 01:15:38.000
+Caroline Walters: Yeah.
+
+01:15:39.000 --> 01:15:41.000
+Eric Severson: Yeah.
+
+01:15:41.000 --> 01:15:51.000
+Caroline Walters: Oh, and by the way, I think you and Sherri must have been texting, because the woman brought up our partnership with Orlando and said she wants to get it signed before they would do the press release.
+
+01:15:51.000 --> 01:15:56.000
+Caroline Walters: So, and then you… then you came on and said, and I'm like, he didn't hear what she said, so…
+
+01:15:51.000 --> 01:15:53.000
+Eric Severson: Well, great!
+
+01:15:55.000 --> 01:16:03.000
+Eric Severson: I did not. I did not. I'm sorry that I missed that. I would have just said, let me shut up and yes, let's do that. So…
+
+01:15:57.000 --> 01:15:59.000
+Caroline Walters: They are going to…
+
+01:15:59.000 --> 01:16:02.000
+Caroline Walters: That's okay. They're gonna…
+
+01:16:03.000 --> 01:16:05.000
+Caroline Walters: They're gonna schedule a meeting with the two of us.
+
+01:16:05.000 --> 01:16:07.000
+Eric Severson: Fantastic. Fantastic.
+
+01:16:06.000 --> 01:16:09.000
+Caroline Walters: And then that way. So that's gonna happen.
+
+01:16:09.000 --> 01:16:16.000
+Eric Severson: Yeah, the MLS has learning partnerships, but there's no reason that we can't, uh, put one in place with the local Orlando club, and…
+
+01:16:16.000 --> 01:16:20.000
+Eric Severson: Um, yay for that. Yay. Okay.
+
+01:16:19.000 --> 01:16:23.000
+Caroline Walters: Yeah, and I'd love to have a chance to go talk to the team, well, especially the women's team.
+
+01:16:23.000 --> 01:16:26.000
+Eric Severson: Sure, absolutely. Or…
+
+01:16:24.000 --> 01:16:29.000
+Caroline Walters: you know, that's… just a personal thing, I think would be cool to be able to…
+
+01:16:30.000 --> 01:16:33.000
+Eric Severson: Yeah. Heck yeah.
+
+01:16:30.000 --> 01:16:35.000
+Caroline Walters: do that, you know. Um, okay, so we talked about…
+
+01:16:35.000 --> 01:16:37.000
+Caroline Walters: The nursing thing…
+
+01:16:38.000 --> 01:16:50.000
+Caroline Walters: Um, I had a note to set a meeting with Dale about Orlando. Do we still need to do that, or we, uh… because what I heard in that meeting, that Brett Patterson would be the person communicating with them on our behalf.
+
+01:16:46.000 --> 01:16:48.000
+Eric Severson: I don't think so.
+
+01:16:52.000 --> 01:16:57.000
+Eric Severson: Well, so the big deliverable that I… that I thought I heard was…
+
+01:16:57.000 --> 01:17:05.000
+Eric Severson: we are on the hook for getting the distribution of 1,000 tickets, and that Brett would be figuring that out. That's what I thought I heard.
+
+01:17:04.000 --> 01:17:18.000
+Caroline Walters: What that actually means is that he will reach out to us, primarily Sherri with the smaller learning partners in the area, and then you, if there are larger ones, like the space people, for targeting some people.
+
+01:17:19.000 --> 01:17:21.000
+Caroline Walters: So it'll be a combination of…
+
+01:17:22.000 --> 01:17:27.000
+Caroline Walters: You two figuring out who do we want to offer these tickets to.
+
+01:17:28.000 --> 01:17:32.000
+Eric Severson: Yeah. And when I looked at…
+
+01:17:30.000 --> 01:17:36.000
+Caroline Walters: But then, I think that's not till September, so we… we're… we've got plenty of time.
+
+01:17:36.000 --> 01:17:38.000
+Eric Severson: You know, when I looked at the…
+
+01:17:36.000 --> 01:17:38.000
+Caroline Walters: On that deal.
+
+01:17:40.000 --> 01:17:44.000
+Eric Severson: Salesforce by mileage buckets.
+
+01:17:44.000 --> 01:17:48.000
+Eric Severson: What stuck out to me in both the target and the existing.
+
+01:17:48.000 --> 01:17:52.000
+Eric Severson: Is that we need to really look at getting…
+
+01:17:53.000 --> 01:18:00.000
+Eric Severson: more aerospace companies identified and targeted in there because I looked at that whole thing and there was a point where I was like, well.
+
+01:18:01.000 --> 01:18:05.000
+Eric Severson: If we agree that Tony and Eric should be focused on.
+
+01:18:05.000 --> 01:18:07.000
+Eric Severson: You know, space, and new things.
+
+01:18:08.000 --> 01:18:15.000
+Eric Severson: then the majority of this, from a B2B, really is gonna… also, how far would you drive for a soccer match?
+
+01:18:16.000 --> 01:18:18.000
+Caroline Walters: Oh, you're asking the wrong person.
+
+01:18:18.000 --> 01:18:24.000
+Eric Severson: No, I'm asking the right person, because most of the people that we're going to reach out to.
+
+01:18:24.000 --> 01:18:31.000
+Eric Severson: are like you and me. I wouldn't drive 30 minutes for a free ticket to an MLS game here in Phoenix, and I would be like.
+
+01:18:31.000 --> 01:18:35.000
+Eric Severson: Yeah, maybe. I think I'm gonna watch Stranger Things tonight, so no.
+
+01:18:34.000 --> 01:18:41.000
+Caroline Walters: Yeah, um, I… I haven't driven to an event we've had with the Pensacola baseball team.
+
+01:18:35.000 --> 01:18:37.000
+Eric Severson: So…
+
+01:18:42.000 --> 01:18:44.000
+Eric Severson: So, the point of…
+
+01:18:42.000 --> 01:18:45.000
+Caroline Walters: Like, that is no interest to me at all!
+
+01:18:45.000 --> 01:18:50.000
+Eric Severson: Well, yeah, so the point that I was trying to… was mulling over with that is…
+
+01:18:51.000 --> 01:18:57.000
+Eric Severson: We have no relationships at all with these new aerospace companies.
+
+01:18:56.000 --> 01:18:58.000
+Caroline Walters: Mm-hmm.
+
+01:18:57.000 --> 01:19:04.000
+Eric Severson: We have relationships with fire, police, municipalities that are education.
+
+01:19:04.000 --> 01:19:09.000
+Eric Severson: that are close to the stadium. So, from a realistic perspective of.
+
+01:19:04.000 --> 01:19:06.000
+Caroline Walters: Mm-hmm.
+
+01:19:09.000 --> 01:19:17.000
+Eric Severson: Who can we drive to the stadium? It's going to be existing and potential learning partners that are extremely close.
+
+01:19:17.000 --> 01:19:26.000
+Eric Severson: And maybe a ticket would be… a $35 ticket would be something that they would find motivating. So they're not getting paid a lot, so that's…
+
+01:19:26.000 --> 01:19:29.000
+Eric Severson: Fire, police, EMS, education, education.
+
+01:19:29.000 --> 01:19:43.000
+Eric Severson: But all of that then says to me, get out of the way and let Sherri do it, right? Because these are the tried and true areas. So, if you look at that spreadsheet with the mileage buckets, that's really when it started to stick out to me to go.
+
+01:19:40.000 --> 01:19:42.000
+Caroline Walters: Mm-hmm.
+
+01:19:43.000 --> 01:19:50.000
+Eric Severson: You know, I wouldn't go 30 minutes for a game. I'm gonna be trying to get executives from aerospace.
+
+01:19:50.000 --> 01:19:57.000
+Eric Severson: to come there. If they're outside of a 30-minute drive, they've never met us, they don't know who we are, they've never heard of CSU.
+
+01:19:57.000 --> 01:20:03.000
+Eric Severson: I don't know that we should PIN a lot of hopes to that, especially if.
+
+01:20:01.000 --> 01:20:03.000
+Caroline Walters: Mm-mm.
+
+01:20:03.000 --> 01:20:14.000
+Eric Severson: school teachers might be a way better target area, because you know there are schools everywhere, right? There are schools and fire departments and police departments everywhere, so…
+
+01:20:14.000 --> 01:20:22.000
+Eric Severson: it may be the benefit of CSU to really look at that strategy, and I'll try to help you with that. I mean, the, uh…
+
+01:20:22.000 --> 01:20:24.000
+Eric Severson: Spreadsheet with the…
+
+01:20:24.000 --> 01:20:30.000
+Eric Severson: mileage buckets is where I started looking at that, going, huh, this might really.
+
+01:20:27.000 --> 01:20:29.000
+Caroline Walters: Mm-hmm.
+
+01:20:30.000 --> 01:20:36.000
+Eric Severson: Be the primary focus that we should take in trying to drive, uh, attendance to these things.
+
+01:20:37.000 --> 01:20:42.000
+Caroline Walters: Yeah, that makes sense. I mean, I don't think executives are gonna come. People we don't even know.
+
+01:20:43.000 --> 01:20:45.000
+Eric Severson: Right.
+
+01:20:43.000 --> 01:20:50.000
+Caroline Walters: They have no reason to, so that makes… I'm 100% on board with what you're thinking.
+
+01:20:46.000 --> 01:20:48.000
+Eric Severson: A free ticket.
+
+01:20:50.000 --> 01:20:53.000
+Eric Severson: So that, that then goes to…
+
+01:20:50.000 --> 01:21:02.000
+Caroline Walters: Okay, here's a sidebar, sidebar for you. On your, um, chart, there's a misspelled word. So, segmenting audiences on benefit platforms.
+
+01:20:54.000 --> 01:20:56.000
+Eric Severson: Yep.
+
+01:20:56.000 --> 01:20:59.000
+Eric Severson: Yep.
+
+01:21:02.000 --> 01:21:05.000
+Caroline Walters: It says, Targeting K Industries, not key.
+
+01:21:05.000 --> 01:21:08.000
+Eric Severson: Oh, look at that. Good for you.
+
+01:21:08.000 --> 01:21:10.000
+Eric Severson: Yep.
+
+01:21:08.000 --> 01:21:14.000
+Caroline Walters: I don't know why I saw that, but I thought you would want to know, in case you were sending this to somebody else.
+
+01:21:14.000 --> 01:21:22.000
+Eric Severson: No, no, this is internal, but it's still embarrassing, so I will drop this in the, uh, in the website, and I'll send you the link to the website, see if I can't fix that, because that…
+
+01:21:15.000 --> 01:21:17.000
+Caroline Walters: Yeah.
+
+01:21:22.000 --> 01:21:29.000
+Eric Severson: This is a… when you do the selections for the slides, this is a detailed slide, and they're…
+
+01:21:29.000 --> 01:21:38.000
+Eric Severson: spelling errors that sneak into the detailed slides. If you stay with the middle section or the sparse section, there's way less text.
+
+01:21:31.000 --> 01:21:34.000
+Caroline Walters: Mm-hmm. Mm-hmm.
+
+01:21:38.000 --> 01:21:46.000
+Eric Severson: This, to me, was a strategy that I started using at Pearson years ago, where if I could get one slide.
+
+01:21:46.000 --> 01:21:54.000
+Eric Severson: That was busy, but that I could put up on a screen and talk to, you know, again, I was talking to 1,500 people for an hour.
+
+01:21:55.000 --> 01:22:05.000
+Eric Severson: about, uh, about Pearson business and strategies, I found that I could tell the stories if I had triggers. Now.
+
+01:22:05.000 --> 01:22:13.000
+Eric Severson: there's more words here than I would actually need, and I saw this from Mark Benioff, who's the CEO of Salesforce, does this. When he does his.
+
+01:22:13.000 --> 01:22:20.000
+Eric Severson: big presentations. He throws up one slide that's busy, and then he talks, and he tells people, he narrates the slide.
+
+01:22:20.000 --> 01:22:33.000
+Eric Severson: as memory triggers. So he's got the… all these little bubbles up there, and then he talks about it, tells the story, and then he'll even go, now, where was I? Oh yeah, we're on bubble number 2 from the left, now we're gonna talk about this. And I thought.
+
+01:22:22.000 --> 01:22:24.000
+Caroline Walters: Mm-hmm.
+
+01:22:33.000 --> 01:22:41.000
+Eric Severson: That's fantastic. I used to spend weeks memorizing an hour-long presentation, so I didn't have to talk from notes.
+
+01:22:41.000 --> 01:22:47.000
+Eric Severson: Uh, which is, you know, a key to engaging people, is not reading from notes.
+
+01:22:47.000 --> 01:22:49.000
+Caroline Walters: Mm-hmm.
+
+01:22:47.000 --> 01:22:53.000
+Eric Severson: Uh, and that's what this is for, but appreciate the spelling error, that's the thing you gotta worry about with AI, so…
+
+01:22:53.000 --> 01:22:58.000
+Caroline Walters: And then another thing I wanted to mention to you, Eric, is, um…
+
+01:22:56.000 --> 01:22:58.000
+Eric Severson: Sure.
+
+01:23:00.000 --> 01:23:09.000
+Caroline Walters: Ken sent the senior execs an email this week, and it's time for his evaluation and assessment from the Board of Trustees.
+
+01:23:09.000 --> 01:23:16.000
+Caroline Walters: And so, he was asking for… and they've redone the rubric to which they're scoring him by.
+
+01:23:17.000 --> 01:23:30.000
+Caroline Walters: And so, he was asking for our help on providing him supporting information about wins for CSU, specifically from our department. So on there, there was a section about partnerships.
+
+01:23:30.000 --> 01:23:32.000
+Eric Severson: Mm-hmm.
+
+01:23:31.000 --> 01:23:38.000
+Caroline Walters: And, I mean, I have the stuff that you have submitted to me, you know, the high-level points from 25, all that.
+
+01:23:38.000 --> 01:23:43.000
+Caroline Walters: which I can take and attempt to do this in Notebook LM, but…
+
+01:23:43.000 --> 01:23:45.000
+Eric Severson: Happy to do it. Yep.
+
+01:23:43.000 --> 01:23:46.000
+Caroline Walters: Do you want to… do you want to do it? And…
+
+01:23:46.000 --> 01:23:48.000
+Eric Severson: Happy to help you. Yep, we'll do it.
+
+01:23:47.000 --> 01:24:03.000
+Caroline Walters: That'd be great, because this is… anything we can do to help Ken, I think, would be great. So, what I think he would need… I mean, I want to provide him something like this for $25, but then we probably need, you know, just some verbiage.
+
+01:23:48.000 --> 01:23:50.000
+Eric Severson: Sure.
+
+01:23:58.000 --> 01:24:00.000
+Eric Severson: Mm-hmm.
+
+01:24:03.000 --> 01:24:10.000
+Caroline Walters: for him to support that image. So, um, do you mind helping me with that?
+
+01:24:09.000 --> 01:24:15.000
+Eric Severson: Sure, yeah, yeah. Um, so the things that would stick out in my head that are signed and done.
+
+01:24:10.000 --> 01:24:12.000
+Caroline Walters: Correct.
+
+01:24:15.000 --> 01:24:21.000
+Eric Severson: live view technology and Signal Mutual with CTR, right? So we can go into the…
+
+01:24:21.000 --> 01:24:26.000
+Eric Severson: Those are two areas that are, uh, that are worth making sure to call out.
+
+01:24:27.000 --> 01:24:32.000
+Eric Severson: We've got a lot of stuff that's gonna happen, right? The, uh…
+
+01:24:30.000 --> 01:24:32.000
+Caroline Walters: Mm-hmm.
+
+01:24:32.000 --> 01:24:39.000
+Eric Severson: the other Skilled Trades Pathways, but they're not done, and they weren't done in 2025. But LiveView and Signal were.
+
+01:24:37.000 --> 01:24:39.000
+Caroline Walters: Yeah.
+
+01:24:39.000 --> 01:24:46.000
+Caroline Walters: So I'm thinking, like, with that… with that live view, maybe give some context of what's the revenue opportunity.
+
+01:24:40.000 --> 01:24:41.000
+Eric Severson: Is there anything else?
+
+01:24:46.000 --> 01:24:48.000
+Eric Severson: Yeah.
+
+01:24:46.000 --> 01:24:49.000
+Caroline Walters: Like, how is this really moving.
+
+01:24:49.000 --> 01:24:51.000
+Eric Severson: the needle.
+
+01:24:50.000 --> 01:24:53.000
+Caroline Walters: Deepening us forward. Yeah.
+
+01:24:52.000 --> 01:24:54.000
+Eric Severson: Yep.
+
+01:24:53.000 --> 01:25:00.000
+Caroline Walters: And even put yourself in there that we, you know, because it'll be like me giving it to him, you know, we brought on a new VP.
+
+01:25:00.000 --> 01:25:02.000
+Eric Severson: Sure.
+
+01:25:00.000 --> 01:25:08.000
+Caroline Walters: To amplify business development, accelerate, you know, however you want to word it, you know, that kind of thing.
+
+01:25:08.000 --> 01:25:18.000
+Caroline Walters: Um, yeah. And I did, uh, because on a couple of things I know we identified, which I think this would just be kind of eye candy for the board.
+
+01:25:08.000 --> 01:25:10.000
+Eric Severson: Sure.
+
+01:25:11.000 --> 01:25:13.000
+Eric Severson: Do you need that?
+
+01:25:18.000 --> 01:25:24.000
+Caroline Walters: that we identified of the Fortune 500, how many we actually have partnerships with.
+
+01:25:24.000 --> 01:25:39.000
+Caroline Walters: I'm sure they don't know that. I mean, I have mentioned it in the committee meetings, but it hasn't been a presentation to the board. So it would just be another way he can show how business development is, you know, the tentacles are reaching out and growing, so…
+
+01:25:26.000 --> 01:25:28.000
+Eric Severson: Yep.
+
+01:25:39.000 --> 01:25:52.000
+Caroline Walters: nuggets of information like that. Um, I think we should include the two associations that, you know, Sherri brought on, the ENA and ANA should be in there, because they're huge. We might even, like.
+
+01:25:53.000 --> 01:25:57.000
+Caroline Walters: Note the size of the organization.
+
+01:25:57.000 --> 01:26:03.000
+Caroline Walters: Um… and we probably should put that Filipino Nursing Association on there.
+
+01:26:02.000 --> 01:26:05.000
+Eric Severson: Yeah, absolutely. Yeah, I mean…
+
+01:26:03.000 --> 01:26:06.000
+Caroline Walters: Because Nelson? Mm-hmm.
+
+01:26:05.000 --> 01:26:12.000
+Eric Severson: Look at the healthcare, the healthcare thing from a… a people and a potential to impact.
+
+01:26:13.000 --> 01:26:16.000
+Eric Severson: is huge. You know, it…
+
+01:26:13.000 --> 01:26:15.000
+Caroline Walters: Yeah.
+
+01:26:16.000 --> 01:26:20.000
+Eric Severson: I would… I would think that education and healthcare.
+
+01:26:21.000 --> 01:26:24.000
+Eric Severson: I'm still cranking through the…
+
+01:26:25.000 --> 01:26:27.000
+Eric Severson: analysis on…
+
+01:26:27.000 --> 01:26:31.000
+Eric Severson: The reporting for, uh, both your events and your, uh.
+
+01:26:31.000 --> 01:26:39.000
+Eric Severson: Um… after action reports. And one of the things that did stick out to me is that education and nursing events are way up, and.
+
+01:26:34.000 --> 01:26:36.000
+Caroline Walters: Mm-hmm.
+
+01:26:39.000 --> 01:26:44.000
+Eric Severson: we're down in EMS and in safety and in fire.
+
+01:26:46.000 --> 01:26:48.000
+Eric Severson: Not…
+
+01:26:46.000 --> 01:26:50.000
+Caroline Walters: I know, we figured out why.
+
+01:26:49.000 --> 01:26:57.000
+Eric Severson: Mmm, just… it's just, uh, I… I think… I'm not sure yet, but I suspect it's because you…
+
+01:26:57.000 --> 01:27:02.000
+Eric Severson: promoted some very strong players, and uh… I don't know how much.
+
+01:27:00.000 --> 01:27:02.000
+Caroline Walters: Mm-hmm.
+
+01:27:03.000 --> 01:27:09.000
+Eric Severson: fill was done. It could be data. It may be that there's a gap in.
+
+01:27:09.000 --> 01:27:14.000
+Eric Severson: managing the Salesforce data this last year that wasn't there previously.
+
+01:27:14.000 --> 01:27:20.000
+Eric Severson: Uh, so it's a little of that, and it may be the dynamics of we've shifted attention.
+
+01:27:20.000 --> 01:27:25.000
+Eric Severson: Uh, did you add staff in education and nursing, or how did that go?
+
+01:27:26.000 --> 01:27:34.000
+Caroline Walters: Um, we did. So, when we… education came on board, Ernie was doing community colleges already.
+
+01:27:35.000 --> 01:27:40.000
+Caroline Walters: And then, um, Garrett… Sherri hired Garrett as a rep.
+
+01:27:40.000 --> 01:27:47.000
+Caroline Walters: And… but now, Kim Smith and Garrett… no, Kim Smith and Caroline Stringbilla are the education team.
+
+01:27:48.000 --> 01:27:53.000
+Caroline Walters: supporting the College of Education with nursing Henry and Elizabeth.
+
+01:27:53.000 --> 01:27:56.000
+Caroline Walters: And Natalie's the manager of that team.
+
+01:27:57.000 --> 01:28:05.000
+Eric Severson: So again, I'll finish this up this weekend, and maybe we'll have a chat about it next week. It does look to me like there's.
+
+01:28:05.000 --> 01:28:13.000
+Eric Severson: A 4% drop overall in leads generated over… year over year from last year to this year.
+
+01:28:07.000 --> 01:28:09.000
+Caroline Walters: Okay.
+
+01:28:13.000 --> 01:28:20.000
+Eric Severson: And it does look like… that may not be bad news, by the way, because if you've got…
+
+01:28:20.000 --> 01:28:25.000
+Eric Severson: Two new disciplines, education and nursing.
+
+01:28:25.000 --> 01:28:30.000
+Eric Severson: That are going to deliver more graduate, uh, students.
+
+01:28:31.000 --> 01:28:37.000
+Eric Severson: than the falloff in fire and EMS, uh, or safety.
+
+01:28:37.000 --> 01:28:45.000
+Eric Severson: Right? If you're trading bachelor's for master's, that's a good trade. I haven't gotten into that level of detail yet.
+
+01:28:45.000 --> 01:28:47.000
+Caroline Walters: Mm-hmm.
+
+01:28:46.000 --> 01:28:56.000
+Eric Severson: And then the more, I mean, the gut on having been a sales manager for years, whenever you do management promotions and new portfolios.
+
+01:28:56.000 --> 01:29:02.000
+Eric Severson: there's gonna be a dip, right? Because you take your highest performing people, you make them managers, they're gonna generate fewer.
+
+01:29:03.000 --> 01:29:13.000
+Eric Severson: you know, leads or whatever it is as a manager than they were as an individual. And so, that's to be expected. It's a one-time thing. And then there's always the.
+
+01:29:13.000 --> 01:29:28.000
+Eric Severson: are the new reps, uh… are they attending to Salesforce as well as the people you promoted? Probably not, right? They're probably not doing anything as well as the people you promoted. You promote your top performers, typically.
+
+01:29:28.000 --> 01:29:42.000
+Eric Severson: And then you fill it with new people that have to come up a learning curve. So, the variation, I think it's important that you see and know and discuss it, but I don't think it's necessarily bad news. It could be good news, in fact, if you're.
+
+01:29:42.000 --> 01:29:47.000
+Eric Severson: Trading off a bandwidth trade and a new person trade for.
+
+01:29:47.000 --> 01:29:52.000
+Eric Severson: disciplines that yield more masters and PhDs, that's a win for CSU.
+
+01:29:52.000 --> 01:29:58.000
+Eric Severson: But then it's also a call out to go, do we need to rethink the, uh…
+
+01:29:59.000 --> 01:30:04.000
+Eric Severson: personnel assigned to those core disciplines? Are we doing enough in those?
+
+01:30:04.000 --> 01:30:07.000
+Eric Severson: And I'm… if… if we can get the…
+
+01:30:07.000 --> 01:30:19.000
+Eric Severson: 26 events are starting to populate in Salesforce, I can also then give you a… here's what the 26 layout looks like compared to 25, 24, 23.
+
+01:30:19.000 --> 01:30:26.000
+Eric Severson: for… by discipline. Here's the number of fire events, here's the number of, uh… is that helpful?
+
+01:30:26.000 --> 01:30:35.000
+Caroline Walters: It is helpful. Uh, something I did think of, our fire team at the beginning of 2025 was managed by Kimplash.
+
+01:30:35.000 --> 01:30:38.000
+Caroline Walters: And she had Caroline Stringfellow.
+
+01:30:39.000 --> 01:30:41.000
+Caroline Walters: I think it was the summer…
+
+01:30:41.000 --> 01:30:44.000
+Caroline Walters: Um, Sherri had some…
+
+01:30:44.000 --> 01:30:48.000
+Caroline Walters: HR issues with Stringfella and pulled her from the road.
+
+01:30:48.000 --> 01:30:55.000
+Caroline Walters: So that's half the team that did… I don't know how many conferences she missed, but she's a heavy lead gen person.
+
+01:30:55.000 --> 01:30:57.000
+Eric Severson: Yeah.
+
+01:30:56.000 --> 01:31:02.000
+Caroline Walters: So, some of that decrease could be a reflection that part of the team.
+
+01:31:02.000 --> 01:31:04.000
+Caroline Walters: Was no… not doing it.
+
+01:31:04.000 --> 01:31:06.000
+Eric Severson: Yeah. Totally.
+
+01:31:04.000 --> 01:31:06.000
+Caroline Walters: the work.
+
+01:31:07.000 --> 01:31:14.000
+Eric Severson: I mean, that stuff is very normal, and again, when we had… I had typically a district of 10 reps to a single manager.
+
+01:31:14.000 --> 01:31:22.000
+Eric Severson: And you would see a manager that lost 3 reps was doomed. They were never going to make their number, right? Because.
+
+01:31:22.000 --> 01:31:33.000
+Eric Severson: of the amount of time, especially with a calendar, the amount of time it took to hire, train, and at Pearson, it took 18 months to get a new rep to the point where they were really.
+
+01:31:33.000 --> 01:31:39.000
+Eric Severson: accountable for their successes. It was a happy accident if the brand new rep was successful before that, so…
+
+01:31:39.000 --> 01:31:48.000
+Eric Severson: Variations in staffing and all those other things are absolutely, you know, uh, gonna impact your, basically, gen stuff.
+
+01:31:48.000 --> 01:31:55.000
+Eric Severson: Um… and then, I guess the other thing I was thinking about is, if you're starting to, you know, look at.
+
+01:31:55.000 --> 01:32:00.000
+Eric Severson: Staffing. How do you know when… how do you figure out, is staffing appropriate for the disciplines that we're in?
+
+01:32:01.000 --> 01:32:07.000
+Caroline Walters: We don't have enough. We're short-handed right now. We can't cover all the events we have opportunities for.
+
+01:32:07.000 --> 01:32:12.000
+Caroline Walters: Um, like, for… we operated with a full team of 4, fire.
+
+01:32:08.000 --> 01:32:10.000
+Eric Severson: Yes.
+
+01:32:12.000 --> 01:32:21.000
+Caroline Walters: CJ and safety for a few years. I mean, ones and twos would go here and there, we'd hire somebody else, but we're…
+
+01:32:22.000 --> 01:32:23.000
+Caroline Walters: We are short-handed.
+
+01:32:24.000 --> 01:32:25.000
+Caroline Walters: Period.
+
+01:32:24.000 --> 01:32:34.000
+Eric Severson: Maybe I can help find a way to, you know, put that in a presentation, or quantify what's being left on the table, or the opportunity it could be.
+
+01:32:34.000 --> 01:32:45.000
+Eric Severson: Uh, because again, you know, the… every executive is used to people saying, I need, I need, I want, I want more resources. But for you, the connection to revenue is pretty darn direct.
+
+01:32:45.000 --> 01:32:55.000
+Eric Severson: And just to make that clear, you know, on here's what you would get for 2 more people in education.
+
+01:32:49.000 --> 01:32:51.000
+Caroline Walters: Mm-hmm.
+
+01:32:55.000 --> 01:33:01.000
+Eric Severson: And by make it clear, project the number of bachelors, but most importantly, masters in.
+
+01:33:01.000 --> 01:33:08.000
+Eric Severson: and PhD, that education is target-rich, I would think, for master's and PhD.
+
+01:33:08.000 --> 01:33:19.000
+Eric Severson: Uh, as opposed to the bachelor's program. The other question I was very curious about is, did the conversation ever come up about pricing, uh, discipline-specific pricing?
+
+01:33:20.000 --> 01:33:25.000
+Eric Severson: I mean, we pay the same for… where our students pay the same tuition.
+
+01:33:25.000 --> 01:33:35.000
+Eric Severson: for high-earning, uh, um, degrees versus low-earning degrees. Not to pick on social work people, but everybody knows I make peanuts.
+
+01:33:35.000 --> 01:33:37.000
+Caroline Walters: Yeah.
+
+01:33:35.000 --> 01:33:40.000
+Eric Severson: And everybody knows that cybersecurity people are going to make a lot of money.
+
+01:33:40.000 --> 01:33:43.000
+Eric Severson: Has that ever… has that ever come up as a topic?
+
+01:33:44.000 --> 01:33:50.000
+Caroline Walters: Um, I don't know that I've been in the room with senior executives as it has, but I mean.
+
+01:33:47.000 --> 01:33:49.000
+Eric Severson: For that.
+
+01:33:50.000 --> 01:33:57.000
+Caroline Walters: The whole university is built to just be accessible to everybody.
+
+01:33:58.000 --> 01:34:04.000
+Caroline Walters: per the family, right? So I don't think… they're not of the mind of having multi…
+
+01:34:05.000 --> 01:34:07.000
+Caroline Walters: price points…
+
+01:34:07.000 --> 01:34:11.000
+Caroline Walters: As tuition, as it relates to tuition.
+
+01:34:12.000 --> 01:34:20.000
+Eric Severson: I forget if you told me, or Tom told me that some of the pressure this year is coming from Ken having a record year and a family not getting very much profit.
+
+01:34:20.000 --> 01:34:23.000
+Eric Severson: And so, as I think about stuff like that.
+
+01:34:23.000 --> 01:34:28.000
+Eric Severson: When you start to connect growth ambition to all the other dynamics.
+
+01:34:28.000 --> 01:34:34.000
+Eric Severson: One way to improve the quantity of profit going to the families, which I bet would.
+
+01:34:34.000 --> 01:34:47.000
+Eric Severson: soften this a little bit is to connect the cost of the degree to the average earning power of people in that sector, right? Why would you be giving people in the high earning.
+
+01:34:47.000 --> 01:34:51.000
+Eric Severson: A break on the cost of their education.
+
+01:34:52.000 --> 01:34:59.000
+Eric Severson: I mean, I don't know how… I have to… I'm fumbling with words, but you know who needs the break? It's a social worker, because their life's going to be difficult financially anyway.
+
+01:34:58.000 --> 01:35:00.000
+Caroline Walters: Mm-hmm.
+
+01:34:59.000 --> 01:35:08.000
+Eric Severson: So, yeah, keep that low. But if you don't… I mean, there is a rationale to at least consider the correlation.
+
+01:35:08.000 --> 01:35:13.000
+Eric Severson: to the earning income, the average earnings that we see out of the BLS, or any number of those areas.
+
+01:35:13.000 --> 01:35:21.000
+Eric Severson: And that right there, you can afford, uh, to pay more if you know you're gonna get more on the other end of that, probably, maybe.
+
+01:35:21.000 --> 01:35:30.000
+Eric Severson: And then that translates to an investment during high growth aspirations will be easier to do.
+
+01:35:30.000 --> 01:35:37.000
+Eric Severson: if the people making all those calls are getting more, right? And one fast way to get more is differentiated pricing.
+
+01:35:38.000 --> 01:35:50.000
+Eric Severson: But, you know, I get the… I get… and I think it's a special part of this place, making sure that it's accessible. It's one of the reasons that, you know, the resource limitation is easier to accept, is that it's genuine, it's authentic.
+
+01:35:50.000 --> 01:35:55.000
+Eric Severson: you keep that price point down there, and I think that's a special part of CSU.
+
+01:35:55.000 --> 01:35:58.000
+Eric Severson: just as I think about where would be…
+
+01:35:58.000 --> 01:36:00.000
+Eric Severson: justifiable…
+
+01:36:01.000 --> 01:36:05.000
+Eric Severson: profit pickup, that's one of the things that sticks out is, huh…
+
+01:36:04.000 --> 01:36:06.000
+Caroline Walters: Mm-hmm.
+
+01:36:05.000 --> 01:36:13.000
+Eric Severson: You know, especially in some of those higher earning disciplines. And then there's… you can make it all data-driven. You can go to the BLS or any other.
+
+01:36:13.000 --> 01:36:19.000
+Eric Severson: source and go, I think most major universities do that a little bit differently. I don't think you're… but I'm not positive about that.
+
+01:36:19.000 --> 01:36:24.000
+Caroline Walters: Yeah, I'm not 100% either, Eric, on how that's structured out.
+
+01:36:22.000 --> 01:36:24.000
+Eric Severson: Yeah, okay, done.
+
+01:36:24.000 --> 01:36:30.000
+Caroline Walters: All right, so we can wrap this up, but I do, if you would prioritize.
+
+01:36:24.000 --> 01:36:26.000
+Eric Severson: Okay.
+
+01:36:30.000 --> 01:36:36.000
+Caroline Walters: doing that summary of what we talked about with this, uh, for Bonnie. I want to get that to them.
+
+01:36:33.000 --> 01:36:35.000
+Eric Severson: Yep.
+
+01:36:35.000 --> 01:36:37.000
+Eric Severson: Yep.
+
+01:36:37.000 --> 01:36:39.000
+Caroline Walters: And so what can…
+
+01:36:38.000 --> 01:36:41.000
+Eric Severson: That'll happen in a matter of minutes.
+
+01:36:39.000 --> 01:36:42.000
+Caroline Walters: Summarize it! Huh?
+
+01:36:41.000 --> 01:36:46.000
+Eric Severson: And the other thing, that'll happen in a matter of minutes, the other thing, what's your timeline for the other thing, for Ken?
+
+01:36:47.000 --> 01:36:49.000
+Eric Severson: Okay.
+
+01:36:47.000 --> 01:36:49.000
+Caroline Walters: Um, we got a few days.
+
+01:36:49.000 --> 01:36:52.000
+Eric Severson: Okay. Is there anything you can send me?
+
+01:36:50.000 --> 01:36:55.000
+Caroline Walters: Yeah, yeah, yeah. Because I asked him for… I asked him for a deadline, and I did not get one.
+
+01:36:55.000 --> 01:36:57.000
+Caroline Walters: So…
+
+01:36:55.000 --> 01:36:59.000
+Eric Severson: Okay. Okay.
+
+01:36:59.000 --> 01:37:01.000
+Eric Severson: Uh…
+
+01:37:01.000 --> 01:37:04.000
+Eric Severson: I think that covers it. The…
+
+01:37:04.000 --> 01:37:08.000
+Eric Severson: I apologize about the… not having you on the meetings with, uh…
+
+01:37:08.000 --> 01:37:11.000
+Eric Severson: uh… compliance people.
+
+01:37:11.000 --> 01:37:16.000
+Eric Severson: I am glad that, uh, Dale liked it.
+
+01:37:15.000 --> 01:37:18.000
+Caroline Walters: He did like it. He told me he liked it.
+
+01:37:17.000 --> 01:37:29.000
+Eric Severson: Yep, I'm glad. It solves a problem that I was painfully experiencing in a past life, and I just solved it last weekend for a colleague that's still struggling with it, so…
+
+01:37:29.000 --> 01:37:39.000
+Eric Severson: So, good, and my goal is not to build it for them, but to demonstrate what is possible, and so if it's Connor that I can help.
+
+01:37:33.000 --> 01:37:35.000
+Caroline Walters: Mm-hmm.
+
+01:37:39.000 --> 01:37:50.000
+Eric Severson: Uh, it will be to help them. If it's Jennifer Hopper Lee, fine. It's… I would much rather teach or demonstrate or make aware.
+
+01:37:50.000 --> 01:37:54.000
+Eric Severson: I'm not looking to build things for other departments, so…
+
+01:37:53.000 --> 01:37:58.000
+Caroline Walters: Yeah, that's good. How does your meeting go with Sonya and Jennifer?
+
+01:37:58.000 --> 01:38:06.000
+Eric Severson: Uh, so, I am very used to meeting with compliance and legal, and I would never say that they're fun or interesting, or even high energy.
+
+01:38:06.000 --> 01:38:13.000
+Eric Severson: So, I got the skeptical, who are you, why are we having this conversation?
+
+01:38:13.000 --> 01:38:25.000
+Eric Severson: Uh, Sonya said about 20 times, I want to have a conversation with everybody in the room, and I'll tell you, I don't do that. I don't float ideas with everybody in the room until I've gone around the committee and go, do you care about this?
+
+01:38:25.000 --> 01:38:37.000
+Eric Severson: is this a problem you want to solve? Here's a way to do it. Do you see this fitting? So there's never going to be a day that I'm going to go into a big meeting and go, here's a great idea that I have no idea if anybody gives a about, right? And so…
+
+01:38:37.000 --> 01:38:41.000
+Eric Severson: Uh, it's not gonna happen. And so that…
+
+01:38:40.000 --> 01:38:42.000
+Caroline Walters: Who was… who is she wanting in the room?
+
+01:38:43.000 --> 01:38:49.000
+Eric Severson: Well, she wanted, uh, you, which you should have been in the room, but again, dragging you along for my discoveries.
+
+01:38:49.000 --> 01:38:54.000
+Eric Severson: Uh, up to you, but, you know, is that a great use of your time? Maybe not.
+
+01:38:54.000 --> 01:39:00.000
+Eric Severson: She wanted Dale in the room, she wanted BG in the room, she wanted… Jennifer was there.
+
+01:39:00.000 --> 01:39:07.000
+Eric Severson: Um, so Jennifer did, I did, on my walk around and knocking on doors, waiting for Janelle, I did…
+
+01:39:07.000 --> 01:39:15.000
+Eric Severson: find Jennifer, introduce myself, we had a chat. Uh, Jennifer's a little frustrated with Sonia, so Jennifer's…
+
+01:39:15.000 --> 01:39:23.000
+Eric Severson: eager to do lots of work, and sounds to me like Sonia is giving her the, you go in this little box and stay over in that corner.
+
+01:39:23.000 --> 01:39:28.000
+Eric Severson: And just do what I tell you, when I tell you, and don't do too much of it, which is…
+
+01:39:28.000 --> 01:39:33.000
+Eric Severson: Interesting, right? That's not going to stick around for that for very long.
+
+01:39:33.000 --> 01:39:35.000
+Eric Severson: Uh, and so, um…
+
+01:39:36.000 --> 01:39:44.000
+Eric Severson: She's the one that's doing all the work, and she's doing it all manually. And I'm of two minds of this, right? I am interested in getting to.
+
+01:39:39.000 --> 01:39:41.000
+Caroline Walters: Hmm.
+
+01:39:44.000 --> 01:39:51.000
+Eric Severson: can, at some point in demonstrating things. Let me show you. You have 2 more minutes? This is just quick show and tell.
+
+01:39:51.000 --> 01:39:56.000
+Eric Severson: And I think this is, this could be relevant for you as well, uh, it just depends on how much you care about this stuff.
+
+01:39:57.000 --> 01:40:00.000
+Eric Severson: Uh, and so this is going to be a quick demo on…
+
+01:40:01.000 --> 01:40:03.000
+Eric Severson: Uh, use case for…
+
+01:40:08.000 --> 01:40:10.000
+Eric Severson: Let me reshare…
+
+01:40:14.000 --> 01:40:20.000
+Eric Severson: So this is my Google notebook. By the way, I'd love to share these things. One of the things that, you know, as you know, I'm already.
+
+01:40:20.000 --> 01:40:27.000
+Eric Severson: somewhere between frustrated and annoyed with the level of lockdown on all IT things at CSU.
+
+01:40:27.000 --> 01:40:35.000
+Eric Severson: Uh, here's a great example that seems super needless to me. I can't share anything into Google with anybody's CSU email address.
+
+01:40:27.000 --> 01:40:29.000
+Caroline Walters: Yeah.
+
+01:40:35.000 --> 01:40:44.000
+Eric Severson: I don't think that's a Google choice, I think that's an IT choice here, and so, you know, okay, I'm just going to keep it outside of CSU at that point.
+
+01:40:44.000 --> 01:40:46.000
+Eric Severson: Um…
+
+01:40:48.000 --> 01:40:51.000
+Eric Severson: This morning, this morning.
+
+01:40:51.000 --> 01:40:59.000
+Eric Severson: at O.30, before I got on my bike ride, which I left the garage at 5 AM, so this is at, like, 4.15.
+
+01:40:59.000 --> 01:41:06.000
+Eric Severson: I am reading Inside Higher Ed, which… let me see if I can't pull it up really quickly.
+
+01:41:06.000 --> 01:41:11.000
+Eric Severson: Where is Inside Higher Ed this morning?
+
+01:41:11.000 --> 01:41:13.000
+Eric Severson: Here.
+
+01:41:13.000 --> 01:41:19.000
+Eric Severson: what we learned about Ed's rulemaking playbook. So, they're doing all of this stuff, right?
+
+01:41:19.000 --> 01:41:21.000
+Caroline Walters: Hm?
+
+01:41:19.000 --> 01:41:26.000
+Eric Severson: And now, I'm guessing that we all wait for somebody inside of this organization to.
+
+01:41:26.000 --> 01:41:36.000
+Eric Severson: read it, internalize it. At UTI, we had a whole division that did nothing but read the regs, internalize the regs, you'd get a comment back in weeks after it was actually done.
+
+01:41:37.000 --> 01:41:47.000
+Eric Severson: Right? High-stakes policy talk shed light on Ed's playbook. So I started reading this, and I'm like, yeah, yeah, yeah, we're going through it to understand what's happening with these things.
+
+01:41:47.000 --> 01:41:53.000
+Eric Severson: A lot of words, a lot of words, so many words, Caroline, I don't have time to read all these words. So, let's put it into.
+
+01:41:53.000 --> 01:41:59.000
+Eric Severson: Notebook LM. And then let's go ahead and say…
+
+01:41:55.000 --> 01:41:57.000
+Caroline Walters: Mm-hmm.
+
+01:41:59.000 --> 01:42:07.000
+Eric Severson: What changed the most, uh… what changed with the most recent source document from the publication inside higher education?
+
+01:42:08.000 --> 01:42:11.000
+Eric Severson: This is my DOE.
+
+01:42:11.000 --> 01:42:18.000
+Eric Severson: I think whatever this is to gainful employment, this is the notebook that I have that looks at all the sources.
+
+01:42:14.000 --> 01:42:16.000
+Caroline Walters: Mm-hmm.
+
+01:42:18.000 --> 01:42:23.000
+Eric Severson: For the regulatory and compliance rulemaking that's about to change.
+
+01:42:23.000 --> 01:42:31.000
+Eric Severson: Revelation of strong-arm tactics to secure consensus. There's politics about the DOE and, you know, the threats that they're doing.
+
+01:42:31.000 --> 01:42:43.000
+Eric Severson: threat strategy, leveraging gainful employment. A specific major revelation is that Ed was threatened to scrap or significantly weaken the existing gainful employment rule, which holds for for-profit colleges accountable.
+
+01:42:43.000 --> 01:42:51.000
+Eric Severson: if institutional representation did not vote yes on the new accountability framework for traditional colleges. Now, I think that's wonderful.
+
+01:42:51.000 --> 01:42:57.000
+Eric Severson: Having been in both not-for-profit and for-profit, I think it was shitty and disingenuous.
+
+01:42:57.000 --> 01:43:12.000
+Eric Severson: to put gainful employment in all those rigs only on for-profit, especially after they cleaned it up. When they started in the 90s, there were way too many really shitty actors in for-profit. They're now gone and out of business.
+
+01:43:04.000 --> 01:43:06.000
+Caroline Walters: Yep.
+
+01:43:12.000 --> 01:43:21.000
+Eric Severson: And so, to not hold everyone to the same standard, I think sucks. So, seeing that, great. Strong-arm tactics, great.
+
+01:43:21.000 --> 01:43:30.000
+Eric Severson: Uh, explanation of legal aid, absenteeism, new playbook for negotiations, condensed timelines, limited public input, hard lines.
+
+01:43:30.000 --> 01:43:42.000
+Eric Severson: So, it took me 5 minutes to load this in, it took me 5 minutes to scan this to go… the advantages are still really in CSU's favor across a number of.
+
+01:43:42.000 --> 01:43:50.000
+Eric Severson: places. Uh, then, before I walked out, I wanted to say, you know, what are the updated strategic advantages.
+
+01:43:51.000 --> 01:44:06.000
+Eric Severson: for CSU, just to make sure that I had a quick glimpse at our talking points and the implications. Why? Are there implications for CSU that would put us in undue duress or stress from either a reporting perspective, which will cost resources.
+
+01:44:06.000 --> 01:44:15.000
+Eric Severson: When I'm asking for more marketing support, if we have to put it all in compliance, which sucks, then that's going to be a drain. I just want to, you know, start to think about those things.
+
+01:44:16.000 --> 01:44:30.000
+Eric Severson: Uh, are there… are there any other big implications for business development, or for funding, or for anything else that might factor into, you know, knowing what Ken is struggling with, what the institution might be struggling with?
+
+01:44:30.000 --> 01:44:40.000
+Eric Severson: It took me no time at all to take that research report, plop it in here, and start asking questions about it, you know, was there a major change that changes things?
+
+01:44:40.000 --> 01:44:45.000
+Eric Severson: there was not. And so, for Ken, what I want to see is…
+
+01:44:46.000 --> 01:44:55.000
+Eric Severson: This takes no effort. It's not as good as having a compliance department, but this will help you be informed instantly.
+
+01:44:50.000 --> 01:44:52.000
+Caroline Walters: Mm-hmm.
+
+01:44:55.000 --> 01:45:03.000
+Eric Severson: Without having to read the full contents of the article, but then be able to ask questions of your compliance department more effectively.
+
+01:45:03.000 --> 01:45:10.000
+Eric Severson: And so, this is one of those moments where I think, yeah, we could make cute graphics off of this, I don't think I did.
+
+01:45:10.000 --> 01:45:12.000
+Eric Severson: I might have.
+
+01:45:12.000 --> 01:45:25.000
+Eric Severson: navigating federal accountability for CSU? I mean, it's possible that a graphic like this could be useful for board presentation, if he has to be on the hook for.
+
+01:45:18.000 --> 01:45:20.000
+Caroline Walters: Mm-hmm.
+
+01:45:25.000 --> 01:45:30.000
+Eric Severson: Describing the old to the new system, uh, and what are the key implications.
+
+01:45:30.000 --> 01:45:42.000
+Eric Severson: potential distortions for CSU. I mean, honestly, when I go to these, I'm like, wow, awesome, regional earnings mismatch? That was one of the things that changed. So, initially, the rulemaking was.
+
+01:45:42.000 --> 01:45:48.000
+Eric Severson: Regional earnings were going to be the benchmark that you were held accountable to.
+
+01:45:48.000 --> 01:45:56.000
+Eric Severson: Unless 50% or more of your graduates are from out of state, which immediately qualifies CSU.
+
+01:45:56.000 --> 01:46:01.000
+Eric Severson: Then, you would be held to the national earnings benchmark for each of the disciplines.
+
+01:46:02.000 --> 01:46:09.000
+Eric Severson: Is that a big deal? Is that a good guy or a bad guy for CSU? Because of the age demographic mismatch.
+
+01:46:09.000 --> 01:46:15.000
+Eric Severson: This is all set up for a younger benchmark. They're aimed at traditional colleges, and thank God.
+
+01:46:15.000 --> 01:46:30.000
+Eric Severson: this organization focuses on working adults, the national earnings isn't really that punitive, because we still have, at average age 39, people that are making more than anybody that comes right out of college in that.
+
+01:46:18.000 --> 01:46:20.000
+Caroline Walters: Hm?
+
+01:46:30.000 --> 01:46:35.000
+Eric Severson: You know, 25 to 34 aid bucket is gonna make in that first job.
+
+01:46:30.000 --> 01:46:32.000
+Caroline Walters: Oh.
+
+01:46:35.000 --> 01:46:41.000
+Eric Severson: And then, you know, the intense scrutiny is fine, we don't have anybody that's got findings or degrees that are in trouble, so…
+
+01:46:41.000 --> 01:46:46.000
+Eric Severson: So I thought this was an interesting way to use Notebook LM to go through.
+
+01:46:41.000 --> 01:46:43.000
+Caroline Walters: Yeah.
+
+01:46:45.000 --> 01:46:47.000
+Caroline Walters: Hmm.
+
+01:46:46.000 --> 01:46:55.000
+Eric Severson: dense amounts of material. Once you get used to it, honestly, I did this in 15 minutes with a cup of coffee sitting in my bike clothes at 4.15 this morning.
+
+01:46:54.000 --> 01:46:56.000
+Caroline Walters: Yeah.
+
+01:46:55.000 --> 01:47:05.000
+Eric Severson: And then went through it and went, cool. I got, you know, based on that article, I understand there are 2 or 3 things that I need to mull over a little bit to figure out what are… what's relevance to us, if any.
+
+01:47:05.000 --> 01:47:10.000
+Eric Severson: And then, you know, use it as a potential use case for Ken.
+
+01:47:10.000 --> 01:47:12.000
+Eric Severson: What do you think about that?
+
+01:47:11.000 --> 01:47:19.000
+Caroline Walters: Yeah, I think it would definitely be nice to show him what's… what's out there, because he doesn't know, right?
+
+01:47:20.000 --> 01:47:22.000
+Caroline Walters: Um, I think Tom…
+
+01:47:21.000 --> 01:47:27.000
+Eric Severson: How would you like to do that? Would you, would you be open to doing a meeting every 2 weeks, once a month?
+
+01:47:27.000 --> 01:47:34.000
+Eric Severson: 30 minutes, quick flyby, it could be you, me, and Ken. It could be a broader number of executives, and saying.
+
+01:47:35.000 --> 01:47:45.000
+Eric Severson: here's… here's what's changing in AI that you should be thinking about. Here are some tools we're aware of, here are some tools, here's a couple of use cases inside the university.
+
+01:47:46.000 --> 01:47:50.000
+Caroline Walters: So, I think the first should be you, Ken, and myself.
+
+01:47:50.000 --> 01:47:52.000
+Eric Severson: Okay.
+
+01:47:51.000 --> 01:47:55.000
+Caroline Walters: and then ask Ken, is this something you would be interested in doing?
+
+01:47:55.000 --> 01:47:57.000
+Eric Severson: Okay.
+
+01:47:56.000 --> 01:47:59.000
+Caroline Walters: Monthly. And would you want to?
+
+01:47:57.000 --> 01:47:59.000
+Eric Severson: It would also be…
+
+01:47:59.000 --> 01:48:11.000
+Eric Severson: Yeah, okay. It would also be possible for me to start doing, uh, quick YouTube videos and say, you know, here's something to think about, here's something that's happening this week in AI, here's a quick, you know, 15-minute flyby.
+
+01:48:11.000 --> 01:48:16.000
+Eric Severson: Of this stuff, and then… and then we could leave it up to, you know.
+
+01:48:16.000 --> 01:48:18.000
+Eric Severson: We could try that.
+
+01:48:17.000 --> 01:48:20.000
+Caroline Walters: When are you back in Orange Beach?
+
+01:48:21.000 --> 01:48:26.000
+Eric Severson: So, uh, I am flying out next Friday to…
+
+01:48:26.000 --> 01:48:32.000
+Eric Severson: Jacksonville, and then Tuesday to Tallahassee for the space event.
+
+01:48:32.000 --> 01:48:38.000
+Eric Severson: And I have a one-way ticket, I haven't done anything else, because I was kind of waiting to see if we couldn't get an.
+
+01:48:39.000 --> 01:48:46.000
+Eric Severson: on-site visit with the CTR guy at one of the Alabama manufacturers that they're doing training in.
+
+01:48:41.000 --> 01:48:43.000
+Caroline Walters: Mm-hmm.
+
+01:48:46.000 --> 01:48:52.000
+Eric Severson: Um, but I could… so I… I'm open, I could come to CSU that week.
+
+01:48:52.000 --> 01:48:55.000
+Caroline Walters: That's the week… the first week of February.
+
+01:48:55.000 --> 01:49:00.000
+Eric Severson: That is… yes, that's the first week of February, so…
+
+01:48:56.000 --> 01:48:58.000
+Caroline Walters: Alright.
+
+01:48:59.000 --> 01:49:01.000
+Caroline Walters: So…
+
+01:49:02.000 --> 01:49:06.000
+Caroline Walters: Alright, let me see if Ken is available.
+
+01:49:06.000 --> 01:49:11.000
+Caroline Walters: And I actually, on the 3rd, I have a one-on-one meeting with him.
+
+01:49:11.000 --> 01:49:13.000
+Caroline Walters: And let me confirm…
+
+01:49:11.000 --> 01:49:15.000
+Eric Severson: That's the day we've got our… that's the day we've got our space thing.
+
+01:49:15.000 --> 01:49:17.000
+Caroline Walters: Ah, okay.
+
+01:49:16.000 --> 01:49:20.000
+Eric Severson: We're in Tallahassee on the 3rd.
+
+01:49:19.000 --> 01:49:22.000
+Caroline Walters: So it would be probably the 5th?
+
+01:49:22.000 --> 01:49:32.000
+Eric Severson: 4th or 5th, yeah. I mean, tell… I was thinking… I was either gonna go back to Jacksonville and go home, or drive on to, uh, Orange Beach and hang out and go home on Friday.
+
+01:49:23.000 --> 01:49:25.000
+Caroline Walters: Fourth or 5th?
+
+01:49:32.000 --> 01:49:37.000
+Caroline Walters: From experience, this will be way more impactful if you do the first time with Ken in person.
+
+01:49:38.000 --> 01:49:40.000
+Eric Severson: Okay. Sure.
+
+01:49:39.000 --> 01:49:46.000
+Caroline Walters: So that's what I was trying to… and I'll see if we can get an hour of his time, and you… and I'll just say, hey.
+
+01:49:46.000 --> 01:49:51.000
+Caroline Walters: it's show and tell. Eric, it's got some cool stuff he's been sharing with me.
+
+01:49:51.000 --> 01:49:56.000
+Caroline Walters: We both thought this would be meaningful for you, and…
+
+01:49:57.000 --> 01:49:58.000
+Eric Severson: Yep.
+
+01:49:57.000 --> 01:50:02.000
+Caroline Walters: you know, between that time, what aren't we meeting with Dale and Sonya and that group next week?
+
+01:50:02.000 --> 01:50:06.000
+Caroline Walters: Or something? Did I see a calendar invite for that, maybe?
+
+01:50:02.000 --> 01:50:04.000
+Eric Severson: And…
+
+01:50:06.000 --> 01:50:08.000
+Eric Severson: Yes, that's next week.
+
+01:50:07.000 --> 01:50:09.000
+Caroline Walters: Okay.
+
+01:50:09.000 --> 01:50:16.000
+Eric Severson: Do you… how do you want to handle Scott? Do you… do you want… I mean, there's a couple things that I keep thinking about here. One…
+
+01:50:16.000 --> 01:50:26.000
+Eric Severson: opening up access to the existing tools, right? Because, again, that is going to encourage experimentation, it's going to encourage.
+
+01:50:26.000 --> 01:50:32.000
+Eric Severson: That's smart, right? You want people to be able to work with those tools. Uh, and then…
+
+01:50:33.000 --> 01:50:42.000
+Eric Severson: We should be debating an enterprise deal with one of the major labs, either Google, Anthropic.
+
+01:50:42.000 --> 01:50:48.000
+Eric Severson: I don't know that I do OpenAI, but one of them, uh, beyond Microsoft. Microsoft…
+
+01:50:48.000 --> 01:50:53.000
+Eric Severson: Sucks, right? It's the solid 5th place in capabilities and tools.
+
+01:50:54.000 --> 01:50:56.000
+Eric Severson: Uh, so…
+
+01:50:56.000 --> 01:51:02.000
+Eric Severson: What's the best way to have that conversation and win in that conversation?
+
+01:51:04.000 --> 01:51:08.000
+Caroline Walters: That's a good question, Eric. Um…
+
+01:51:06.000 --> 01:51:07.000
+Eric Severson: Thanks.
+
+01:51:10.000 --> 01:51:20.000
+Caroline Walters: I think the thing is, let's go to Ken and say, hey, this is… this is some things I'm playing around with and using. These are some things I've shared with Caroline. We thought you might be interested.
+
+01:51:20.000 --> 01:51:26.000
+Caroline Walters: And then, instead of saying, we need to do this, maybe say to Ken.
+
+01:51:27.000 --> 01:51:33.000
+Caroline Walters: Ken, how do you think… do you want the university to be more engaged with AI?
+
+01:51:33.000 --> 01:51:39.000
+Caroline Walters: Yes or no? He's probably gonna say yes. Who do you have leading those efforts?
+
+01:51:40.000 --> 01:51:47.000
+Caroline Walters: Because nobody's leading that, really. I mean, they've got this AI committee, but I sat in a meeting yesterday.
+
+01:51:46.000 --> 01:51:50.000
+Eric Severson: I'm on it, we haven't met, we haven't met for 3 months, right?
+
+01:51:49.000 --> 01:51:58.000
+Caroline Walters: Well, I met yesterday, because the executives are on another oversight committee for it, and Eric, all we talked about was glossary definitions.
+
+01:51:53.000 --> 01:51:55.000
+Eric Severson: AI.
+
+01:51:58.000 --> 01:52:04.000
+Eric Severson: Yeah, dumb use of… there should be… there should be a documented strategy.
+
+01:52:00.000 --> 01:52:02.000
+Caroline Walters: So…
+
+01:52:04.000 --> 01:52:10.000
+Eric Severson: Right? And if you're talking about glossary definitions, you're lost in the weeds with senior executives. They should have.
+
+01:52:10.000 --> 01:52:15.000
+Eric Severson: a one-page, one-slide strategy. Here's the strategy that we have.
+
+01:52:15.000 --> 01:52:21.000
+Caroline Walters: Yeah, um, that wasn't the case. So, I mean, you need to be.
+
+01:52:22.000 --> 01:52:27.000
+Caroline Walters: be prepared for him to say, well, this falls under Jason and his team.
+
+01:52:27.000 --> 01:52:29.000
+Eric Severson: Does it? Okay.
+
+01:52:28.000 --> 01:52:32.000
+Caroline Walters: Well, I mean, his team is doing this whole AI committee.
+
+01:52:32.000 --> 01:52:34.000
+Eric Severson: Okay.
+
+01:52:33.000 --> 01:52:41.000
+Caroline Walters: To which nothing's happened with, and we really hadn't seen much of what his department's even doing.
+
+01:52:41.000 --> 01:52:43.000
+Eric Severson: I'm trying to help them.
+
+01:52:41.000 --> 01:52:45.000
+Caroline Walters: I mean, maybe it takes a long time.
+
+01:52:46.000 --> 01:52:51.000
+Eric Severson: Well, so, what I am observing is that they are enormously tactical.
+
+01:52:51.000 --> 01:52:55.000
+Eric Severson: They have traditional IT people that are…
+
+01:52:55.000 --> 01:52:58.000
+Eric Severson: Working on policy and glossaries.
+
+01:52:58.000 --> 01:53:03.000
+Eric Severson: The world is moving past. The world is moving forward, right? So…
+
+01:53:03.000 --> 01:53:12.000
+Eric Severson: Do we need policies in glossaries? Yup. Is that the strategy? You better hope it isn't, right? That is not… that is not the strategy.
+
+01:53:09.000 --> 01:53:11.000
+Caroline Walters: Mm-hmm.
+
+01:53:12.000 --> 01:53:16.000
+Eric Severson: And so, you know, how… and…
+
+01:53:16.000 --> 01:53:25.000
+Eric Severson: I will try to help Jason, but I definitely see that there's a mindset that's not strategic, it's, uh, tactical.
+
+01:53:25.000 --> 01:53:27.000
+Eric Severson: And…
+
+01:53:25.000 --> 01:53:29.000
+Caroline Walters: Well, and you… and we don't know what he's been tasked with, either.
+
+01:53:29.000 --> 01:53:35.000
+Eric Severson: Fair. And the data thing is a nightmare. You need to get the data thing sorted out.
+
+01:53:31.000 --> 01:53:33.000
+Caroline Walters: you know…
+
+01:53:36.000 --> 01:53:39.000
+Eric Severson: What you want on top of that, though, is…
+
+01:53:39.000 --> 01:53:44.000
+Eric Severson: before you have your data sorted out, you need a strategy. You need a broad strategy for.
+
+01:53:44.000 --> 01:53:50.000
+Eric Severson: What do we want AI to do, or how do we envision it contributing.
+
+01:53:50.000 --> 01:53:56.000
+Eric Severson: to the different parts of the university, and then what is our roadmap to those things?
+
+01:53:56.000 --> 01:54:05.000
+Eric Severson: When you… and that can happen concurrently to the data transformation that is consuming and difficult and painful and ugly.
+
+01:54:05.000 --> 01:54:12.000
+Eric Severson: But once you get there, you don't want to then sit down and go, now what's our strategy, right? You want to have the rest of that.
+
+01:54:12.000 --> 01:54:17.000
+Eric Severson: Clicking. And Jason tells me, for access, it all goes back to IT.
+
+01:54:12.000 --> 01:54:14.000
+Caroline Walters: Yeah.
+
+01:54:17.000 --> 01:54:22.000
+Eric Severson: Right? And Scott will tell me, Jason needs to do it. And so, at some of these points, I'm like, what the.
+
+01:54:22.000 --> 01:54:27.000
+Eric Severson: Get your stuff sorted out, boys. Get it figured out, right? And I think that's a…
+
+01:54:27.000 --> 01:54:35.000
+Eric Severson: Scott wants to do nothing, and Jason doesn't know how to open and actionize these things. I kind of wonder if we shouldn't go meet with Scott at some point and go.
+
+01:54:36.000 --> 01:54:42.000
+Eric Severson: where are you on this? Where do you… where do you perceive the, uh, strategy, or the…
+
+01:54:42.000 --> 01:54:47.000
+Eric Severson: You know, the things that we might want to do, right? Is there…
+
+01:54:48.000 --> 01:54:57.000
+Eric Severson: a mechanism for us to do those, or is it just no? And then, if it's just no, then at least we've done that so that if it comes up with Ken.
+
+01:54:57.000 --> 01:55:01.000
+Eric Severson: We can say, yep, did that, checkbox, here's what was said.
+
+01:55:01.000 --> 01:55:06.000
+Caroline Walters: Yeah, we definitely need to meet with Scott before we say anything like.
+
+01:55:06.000 --> 01:55:11.000
+Caroline Walters: Well, we think this should be doing this, because his next question's going to be, what did Scott say?
+
+01:55:11.000 --> 01:55:13.000
+Eric Severson: Yeah, that's what I thought, too.
+
+01:55:13.000 --> 01:55:15.000
+Caroline Walters: Every time.
+
+01:55:14.000 --> 01:55:16.000
+Eric Severson: Yep.
+
+01:55:15.000 --> 01:55:19.000
+Caroline Walters: Every time. So, um…
+
+01:55:20.000 --> 01:55:22.000
+Caroline Walters: Let me look back here.
+
+01:55:23.000 --> 01:55:28.000
+Caroline Walters: I have a one-on-one with Scott next week that I could plant the seed with.
+
+01:55:29.000 --> 01:55:31.000
+Eric Severson: Wonderful.
+
+01:55:30.000 --> 01:55:32.000
+Caroline Walters: And, um…
+
+01:55:32.000 --> 01:55:36.000
+Eric Severson: And I think that's just… how are we thinking about.
+
+01:55:37.000 --> 01:55:39.000
+Eric Severson: AI.
+
+01:55:39.000 --> 01:55:41.000
+Caroline Walters: Mm-hmm.
+
+01:55:40.000 --> 01:55:44.000
+Eric Severson: I mean, of the department that should be leading the use of AI?
+
+01:55:45.000 --> 01:55:50.000
+Eric Severson: He… I would ask him, are your developers using it? Because…
+
+01:55:50.000 --> 01:55:52.000
+Eric Severson: They could…
+
+01:55:52.000 --> 01:55:57.000
+Eric Severson: They should be leading. The AI tools are tuned and built for developers, first and foremost.
+
+01:55:57.000 --> 01:55:58.000
+Caroline Walters: Mm-hmm.
+
+01:55:57.000 --> 01:56:00.000
+Eric Severson: And they could absolutely increase.
+
+01:56:00.000 --> 01:56:07.000
+Eric Severson: The velocity that they are doing their development without increasing their headcount at all.
+
+01:56:07.000 --> 01:56:14.000
+Eric Severson: But, they have to be taught. You have to have a tolerance for learning curves, right? A little bit of failure in that, coming up to speed.
+
+01:56:14.000 --> 01:56:21.000
+Eric Severson: Thing, and it's, you know, it's accelerating dramatically right now in…
+
+01:56:21.000 --> 01:56:25.000
+Eric Severson: Uh, in the… in code development, in software development.
+
+01:56:26.000 --> 01:56:31.000
+Eric Severson: If you… so they would be curious to know how you're feeling about that, how you're doing that, and then…
+
+01:56:31.000 --> 01:56:40.000
+Eric Severson: how should we be thinking about AI in… across the business divisions, right? And it starts there with just probing around for.
+
+01:56:41.000 --> 01:56:48.000
+Eric Severson: we should probably be building our use cases for university relations, right? And I'd be happy to do… to start helping do that.
+
+01:56:45.000 --> 01:56:47.000
+Caroline Walters: Yeah.
+
+01:56:49.000 --> 01:56:51.000
+Eric Severson: Uh, it might require…
+
+01:56:50.000 --> 01:56:56.000
+Caroline Walters: Well, and I think that's where we may get more movement if we're, like, starting with our department.
+
+01:56:56.000 --> 01:56:58.000
+Eric Severson: Okay.
+
+01:56:56.000 --> 01:57:04.000
+Caroline Walters: Like, I understand if this is not a university-wide flipping a switch on something, but hey, can you flip our switch?
+
+01:57:04.000 --> 01:57:09.000
+Caroline Walters: we want to play around with this. We see… I mean, you're an AI consultant.
+
+01:57:10.000 --> 01:57:13.000
+Caroline Walters: Let… let us do that. Piggy.
+
+01:57:11.000 --> 01:57:16.000
+Eric Severson: Maybe that's the way to handle Scott right out of the gates, is could we get some.
+
+01:57:17.000 --> 01:57:23.000
+Eric Severson: Some exceptions to work with the tools, meaning, you know, the Google stuff.
+
+01:57:24.000 --> 01:57:33.000
+Eric Severson: we'd like to use the Google tools. Can we… and, you know, can we start to look at experimentation? We'll build the use cases, document the use cases.
+
+01:57:34.000 --> 01:57:42.000
+Eric Severson: I mean, just like this thing that we were talking about with Zoom for Sherri's group, that is the gain for you and for Sherri to have.
+
+01:57:42.000 --> 01:57:54.000
+Eric Severson: not instant, but access to a level of insight that's very difficult. I have struggled for decades to try to pull that knowledge out of distributed groups, and now.
+
+01:57:45.000 --> 01:57:47.000
+Caroline Walters: Mm-hmm.
+
+01:57:54.000 --> 01:58:02.000
+Eric Severson: You know, I think, geez, there's just so much potential to make that a reality without overburdening people with a bunch of tasks.
+
+01:58:03.000 --> 01:58:06.000
+Caroline Walters: Yeah. Yeah. Um…
+
+01:58:03.000 --> 01:58:05.000
+Eric Severson: So… Okay.
+
+01:58:05.000 --> 01:58:07.000
+Eric Severson: Cool.
+
+01:58:07.000 --> 01:58:15.000
+Caroline Walters: I'll… if you'll think about what we want to ask Scott about, like, of course, the Zoom things that have been blocked, and I would think that.
+
+01:58:15.000 --> 01:58:24.000
+Caroline Walters: Microsoft Pilot, didn't you say there's some things there? I mean, those are things people are using, and I don't think it's a big ass to have some things turned on.
+
+01:58:18.000 --> 01:58:21.000
+Eric Severson: Yeah, I'll try to be very specific about that.
+
+01:58:21.000 --> 01:58:23.000
+Eric Severson: Yeah.
+
+01:58:24.000 --> 01:58:26.000
+Eric Severson: Yep. Yep.
+
+01:58:26.000 --> 01:58:34.000
+Eric Severson: I'll put that together and get it to you, uh, early part of next week, because I think that's… I think that's a great strategy, and worth mulling over, and…
+
+01:58:29.000 --> 01:58:31.000
+Caroline Walters: Okay.
+
+01:58:34.000 --> 01:58:45.000
+Eric Severson: puts us in a better position later. And maybe, if we can't get all of those conversations squared away before we are doing Notebook LM with Ken, then maybe we'll just not talk about.
+
+01:58:45.000 --> 01:58:52.000
+Eric Severson: the rest of the stuff, right? Because I do want to get the steps in order and see, you know, Jason and.
+
+01:58:46.000 --> 01:58:47.000
+Caroline Walters: Yeah, yeah.
+
+01:58:52.000 --> 01:58:58.000
+Eric Severson: Scott, uh, ample opportunity to, you know, weigh in before we go.
+
+01:58:58.000 --> 01:59:00.000
+Eric Severson: having this conversation with Ken.
+
+01:58:59.000 --> 01:59:02.000
+Caroline Walters: Exactly, because I don't want to make any…
+
+01:59:02.000 --> 01:59:06.000
+Caroline Walters: I don't make anybody… turn anybody's Apple card over.
+
+01:59:05.000 --> 01:59:12.000
+Eric Severson: Perfect. Me either, me either. So, thank you, there's a lot of time. It was not a short meeting. Appreciate it.
+
+01:59:08.000 --> 01:59:10.000
+Caroline Walters: Yeah.
+
+01:59:10.000 --> 01:59:21.000
+Caroline Walters: I know! This was a good time. I appreciate it too, and I'll be looking for your email summary about the nursing thing, and then I'll get that done, and.
+
+01:59:12.000 --> 01:59:14.000
+Eric Severson: Yeah.
+
+01:59:21.000 --> 01:59:23.000
+Caroline Walters: Are you on the meeting this afternoon?
+
+01:59:23.000 --> 01:59:25.000
+Eric Severson: I am not.
+
+01:59:23.000 --> 01:59:25.000
+Caroline Walters: The admissions meeting?
+
+01:59:25.000 --> 01:59:27.000
+Eric Severson: Nope.
+
+01:59:27.000 --> 01:59:29.000
+Caroline Walters: Well, count yourself lucky.
+
+01:59:28.000 --> 01:59:32.000
+Eric Severson: What is happening with admissions? Brian.
+
+01:59:30.000 --> 01:59:36.000
+Caroline Walters: No, we have… we have a standing meeting with them that is… absolutely could be an email.
+
+01:59:38.000 --> 01:59:40.000
+Caroline Walters: So…
+
+01:59:40.000 --> 01:59:46.000
+Caroline Walters: Basically, I attend, Sherri talks, that mission people talk, and it's over.
+
+01:59:40.000 --> 01:59:42.000
+Eric Severson: I do like…
+
+01:59:46.000 --> 01:59:51.000
+Eric Severson: I do like, uh, his second-in-command quite a bit. I think she's got really…
+
+01:59:51.000 --> 01:59:54.000
+Eric Severson: She's sharp lady, yeah.
+
+01:59:52.000 --> 01:59:54.000
+Caroline Walters: Oh, okay.
+
+01:59:54.000 --> 01:59:57.000
+Caroline Walters: She sure is, she sure is, yeah.
+
+01:59:55.000 --> 01:59:57.000
+Eric Severson: Yeah.
+
+01:59:57.000 --> 02:00:01.000
+Caroline Walters: Cindy. Alright, thanks, Eric. Talk to you later.
+
+01:59:57.000 --> 01:59:59.000
+Eric Severson: Okay, great talking to you.
+
+01:59:59.000 --> 02:00:02.000
+Eric Severson: See you. You bet. Bye-bye.
+
+02:00:28.000 --> 02:00:39.000
+Eric Severson: Note to the AI meeting summary. I would like you to skip all of the non-business content and only focus on the business content.
+

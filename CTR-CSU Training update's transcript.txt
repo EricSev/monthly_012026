@@ -1,0 +1,1004 @@
+WEBVTT
+
+00:00:00.150 --> 00:00:06.750
+Tony Atchley: Uh, our outreach team has a big function in Indy next week, and they're, uh…
+
+00:00:07.120 --> 00:00:09.040
+Tony Atchley: Looks like they're gonna be compromised.
+
+00:00:10.270 --> 00:00:13.179
+Tony Atchley: Yeah. Trying to get up there. Yeah.
+
+00:00:14.870 --> 00:00:17.899
+Richard Lubert: Yeah, I think there's gonna be pretty disruptive, yep.
+
+00:00:18.780 --> 00:00:20.200
+Adrien Cordero: Good morning, everybody.
+
+00:00:20.540 --> 00:00:22.415
+Richard Lubert: Morning, how are you, Adrian?
+
+00:00:22.415 --> 00:00:26.440
+Adrien Cordero: Uh, pretty good, just, uh, on the road, so I'm just gonna be on here.
+
+00:00:26.760 --> 00:00:29.800
+Richard Lubert: You're gonna get home before the… gonna get home before the bad weather?
+
+00:00:30.010 --> 00:00:35.635
+Adrien Cordero: I am very, very much hoping so. That's why I'm on the road so early.
+
+00:00:35.635 --> 00:00:36.860
+Richard Lubert: Okay, good.
+
+00:00:39.670 --> 00:00:41.210
+Tony Atchley: Where you coming from, Adrian?
+
+00:00:43.830 --> 00:00:52.100
+Adrien Cordero: I am coming from… North Alabama right now is, uh, visiting, uh, Parker Towing in, uh, Tuscaloosa, so…
+
+00:00:52.230 --> 00:00:57.550
+Adrien Cordero: Um, just trying to get out of here before the… before North Alabama starts getting icy.
+
+00:00:57.890 --> 00:01:00.190
+Richard Lubert: Yeah, well, make sure you do, yep.
+
+00:01:00.930 --> 00:01:01.920
+Tony Atchley: Good deal.
+
+00:01:10.220 --> 00:01:12.370
+Luke Tierney: Morning. Hey, how are y'all doing?
+
+00:01:12.480 --> 00:01:14.190
+Richard Lubert: Good morning, how are you?
+
+00:01:20.800 --> 00:01:26.424
+Luke Tierney: Tony and Eric, I know we have another meeting later today, too, so we're gonna be seeing a lot of each other today.
+
+00:01:28.270 --> 00:01:29.580
+Tony Atchley: That is true.
+
+00:01:32.020 --> 00:01:33.240
+Tony Atchley: For good reason.
+
+00:01:39.860 --> 00:01:42.610
+Luke Tierney: Hey, Rich, how are you? I'm great, and you?
+
+00:01:43.920 --> 00:01:50.294
+Luke Tierney: Ugh, you know, busy. I'm gonna be, uh, I'm gonna be in Vail next week. Are you gonna be there?
+
+00:01:50.295 --> 00:01:54.230
+Richard Lubert: I'll be there, yep, I'll see you there. I saw you were on the agenda, uh, registration.
+
+00:01:54.710 --> 00:01:57.430
+Luke Tierney: Yeah, yeah, so I'm gonna be there, um…
+
+00:01:58.570 --> 00:02:00.470
+Luke Tierney: That'll be, I think, a good event.
+
+00:02:00.760 --> 00:02:03.569
+Richard Lubert: Yeah, yeah, when are you flying out?
+
+00:02:03.860 --> 00:02:05.310
+Luke Tierney: Tuesday morning.
+
+00:02:06.400 --> 00:02:08.219
+Richard Lubert: Yeah, where are you connecting through?
+
+00:02:09.449 --> 00:02:15.489
+Luke Tierney: Um… I think I'm connecting through Dallas.
+
+00:02:15.660 --> 00:02:18.230
+Luke Tierney: But I need to check. That's a good question.
+
+00:02:18.490 --> 00:02:25.639
+Richard Lubert: Yeah, I actually… that's what mine was, and I actually made another reservation for later in the day.
+
+00:02:25.740 --> 00:02:27.019
+Richard Lubert: through, uh.
+
+00:02:29.600 --> 00:02:36.725
+Richard Lubert: Colorado, just to make sure, in case Dallas hasn't recovered… Dallas hasn't recovered, I'm not stuck, you know?
+
+00:02:36.725 --> 00:02:38.225
+Luke Tierney: Actually, Denver. I'm connecting through Denver.
+
+00:02:38.225 --> 00:02:44.500
+Richard Lubert: Oh, you're… yeah, that's what I did. I'm going… yeah, I made a backup to Denver. Yep. Yeah, you should… you should be okay.
+
+00:02:45.140 --> 00:02:57.310
+Luke Tierney: Yeah, I mean, I know this storm is gonna be… people are… I feel like… they do this every couple years, they say there's gonna be this horrible storm, and then usually it's enough… it's usually… it feels like whenever they hype it up, it isn't a big storm. Yeah.
+
+00:02:57.670 --> 00:02:58.570
+Richard Lubert: Yep.
+
+00:02:59.030 --> 00:03:16.960
+Luke Tierney: Yep. And then it's when they're completely unexpected. You know, like, I don't think anyone predicted that horrible storm we got on the Gulf Coast last year. I don't think anyone said that was gonna… I don't remember anyone hyping that up or saying that was gonna happen. I remember it just happening. Yeah. In fact, I was… I was scheduled to go to Mobile that week, and then everything was shut down.
+
+00:03:17.890 --> 00:03:24.229
+Richard Lubert: Yeah, okay, good. I think we got everybody online, so, um, I think it just…
+
+00:03:24.360 --> 00:03:33.589
+Richard Lubert: We hadn't talked since late last year. Uh, I kind of wanted to circle back around and see where… where you guys were, what's going on. This is still…
+
+00:03:33.690 --> 00:03:48.900
+Richard Lubert: high importance list for us in our shipbuild… you know, our shipyards and ship prepare. You know, I think, uh, there's still going to be a good demand for this, and, you know, we're going to support it, like we said, kind of in the background, but with program reviews, and talk it up with our members, and…
+
+00:03:49.570 --> 00:03:56.129
+Richard Lubert: Uh, so… but I just didn't know, uh, kind of where things stood, where we can kind of help, that kind of stuff.
+
+00:03:56.430 --> 00:04:00.120
+Luke Tierney: Sure. Well, would it help, um…
+
+00:04:00.690 --> 00:04:19.750
+Luke Tierney: So, Tony and Eric, do you want me to give y'all some updates about where it's been since we've last talked? And I can… because, Rich, I've been in touch with Andy, and we've done some outreach in Virginia. Um, I actually met with the Navy yesterday, with the MIB, to talk about this program, so we've had a bunch of… so we've had a bunch of things happen, so…
+
+00:04:19.980 --> 00:04:35.280
+Luke Tierney: Um, you know, Austal, so… so Rich, I don't… if this is repetitious, I apologize, but no, I don't think we've talked since. So, Austill's committed to 132 people this year that they want us to run through, um, the CUNY College at Bishop State. Um…
+
+00:04:35.920 --> 00:04:54.510
+Luke Tierney: The other element… so, and Ingalls is also coming to visit our training cohorts the first week of February, so that's kind of where things are on the Gulf right now. We're also in the process of negotiating some stuff with the community college. Um, we're gonna have to start paying for some of the training costs, more of the training costs.
+
+00:04:54.510 --> 00:04:56.999
+Luke Tierney: So that's an ongoing negotiation.
+
+00:04:57.100 --> 00:05:02.010
+Luke Tierney: Um… So, more to come on that. Um…
+
+00:05:02.210 --> 00:05:13.960
+Luke Tierney: In San Diego, we're, um, nearing a deal with the community college. NASCO in San Diego is pretty interested. We're waiting for some information from them on what they want us to…
+
+00:05:14.570 --> 00:05:26.480
+Luke Tierney: um, train for, for shipfitters specifically. Uh, we have a meeting later today. I have a very busy day of meetings, where we're meeting with some folks from the Navy about the PAC Northwest.
+
+00:05:27.020 --> 00:05:34.910
+Luke Tierney: Now, most relevantly, Hampton Roads. So, Rich, Andy connected me with Victor Figuera at, um…
+
+00:05:35.240 --> 00:05:42.999
+Luke Tierney: NASCO. So I sent him some… some materials, and I followed up with him. He said he sent it along to his leadership.
+
+00:05:43.100 --> 00:05:47.680
+Luke Tierney: I haven't heard… that was probably earlier, like, last week, maybe, he told me that.
+
+00:05:47.820 --> 00:06:01.160
+Luke Tierney: Um, so I'm probably gonna follow up with him next week at some point. I might give him a call. I don't know who his leadership is, or who the ultimate decision maker on something like this would be at NASCO, but we're working on that.
+
+00:06:01.460 --> 00:06:12.959
+Luke Tierney: Uh, the folks from Newport News are gonna be coming… so they're… they're doing some reference checks on us with Austal. They were supposed to do that this week, and then they're going to, um…
+
+00:06:13.180 --> 00:06:19.030
+Luke Tierney: They're gonna probably come visit at some point in… Um…
+
+00:06:19.750 --> 00:06:26.770
+Luke Tierney: April timeframe. They have some stuff on their calendar, but they want to see our facility and what's going on. Um…
+
+00:06:27.470 --> 00:06:32.429
+Luke Tierney: Around then… The good news is, um…
+
+00:06:33.350 --> 00:06:54.610
+Luke Tierney: The meeting with the Navy yesterday was very positive. They're very pleased with the program so far. They said they were impressed that we got it running without any money from the Navy. Yeah. Um, and said that when funding came around, we would be first in line, basically, because they said, you guys actually, like, started a program without money from us. They're still waiting for Congressional Appropriations to finalize what their budget is going to be.
+
+00:06:54.610 --> 00:06:58.440
+Luke Tierney: So… That's another, um…
+
+00:06:59.600 --> 00:07:07.390
+Luke Tierney: thing that's going on. So sorry, that was a lot of stuff in no particular order that's going on on our side. And then Tony and Eric, obviously, we've had a bunch of conversations.
+
+00:07:07.690 --> 00:07:09.660
+Luke Tierney: Since then, but…
+
+00:07:11.740 --> 00:07:24.879
+Richard Lubert: Yeah, I'll also reach out to NASCO and Hampton Roads. I'll be… I'd be surprised if they don't take advantage of this. BAE may also, they're just a little harder, you know, to get in with, but
+
+00:07:25.230 --> 00:07:29.980
+Richard Lubert: Um, those are the two big ones that I would be… pushing in Hampton Roads.
+
+00:07:31.210 --> 00:07:36.720
+Luke Tierney: Yeah, Rich, BAE has a large MSP contract that's going to be bid in April.
+
+00:07:36.810 --> 00:07:53.870
+Luke Tierney: Um, you know, they currently use a company called NSC as their prime for that, although the word on the street is that they are looking to make a change. Um, so my current plan is that we're going to compete that, and we're going to use training as one of our differentiators and our pitch.
+
+00:07:53.970 --> 00:08:09.540
+Luke Tierney: as a potential reason why BAE should select us. Um, I actually spoke to a guy who is the… who's recently retired from the federal government, who's the director of… he was the director of contracts at Naval Station Mayport, um, and he told me that
+
+00:08:09.640 --> 00:08:14.069
+Luke Tierney: BAE has significant manning problems in Jacksonville, specifically.
+
+00:08:14.530 --> 00:08:30.849
+Luke Tierney: Um, he said that it's a huge issue, like, they've spent all this money installing this travel lift for vessels, but they're not sure if they'll be able to fully man it because of labor shortages in Jacksonville, so he thought that particularly in Mayport, a program like this would be helpful to them.
+
+00:08:30.930 --> 00:08:41.054
+Richard Lubert: Okay, and we actually have a very good relationship with the CEO of that business, so why don't we help connect you down there, too, then? Okay.
+
+00:08:41.054 --> 00:08:42.240
+Luke Tierney: Okay, yeah.
+
+00:08:42.350 --> 00:08:54.170
+Luke Tierney: Yeah, we're not currently in Mayport, but obviously, you know, BAE is kind of the 800-pound gorilla down there, so if we could work something out with them, it wouldn't be… we've been in Mayport before, so it wouldn't be difficult for us to stand something up quickly. Okay.
+
+00:08:54.460 --> 00:09:04.299
+Richard Lubert: All right, I'll get a… I'll get an email out to their CEO, and I'll copy you to say, hey, look, we've heard they may need some help with some manning, and I'll make the connection.
+
+00:09:05.330 --> 00:09:06.300
+Luke Tierney: Sounds good.
+
+00:09:07.300 --> 00:09:09.710
+Luke Tierney: And Ed, if it's okay, I'll… Hey, hey, Rick.
+
+00:09:10.060 --> 00:09:17.020
+Adrien Cordero: Just, just one, sorry, just one thing. You guys were talking about Mayport. I know that was, uh, Steve Kennedy's last, uh.
+
+00:09:17.510 --> 00:09:23.840
+Adrien Cordero: last assignment, uh, Mayport, Florida, with the Navy. He might know Some people there as well.
+
+00:09:25.410 --> 00:09:40.139
+Richard Lubert: Yeah, yeah, and actually, Steve was just down there a week ago looking at the new heavy lift equipment that they put in. So, you know, VAE invited us in to do an audit on it, so… so we're tied in with them down there on their new equipment.
+
+00:09:40.870 --> 00:09:42.140
+Luke Tierney: Awesome. Great.
+
+00:09:42.200 --> 00:09:53.820
+Luke Tierney: Yeah, I don't know, Rich, if you've heard the same thing. I mean, this guy, I mean, he… to be clear, the guy that I talked to didn't work for BAE, but he worked for the Navy at Mayport. He was in charge of all their contracts, and what he told me was that
+
+00:09:53.840 --> 00:10:07.714
+Luke Tierney: they had made these capital investments with the heavy lift equipment, but that they might actually have to rent that to other companies for… at different points, in part because of manning issues. Just, you know, it's a limited labor pool in Florida.
+
+00:10:07.715 --> 00:10:15.599
+Richard Lubert: Yeah, it is. And plus, it's Jacksonville, so it's a little… yeah. But again, we can certainly make the connection, and maybe that'll help.
+
+00:10:15.760 --> 00:10:17.050
+Luke Tierney: Yeah, absolutely.
+
+00:10:18.430 --> 00:10:19.550
+Richard Lubert: Okay. Um…
+
+00:10:20.920 --> 00:10:27.789
+Eric S: Well, then, just from a CSU perspective, let me give a quick update to characterize where we are with CTR.
+
+00:10:27.930 --> 00:10:39.629
+Eric S: Uh, so Tony and I have been meeting regularly, both internally and externally, with CTR. Uh, we've signed a learning partner agreement with CTR, so we're officially partnered, and, uh, internally.
+
+00:10:39.730 --> 00:10:57.160
+Eric S: We have success, uh, in getting support for being a educational partner, delivery partner, so curriculum enhancement around safety and things like that, and then online delivery as a partner to the CTR in this.
+
+00:10:57.350 --> 00:11:13.009
+Eric S: We're meeting later today, actually, with our educational team to start looking at the core content, that welding, 75-page welding thing, to do an evaluation of what would this look like in an online delivery format from CSU.
+
+00:11:13.010 --> 00:11:19.809
+Eric S: We're going to start it in our continuing education division, very low friction in getting students in and registered and through the process there.
+
+00:11:19.870 --> 00:11:31.340
+Eric S: Um, and… and so that's going… that's going really well. Progressing nicely, committed to doing it. Today will be the first working session with CTR and with our, uh, academic folks.
+
+00:11:32.920 --> 00:11:34.120
+Richard Lubert: Okay, great.
+
+00:11:38.300 --> 00:11:42.820
+Richard Lubert: Okay, so things are moving along, and… I think, like I said.
+
+00:11:43.060 --> 00:11:51.940
+Richard Lubert: having you two guys kind of be the face of it, but with us being able to help you make connections and support it in the background, I think can facilitate, at least with our members.
+
+00:11:53.060 --> 00:11:53.990
+Luke Tierney: Terrific.
+
+00:11:54.190 --> 00:11:56.065
+Luke Tierney: Yeah, I think that sounds great.
+
+00:11:56.065 --> 00:12:02.880
+Richard Lubert: The other one I'm going to reach out to, and again, this would need CSU support too, is, you know, we'll reach out to the FinCanteri guys.
+
+00:12:03.030 --> 00:12:09.829
+Richard Lubert: Right? There's always labor shortage stuff up there as well. They always have a very difficult time staffing. Now, they lost…
+
+00:12:10.070 --> 00:12:13.900
+Richard Lubert: the back end of the contract, uh, on what's the Constellation class?
+
+00:12:14.390 --> 00:12:21.899
+Richard Lubert: Um, so some of their work may be gone, uh, but that doesn't mean they won't be, obviously, looking to try to fill that with some other kind of work.
+
+00:12:23.370 --> 00:12:31.994
+Luke Tierney: No, absolutely, Rich. I mean, I don't think the Navy is going to let Fincantieri fail, so I think that they'll… I mean, I think they'll send them… I think they'll send them…
+
+00:12:31.995 --> 00:12:33.494
+Richard Lubert: I'll send him some work.
+
+00:12:33.495 --> 00:12:40.019
+Luke Tierney: I also think that, I mean, that really affected Marionette, the failures, you know, the…
+
+00:12:41.000 --> 00:12:50.375
+Luke Tierney: cancellation of the Constellation class, but I think Bay Shipbuilding, you know, in Sturgeon Bay is still gonna have work, because I think that's mainly a repair yard.
+
+00:12:50.375 --> 00:12:55.689
+Richard Lubert: Um… Yeah, like you said, there's no way the Navy's gonna let that disappear.
+
+00:12:56.030 --> 00:12:56.810
+Richard Lubert: Um…
+
+00:12:57.300 --> 00:13:03.120
+Richard Lubert: So, it's just a matter of, okay, and from what I… what I can tell is, you know, their first
+
+00:13:03.400 --> 00:13:08.359
+Richard Lubert: You know, employee cutback wasn't on their staff, but on the contracting side.
+
+00:13:08.500 --> 00:13:14.690
+Richard Lubert: So… Uh, if anything, they're probably going to look for the ability to have locally trained people.
+
+00:13:15.130 --> 00:13:16.860
+Richard Lubert: That they can add to their staff.
+
+00:13:17.260 --> 00:13:28.410
+Luke Tierney: Well, I think it could be part of a plan for them to rebuild their credibility with the Navy, actually. Because, you know, I mean… I mean, saying, like, we actually have a strategy in place for…
+
+00:13:28.510 --> 00:13:39.260
+Luke Tierney: you know, addressing… I mean, you know, I think the issues with Constellation… I had a friend who actually worked at FinCanteri as an engineer, who said that the issues with that program were…
+
+00:13:39.560 --> 00:13:40.560
+Luke Tierney: Um…
+
+00:13:41.350 --> 00:13:50.260
+Luke Tierney: numerous, but I do think one of them was that there were real challenges with the labor pool in, you know, that part of Wisconsin, and uh…
+
+00:13:50.400 --> 00:13:57.090
+Luke Tierney: they did rely heavily on out-of-town contract workers. I think the issue was that that was very expensive, and… Yes.
+
+00:13:57.410 --> 00:13:58.260
+Luke Tierney: it.
+
+00:13:58.430 --> 00:14:04.805
+Luke Tierney: Um, one thing I'll also flag, I was gonna ask you, Rich, does Signal do anything with Hanwha Philly Shipyard?
+
+00:14:04.805 --> 00:14:07.760
+Richard Lubert: Oh yeah, they're our… one of our members there. We do a lot with them.
+
+00:14:08.210 --> 00:14:17.700
+Luke Tierney: Okay, so we're currently negotiating a Tier 2 contract for traditional staffing to work with HKAA, you know, which is… I think they're an AEU member.
+
+00:14:17.960 --> 00:14:19.835
+Luke Tierney: Um, no, no, they're.
+
+00:14:19.835 --> 00:14:22.085
+Richard Lubert: Hanwha? No, there's signal.
+
+00:14:22.085 --> 00:14:29.020
+Luke Tierney: No, no, they have a Tier 1 staffing company, an MSP, that manages all of their recs, HKA…
+
+00:14:30.700 --> 00:14:34.610
+Richard Lubert: Yeah, I've heard of them. I… yeah, I don't think… they may be Alma, correct.
+
+00:14:35.180 --> 00:14:36.000
+Luke Tierney: Yeah.
+
+00:14:36.100 --> 00:14:37.130
+Luke Tierney: So…
+
+00:14:37.380 --> 00:14:45.669
+Luke Tierney: They are, um… so we're gonna be their sub on that, but I think in the future there might be opportunities to work with Hanwha.
+
+00:14:45.670 --> 00:14:58.469
+Luke Tierney: Um, I'd have to get HKA to prove it, but I don't think they're gonna care, because they just don't want me to circumvent them for traditional staffing. I think… I mean, the way that I view these training programs is that they're not traditional staffing. You know, kind of along the lines of…
+
+00:14:58.620 --> 00:15:03.779
+Luke Tierney: you know… What we've discussed as far as, you know.
+
+00:15:04.130 --> 00:15:12.840
+Luke Tierney: I mean, it's not… it's sort of… it's not really unfair, right, for Signal to help CTR, because you don't have any other members that do… that are doing this. You know, we're not… I mean, you know…
+
+00:15:13.160 --> 00:15:29.300
+Richard Lubert: Right, and that's how we… we stay… that's how we stay clear of other traditional staffing companies getting annoyed, saying, hold on, that's… that's not what we're doing here, we're supporting you with other members, because you're giving fully trained technical staff.
+
+00:15:29.350 --> 00:15:36.010
+Richard Lubert: Right? That if other staffing companies can do the same thing, we'll do the same thing with them, but none of them are going to do it anytime soon.
+
+00:15:36.570 --> 00:15:42.194
+Luke Tierney: Right. I mean, I know… AmeriForce is an AAU member, I think, right?
+
+00:15:42.195 --> 00:15:43.970
+Richard Lubert: AmeriCorps is part of us.
+
+00:15:44.070 --> 00:15:45.499
+Luke Tierney: Okay. Yeah, there is.
+
+00:15:45.930 --> 00:15:46.680
+Luke Tierney: Okay.
+
+00:15:46.870 --> 00:15:47.970
+Luke Tierney: Yeah.
+
+00:15:48.440 --> 00:15:51.349
+Luke Tierney: They might at some point get into this stuff, I think.
+
+00:15:51.540 --> 00:15:54.329
+Luke Tierney: But… Um, we'll see.
+
+00:15:55.570 --> 00:16:14.100
+Richard Lubert: Yeah, I haven't seen them start down that path. Look, others will see what you're doing, and the light bulb will go off, right? But there are a number of very large staffing companies that are part of the mutual, but I haven't seen any of them really stepping outside the, kind of, the traditional work that they've offered.
+
+00:16:14.890 --> 00:16:30.060
+Luke Tierney: I mean, I think some of it, Rich, is that… well, I mean, to be transparent with you, I think Aberroforce is working on a pilot with Austal right now. Um, I think for this, uh, this is my understanding, but it's very early stage, and, you know, I don't think they've approached y'all about it, so…
+
+00:16:30.210 --> 00:16:34.879
+Luke Tierney: you know, I mean, I understand, yeah, you have to play fair with them, but, you know, uh…
+
+00:16:35.320 --> 00:16:49.950
+Luke Tierney: I do think one thing that's important is that the… I think the Navy has, I think, highlighted this to us, that most staffing companies are not willing to take the kind of risks that we've been willing to take, as far as facility build-outs and investing in…
+
+00:16:50.150 --> 00:17:07.694
+Luke Tierney: Um, I mean, funny, the lady from the Navy said, we have a lot of staffing companies that come to us and try to get us to give them free training facilities. We haven't dealt with many that actually went and built out a facility with their own money on spec, and partnered with the community colleges and fronted all the financial risk.
+
+00:17:07.694 --> 00:17:19.280
+Richard Lubert: That's the strength that you tying in with CSU and the community colleges gives you with the Navy and the members, right? I think you two guys working like this and getting the infrastructure in place.
+
+00:17:19.280 --> 00:17:38.039
+Richard Lubert: so that members in the Navy don't necessarily have to do the initial funding gives you both a huge leg up, right? You know, you've got, you know, CTR's got kind of the credibility with, okay, here's what we're doing, and CSU with the whole educational platform, that will give you guys, I think, an inroad to
+
+00:17:38.100 --> 00:17:42.039
+Richard Lubert: Being able to make this kind of nationwide effort.
+
+00:17:42.550 --> 00:17:50.289
+Luke Tierney: Yeah, absolutely. No, that's the goal, um, you know, that CSU gives us the educational and instructional credibility, um.
+
+00:17:50.580 --> 00:17:56.669
+Luke Tierney: you know, and the delivery infrastructure to do this on a massive scale.
+
+00:17:57.370 --> 00:18:06.769
+Luke Tierney: And the fact that, you know, CSU, I mean, Tony, I mean, Eric, we've had many conversations about this, is an accredited educational institution is important, because it shows that
+
+00:18:07.550 --> 00:18:10.200
+Luke Tierney: you know, there's some…
+
+00:18:10.370 --> 00:18:27.950
+Luke Tierney: I think particularly for large enterprise clients, they want some assurance that this training is not just a curriculum that I wrote, right? Or, you know, it's not just me kind of saying, this is what a ship fitter is, this is what I'm going to give you.
+
+00:18:28.400 --> 00:18:41.489
+Richard Lubert: No, no, look, I agree. The perspective you bring with you and CSU, and then the local community college that, hey, here's the infrastructure, here's the build-out, here's the curriculum, here's who's vetting it, you know, and, you know, here's what Signal's doing.
+
+00:18:41.870 --> 00:18:52.190
+Richard Lubert: That will give people a high confidence level of, hey, if we're going to try this, better to try it with you, than as opposed to somebody who says, hey, I want to do this, but doesn't have any track record of actually delivering on it.
+
+00:18:52.530 --> 00:19:00.404
+Luke Tierney: Right. Well, no, and the signal piece is important. I know it's in the background, but, you know, that is important also to make sure that the program is run safely, I think.
+
+00:19:00.405 --> 00:19:04.240
+Richard Lubert: Well, the thing we bring is, if we… if…
+
+00:19:04.430 --> 00:19:08.930
+Richard Lubert: if, you know, I'm talking to the GM at Hanwa, right? You know, who I know.
+
+00:19:09.230 --> 00:19:24.010
+Richard Lubert: if I call him up and say, you're the guy he should use, he's not gonna second-guess it, right? He'll say, okay, let's go out and vet it, right? So, he knows if we're going to support this, that we've already said, this is the right way to go.
+
+00:19:25.340 --> 00:19:26.130
+Luke Tierney: Right.
+
+00:19:26.610 --> 00:19:33.970
+Luke Tierney: Yeah, so I think on the connection side, I think NASCO, Virginia and BAE Jacksonville would be a good place to start. I think with Hanwa.
+
+00:19:34.700 --> 00:19:37.240
+Luke Tierney: I don't know, Rich, do you think maybe that's something down the line?
+
+00:19:37.470 --> 00:19:50.290
+Richard Lubert: Yeah, look, again, especially if you're not dealing directly with them, you're dealing with, you know, the contract, I wouldn't… yeah, I'm not sure going to Hanwha directly yet, um, but when we need to, you can let me know.
+
+00:19:50.350 --> 00:19:58.639
+Luke Tierney: Yeah, I think that's the move. I think getting this established in some other places is probably… would probably… and then going to them later, I think, would be the…
+
+00:19:59.600 --> 00:20:04.549
+Luke Tierney: Yeah. I mean, I think I could work out a deal with HKA, but I just don't…
+
+00:20:05.790 --> 00:20:12.340
+Richard Lubert: No, I'm gonna… I'll reach… I had… I had a call with the leaders, not on this issue, at… at Fincontary.
+
+00:20:12.450 --> 00:20:27.070
+Richard Lubert: Yeah, I'll reach out to them today. I'm gonna include the brochure that's got CTR and CSU, the things that, you know, you updated that took off the signal thing. I'll send that to them, and I'll suggest that we get on a call.
+
+00:20:27.160 --> 00:20:32.790
+Richard Lubert: Sometime in the next few weeks, all of us and them, if they're interested in exploring this up there.
+
+00:20:33.640 --> 00:20:34.450
+Luke Tierney: Great.
+
+00:20:35.940 --> 00:20:38.280
+Richard Lubert: And I'll do the same thing with Jacksonville, yep.
+
+00:20:38.540 --> 00:20:39.290
+Luke Tierney: Cool.
+
+00:20:40.260 --> 00:20:49.389
+Luke Tierney: Okay, awesome. That would be… that would be great. Um, you know, and I have no issue if they want me to come on site, if Vincanterry, I think we could… we could do that. Um…
+
+00:20:50.110 --> 00:20:51.679
+Luke Tierney: And I think, um…
+
+00:20:52.250 --> 00:21:04.289
+Luke Tierney: you know, and I know that, you know, so on the CSU front, I know, um, you know, Tony and Eric were also talking about that. Um, you know, we're going to be talking about that further today. I saw your email, Eric, about
+
+00:21:04.400 --> 00:21:06.819
+Luke Tierney: Hyundai, they just said it's a timing thing right now.
+
+00:21:08.010 --> 00:21:15.259
+Eric S: Yeah, that's what… and feel free to weigh in, Tony. That's what Jim was saying to us, that they think right now they're…
+
+00:21:15.680 --> 00:21:22.169
+Eric S: they don't have a crisis in labor demand, right? So, we all know that'll change at some point, so…
+
+00:21:22.470 --> 00:21:26.389
+Eric S: It's a great opportunity for us to start that conversation, and go ahead, Tony.
+
+00:21:27.430 --> 00:21:37.949
+Tony Atchley: No, I was just gonna say, uh, and that was just on the MOBA side, uh, so the EB side. Uh, he has yet to be able to approach the, uh.
+
+00:21:38.110 --> 00:21:43.110
+Tony Atchley: uh… the core manufacturing about it, so I think that'll come next.
+
+00:21:43.460 --> 00:21:45.810
+Tony Atchley: And, uh, we'll have a better gauge then.
+
+00:21:47.670 --> 00:21:48.800
+Luke Tierney: Sounds good.
+
+00:21:48.840 --> 00:22:05.080
+Luke Tierney: Yeah, and I think, Rich, for your context, I think our goal, Eric, for time… so, you know, we're looking at, you know, also potentially deepening our tone of the model with some of the companies that CSU has partnerships with outside of shipbuilding, you know, because we think the model could work for that.
+
+00:22:05.080 --> 00:22:16.879
+Luke Tierney: that's why we were talking about Hyundai. And I think, also, Rich, just so you and Adrian know, as far as timing, I think the plan, Eric, is we would be hoping to have, you know, a pilot running sometime this year, right, for…
+
+00:22:16.890 --> 00:22:24.149
+Luke Tierney: um, you know, CSU doing instructional delivery, I think you were kind of saying you thought the second half of the year was realistic for that?
+
+00:22:24.540 --> 00:22:36.440
+Eric S: We'll find out with the educational partners later today, but yeah, that would be certainly my motivation. And Rich, we're super grateful that you've brought us together. The partnership is, as Luke was saying, has potential beyond
+
+00:22:36.460 --> 00:22:48.689
+Eric S: just the immediate chipbuilding, which is the priority, of course, but one of our Tony and Eric's 2026 strategic priorities is to open up pathways
+
+00:22:48.780 --> 00:22:58.190
+Eric S: from the skilled trades into, we love this hire, train, deploy model, I think it's super innovative, and there are a lot of places where that changes
+
+00:22:58.190 --> 00:23:18.950
+Eric S: the way that we can offer value to our other, uh, learning partners. And so, super excited about all of this, can't, you know, we're… we're… CSU doesn't move on the fast track, but we are trying desperately to get this up and running and going as quickly as possible. Brand new stuff for us, and so, very excited, very grateful for the…
+
+00:23:18.950 --> 00:23:21.300
+Eric S: For the, uh, the push in this direction.
+
+00:23:21.390 --> 00:23:22.760
+Richard Lubert: No, look, I…
+
+00:23:22.920 --> 00:23:31.409
+Richard Lubert: you don't have to move at warp speed here, because some of these companies aren't going to be able to move very fast either, right? It's not like, even if you were ready to do this tomorrow.
+
+00:23:31.700 --> 00:23:43.269
+Richard Lubert: they gotta go through their own process and stuff, which can take weeks or months, right? If not longer. So, it's not like you're behind, and quite frankly, I think Luke's right. If we can get one or two more places to do this.
+
+00:23:43.610 --> 00:23:54.979
+Richard Lubert: it kind of simplifies it moving forward, because it's not a one-off. Hey, it's up and running in 2 or 3 or 5 places, and it gives people a higher confidence level that it seems to be a model that works.
+
+00:23:55.850 --> 00:24:02.975
+Luke Tierney: Yeah, absolutely. I do want to echo, by the way, Eric. It was a good point, Rich. I really appreciate everything you've done to help us, by the way. I should have started with that. No, it's okay.
+
+00:24:02.975 --> 00:24:09.120
+Richard Lubert: Look, this helps the whole industry, it helps all of us on the phone, and it helps our members.
+
+00:24:09.520 --> 00:24:13.160
+Richard Lubert: Um, staffing is an issue, not… and it's not just…
+
+00:24:13.390 --> 00:24:23.959
+Richard Lubert: and we're gonna… and I know I'm staying on with Tony and Eric afterward. It isn't just, you know, the blue… the blue collar trades, right? There's a continuing lack of exempt
+
+00:24:24.210 --> 00:24:27.839
+Richard Lubert: skilled people, too. And so, continuing to find
+
+00:24:28.280 --> 00:24:33.939
+Richard Lubert: You know, qualified people for stuff is, you know, one of the hardest things most of our members are doing.
+
+00:24:34.430 --> 00:24:53.759
+Luke Tierney: Yeah, no, I think it's right. I think it's one of the biggest issues the shipbuilding and ship repair industrial base faces right now. Um… I will also, like, Rich, to your point about timing, again, I mean, the Navy, I'm not trying to toot our own CTR sworn too much, but they were amazed at how quickly we'd worked. They thought that they… I mean, they were like, there's… they were like.
+
+00:24:53.890 --> 00:25:01.765
+Luke Tierney: you guys are already, like, trying to get pilots running in multiple markets? Like, whoa, that's so fast, you haven't even gotten any funding from the… from the federal government yet.
+
+00:25:01.765 --> 00:25:21.754
+Richard Lubert: No, no, no, don't misunderstand. I'm not questioning your speed, I'm questioning the speed of other people that say, yeah, let's go do this, right? Both in the government, too. The government's probably thrilled you're going to do this, but now if you want to do something with the government, you might say, I'm ready to go, and you might have to wait 6 months before they can actually do a damn thing, right? Hopefully not.
+
+00:25:21.755 --> 00:25:40.670
+Luke Tierney: Hopefully. No, I didn't take it that way. I just meant that, like, I think we're actually moving really fast. I mean, and CTR knows that, like, you know, the government and higher educations and shipyards, that those are not super fast… these are not super fast moving industries, and there are reasons for that, right? I mean, it's not just…
+
+00:25:40.750 --> 00:25:51.899
+Luke Tierney: You know, now there's some shipyards I wish would move a little bit faster, um, that's… but, you know, it's not always within their control, you know. I mean, N&S is very slow moving, and that's not…
+
+00:25:52.460 --> 00:26:10.159
+Luke Tierney: there are reasons for that. There are just a lot of internal stakeholders for something like this that have to go on board, and you know, it's a new model, so they have to assess it and all of that stuff, but I'm optimistic that we'll get at least two more pilots running by the end of the year. I think… I think that's a very realistic target. I could see even more, potentially.
+
+00:26:11.770 --> 00:26:16.929
+Richard Lubert: Okay, good. So good, this is a good catch-up, so let's keep it going. Like I said, I'll do my outreach
+
+00:26:17.500 --> 00:26:21.540
+Richard Lubert: Hopefully before the end of the day today, um… And, uh…
+
+00:26:21.720 --> 00:26:28.950
+Richard Lubert: then I'll follow up with them. Most of them, if they get storms this coming week, won't answer right away, but we can do some follow-ups with them.
+
+00:26:29.360 --> 00:26:30.589
+Luke Tierney: Sounds like a plan.
+
+00:26:31.870 --> 00:26:39.769
+Richard Lubert: Good. Tony and Eric, you want to stay on? And we'll just kind of do the other part of the signal-CSU relationship?
+
+00:26:39.990 --> 00:26:45.615
+Eric S: Perfect, that's… Luke, we're just talking about our custom curriculum around the maritime safety series.
+
+00:26:45.615 --> 00:26:53.820
+Richard Lubert: Yeah, yeah, more on… more on the, yeah, the white collar, get your BS degree, and with your… with your maritime safety, so…
+
+00:26:54.210 --> 00:27:04.334
+Luke Tierney: Sounds good. All right, well, Rich and Adrian, always a pleasure. Adrian, I'm gonna be in Mobile first week of February. I'd love to meet up with you in person, so I can shoot you an email about that if you're around.
+
+00:27:04.335 --> 00:27:06.909
+Eric S: Yeah, yeah, let's do that. We'll go to lunch.
+
+00:27:07.020 --> 00:27:08.894
+Eric S: Alright, sounds great. Or dinner, or whatever you want.
+
+00:27:08.895 --> 00:27:16.509
+Luke Tierney: Yep. Sure, yeah, I'll shoot you an email, and Rich, again, I always appreciate it. We'll be in touch, and I guess Eric and Tony, I'll see y'all, um…
+
+00:27:16.700 --> 00:27:19.290
+Luke Tierney: Uh… in a couple hours.
+
+00:27:19.530 --> 00:27:22.155
+Richard Lubert: Perfect. Great. Okay, see you next week, Luke.
+
+00:27:22.155 --> 00:27:26.229
+Luke Tierney: Yep. See you next. Oh yeah, see you in Bell Ridge. Thank you. See you, Luke. All right.
+
+00:27:27.250 --> 00:27:33.529
+Richard Lubert: Okay, good. Um, so now let's swing back into the maritime curriculum.
+
+00:27:33.800 --> 00:27:36.789
+Richard Lubert: Obviously, I do want to kind of push that along now.
+
+00:27:37.760 --> 00:27:44.630
+Eric S: Yeah, how's… Yeah, how's, how's, uh, how's the 10… how's, um, the, the registration for that? What's, what's it looking like?
+
+00:27:44.850 --> 00:27:52.150
+Eric S: Well, we're optimistic, but today we have zero. And so what we wanted to talk about a little bit was…
+
+00:27:52.300 --> 00:28:04.269
+Eric S: what our… we're definitely coming, Duane will be coming to the next event that Tony and I were at for you in February. And we just wanted to brainstorm a little bit about
+
+00:28:04.340 --> 00:28:22.179
+Eric S: It's not a problem, because our course offering schedules will make clear to you, they're not immediate, they're out there a little ways in the future, uh, and so this is not an emergency at all, this is a, let's get out ahead of it, and I always operate as though I'm behind, it just is the factory setting for me, and that's…
+
+00:28:22.260 --> 00:28:36.620
+Eric S: What else might we be able to do to start to spread the word, uh, to promote, and to, you know, hopefully engage? We love this. It is one of the best examples of custom curriculum.
+
+00:28:36.620 --> 00:28:44.880
+Eric S: Uh, the other big strategic initiative for Tony and Eric for 2026 is to seek out more custom curriculum opportunities like this.
+
+00:28:44.880 --> 00:28:50.699
+Eric S: CTR is definitely one of them. Uh, this is sort of our, you know, uh…
+
+00:28:52.600 --> 00:29:01.850
+Eric S: pedestal program that we want to make sure we get, uh, we do everything to get people excited and… and thinking about and registering for it.
+
+00:29:01.980 --> 00:29:08.550
+Richard Lubert: Okay. So, okay, so I can do… I can do two… two things for sure. One, if you guys can write up
+
+00:29:09.210 --> 00:29:10.570
+Richard Lubert: a hundred word…
+
+00:29:10.910 --> 00:29:26.820
+Richard Lubert: kind of thing, we can put it on the Signal LinkedIn page, right? So, and I'll use that same thing to get out to all the members, right? So, I can get it both, you know, on LinkedIn, you know, that our members are on, and then out to our members, saying, hey.
+
+00:29:27.130 --> 00:29:35.580
+Richard Lubert: this has been launched, you know, here's what it is, so I'll let you guys kind of do the marketing part of it, and if you can get that to me, I can get that communicated
+
+00:29:35.850 --> 00:29:38.730
+Richard Lubert: uh… both
+
+00:29:39.250 --> 00:29:48.149
+Richard Lubert: like I said, LinkedIn to our members, and then what I can make sure all of my team are doing on their quarterly roundtables when the members call into this kind of stuff.
+
+00:29:48.350 --> 00:29:50.780
+Richard Lubert: Is make sure that's getting highlighted, too.
+
+00:29:51.950 --> 00:29:52.840
+Eric S: Perfect.
+
+00:29:53.210 --> 00:30:01.820
+Eric S: We have a Signal Mutual landing page that hangs off of our Columbia Southern University domain. It needs some…
+
+00:30:01.850 --> 00:30:11.810
+Eric S: changes, right? And so, is there anybody in your marketing organization? Today, it's super generic. It just talks about a 10% discount, scholarship opportunities, family discounts.
+
+00:30:11.810 --> 00:30:24.170
+Eric S: there's mutual logos on there, but there's zero about this maritime series. And so, obviously, the 100 words, we're delighted to provide because we're thinking about it for the landing page as well.
+
+00:30:24.170 --> 00:30:30.544
+Eric S: I just want to pass that by anybody that, uh, would want to see it at Mu… at Signal Mutual, and…
+
+00:30:30.545 --> 00:30:47.420
+Richard Lubert: Yeah, when you draft it up, I tie in our marketing person. That's the person who would put it on LinkedIn for us and other stuff. So, her name's Megan Moans, so I will pass it by her and say, hey, here's what we want to put on your website.
+
+00:30:47.640 --> 00:30:55.059
+Richard Lubert: Um, but also use the same thing internally with our members in our LinkedIn, so they… they're consistent and the same.
+
+00:30:55.250 --> 00:30:56.960
+Eric S: Great. Terrific.
+
+00:30:57.150 --> 00:31:03.089
+Eric S: Um, I guess the other thing I was, uh, gonna say as a… as a follow-on to the
+
+00:31:03.490 --> 00:31:14.390
+Eric S: first part of the meeting subject was we are extremely excited about supporting the… I'm calling this the hire, train, deploy, the pre, you know, um…
+
+00:31:14.390 --> 00:31:24.699
+Eric S: traditional Columbia Southern degree certification, degree-seeking population. Super excited about this new area for us. We have one other, um…
+
+00:31:25.190 --> 00:31:33.270
+Eric S: recruiting firm that is similar, not exact, to CTR that we're exploring partnerships with. So, as you…
+
+00:31:33.330 --> 00:31:47.205
+Eric S: are working across other partners that begin to pick up on this model, we would be delighted to talk with them, too, about, you know, being the instructional delivery partner with them as well. Same benefits, just applied differently.
+
+00:31:47.205 --> 00:31:56.769
+Richard Lubert: Yeah, yeah, yeah, I'm not looking for another educational institution to bring into this. So, yeah, if other… if any of our other members start to go down this path.
+
+00:31:56.980 --> 00:31:59.605
+Richard Lubert: I'll route them to you for the same thing, absolutely.
+
+00:31:59.605 --> 00:32:07.855
+Eric S: Absolutely. Or if you're running into other recruiters, uh, that are doing the same sort of idea, we would be happy to work with them as well. Super.
+
+00:32:07.855 --> 00:32:09.330
+Richard Lubert: Happy to do that.
+
+00:32:10.040 --> 00:32:12.665
+Eric S: Tony, is there anything else we needed to hit today?
+
+00:32:12.665 --> 00:32:18.219
+Richard Lubert: No, yeah, if you… you get me what you want us to communicate, I'll… I'll…
+
+00:32:18.410 --> 00:32:25.160
+Richard Lubert: change it up, I'll get our marketing blessing on it, and then we'll get it posted all over the place. As soon as you get me that, I'll turn it around.
+
+00:32:25.250 --> 00:32:33.125
+Eric S: Fantastic. We'll also make sure you see the schedule of when those courses are offering. It's in the future, so it's, again, we've got… we're ahead of this, which is true.
+
+00:32:33.125 --> 00:32:43.239
+Richard Lubert: No, I agree. Now's the time to get it out and communicate it. I agree. It's a good time to do it, and we'll do it not just once. We'll repeat it over the course of the year.
+
+00:32:43.440 --> 00:32:44.180
+Eric S: Sweet.
+
+00:32:44.480 --> 00:32:45.509
+Richard Lubert: Great, yeah.
+
+00:32:45.680 --> 00:32:52.000
+Tony Atchley: Yeah, they, uh… One other thing that's coming up near term would be the scholarship.
+
+00:32:52.230 --> 00:33:12.210
+Tony Atchley: And, uh, so, um, you know, last year, uh, we did that on a March, uh, March through April run, 60-day open period. Um, love to have your thoughts on, uh, you know, the, the timing of that again. You know, do we, do we try to.
+
+00:33:12.210 --> 00:33:19.170
+Tony Atchley: uh, pinpoint it, uh, you know, for that same period? Do we extend it? Uh, was it…
+
+00:33:19.170 --> 00:33:35.070
+Tony Atchley: too compressed, um, you know, should we open it up? Because we're flexible on our end to be able to, you know, offer it, um, up to, you know, 90, 120 days, if that helps with being able to, uh, promote it and draw in, you know.
+
+00:33:35.090 --> 00:33:39.215
+Tony Atchley: A larger audience, so… How many applications?
+
+00:33:39.215 --> 00:33:42.479
+Richard Lubert: discussion on that. Yeah, how many applications did you get last year?
+
+00:33:43.440 --> 00:33:47.190
+Tony Atchley: We had, uh, I believe we were right at 20.
+
+00:33:47.420 --> 00:33:49.294
+Tony Atchley: Okay. If I'm not mistaken. Yep, yep.
+
+00:33:49.295 --> 00:33:53.330
+Richard Lubert: I think 2 months is enough time. We'll, we'll make it…
+
+00:33:53.760 --> 00:33:58.800
+Richard Lubert: we'll make it a higher visibility. I mean, we communicated it all over, but again.
+
+00:33:59.010 --> 00:34:14.129
+Richard Lubert: I'll take the lead to make sure all of our members get it, uh, that it's discussed on the roundtables, that my safety team gets it out to, you know, all of the member safety people and other people, and stuff like that. So, um…
+
+00:34:14.630 --> 00:34:24.270
+Richard Lubert: I think we'll have opportunities before it opens up to tell people it's coming again, and then two months should be enough time for people, if they're interested, to
+
+00:34:24.580 --> 00:34:26.190
+Richard Lubert: To get their paperwork in.
+
+00:34:26.310 --> 00:34:34.935
+Adrien Cordero: So we'll have March and April again. You guys need May to figure everything out, and then June we present it, correct? Well, yeah.
+
+00:34:34.935 --> 00:34:35.685
+Richard Lubert: Yep. Yes.
+
+00:34:35.685 --> 00:34:42.434
+Adrien Cordero: Okay, so we can… and we'll follow this… we can announce this in Fort, Fort, uh, Lauderdale.
+
+00:34:42.435 --> 00:34:57.419
+Richard Lubert: Yeah, yeah, in Florida, I'll bring it up again. I'll say, hey guys, you know, CSU's doing it again this year. Um, any of you interested, you know, be on the lookout. You know, the communication will come out in March. And yeah, and that gives us a couple months to really let people know about it.
+
+00:34:57.830 --> 00:35:03.390
+Eric S: Now, did, uh… If you have feedback about The
+
+00:35:04.000 --> 00:35:07.760
+Eric S: quantity or quality of the scholarships, we'd love to hear it. I…
+
+00:35:07.840 --> 00:35:22.280
+Eric S: Having said… Tony hasn't heard this, but I think we have room to be a little more aggressive at CSU with scholarships in general. It's an area where we can take a strategic focus, uh, and so I have no idea what the scholarship was last time, but if there's something
+
+00:35:22.280 --> 00:35:33.360
+Eric S: that you feel would make it more compelling, either the quantity or the depth of it, I would be happy to take that up the flagpole here. And again, I think we have room to be a little bit more aggressive.
+
+00:35:33.360 --> 00:35:35.985
+Eric S: Uh, with scholarships in general at CSU.
+
+00:35:35.985 --> 00:35:45.735
+Richard Lubert: So, Tony, what… so, I don't want to get it wrong. I think it was a full… wasn't it a full scholarship, or what was it for… for how long? It was 2 years.
+
+00:35:45.735 --> 00:35:48.070
+Adrien Cordero: Right. Two years, right? Uh…
+
+00:35:48.070 --> 00:35:56.839
+Tony Atchley: Well, it was, it was, uh, 60 credit hours, so it would either, if you didn't have an associate's, it would get you an associate's. If you had an associate, it would get you a bachelor's.
+
+00:35:56.840 --> 00:36:10.080
+Tony Atchley: Uh, and last year, the, uh, it actually covered grad studies, uh, as well. Uh, this year, we've modified what the, uh, slightly what the, uh, grad level
+
+00:36:10.080 --> 00:36:30.739
+Tony Atchley: coverage would be with it, but, um, you know, what we're talking about right now is undergrad anyways, with, you know, the focus and attention that we're given on our degree program. So, uh, 60 credit hours is where it stands right now, but as Eric just mentioned, you know, that is something that we can come back and revisit if we need to, um.
+
+00:36:30.740 --> 00:36:32.140
+Tony Atchley: You know, broaden scope on it.
+
+00:36:32.180 --> 00:36:34.804
+Eric S: How many did we do? Did we just won?
+
+00:36:34.805 --> 00:36:37.055
+Richard Lubert: We did one, yep. We did one, yep.
+
+00:36:37.055 --> 00:36:40.055
+Eric S: And did we get that one?
+
+00:36:40.055 --> 00:36:58.679
+Richard Lubert: Oh yeah, he was thrilled, absolutely. And I know other people… Actually came from the Virginia area. Yeah, they were very interested. I wouldn't… I… if I were going to do anything, I wouldn't make the one bigger. I'd say do two of them, right? Offer two to two different people, right? That way.
+
+00:36:58.770 --> 00:37:00.840
+Richard Lubert: You know, it broadens out people.
+
+00:37:00.940 --> 00:37:01.720
+Richard Lubert: Right?
+
+00:37:02.190 --> 00:37:13.065
+Eric S: And did you do it across your entire membership? Is there a value to targeting specific companies? I mean, I'm speaking without having any actual authority of this yet, but… No, no, no.
+
+00:37:13.065 --> 00:37:19.619
+Richard Lubert: We have graduates from your university across the whole country, across our members.
+
+00:37:19.850 --> 00:37:34.940
+Richard Lubert: So, in other words, I wouldn't limit it to a particular geographic region, because we've got graduates from California, the Gulf, the East Coast, the Northeast. We've got a lot of people who've gone to CSU for their degrees.
+
+00:37:35.280 --> 00:37:52.360
+Eric S: Totally, totally understand that. Was kind of wondering if there would be any merit to, uh, if you've got a partner that you're really strategically trying to move along, um, like Ingalls, uh, just for example, because it's a name I know, right? Yeah. If it's not out of
+
+00:37:52.490 --> 00:38:06.365
+Eric S: realm of possibility for us to pull together an instance of that scholarship that's just dedicated to a single company to try to get them to engage a little bit more, in addition to the overall one. So, just throwing that out for… Oh, interesting.
+
+00:38:06.365 --> 00:38:09.680
+Richard Lubert: consideration. If we… yeah, if we were gonna do that.
+
+00:38:09.890 --> 00:38:15.750
+Richard Lubert: the first thing I would do is try to go out to our members and see which ones
+
+00:38:16.360 --> 00:38:20.580
+Richard Lubert: had the most CSU graduates, right? In other words.
+
+00:38:21.340 --> 00:38:27.680
+Richard Lubert: if I were going to target this, you're right, it would be probably targeted to one of the 25 or 50 biggest members, right? But…
+
+00:38:28.090 --> 00:38:37.850
+Richard Lubert: Most of them… the bigger ones probably reimburse their employees for education anyway, right? And so… Um…
+
+00:38:38.830 --> 00:38:49.940
+Richard Lubert: I think… let me noodle that around. I think the short-term thing would be, hey, if you wanted to do two, that would just mean two people can get it, right? So you don't have to make that decision now.
+
+00:38:50.060 --> 00:39:00.440
+Richard Lubert: that can be a decision, you know, once we get all the applications in, you could say, boy, there's two people that really deserve it. What's the cost of 60 credit hours?
+
+00:39:02.320 --> 00:39:10.000
+Tony Atchley: Uh, you're looking at about, uh, somewhere around $14,000, uh, in that, in that ballpark, um.
+
+00:39:10.230 --> 00:39:12.105
+Tony Atchley: Let me do the math on it here real quick.
+
+00:39:12.105 --> 00:39:14.949
+Eric S: 268 times 60, right?
+
+00:39:15.830 --> 00:39:16.630
+Tony Atchley: Yep.
+
+00:39:17.570 --> 00:39:24.709
+Eric S: I mean, maybe you could put the learning partnership discount in there. So, somewhere between 14 and 16 grand. Okay.
+
+00:39:24.840 --> 00:39:27.870
+Richard Lubert: Yeah, I think… I think the short-term…
+
+00:39:27.870 --> 00:39:47.769
+Richard Lubert: best bet is to see if we can give, you know, one or two more, right? Okay. Um, and if… and although you've never asked us for any funding, but if all of a sudden we found three really deserving people, and you said, hey, you know, the only two can come for us, you know, I could go back to our board and say, hey, we'd like to kick in a scholarship too, right? And so…
+
+00:39:48.300 --> 00:40:03.269
+Richard Lubert: I'd rather broaden it out universally, as opposed to go to… if I go to a particular member, then I always run the risk of other members saying, well, why'd you offer that to APMT and not CMA, right? I'd rather say, hey, everybody's got an equal shot at this.
+
+00:40:03.630 --> 00:40:10.740
+Richard Lubert: Um, and again, like I said, the big members probably reimbursed their employees, right, anyway.
+
+00:40:11.040 --> 00:40:18.059
+Richard Lubert: Uh, so this may be more of an interest for some of those others that don't reimburse for education.
+
+00:40:18.340 --> 00:40:19.110
+Eric S: Sure.
+
+00:40:19.240 --> 00:40:20.030
+Richard Lubert: So…
+
+00:40:20.580 --> 00:40:23.419
+Tony Atchley: Cool. And speaking of that, Rich, uh…
+
+00:40:23.430 --> 00:40:31.680
+Tony Atchley: You, you mentioned, uh, you know, uh, potential Signal Mutual, uh, contributing in some way. I did, uh, have the opportunity
+
+00:40:31.680 --> 00:40:49.170
+Tony Atchley: I thanked Justin at the cocktail reception, uh, out in Long Beach, uh, last year, and, uh, had the opportunity to, uh, chat just a minute about the scholarships, and he said, um, uh, I'd love to, um, take this up further with Rich.
+
+00:40:49.280 --> 00:40:57.905
+Tony Atchley: Uh, in some capacity, you know, if we felt like that, uh, Signal Mutual could contribute in any way to it, so, um, hopefully he would remember that.
+
+00:40:57.905 --> 00:41:05.100
+Richard Lubert: Yeah, I'm telling you, I would have no problem if we found four deserving people, and you said, hey, I can only do two.
+
+00:41:05.570 --> 00:41:07.230
+Richard Lubert: It's 28 grand…
+
+00:41:07.490 --> 00:41:17.140
+Richard Lubert: I can get that funding. That's not going to be an issue. So I'd rather this year see if we can do 2, 3, or 4 scholarships, right? And…
+
+00:41:17.360 --> 00:41:31.930
+Richard Lubert: And just get more people excited about it, right? If you… hey, if I got one chance in 20, or one chance in 100, it's like the lottery. Hey, but if I got 4 chances in 50, that's not… that's… the odds aren't too bad there, right? So…
+
+00:41:32.980 --> 00:41:34.190
+Richard Lubert: So, yeah.
+
+00:41:36.070 --> 00:41:44.829
+Richard Lubert: Okay, so short-term, get me the write-up you'd like us to vet and get going, and let's get that done before the end of February.
+
+00:41:45.190 --> 00:41:54.565
+Eric S: Oh, easily. Maybe, maybe, uh, maybe next week. We've got to make sure that our own marketing compliance group gets through it, so that's our bottleneck, but then…
+
+00:41:54.565 --> 00:42:03.669
+Richard Lubert: A week or two. Yeah, a couple weeks is fine. I'm traveling all next week, and the marketing person's tied up all of next week, so if you got it to me.
+
+00:42:03.810 --> 00:42:10.549
+Richard Lubert: she's not gonna look at it. So, if you get it to me the first week of February, that'll be fine. I can focus on it then.
+
+00:42:10.910 --> 00:42:12.460
+Eric S: Okay, terrific.
+
+00:42:13.070 --> 00:42:15.799
+Richard Lubert: Okay, good. Alrighty, we got a plan.
+
+00:42:16.570 --> 00:42:17.640
+Eric S: Thank you, guys.
+
+00:42:17.820 --> 00:42:20.990
+Richard Lubert: See you later. Bye-bye.
+
+00:42:21.190 --> 00:42:22.150
+Tony Atchley: Take care.
+

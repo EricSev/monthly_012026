@@ -1,0 +1,1040 @@
+WEBVTT
+
+00:00:29.000 --> 00:00:31.000
+Misti Kill: Good morning, Tony!
+
+00:00:34.000 --> 00:00:37.000
+Tony Atchley: Good morning, Misti. How are you?
+
+00:00:37.000 --> 00:00:40.000
+Misti Kill: I'm doing alright, thanks! How are you?
+
+00:00:39.000 --> 00:00:42.000
+Tony Atchley: Good, good, thank you. Happy Friday.
+
+00:00:42.000 --> 00:00:47.000
+Misti Kill: Yeah, it's… I feel like this week has been, like, 4 weeks.
+
+00:00:47.000 --> 00:00:50.000
+Misti Kill: It's been crazy!
+
+00:00:49.000 --> 00:01:00.000
+Tony Atchley: Yeah, I was trying to get something out to Tamara all week, and uh, you know, I just… I kept coming back to it, hitting it, getting distracted, moving on, so…
+
+00:01:00.000 --> 00:01:03.000
+Tony Atchley: Finally got it sent off to her yesterday, so…
+
+00:01:03.000 --> 00:01:10.000
+Misti Kill: I know, it's been insane. But, um, I'm… while we're waiting for… Eric's coming to this, right?
+
+00:01:05.000 --> 00:01:07.000
+Tony Atchley: Yeah.
+
+00:01:10.000 --> 00:01:12.000
+Tony Atchley: Yep, yep.
+
+00:01:11.000 --> 00:01:20.000
+Misti Kill: Okay, yeah. Well, we're waiting for him. I was gonna tell you really quick, I followed up on the LVT Summit stuff, um, for us, for the development and everything.
+
+00:01:17.000 --> 00:01:19.000
+Tony Atchley: Yeah.
+
+00:01:20.000 --> 00:01:27.000
+Misti Kill: And, you know, Mike is gonna do the webinar and then, you know, the presentation and stuff, and we wanted to tie it to CE.
+
+00:01:27.000 --> 00:01:39.000
+Misti Kill: And all of that is working out, like, um, IDT almost has the micro-credential already built, so we'll have it up and ready for sure by the summit, so we should be in good shape.
+
+00:01:40.000 --> 00:01:43.000
+Tony Atchley: Awesome to hear. Yeah, uh, we've had a couple of…
+
+00:01:43.000 --> 00:01:50.000
+Tony Atchley: Uh, meetings, you know, just in support of, you know, what we're gonna be talking a little bit about today.
+
+00:01:50.000 --> 00:01:57.000
+Tony Atchley: Uh, with IDT, with Tom, um, and, uh, yeah, to that point.
+
+00:01:57.000 --> 00:02:10.000
+Tony Atchley: Um, there was talk about the, uh, progress on that module and where we're at, so, um, loving, you know, loving to hear that, and, uh, you know, the whole CE component of it.
+
+00:02:10.000 --> 00:02:13.000
+Tony Atchley: I think it'll be strong for our message out there.
+
+00:02:13.000 --> 00:02:19.000
+Misti Kill: Yeah, absolutely. I was excited about it. It was a short timeline, but yeah, they were able to pull it out really quickly, so it was good.
+
+00:02:13.000 --> 00:02:15.000
+Tony Atchley: Yep.
+
+00:02:18.000 --> 00:02:30.000
+Tony Atchley: Awesome. Yeah, yeah, thank you so much for, uh, bringing all that together, giving it focus and attention that it needed, and, uh, you know, we're, uh, I think we're gonna see good things down the line from that.
+
+00:02:30.000 --> 00:02:32.000
+Tony Atchley: So… Yep.
+
+00:02:30.000 --> 00:02:35.000
+Misti Kill: I think so, too. They have a lot of heavy hitters coming to that one, so it should be interesting.
+
+00:02:33.000 --> 00:02:34.000
+Tony Atchley: Yep.
+
+00:02:35.000 --> 00:02:36.000
+Tony Atchley: Yep.
+
+00:02:36.000 --> 00:02:41.000
+Eric Severson: So, good morning, Misti. Thank you for, uh, spending a little bit of time with us today.
+
+00:02:36.000 --> 00:02:38.000
+Misti Kill: Hi, Eric!
+
+00:02:41.000 --> 00:02:49.000
+Eric Severson: Uh, we're definitely curious to hear your perspective on some of the stuff that we've been.
+
+00:02:49.000 --> 00:02:54.000
+Eric Severson: talking with potential partners with. Um, CTR is…
+
+00:02:54.000 --> 00:03:04.000
+Eric Severson: the most furthest along the road, but I just had a call with a CEO of another Workforce Solutions that's very similar to this.
+
+00:03:04.000 --> 00:03:10.000
+Eric Severson: That's super interested in, uh, additional partnership opportunities, so…
+
+00:03:10.000 --> 00:03:17.000
+Eric Severson: uh, we're feeling like, wow, there's a little bit of potential here, uh, beyond just the CTR opportunity.
+
+00:03:17.000 --> 00:03:19.000
+Misti Kill: Nice! That's exciting!
+
+00:03:17.000 --> 00:03:23.000
+Eric Severson: So this… this is my first… this is my first time through this, uh, kind of a conversation with… with CSU.
+
+00:03:23.000 --> 00:03:31.000
+Eric Severson: I put together a document for my own sort of roadmap to try to figure out what… how to be organized and thoughtful about this stuff.
+
+00:03:31.000 --> 00:03:36.000
+Eric Severson: Um, what's the best way for us to have this conversation?
+
+00:03:36.000 --> 00:03:40.000
+Misti Kill: I mean, you can kind of give me a rundown on…
+
+00:03:40.000 --> 00:03:42.000
+Eric Severson: Okay, perfect.
+
+00:03:40.000 --> 00:03:42.000
+Misti Kill: What is it that they're needing?
+
+00:03:42.000 --> 00:03:49.000
+Eric Severson: What are we doing? Right, so, uh, the first part of this is, um, we are…
+
+00:03:49.000 --> 00:03:59.000
+Eric Severson: interested in looking for ways to open up pipelines in a traditional skilled trades environment, right? When I look around at what we do well, we do a million things well.
+
+00:03:59.000 --> 00:04:07.000
+Eric Severson: I think there may be a little opportunity to look at that skilled trades pipeline and figure out how can we position ourselves to either participate in it, certainly.
+
+00:04:07.000 --> 00:04:17.000
+Eric Severson: be part of it. So, through the Signal Mutual relationship, they have a partner, CTR, that is a staffing firm.
+
+00:04:17.000 --> 00:04:23.000
+Eric Severson: So they do temporary staffing, they also do recruiting, and they work heavily in the shipbuilding industry.
+
+00:04:23.000 --> 00:04:34.000
+Eric Severson: And what they discovered, what CTR discovered, is there are not enough qualified candidates in the world, not just in Virginia, but in the world.
+
+00:04:34.000 --> 00:04:44.000
+Eric Severson: to supply the shipbuilding industry with the positions that they need. I forget, was it Engels, or also one of them had an open rack for 150 welders all by itself.
+
+00:04:45.000 --> 00:04:54.000
+Eric Severson: Yeah, it's, it's… and the current administration is making us bullish on the potential for more jobs to be floating into that whole shipbuilding arena.
+
+00:04:55.000 --> 00:05:04.000
+Eric Severson: So, what CTR did was to say, well, if we can't find qualified candidates, let's see if we can find people with the aptitude and the potential to be qualified, we'll put them through.
+
+00:05:05.000 --> 00:05:10.000
+Eric Severson: A short-term training program, and then they'll go right into an employment situation.
+
+00:05:10.000 --> 00:05:22.000
+Eric Severson: So, they resourcefully went and found a subject matter expert for welding. I kiddingly call him Larry the Welder, I have no idea what his name is, but Larry put together a 75-page PDF.
+
+00:05:22.000 --> 00:05:33.000
+Eric Severson: And what CTR does is that they hire, they recruit, and then they hire a cohort of people that show aptitude but do not have skills, so they're not currently qualified for these jobs.
+
+00:05:34.000 --> 00:05:36.000
+Eric Severson: They bring them into a location.
+
+00:05:36.000 --> 00:05:45.000
+Eric Severson: And they've done some interesting stuff with community colleges, uh, and the government, and the state and local government, and navy.
+
+00:05:45.000 --> 00:05:52.000
+Eric Severson: They've gone out to the community colleges and said, we'd like to be able to use your facilities to do some training, some.
+
+00:05:52.000 --> 00:05:54.000
+Eric Severson: Skills validation and some training.
+
+00:05:54.000 --> 00:06:02.000
+Eric Severson: And welding is extremely expensive. So, prior to this, I worked for 5 years at Universal Technical Institute. Do you know about Universal Technical Institute?
+
+00:06:03.000 --> 00:06:05.000
+Misti Kill: Joy.
+
+00:06:03.000 --> 00:06:10.000
+Eric Severson: Yeah, yeah, big, big, big place. So, welding is very expensive. We put welding programs into every one of the 16 campuses.
+
+00:06:10.000 --> 00:06:18.000
+Eric Severson: Uh, and it's expensive, uh, to do. So, the capital was… the deal that CTR found.
+
+00:06:18.000 --> 00:06:28.000
+Eric Severson: is to go to the local state government and the Workforce Development Solutions, and impart the Navy, and find a funding source for welding labs.
+
+00:06:28.000 --> 00:06:45.000
+Eric Severson: and then go to a community college that either facilities are old and, you know, not very good, or they are not even there, and say, here's the deal, we'll build your lab, and you can use it during the day, and in return, we can use it at night or in your off periods.
+
+00:06:45.000 --> 00:06:58.000
+Eric Severson: And they've managed to… to do that successfully. Uh, and then… so their training program is in a hotel for about 10 weeks, and it's a combination of classroom training with Larry… Larry the Welder and the PDF.
+
+00:06:59.000 --> 00:07:03.000
+Eric Severson: And then, skills validation and practice at the facility.
+
+00:07:04.000 --> 00:07:12.000
+Eric Severson: They have found in their first 2 pilots a 97% placement rate, so this company is a staffing firm, so they make their money.
+
+00:07:12.000 --> 00:07:14.000
+Eric Severson: They're hiring these…
+
+00:07:14.000 --> 00:07:26.000
+Eric Severson: cohorts of students, they're paying them for going through classes, they're putting them in a hotel, and they're feeding them and all that stuff during that period of time, and then they get their business model is staffing. So then they…
+
+00:07:26.000 --> 00:07:31.000
+Eric Severson: Put them into a work environment for a year as a… as a temp, basically.
+
+00:07:31.000 --> 00:07:34.000
+Eric Severson: Excuse me. And that's how they're making their money.
+
+00:07:34.000 --> 00:07:42.000
+Eric Severson: Um, they realize that demand for these semi-skilled, skilled technical positions is so high.
+
+00:07:42.000 --> 00:07:48.000
+Eric Severson: That they can't figure out how to scale exactly, or they're starting to look at how to scale.
+
+00:07:48.000 --> 00:07:57.000
+Eric Severson: They don't really… they acknowledge they are not an education expert, they don't do the educational delivery. Larry, the welder, got it done.
+
+00:07:57.000 --> 00:08:07.000
+Eric Severson: But they know, and Signal is the one that brought us in and said, you know, we'd like to see a little bit more robust coverage of safety, because from Signal's perspective, the worst thing that could happen is.
+
+00:08:07.000 --> 00:08:20.000
+Eric Severson: accidents and claims, right? So… so that was how they put us together. They said, we know an organization that has, you know, really great safety materials and a really great safety record for educating people in this.
+
+00:08:20.000 --> 00:08:27.000
+Eric Severson: Why don't you guys get together and see if we can have a conversation about being the educational provider, uh, for.
+
+00:08:27.000 --> 00:08:32.000
+Eric Severson: this CTR Signal Mutual CSU partnership.
+
+00:08:32.000 --> 00:08:38.000
+Eric Severson: So, what they're interested in is, can we, uh…
+
+00:08:38.000 --> 00:08:46.000
+Eric Severson: be that provider? Can we be somebody that takes a 10-week skilled trades program, and it would start in welding?
+
+00:08:46.000 --> 00:08:53.000
+Eric Severson: Uh, can we improve the quality of the materials, right? And certainly that eye toward.
+
+00:08:53.000 --> 00:09:01.000
+Eric Severson: I don't know what we could leverage out of the safety, but there's that curriculum development question, and then they really don't want to be in the business of online delivery.
+
+00:09:02.000 --> 00:09:07.000
+Eric Severson: So there's two possibilities. One is, we do all the online delivery, and that's it.
+
+00:09:07.000 --> 00:09:14.000
+Eric Severson: The second is more of a custom training, where we would do the, uh, online curriculum development, online delivery.
+
+00:09:14.000 --> 00:09:20.000
+Eric Severson: And then start to look at, you know, is it possible for us to put an instructor.
+
+00:09:20.000 --> 00:09:31.000
+Eric Severson: Or the skills validation and the on-prem piece as well. Uh, so, out of the gates, they want to cover the on-prem and the skills validation, but they're really looking to scale this.
+
+00:09:32.000 --> 00:09:41.000
+Eric Severson: They've done one or two pilots. Um, Tony and I are going to see what they have going on at… they have a cohort at Austell that's going…
+
+00:09:41.000 --> 00:09:48.000
+Eric Severson: the end of this month, beginning of next month, we're still working on the exact dates, but Tony and I, and the, uh…
+
+00:09:48.000 --> 00:09:55.000
+Eric Severson: the leader from CTR are going to meet at the location so that we can get a little bit of eyes on how that's all going.
+
+00:09:56.000 --> 00:09:59.000
+Eric Severson: So that's… that's the pitch, that's the thing.
+
+00:09:58.000 --> 00:10:03.000
+Misti Kill: Yeah, so 100% we can do all of that. Um…
+
+00:10:04.000 --> 00:10:12.000
+Misti Kill: there would be some things to work out, right? So, my immediately thought is, is Larry the welder going to want to give up any of his material?
+
+00:10:12.000 --> 00:10:14.000
+Misti Kill: I was like…
+
+00:10:13.000 --> 00:10:22.000
+Eric Severson: I haven't asked what was the contractual arrangement with Larry, right? Was it work for hire, I hope, as opposed to…
+
+00:10:18.000 --> 00:10:19.000
+Misti Kill: Yeah.
+
+00:10:22.000 --> 00:10:27.000
+Eric Severson: There's no, you know, the other question is, where did it come from?
+
+00:10:26.000 --> 00:10:28.000
+Misti Kill: Right.
+
+00:10:27.000 --> 00:10:31.000
+Eric Severson: So… all great questions.
+
+00:10:29.000 --> 00:10:35.000
+Misti Kill: Because I feel like if… if we move in on this, Larry the Wilder is not gonna get whatever money he's getting…
+
+00:10:36.000 --> 00:10:42.000
+Misti Kill: For doing, like, I don't know how much he's gonna love that, and that's their business, obviously, but.
+
+00:10:42.000 --> 00:10:46.000
+Misti Kill: That's my immediate thought is, oh my gosh, this guy's not gonna love this.
+
+00:10:45.000 --> 00:10:47.000
+Eric Severson: Well…
+
+00:10:48.000 --> 00:10:53.000
+Eric Severson: maybe, right? It may be that he coordinates and does the on-prem stuff.
+
+00:10:53.000 --> 00:11:04.000
+Eric Severson: Uh, and that's enough, especially at scale. I also have no idea how much Larry loves being a welding instructor, as opposed to being a skills validator, right?
+
+00:11:00.000 --> 00:11:02.000
+Misti Kill: Sure.
+
+00:11:03.000 --> 00:11:05.000
+Misti Kill: Sure.
+
+00:11:04.000 --> 00:11:15.000
+Eric Severson: So, point taken, all that stuff to be figured out. Uh, the other thing is, Larry, there's no way Larry can scale, right? So today, they're doing all of this.
+
+00:11:13.000 --> 00:11:15.000
+Misti Kill: Right.
+
+00:11:15.000 --> 00:11:20.000
+Eric Severson: Face-to-face in a hotel room, and, you know, they're absolutely clear that's not going to scale.
+
+00:11:21.000 --> 00:11:27.000
+Eric Severson: They've got, you know, a facility in Wisconsin that Larry's not getting to. There are so many places.
+
+00:11:21.000 --> 00:11:23.000
+Misti Kill: Hmm.
+
+00:11:27.000 --> 00:11:32.000
+Eric Severson: Uh, and Hampton Roads that they can't get to, and so they really are clear that.
+
+00:11:33.000 --> 00:11:38.000
+Eric Severson: I don't even know if Larry's an employee or a contractor with CTR, so…
+
+00:11:36.000 --> 00:11:38.000
+Misti Kill: Okay.
+
+00:11:38.000 --> 00:11:46.000
+Misti Kill: So, and that's their… obviously, their business, so there's a couple of things. Would we get that material, the 75-page PDF.
+
+00:11:47.000 --> 00:11:49.000
+Misti Kill: To be able to put…
+
+00:11:47.000 --> 00:11:51.000
+Eric Severson: I already have it, so the question… so, yes, but…
+
+00:11:49.000 --> 00:11:56.000
+Misti Kill: Okay, so we… and so we would convert that into an online course, and…
+
+00:11:56.000 --> 00:12:07.000
+Misti Kill: make it a little more robust, right? Like, add in more of the safety aspect of things. So yes, they would have the content, but yes, we would also have some of our content experts go in there.
+
+00:12:07.000 --> 00:12:14.000
+Misti Kill: and add to it. And it would be a 10-week course, is that… and does it…
+
+00:12:14.000 --> 00:12:16.000
+Misti Kill: Or does that matter?
+
+00:12:15.000 --> 00:12:20.000
+Eric Severson: Well, it does a little bit, and I think this is where the…
+
+00:12:20.000 --> 00:12:29.000
+Eric Severson: hope would be a project team would be able to come together with CTR and ask exactly these questions. And I can see when I ask them things like.
+
+00:12:25.000 --> 00:12:27.000
+Misti Kill: Mm-hmm.
+
+00:12:27.000 --> 00:12:29.000
+Misti Kill: Okay.
+
+00:12:29.000 --> 00:12:42.000
+Eric Severson: do you guys want to have this operate as a cohort so that you can have quizzing and grading, and you can see all of that stuff? And I realized that there was just blank stares. They have no idea. So they're a staffing firm and a recruiting firm that does not know.
+
+00:12:43.000 --> 00:12:46.000
+Eric Severson: About educational operations at all.
+
+00:12:46.000 --> 00:12:53.000
+Misti Kill: So, they would still do the on-site hands-on training. Like, someone would still need to do that, right?
+
+00:12:53.000 --> 00:12:59.000
+Eric Severson: without question. So that… I'm guessing that's gonna be Larry.
+
+00:12:55.000 --> 00:12:57.000
+Misti Kill: Okay, good.
+
+00:12:59.000 --> 00:13:08.000
+Eric Severson: Uh, and at some point, you know, I don't know, at UTI, which is a terrible acronym, but at UTI, we had a fairly robust custom training group.
+
+00:13:08.000 --> 00:13:17.000
+Eric Severson: that did this sort of thing, but it was mostly on-prem. So for dealerships like GM would contract with us, and we would send out.
+
+00:13:17.000 --> 00:13:28.000
+Eric Severson: They would do the online portion, and we would send out an instructor who would then essentially assume that the, you know, see this, the quiz and the test results.
+
+00:13:28.000 --> 00:13:37.000
+Eric Severson: Would build the on-prem reinforcement training around wherever they needed it, where the weak spots in the cohort was.
+
+00:13:37.000 --> 00:13:40.000
+Eric Severson: And then they would do their on-prem stuff.
+
+00:13:40.000 --> 00:13:50.000
+Eric Severson: that was a pretty lucrative model for UTI, and so at some point, maybe a question mark about, hey, does CSU want to investigate that kind of thing?
+
+00:13:50.000 --> 00:13:52.000
+Misti Kill: Okay.
+
+00:13:50.000 --> 00:14:02.000
+Eric Severson: But out of the gates here, I think it's safe to say to CTR, let's start by enabling scale of just the online delivery and maybe the creation, enhancement of materials.
+
+00:14:03.000 --> 00:14:18.000
+Misti Kill: Yep. So, so yes, I mean, we obviously can create all those materials, we can build the course, we can set it up through Continuing Ed, so it's an easy enrollment and management process.
+
+00:14:18.000 --> 00:14:29.000
+Misti Kill: We can either have a faculty in the course or not. CE is how… it's set up to do either, just depending on what their kind of preference is.
+
+00:14:29.000 --> 00:14:40.000
+Misti Kill: So we can do all of those things, um… obviously, there are, like, the logistical questions that I kind of just mentioned, and then the only other thing would be…
+
+00:14:42.000 --> 00:14:47.000
+Misti Kill: What kind of profit share are… do students pay to go through it? Like, how does that actually work?
+
+00:14:46.000 --> 00:14:57.000
+Eric Severson: So that's an interesting thing for us to work out with them. Today, uh, they… I think this is all being paid through the state government and the Navy funds that they're using.
+
+00:14:58.000 --> 00:15:07.000
+Eric Severson: Um… I would assume that that's the intent, but we need to work that out with… I wouldn't even start with revenue share.
+
+00:15:07.000 --> 00:15:13.000
+Eric Severson: I would just, you know, start with, here's what our pricing needs to be based on the investment level, I think.
+
+00:15:13.000 --> 00:15:21.000
+Eric Severson: and see where it goes from there. I don't think… Tony, they've not mentioned anything about a revenue share at any point on this, have they?
+
+00:15:23.000 --> 00:15:37.000
+Tony Atchley: No, I think we've introduced, you know, kind of a thought in some of our discussions, yeah, but, uh, like you said, I think, you know, the funding sources is, uh.
+
+00:15:29.000 --> 00:15:31.000
+Eric Severson: Did we?
+
+00:15:31.000 --> 00:15:33.000
+Eric Severson: Okay.
+
+00:15:37.000 --> 00:15:43.000
+Tony Atchley: You know, right now, through the grants and, um, you know, so forth that they've secured, so, yeah.
+
+00:15:43.000 --> 00:15:50.000
+Eric Severson: I think they're more worried that they, that the price, the cost of moving it to a professional education firm like us.
+
+00:15:50.000 --> 00:15:59.000
+Eric Severson: is going to throw their whole economic model funded totally by the government and the Navy out of whack.
+
+00:15:59.000 --> 00:16:11.000
+Eric Severson: you know, and all I've said is, well, we have to wait and see. Let's engage with the product team, the academic organization, and figure out… I have no idea how to, you know… we've not given them any pricing. I have no idea how we would do that, assumed.
+
+00:16:11.000 --> 00:16:16.000
+Eric Severson: That would be a byproduct of, if it seems like a project worth pursuing.
+
+00:16:16.000 --> 00:16:20.000
+Eric Severson: We'd get a project team together and start down that road.
+
+00:16:19.000 --> 00:16:32.000
+Misti Kill: So, we've done this in the past in a couple of ways. Um, we've built materials… the actual development of the course and all of that kind of stuff obviously has a cost associated with it.
+
+00:16:32.000 --> 00:16:34.000
+Eric Severson: Yeah.
+
+00:16:33.000 --> 00:16:36.000
+Misti Kill: Other entities have paid for that before.
+
+00:16:36.000 --> 00:16:39.000
+Misti Kill: Uh, some also have not.
+
+00:16:39.000 --> 00:16:48.000
+Misti Kill: Because of the number of students and things that they agreed or guaranteed would enroll, and then pay by the student.
+
+00:16:48.000 --> 00:16:54.000
+Misti Kill: So, that would be something that we would kind of want to talk to them about, like, what are they comfortable with?
+
+00:16:54.000 --> 00:16:57.000
+Misti Kill: I wouldn't want to…
+
+00:16:57.000 --> 00:17:04.000
+Misti Kill: provided an amount to them that would be above what they would be comfortable. You know, like, I need an idea of what they are…
+
+00:17:04.000 --> 00:17:11.000
+Eric Severson: Did you… did you take a look at the enrollment projections? There was a spreadsheet that I attached in there, did you take a look at that?
+
+00:17:04.000 --> 00:17:06.000
+Misti Kill: even comfortable with.
+
+00:17:10.000 --> 00:17:15.000
+Misti Kill: I did. To be honest with you, enrollment projections…
+
+00:17:11.000 --> 00:17:13.000
+Eric Severson: And…
+
+00:17:15.000 --> 00:17:24.000
+Misti Kill: don't mean much to me. We have people project enrollments that never happen, and then we have others that exceed them. So…
+
+00:17:24.000 --> 00:17:26.000
+Misti Kill: It…
+
+00:17:24.000 --> 00:17:33.000
+Eric Severson: Okay, totally fair. Those I pushed with the… they've seen them, they've vetted them, they gave them to us.
+
+00:17:33.000 --> 00:17:36.000
+Eric Severson: Uh, and I think…
+
+00:17:36.000 --> 00:17:41.000
+Eric Severson: Because the demand for employment is so far out ahead of the…
+
+00:17:41.000 --> 00:17:53.000
+Eric Severson: Um, supply. I looked at those and I went, okay, I mean, I can see in one instance one employer with 150 open recs out there for one job.
+
+00:17:43.000 --> 00:17:45.000
+Misti Kill: Mm-hmm.
+
+00:17:53.000 --> 00:17:55.000
+Eric Severson: So, I would…
+
+00:17:55.000 --> 00:18:01.000
+Eric Severson: I think our enrollment's pretty good. Now, on the cost side, yeah, I would approach this with, here's what it'll cost.
+
+00:18:01.000 --> 00:18:11.000
+Eric Severson: And just lay it out there. And if we have enough of a relationship so that… I mean, we've talked to this guy, I don't know, dozens of times now, and been in person with him a couple of times, so…
+
+00:18:12.000 --> 00:18:19.000
+Eric Severson: If he is shocked and awed, he's not just gonna drop the mic and walk away. We would be able to go, okay, that doesn't work for you.
+
+00:18:19.000 --> 00:18:24.000
+Eric Severson: What, you know, help us find a middle ground here. Maybe there's another way.
+
+00:18:24.000 --> 00:18:34.000
+Misti Kill: Okay. That's good, that's good to know, because that's always my first concern, is like, I don't want to scare them away if it's more than they're comfortable with. Like, I want them to say.
+
+00:18:24.000 --> 00:18:26.000
+Eric Severson: Um, yeah.
+
+00:18:35.000 --> 00:18:41.000
+Misti Kill: we're not gonna be able to do that. Okay, well, what could we do? You know, so… okay. That sounds good.
+
+00:18:39.000 --> 00:18:51.000
+Eric Severson: I think his name is Luke, and I think for sure he would say that, if not at that very moment, we would do a follow-up, and I'm confident he would say, gee, guys, I can't make these numbers work, and we would just say, okay, let's figure out…
+
+00:18:51.000 --> 00:18:52.000
+Misti Kill: Okay.
+
+00:18:51.000 --> 00:18:53.000
+Eric Severson: What can we do, right?
+
+00:18:53.000 --> 00:19:01.000
+Misti Kill: So then, it really just comes down to content and amount of, like, work and things that would be required in the course, so…
+
+00:19:02.000 --> 00:19:13.000
+Misti Kill: I'm just, like, general assumption, right? Like, when you say span over 10 weeks, my mind immediately goes to 10 units, which is larger than our existing academic.
+
+00:19:13.000 --> 00:19:20.000
+Misti Kill: courses, and certainly larger than a normal CE course. Not that that's a problem. We've done that before, so that's totally fine.
+
+00:19:20.000 --> 00:19:22.000
+Misti Kill: Um…
+
+00:19:22.000 --> 00:19:33.000
+Misti Kill: And then it just depends on, like, do they want a faculty in the course, or would it be automated? We can still do, like, exams and things like that without needing a faculty in there to guide it.
+
+00:19:33.000 --> 00:19:43.000
+Misti Kill: I mean, we always have faculty associated with it, but it wouldn't be, like, necessarily discussion boards that the faculty's engaging in, and lectures, and things like that.
+
+00:19:43.000 --> 00:19:53.000
+Misti Kill: The difference there is, do we need to pay a faculty in there, or do we not? Which obviously impacts overarching costs. So, those types of logistical questions would have an impact on.
+
+00:19:53.000 --> 00:19:56.000
+Misti Kill: The profit and everything as well.
+
+00:19:56.000 --> 00:20:08.000
+Eric Severson: You totally understand it. I'd love to see the ROI that goes into all of this at some point, just as a way to be really informed about this. I don't know the answers to those questions, and I guess I'm betting.
+
+00:20:08.000 --> 00:20:17.000
+Eric Severson: they will be interested in hearing the pros and cons and some of past experience around that stuff. I think they're looking to us to be that…
+
+00:20:17.000 --> 00:20:23.000
+Eric Severson: Educational expert on these things and then it always comes down to cost and, you know.
+
+00:20:19.000 --> 00:20:21.000
+Misti Kill: Sure.
+
+00:20:23.000 --> 00:20:26.000
+Eric Severson: The value that they perceive in that.
+
+00:20:26.000 --> 00:20:28.000
+Misti Kill: Yep.
+
+00:20:26.000 --> 00:20:32.000
+Eric Severson: I… so, that's part of what would come from, sort of, an engagement team, yeah.
+
+00:20:33.000 --> 00:20:44.000
+Misti Kill: Yep. Well, absolutely, we would be interested in, obviously, moving forward, we have the ability to do all of the things, I think, that they were requesting.
+
+00:20:44.000 --> 00:20:48.000
+Misti Kill: And beef it up a little bit more on the safety side.
+
+00:20:48.000 --> 00:20:53.000
+Misti Kill: I mean, we could even add in other aspects as well, like, I would think even.
+
+00:20:49.000 --> 00:20:51.000
+Eric Severson: And how do you…
+
+00:20:54.000 --> 00:20:56.000
+Misti Kill: I would think, well…
+
+00:20:56.000 --> 00:21:02.000
+Misti Kill: Safety, and maybe even, like, fire. I mean, there could be… there could be, like, different things.
+
+00:21:00.000 --> 00:21:10.000
+Eric Severson: maybe even project management, I mean, that's all interesting stuff to… I can send over a PDF at some point, and you can start to look at that, but also, that's…
+
+00:21:03.000 --> 00:21:04.000
+Misti Kill: Yeah.
+
+00:21:10.000 --> 00:21:17.000
+Eric Severson: That's good conversation in that subject matter expertise, CTR relationship, where they can, you know.
+
+00:21:16.000 --> 00:21:17.000
+Misti Kill: No.
+
+00:21:18.000 --> 00:21:20.000
+Eric Severson: Bring some of that forward.
+
+00:21:20.000 --> 00:21:22.000
+Misti Kill: Yeah.
+
+00:21:20.000 --> 00:21:26.000
+Eric Severson: So, how do you feel about, um, having business development focus on…
+
+00:21:26.000 --> 00:21:30.000
+Eric Severson: Opening up pipelines for skilled trades.
+
+00:21:30.000 --> 00:21:35.000
+Misti Kill: I'm all for it. I'm… I'm all for building up CE.
+
+00:21:31.000 --> 00:21:34.000
+Eric Severson: Okay, good. Really good.
+
+00:21:35.000 --> 00:21:40.000
+Misti Kill: Because that's where I'm… that's where I kind of see it, right, is on the continuing ed side, because.
+
+00:21:41.000 --> 00:21:48.000
+Misti Kill: If it's on the academic side, you really have to, like… it impacts people with admissions and, like, getting into the programs and stuff. I will say this, though.
+
+00:21:48.000 --> 00:22:03.000
+Misti Kill: If we build it on the CE side, and somebody wants to roll in or build something extra, like we did with maritime safety and all of that, on the academic side, we can do that. We can transfer credit in, we can do all of those things, so that's always an added benefit.
+
+00:22:03.000 --> 00:22:15.000
+Misti Kill: For… for partners to be aware of. We make it easy on CE to… for first… first steps, but we can always roll it into the academic side if they have a desire as well.
+
+00:22:15.000 --> 00:22:23.000
+Eric Severson: Cool. I wondered, it felt like CE might be a nice on-ramp to test some of this. And when I say this, we're talking about.
+
+00:22:21.000 --> 00:22:22.000
+Misti Kill: Yeah.
+
+00:22:23.000 --> 00:22:32.000
+Eric Severson: Welding, ship fitting, pipe fitting, pipe fitting and machining, pipe fitting for ship fitting, and pipe fitting for submarines, right?
+
+00:22:31.000 --> 00:22:33.000
+Misti Kill: Yep.
+
+00:22:32.000 --> 00:22:40.000
+Eric Severson: It's an interesting content library that, uh, mostly I was curious to know, is there an appetite to start looking at that sort of stuff?
+
+00:22:40.000 --> 00:22:48.000
+Misti Kill: Most definitely. Honestly, the only reason we haven't on the academic side is because of the hands-on aspect, right?
+
+00:22:42.000 --> 00:22:44.000
+Eric Severson: Awesome.
+
+00:22:48.000 --> 00:22:50.000
+Misti Kill: It just has such a…
+
+00:22:50.000 --> 00:22:54.000
+Misti Kill: It would be such a massive undertaking for us.
+
+00:22:54.000 --> 00:23:01.000
+Misti Kill: To be able to have to move into that direction, so if we partner with someone who already does the hands-on.
+
+00:23:01.000 --> 00:23:04.000
+Misti Kill: And we just have to do the academic…
+
+00:23:05.000 --> 00:23:09.000
+Misti Kill: You know, professionalization, kind of, of it, that would be ideal.
+
+00:23:10.000 --> 00:23:12.000
+Misti Kill: So, yeah.
+
+00:23:10.000 --> 00:23:22.000
+Eric Severson: So that was exactly the thing about CTR that really caught my attention. Uh, you know, my experience at UTI was interesting. I joined a year before the pandemic.
+
+00:23:22.000 --> 00:23:28.000
+Eric Severson: And UTI was 100% hands-on classroom only. And the pandemic, of course.
+
+00:23:29.000 --> 00:23:39.000
+Eric Severson: Required a dramatic amount of change to an organization that was resistant, maybe not literate, maybe highly skeptical.
+
+00:23:32.000 --> 00:23:34.000
+Misti Kill: Oh.
+
+00:23:39.000 --> 00:23:45.000
+Eric Severson: But what we found over the 2 years of the pandemic, and then the 3 years after that.
+
+00:23:45.000 --> 00:23:48.000
+Eric Severson: Is a shocking amount.
+
+00:23:48.000 --> 00:23:53.000
+Eric Severson: More than we believed could be done online could be done online.
+
+00:23:53.000 --> 00:23:58.000
+Eric Severson: Uh, and so that was super eye-opening, uh, and.
+
+00:23:58.000 --> 00:24:01.000
+Eric Severson: You know, interesting.
+
+00:24:00.000 --> 00:24:02.000
+Misti Kill: Yep.
+
+00:24:01.000 --> 00:24:10.000
+Eric Severson: So, uh, terrific. What's the next step on the CTR side? What would happen next?
+
+00:24:10.000 --> 00:24:12.000
+Eric Severson: for this.
+
+00:24:10.000 --> 00:24:20.000
+Misti Kill: Um, so, next for me would just be kind of an answer to some of those more… the logistical-type build questions, right?
+
+00:24:20.000 --> 00:24:27.000
+Misti Kill: Um, also, if they have a specific timeline or something in mind, that would be really good to know, because…
+
+00:24:27.000 --> 00:24:35.000
+Misti Kill: course development like this isn't necessarily fast. Like, it'll be a little faster because most of their content is already built.
+
+00:24:36.000 --> 00:24:43.000
+Misti Kill: But it still takes time and everything to actually be able to design the course and get it open and up and running and functioning and stuff, so…
+
+00:24:43.000 --> 00:24:52.000
+Misti Kill: those types of things, and then all of that would be incorporated into an MOU for it, right? And in the MOU would be.
+
+00:24:52.000 --> 00:24:56.000
+Misti Kill: profit share details and that kind of stuff, too. So…
+
+00:24:56.000 --> 00:24:58.000
+Eric Severson: Okay.
+
+00:24:57.000 --> 00:25:04.000
+Misti Kill: those… that's usually next steps on… on our process. We sign the MOU and then start to initiate the development.
+
+00:25:04.000 --> 00:25:14.000
+Eric Severson: Uh, and is there a template MOU that you can give us that I can give to them to say, here's where we're working toward, we're gonna have a meeting to clarify some of the open questions around this stuff?
+
+00:25:14.000 --> 00:25:24.000
+Misti Kill: Yep, I can send you one. Do be really aware, like, we tailor them to the partner, so even though this'll be…
+
+00:25:22.000 --> 00:25:23.000
+Eric Severson: Okay.
+
+00:25:24.000 --> 00:25:35.000
+Misti Kill: some of the… some of the items might not be relevant at all for them, some things we might have to add to it, but I can send you just kind of a blank one, just to give them an idea of where it would start from.
+
+00:25:36.000 --> 00:25:45.000
+Eric Severson: Okay, um, and then I'll… who would I set that meeting up with? The CTR team, Tony, myself, and who would that be with?
+
+00:25:46.000 --> 00:25:51.000
+Misti Kill: Um, so I'm gonna say myself, and then…
+
+00:25:51.000 --> 00:26:04.000
+Misti Kill: I'm gonna say Tamara Murra for now, because she's over the A/C Safety program, and it would be her faculty, ultimately, who would… we would incorporate in to add more to the course, the content, and that kind of stuff.
+
+00:25:54.000 --> 00:25:56.000
+Eric Severson: Okay.
+
+00:26:04.000 --> 00:26:13.000
+Misti Kill: Um, eventually we would add in people like Dana Fuller, who would finalize, like, the MOU on the CSU side, but she doesn't need to be in that meeting.
+
+00:26:13.000 --> 00:26:21.000
+Misti Kill: Um, because we'll develop the MOU content and things. And then also, Keith Cullen, he's over continuing education.
+
+00:26:21.000 --> 00:26:27.000
+Misti Kill: And ultimately would, that's where it would be housed and so his, he would have to manage it and stuff, but.
+
+00:26:28.000 --> 00:26:30.000
+Misti Kill: Right now, where we are…
+
+00:26:28.000 --> 00:26:38.000
+Eric Severson: we met with… we met with Keith and Lori just as an intro, and said, hey, what do you think about this kind of thing? And so they at least heard our… our… here's what we're wondering about, so…
+
+00:26:32.000 --> 00:26:34.000
+Misti Kill: Nice.
+
+00:26:36.000 --> 00:26:38.000
+Misti Kill: Perfect.
+
+00:26:38.000 --> 00:26:40.000
+Misti Kill: Perfect.
+
+00:26:38.000 --> 00:26:49.000
+Eric Severson: Um, okay, cool, really cool. So, uh, for me, one of the 2026 priorities for business development is to continue to look for.
+
+00:26:49.000 --> 00:26:54.000
+Eric Severson: maybe even productize this kind of an offering. So, by productize, I mean.
+
+00:26:54.000 --> 00:27:02.000
+Eric Severson: It seems very similar to LBT, seems similar to, uh, the FBI thing, what I know of it, and the IFAC thing.
+
+00:27:02.000 --> 00:27:08.000
+Eric Severson: And ADTC is the next one I just want to briefly talk about.
+
+00:27:08.000 --> 00:27:16.000
+Eric Severson: So, I have been doing consulting work for a number of years, and one of my clients is.
+
+00:27:16.000 --> 00:27:25.000
+Eric Severson: The, uh, is a workforce solutions organization out of Ohio, and they do very similar things to what CTR does. They recruit.
+
+00:27:26.000 --> 00:27:36.000
+Eric Severson: they train, and then they move them right into employment. They're not a staffing agency. They get paid, uh, on the hire, right? So, the training piece.
+
+00:27:34.000 --> 00:27:36.000
+Misti Kill: Okay.
+
+00:27:37.000 --> 00:27:45.000
+Eric Severson: They are a little bigger than CTR and a little bit more established. Uh, they have 3 major clients, Penske.
+
+00:27:45.000 --> 00:27:55.000
+Eric Severson: Uh, for diesel trucking. They work with Virtiv, which is a huge commercial HVAC organization. They do field service technician training for Vertiv.
+
+00:27:55.000 --> 00:28:00.000
+Eric Severson: And the, you know, data center building thing is driving a huge amount of activity there.
+
+00:28:01.000 --> 00:28:08.000
+Eric Severson: And then they work with a company called Comfort Systems. Comfort Systems is another big commercial HVAC. They've got 50 different operating companies nationwide.
+
+00:28:09.000 --> 00:28:14.000
+Eric Severson: And they are pumping cohorts every 8 weeks through.
+
+00:28:15.000 --> 00:28:21.000
+Eric Severson: commercial HVAC, plumbing and pipe fitting, and electrical training. And this is that same…
+
+00:28:21.000 --> 00:28:28.000
+Eric Severson: pre-employment training, I don't even think they give them a cert, they might, but it's a piece of paper that doesn't mean anything.
+
+00:28:28.000 --> 00:28:35.000
+Eric Severson: Uh, and so, they too, they have a little bit more robust education delivery mechanism.
+
+00:28:35.000 --> 00:28:45.000
+Eric Severson: Have you ever heard of Area 9? Uh, they have an LMS that's a little bit specialized to higher ed, and.
+
+00:28:45.000 --> 00:28:51.000
+Eric Severson: It's got some things in it that are kind of unique around skill assessment, skill verification.
+
+00:28:51.000 --> 00:28:56.000
+Eric Severson: Um, it's a version of Blackboard, but slightly different.
+
+00:28:56.000 --> 00:29:03.000
+Eric Severson: They, too, are very interested in having a conversation about, uh, having CSU as their delivery partner.
+
+00:29:03.000 --> 00:29:12.000
+Eric Severson: And there's two things that both of these companies are looking for, scale, and then also the potential for, you know, being associated with the university.
+
+00:29:12.000 --> 00:29:16.000
+Eric Severson: So the, you know, the benefit of enhancing their curriculum.
+
+00:29:12.000 --> 00:29:14.000
+Misti Kill: Sure.
+
+00:29:16.000 --> 00:29:23.000
+Eric Severson: So, I've worked with ADTC, the Workforce Solutions, for about 3 years now, and I have been…
+
+00:29:23.000 --> 00:29:28.000
+Eric Severson: You know, that is… there's no joke. They are pumping students through this thing like crazy.
+
+00:29:28.000 --> 00:29:31.000
+Eric Severson: And so, on the heels of CTR.
+
+00:29:31.000 --> 00:29:44.000
+Eric Severson: Uh, the CEO is a little twitchy. He's a little over-caffeinated, and so he needs to be reined in with people that can operationalize things for him, which is a lot of what I've done for him.
+
+00:29:44.000 --> 00:29:53.000
+Eric Severson: But I think it's another interesting opportunity, especially if you're open to or excited about looking at that pre-employment skills training.
+
+00:29:53.000 --> 00:30:00.000
+Eric Severson: in… again, we're talking all electrical stuff, uh, plumbing and pipe fitting and commercial HVAC.
+
+00:30:00.000 --> 00:30:06.000
+Eric Severson: There's a second, even larger project, uh, that we might introduce here, too.
+
+00:30:07.000 --> 00:30:11.000
+Misti Kill: Absolutely. I am all for all of that. Um…
+
+00:30:11.000 --> 00:30:16.000
+Misti Kill: Scaling is easy for us. We can fix that, we can build it.
+
+00:30:16.000 --> 00:30:23.000
+Misti Kill: The outside thing for us has always been the hands-on, so if somebody is willing to partner.
+
+00:30:21.000 --> 00:30:28.000
+Eric Severson: He does the outside thing too, so this is so similar to CTR. I looked at that and I went, my goodness, that might be just a…
+
+00:30:29.000 --> 00:30:33.000
+Eric Severson: fortunate opportunity. And then for us, I like the idea of…
+
+00:30:33.000 --> 00:30:37.000
+Eric Severson: If you're… and it seems like you're very supportive of this.
+
+00:30:37.000 --> 00:30:47.000
+Eric Severson: business development would… I like this from two other perspectives. It changes the nature of our conversations with all of our learning partners, right? We can now go to Delta with a different kind of story.
+
+00:30:46.000 --> 00:30:48.000
+Misti Kill: Okay.
+
+00:30:47.000 --> 00:30:54.000
+Eric Severson: Uh, and it also puts us so early in that student journey, I don't know that we've been participating in that.
+
+00:30:54.000 --> 00:31:04.000
+Eric Severson: pre-employment, employment-to-skills piece. The other, uh, deal or conversation that we've got going on is NCCER. Have you ever heard of NCCER?
+
+00:31:04.000 --> 00:31:06.000
+Misti Kill: I don't think so.
+
+00:31:05.000 --> 00:31:07.000
+Eric Severson: The National Construction…
+
+00:31:07.000 --> 00:31:17.000
+Eric Severson: education research organization, so they have, uh, they have some credentialed programs that are lower than baccalaureate, uh, lower than associates.
+
+00:31:17.000 --> 00:31:19.000
+Misti Kill: Mm-hmm.
+
+00:31:17.000 --> 00:31:25.000
+Eric Severson: the sort of the next step, think of Larry the Welder's PDF as, you know, bottom, bottom rung of formalized materials.
+
+00:31:25.000 --> 00:31:30.000
+Eric Severson: NCCR has a range of construction materials that are one step up, that are delivered.
+
+00:31:30.000 --> 00:31:39.000
+Eric Severson: with a certificate and some industry support, their biggest… their board of directors are our biggest construction companies.
+
+00:31:39.000 --> 00:31:49.000
+Eric Severson: And when I looked at our alumni stuff, I was elated to see the number of our graduates and alum that are sitting in these huge construction companies.
+
+00:31:49.000 --> 00:31:58.000
+Eric Severson: So that was the third sort of thing to say, hey, I am excited about spending time and energy in 26 as business development, opening up these pathways.
+
+00:31:59.000 --> 00:32:06.000
+Eric Severson: I love the idea of labor to leader as a story. That's a story that that industry struggles to tell.
+
+00:32:06.000 --> 00:32:16.000
+Eric Severson: So, construction in particular, same unsure with the pipe fitting and welders. When you put down the welding torch, what are you going to do next? What's that path to supervisor foreman.
+
+00:32:16.000 --> 00:32:23.000
+Eric Severson: management in there, and of course, if we were part of that journey to get them the skills to get that initial job.
+
+00:32:24.000 --> 00:32:29.000
+Eric Severson: Then we're perfectly set up for, yeah, the degree stuff down the road.
+
+00:32:26.000 --> 00:32:28.000
+Misti Kill: Yeah.
+
+00:32:29.000 --> 00:32:32.000
+Eric Severson: So… so.
+
+00:32:29.000 --> 00:32:37.000
+Misti Kill: Yeah, no, I'm all for all of that. Um, you know, we've been looking for ways to expand.
+
+00:32:37.000 --> 00:32:42.000
+Misti Kill: continuing education, I've always thought that it was kind of underutilized for the past.
+
+00:32:42.000 --> 00:32:48.000
+Misti Kill: however long it's existed, and things like that. So, absolutely, I mean, you've seen…
+
+00:32:48.000 --> 00:32:53.000
+Misti Kill: what we've started to do with, you know, ODP and…
+
+00:32:52.000 --> 00:32:54.000
+Eric Severson: Yeah.
+
+00:32:53.000 --> 00:33:02.000
+Misti Kill: NFA and LIDA, and all of it. There's a lot of opportunity, so yeah, if you have the connections, we're… we're in, for sure.
+
+00:32:54.000 --> 00:32:56.000
+Eric Severson: Yeah.
+
+00:33:01.000 --> 00:33:12.000
+Eric Severson: So we'll bring them in, and then maybe subsequent to this, we'll work on what does productizing an offer like that mean? And maybe that's a good subsequent conversation for us to have.
+
+00:33:12.000 --> 00:33:17.000
+Eric Severson: That helps me and Tony go into Boeing, for example, and change up that conversation.
+
+00:33:17.000 --> 00:33:29.000
+Eric Severson: Right now, it's, you know, it's all about the degree attainment, the traditional conversation, but this, especially with the manufacturing going on in Alabama, the demand for labor is…
+
+00:33:30.000 --> 00:33:42.000
+Eric Severson: a way more pressing problem to these… in these big organizations. Having a productized, meaning a, you know, it's straightforward, you've got a folder that describes it, or a marketing piece that describes it, and a.
+
+00:33:42.000 --> 00:33:53.000
+Eric Severson: And a good, solid process that we feel comfortable about. I love that because it's… it's not… it's a way in to existing and to new customers that we don't currently have.
+
+00:33:53.000 --> 00:33:55.000
+Eric Severson: So…
+
+00:33:53.000 --> 00:33:57.000
+Misti Kill: Yeah, I think that's great. That sounds perfect.
+
+00:33:56.000 --> 00:34:02.000
+Eric Severson: So, well, thank you very much for the time, we're a little bit over, but this… I'm super encouraged by this, and we're gonna head off full steam.
+
+00:34:02.000 --> 00:34:12.000
+Misti Kill: Okay, that sounds good. I will send you over a blank MOU, and if there's anything else you need as you kind of work through some of it, just let me know, but otherwise.
+
+00:34:12.000 --> 00:34:14.000
+Misti Kill: Anytime you wanna…
+
+00:34:14.000 --> 00:34:19.000
+Misti Kill: Introduce us, set a meeting, anything else further, just let me know.
+
+00:34:18.000 --> 00:34:20.000
+Eric Severson: Sweet, thank you very much.
+
+00:34:20.000 --> 00:34:23.000
+Misti Kill: Cool, sounds good. Good seeing you guys.
+
+00:34:20.000 --> 00:34:23.000
+Tony Atchley: Awesome. Great to see you. Thanks, Misti.
+
+00:34:23.000 --> 00:34:25.000
+Misti Kill: Thanks. Bye.
+
+00:34:23.000 --> 00:34:25.000
+Eric Severson: Bye.
+

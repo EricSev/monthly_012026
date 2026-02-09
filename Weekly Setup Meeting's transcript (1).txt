@@ -1,0 +1,2063 @@
+WEBVTT
+
+00:01:43.000 --> 00:01:45.000
+Eric Severson: Morning, Tony.
+
+00:01:49.000 --> 00:01:51.000
+Tony Atchley: Good morning.
+
+00:01:55.000 --> 00:02:00.000
+Eric Severson: I'm sitting here working on a note to Luke, trying to make sure that we're…
+
+00:02:00.000 --> 00:02:06.000
+Eric Severson: all aligned on, uh, really trying to make sure that I've got.
+
+00:02:06.000 --> 00:02:12.000
+Eric Severson: As good a handle on what the likely volume would be.
+
+00:02:13.000 --> 00:02:19.000
+Eric Severson: as we go into… as I schedule meetings with Continuing Ed. And do you want to participate in that? I've got…
+
+00:02:20.000 --> 00:02:23.000
+Eric Severson: I don't know that the…
+
+00:02:23.000 --> 00:02:28.000
+Eric Severson: Provost is going to meet with me, but the manager is. And what I really want to know is…
+
+00:02:28.000 --> 00:02:30.000
+Eric Severson: How are you?
+
+00:02:31.000 --> 00:02:38.000
+Eric Severson: How do you look at pricing? How do you look at duration? And when I look back at the notes for Luke.
+
+00:02:38.000 --> 00:02:41.000
+Eric Severson: It was, it looked to me like it's.
+
+00:02:41.000 --> 00:02:48.000
+Eric Severson: 6 weeks of online work with, uh, validation and an.
+
+00:02:48.000 --> 00:02:51.000
+Eric Severson: on-premming. Maybe when we're done with this weekend, we can catch up.
+
+00:02:51.000 --> 00:02:53.000
+Tony Atchley: Okay.
+
+00:02:52.000 --> 00:02:57.000
+Eric Severson: Briefly on this. So, uh, and is Dwayne joining? I didn't see.
+
+00:03:00.000 --> 00:03:02.000
+Tony Atchley: Yeah, I don't know, dude.
+
+00:03:00.000 --> 00:03:02.000
+Eric Severson: Okay.
+
+00:03:02.000 --> 00:03:05.000
+Eric Severson: He was on there, but maybe he didn't see that it moved.
+
+00:03:06.000 --> 00:03:13.000
+Eric Severson: Okay, this is just really a good chance to catch up after the holidays. Hope everybody had a great holiday, and… and uh…
+
+00:03:07.000 --> 00:03:09.000
+Tony Atchley: I'll text him.
+
+00:03:14.000 --> 00:03:16.000
+Eric Severson: Oh, you're on mute there, Jim.
+
+00:03:23.000 --> 00:03:29.000
+Eric Severson: Uh, so to catch up and to do the focus of these, which is gonna be what's your focus for the week.
+
+00:03:30.000 --> 00:03:36.000
+Eric Severson: Is there anything you need? Uh, or are you stuck with anything? And then I'm gonna start to ask you.
+
+00:03:36.000 --> 00:03:42.000
+Eric Severson: How are you using AI this week? Just… just as a curiosity, right? As a way to keep… keep…
+
+00:03:42.000 --> 00:03:49.000
+Eric Severson: Uh, helping people move forward in their AI journey. So, uh, so Jim, what's, what's, uh, what's the focus for the week?
+
+00:03:50.000 --> 00:03:52.000
+Jim.Forsythe: Focus for the week.
+
+00:03:52.000 --> 00:03:59.000
+Jim.Forsythe: Got a ton of follow-up. Uh, Wednesday morning, I am attending a State of the City in Baymonette.
+
+00:03:59.000 --> 00:04:05.000
+Jim.Forsythe: Our good friends from Novellas always have representation there, so I'd like to be able to mingle with those folks.
+
+00:04:05.000 --> 00:04:17.000
+Jim.Forsythe: Uh, Josh Brown is the new mayor there, and I got to know Josh about 3 years ago through the Eastern Shore Chamber. He's the sales manager for a computer consulting company.
+
+00:04:18.000 --> 00:04:25.000
+Jim.Forsythe: That's in Mobile and that, and he decided to run for mayor, and he was the first African American to be elected mayor of Baymonette.
+
+00:04:25.000 --> 00:04:27.000
+Eric Severson: Wow, okay.
+
+00:04:25.000 --> 00:04:35.000
+Jim.Forsythe: And, uh, we got to be good friends, like I said, a few years ago. He came to the space launch meeting that we had at the campus a while back.
+
+00:04:35.000 --> 00:04:42.000
+Jim.Forsythe: And, uh, brought some of his new city council members. So, uh, hoping to tie that together.
+
+00:04:42.000 --> 00:04:49.000
+Jim.Forsythe: Uh, hoping Ryan Brantley, who is the EHS director for Novellus, they hired him back in.
+
+00:04:50.000 --> 00:04:55.000
+Jim.Forsythe: July or August. I met him in September at a conference. He's a CSU graduate.
+
+00:04:56.000 --> 00:05:04.000
+Jim.Forsythe: And it's kind of worked his way up, uh, through the safety field, and now he's been hired as the director of VHS for Novellus going forward.
+
+00:05:04.000 --> 00:05:15.000
+Jim.Forsythe: And I understand he's gonna be building out a team, probably of about 30 people or so. I'm also working with marketing, and he's agreed to do this, to do a personal interest story for one of our.
+
+00:05:15.000 --> 00:05:18.000
+Jim.Forsythe: Partner newsletters that we have.
+
+00:05:18.000 --> 00:05:28.000
+Jim.Forsythe: So, they're working with him to do that, so I'm hoping that gets our… we have a good relationship with Novellas, they just don't move. They don't do anything, as far as a partnership goes.
+
+00:05:28.000 --> 00:05:31.000
+Eric Severson: And what… what does Novellus do?
+
+00:05:31.000 --> 00:05:37.000
+Jim.Forsythe: Aluminum. Aluminum Recycling present coil aluminum, they build, uh…
+
+00:05:32.000 --> 00:05:34.000
+Eric Severson: Aluminum.
+
+00:05:37.000 --> 00:05:45.000
+Jim.Forsythe: every car has some novelis aluminum in it. Uh, they produce the aluminum for all the F-150 pickup truck exteriors.
+
+00:05:45.000 --> 00:05:54.000
+Jim.Forsythe: Uh, it's a… if you Google it, it's a… they aren't even in operation yet. This is a big catch for Baldwin County.
+
+00:05:55.000 --> 00:06:02.000
+Jim.Forsythe: And, uh, they have one building out there that's over a mile long that they're… that they're putting in place. That's just one of the buildings.
+
+00:06:03.000 --> 00:06:05.000
+Jim.Forsythe: It's gonna be a huge operation here.
+
+00:06:05.000 --> 00:06:07.000
+Eric Severson: Employing how many people about?
+
+00:06:07.000 --> 00:06:11.000
+Jim.Forsythe: Uh, at the end, it's gonna probably be close to 2,000.
+
+00:06:12.000 --> 00:06:15.000
+Eric Severson: That's… that's amazing. And…
+
+00:06:15.000 --> 00:06:17.000
+Jim.Forsythe: Sure.
+
+00:06:15.000 --> 00:06:17.000
+Eric Severson: How are they…
+
+00:06:17.000 --> 00:06:21.000
+Eric Severson: staffing today, do you know? I mean, how many people are…
+
+00:06:20.000 --> 00:06:30.000
+Jim.Forsythe: Uh, well, the building's up. They don't… they're staffing slowly, building up key positions, but they won't… Tony, do you know when they're to occupy that building?
+
+00:06:31.000 --> 00:06:37.000
+Tony Atchley: Uh, I've not heard, you know, I've not heard the final on it, but, you know, so they've got…
+
+00:06:36.000 --> 00:06:39.000
+Jim.Forsythe: It's gonna be over a year yet.
+
+00:06:37.000 --> 00:06:44.000
+Tony Atchley: They've got locations, uh, you know, across the country already. This is just a new plant operation here, but…
+
+00:06:41.000 --> 00:06:43.000
+Jim.Forsythe: Yeah.
+
+00:06:44.000 --> 00:06:53.000
+Tony Atchley: Um, they… they have been pulling in, uh, a lot of, you know, the key leadership, I think, from, uh, those…
+
+00:06:53.000 --> 00:06:57.000
+Tony Atchley: other sites, right, Jim? You know, and getting this up and going?
+
+00:06:55.000 --> 00:07:04.000
+Jim.Forsythe: Yeah, yeah, the, uh, the director came… Novellus is actually… the parent company is located in Canada.
+
+00:07:04.000 --> 00:07:11.000
+Jim.Forsythe: Uh, their U.S. operations are based in Atlanta, and this is going to be the largest plant that they've built to date.
+
+00:07:11.000 --> 00:07:16.000
+Jim.Forsythe: Uh, so it's a big deal in this… it's a big deal in this market.
+
+00:07:12.000 --> 00:07:15.000
+Eric Severson: Okay. So…
+
+00:07:17.000 --> 00:07:19.000
+Tony Atchley: Yeah, so a couple…
+
+00:07:17.000 --> 00:07:30.000
+Eric Severson: And what's the… how do you think about the strategy of who do you try to build a relationship with there? Who do we ultimately need to get to somebody, I suppose, in HR, right, to tell the story about.
+
+00:07:30.000 --> 00:07:41.000
+Jim.Forsythe: Well, I know… I've known Amanda for a couple of years now, who's the head of HR. A guy by my name is Tony Holt is the head site manager, and we've met on several occasions, so…
+
+00:07:35.000 --> 00:07:36.000
+Eric Severson: Yeah.
+
+00:07:41.000 --> 00:07:55.000
+Jim.Forsythe: Uh, I'm about as high up as I can go here locally, and uh, we're very cordial, very… and she's told me, you know, I've said, hey, Amanda, I said, have you forgotten about me? I'm still here. She says, oh, I haven't forgotten about you, you'll hear from us sometime when we're ready.
+
+00:07:55.000 --> 00:07:57.000
+Jim.Forsythe: So…
+
+00:07:58.000 --> 00:08:00.000
+Jim.Forsythe: I just go and meet them and be nice.
+
+00:08:00.000 --> 00:08:03.000
+Eric Severson: So, what I'm wondering about is, uh…
+
+00:08:01.000 --> 00:08:02.000
+Jim.Forsythe: Let them know I'm still here.
+
+00:08:04.000 --> 00:08:13.000
+Eric Severson: we've got two interesting opportunities that are maybe a little different than the things that we've done in the past at CSU.
+
+00:08:14.000 --> 00:08:19.000
+Eric Severson: One of them is through the Sigma Mutual partnership with a company called CTR.
+
+00:08:19.000 --> 00:08:24.000
+Eric Severson: And the other is with a potential partnership with, uh, American Diesel Training Centers.
+
+00:08:24.000 --> 00:08:34.000
+Eric Severson: And the crux of them are these are companies that are either staffing or recruiting agencies that were working with clients on staffing programs.
+
+00:08:34.000 --> 00:08:39.000
+Eric Severson: where they could not fill it with local talent. They just didn't have enough local talent.
+
+00:08:39.000 --> 00:08:47.000
+Eric Severson: And so, both these, uh, CTR is a staffing company, and ADTC is sort of a recruiting, uh, entity and a training.
+
+00:08:47.000 --> 00:08:53.000
+Eric Severson: They built short, 10-week training programs.
+
+00:08:53.000 --> 00:08:58.000
+Eric Severson: To onboard people into these, uh…
+
+00:08:58.000 --> 00:09:01.000
+Eric Severson: Skilled trades like positions.
+
+00:09:01.000 --> 00:09:12.000
+Eric Severson: And so, Jim, what I'm wondering is, it seems like a great opportunity to have the conversation from… and we'll give you a little bit more information, I'd love to participate in the conversation, so maybe Tony.
+
+00:09:13.000 --> 00:09:18.000
+Eric Severson: to explore the business potential for a slightly different model. Recruiting services.
+
+00:09:18.000 --> 00:09:32.000
+Eric Severson: That aims at the type of employee that you need locally, that may not live there locally today, as a way to say, we'll find employees, we'll train them if they are trainable on those skill trade roles.
+
+00:09:33.000 --> 00:09:38.000
+Eric Severson: In that 6-10 week frame, and then they'll move right into employ for you.
+
+00:09:38.000 --> 00:09:42.000
+Eric Severson: And then, you know, I'm envisioning this as potentially a continuing education offering.
+
+00:09:43.000 --> 00:09:47.000
+Eric Severson: similar to the one that we have with the Fire Chief Association. Um…
+
+00:09:47.000 --> 00:09:51.000
+Eric Severson: But then it could also… the story of CSU being involved is…
+
+00:09:52.000 --> 00:09:56.000
+Eric Severson: from labor to leader, right? So, yes, this is a path to immediate employment.
+
+00:09:57.000 --> 00:10:00.000
+Eric Severson: Interesting, I'm not sure that we participate in.
+
+00:10:00.000 --> 00:10:09.000
+Eric Severson: that revenue stream today, meaning taking totally unskilled, giving them a, you know, I'm trying to find a polite word for it, but I'd call it a survival skills.
+
+00:10:09.000 --> 00:10:17.000
+Eric Severson: Enough to get employed, but then also thinking about long-term is, if there are going to be 2,000 people in that, uh, plant.
+
+00:10:17.000 --> 00:10:24.000
+Eric Severson: There's going to be a need to promote from within, but there's going to need to be an ongoing need for management, and that's where the sort of credentialing story comes in.
+
+00:10:26.000 --> 00:10:35.000
+Eric Severson: So, that all goes back to maybe this is an opportunity to really dig into the staffing plan, and how are you thinking about the staffing plan, and.
+
+00:10:35.000 --> 00:10:41.000
+Eric Severson: You know, do you think you have enough local labor source or talent to be able to pull into those jobs?
+
+00:10:41.000 --> 00:10:49.000
+Eric Severson: And if not, then this is something interesting that we're just really at the proposal stages with, but with two different companies.
+
+00:10:49.000 --> 00:10:57.000
+Eric Severson: ADTC does this today, but they want to offload the educational piece. Same thing with CTR, they want to offload the educational piece.
+
+00:10:58.000 --> 00:11:00.000
+Eric Severson: And the interesting thing is…
+
+00:11:01.000 --> 00:11:06.000
+Eric Severson: both ADTC, American Diesel Training Centers, they focus on…
+
+00:11:06.000 --> 00:11:13.000
+Eric Severson: uh, HVAC technicians and field service technicians. Vertiv and Comfort Systems are huge corporate clients of theirs.
+
+00:11:13.000 --> 00:11:19.000
+Eric Severson: And they just can't find enough people for this. So that's where they flipped this model of just recruiting to.
+
+00:11:19.000 --> 00:11:30.000
+Eric Severson: recruiting people that are not qualified today, training them in a short sprint, getting them employed, and then… then they're sort of stuck, both CTR and ADCC, and that's where we're.
+
+00:11:30.000 --> 00:11:39.000
+Eric Severson: investigating the CSU potential role there. Jim, do you… what do you think about all that? Do you think it would be of any interest to, uh…
+
+00:11:40.000 --> 00:11:46.000
+Jim.Forsythe: I mean, it could be. I can tell you right now, they have strong partnerships with the Coastal Community College system.
+
+00:11:46.000 --> 00:11:52.000
+Jim.Forsythe: Uh, they also work where they actually help them design programs and courses.
+
+00:11:52.000 --> 00:11:59.000
+Jim.Forsythe: Coastal Community College is actually based… they have campuses all around the area here.
+
+00:11:59.000 --> 00:12:04.000
+Jim.Forsythe: But they're actually based in Baymonette, just a few miles where that plant location is.
+
+00:12:04.000 --> 00:12:11.000
+Jim.Forsythe: Uh, they also have strong ties with Bishop State, uh, which so does Airbus and Austell.
+
+00:12:11.000 --> 00:12:20.000
+Jim.Forsythe: A lot of other places, they do a lot of custom training. And then they've opened a new, uh… what do they call it? Baldwin County Academy.
+
+00:12:20.000 --> 00:12:28.000
+Jim.Forsythe: Which is a high school program, where they go, you know, 2 years at their regular school, then they go 2 years at the… at the high school training academy, which is.
+
+00:12:21.000 --> 00:12:22.000
+Eric Severson: Hmm.
+
+00:12:28.000 --> 00:12:38.000
+Jim.Forsythe: kind of, they market it as the gym of Alabama. It's really a huge facility, and they partner with them, training high school kids to build that pipeline.
+
+00:12:38.000 --> 00:12:44.000
+Jim.Forsythe: So, they've got people in those roles, not meaning that we couldn't participate with that.
+
+00:12:44.000 --> 00:12:49.000
+Jim.Forsythe: It's just something that hasn't been a CSU niche in the past, and you can…
+
+00:12:49.000 --> 00:13:00.000
+Jim.Forsythe: drive that battle. I have approached, uh, in the past, I had some things going on with, uh, Buffalo Rock, which is the big Pepsi distributor in that for the Southeast.
+
+00:13:00.000 --> 00:13:04.000
+Jim.Forsythe: They were looking at some workshops and company training, and…
+
+00:13:04.000 --> 00:13:07.000
+Jim.Forsythe: I got to where that's not kind of what our niche is.
+
+00:13:07.000 --> 00:13:09.000
+Jim.Forsythe: So…
+
+00:13:08.000 --> 00:13:11.000
+Eric Severson: And who… how… what was your path to that?
+
+00:13:11.000 --> 00:13:13.000
+Eric Severson: discussion.
+
+00:13:11.000 --> 00:13:13.000
+Jim.Forsythe: Up through academics.
+
+00:13:14.000 --> 00:13:16.000
+Jim.Forsythe: Janelle?
+
+00:13:15.000 --> 00:13:17.000
+Eric Severson: Who specifically was that with? Misty?
+
+00:13:18.000 --> 00:13:22.000
+Jim.Forsythe: Um… don't know, I don't recall…
+
+00:13:21.000 --> 00:13:30.000
+Tony Atchley: No. No, at the time, it was, um, Lee… was it Lee Lawson? Um, I may not have the right name.
+
+00:13:29.000 --> 00:13:31.000
+Jim.Forsythe: Not Lawson, he's, uh, Lee…
+
+00:13:32.000 --> 00:13:34.000
+Jim.Forsythe: I don't remember, Tony.
+
+00:13:33.000 --> 00:13:40.000
+Tony Atchley: Yeah, it's not, not Lawson's, uh, but he was in Misty's position.
+
+00:13:37.000 --> 00:13:39.000
+Jim.Forsythe: He's no longer here, and…
+
+00:13:41.000 --> 00:13:45.000
+Tony Atchley: Uh, prior to Misty taking over that department, Eric. Yep. Yep.
+
+00:13:44.000 --> 00:13:51.000
+Eric Severson: Okay. So, things change. I mean, CTR has all those relationships you just mentioned with all those community colleges.
+
+00:13:47.000 --> 00:13:49.000
+Tony Atchley: Yep.
+
+00:13:52.000 --> 00:13:58.000
+Eric Severson: And there's a couple of things, without getting shitty. The community college product is always pretty poor, right? It just is. Otherwise…
+
+00:13:59.000 --> 00:14:05.000
+Eric Severson: there would be no need for this stuff. Plus, they're already… they're already based in a local community.
+
+00:14:05.000 --> 00:14:11.000
+Eric Severson: So, a fair amount of what these recruiters are doing is tapping labor outside.
+
+00:14:11.000 --> 00:14:21.000
+Eric Severson: Labor potential. High potential laborers that are outside of that geography. They're recruiting them, they're training them, then they're moving them into those jobs in those areas.
+
+00:14:21.000 --> 00:14:27.000
+Eric Severson: CTR, again, they have Bishop State they've done pilots with. The Coastal Community College they've done pilots with.
+
+00:14:27.000 --> 00:14:36.000
+Eric Severson: They're using them for a specific on-ground purpose, but they're still coming to us saying, you guys are the gold standard in safety, we'd really like to look at.
+
+00:14:36.000 --> 00:14:43.000
+Eric Severson: doing that. We really don't enjoy registering students, putting them through this. They're using the facilities of these locations.
+
+00:14:43.000 --> 00:14:50.000
+Eric Severson: And so it's interesting, I mean, we may end up right back at that same location of somebody at CSU saying, this is not our niche.
+
+00:14:50.000 --> 00:14:56.000
+Eric Severson: But… things do change, and I think it's a… the way that I want to…
+
+00:14:56.000 --> 00:15:05.000
+Eric Severson: pursue this is this is a direct connection to workforce development and employer response to employer demand.
+
+00:15:06.000 --> 00:15:12.000
+Eric Severson: That's not a niche we should ignore, honestly. If you want to ignore that, that's a profound statement.
+
+00:15:12.000 --> 00:15:19.000
+Eric Severson: Uh, at this juncture in the world. I don't think they're going to say we want to ignore that.
+
+00:15:19.000 --> 00:15:26.000
+Eric Severson: What we're gonna do is put together some, uh, some financials to show how this thing might work.
+
+00:15:26.000 --> 00:15:32.000
+Eric Severson: And it all rolls back to just a curiosity about… I'm sorry, what was the company's name?
+
+00:15:32.000 --> 00:15:34.000
+Jim.Forsythe: Novellas.
+
+00:15:33.000 --> 00:15:35.000
+Tony Atchley: Novellas.
+
+00:15:33.000 --> 00:15:42.000
+Eric Severson: Novellas, just a curiosity about their staffing plan, the confidence that they're going to find that locally, their past experiences.
+
+00:15:42.000 --> 00:15:51.000
+Eric Severson: with the bishop states and the community colleges. I don't think it's a mutually exclusive option. I think what we're talking about might be complementary.
+
+00:15:51.000 --> 00:15:57.000
+Eric Severson: To those other providers in a way that is maybe faster.
+
+00:15:57.000 --> 00:16:03.000
+Eric Severson: Uh, and in a way that is gonna tap potential outside of that local community area.
+
+00:16:03.000 --> 00:16:06.000
+Eric Severson: So, Jim will keep me… yep.
+
+00:16:03.000 --> 00:16:09.000
+Jim.Forsythe: Eric, just as a… just as a piece of information, they recruit nationally now.
+
+00:16:09.000 --> 00:16:11.000
+Eric Severson: Who?
+
+00:16:10.000 --> 00:16:11.000
+Jim.Forsythe: Novellas.
+
+00:16:11.000 --> 00:16:14.000
+Eric Severson: For qualified candidates, right?
+
+00:16:13.000 --> 00:16:19.000
+Jim.Forsythe: Yes. Yeah, they recruit… they have a whole national recruiting thing to bring people in, and…
+
+00:16:14.000 --> 00:16:16.000
+Eric Severson: So, this model…
+
+00:16:19.000 --> 00:16:24.000
+Jim.Forsythe: Which is maybe different than what you're talking about, which, I mean, it is different, but I'm just saying that, you know.
+
+00:16:24.000 --> 00:16:36.000
+Jim.Forsythe: they've done this before, and I know they have a strong recruiting arm. I've met several of their people. I've met folks from Ohio that have moved here to take roles with them, and.
+
+00:16:36.000 --> 00:16:45.000
+Eric Severson: Yeah, so the difference there is CTR experienced exactly the same thing. CTR is a commercial recruiting company. That's what they do, and then they provide the staffing.
+
+00:16:36.000 --> 00:16:38.000
+Jim.Forsythe: So…
+
+00:16:45.000 --> 00:16:54.000
+Eric Severson: And in particular, in the shipbuilding industry, and maybe it doesn't apply to novellas because of the geography and the location and all that stuff.
+
+00:16:54.000 --> 00:17:01.000
+Eric Severson: But in shipbuilding, they were unable as a professional recruiting agency to find enough qualified candidates.
+
+00:17:01.000 --> 00:17:08.000
+Eric Severson: frankly, anywhere, uh, relocation or local. And that's when they started developing this, this model.
+
+00:17:08.000 --> 00:17:22.000
+Eric Severson: Of recruiting high potential, but unskilled, giving them this 10-week training program, and then moving them directly into those entry-level labor jobs, like welder, ship fitter, that kind of stuff.
+
+00:17:22.000 --> 00:17:29.000
+Eric Severson: And so the, the question would just simply be back to your contact at Novellus is.
+
+00:17:29.000 --> 00:17:38.000
+Eric Severson: how are you feeling about your staffing plan? You know, is there anything… do you think you're going to be able to find enough qualified people on your timelines?
+
+00:17:38.000 --> 00:17:47.000
+Eric Severson: And if they say, yep, then the only other potential thing to throw in there is we're working with other partners on this new innovative model.
+
+00:17:47.000 --> 00:17:52.000
+Eric Severson: Uh, that if you get… if you're interested, we'd be delighted to sit down and talk with you more about it.
+
+00:17:52.000 --> 00:17:55.000
+Eric Severson: And again, it's, uh… the reason I'm…
+
+00:17:56.000 --> 00:18:06.000
+Eric Severson: curious about this is Signal Mutual and CTR have already been doing it in the shipbuilding industry, ADTC is doing it in the automotive industry, in the field service technician industry, and in the.
+
+00:18:06.000 --> 00:18:09.000
+Eric Severson: HVAC industry.
+
+00:18:09.000 --> 00:18:12.000
+Eric Severson: And that it is…
+
+00:18:12.000 --> 00:18:23.000
+Eric Severson: There isn't enough qualified labor for these roles, and so they're going to not qualified labor, high potential labor that they can skill up in a short amount of time.
+
+00:18:23.000 --> 00:18:32.000
+Eric Severson: to move into that, those entry-level labor jobs. If that doesn't apply to novellas, that's cool, but that, as you were talking about that, I thought, wow, what a great opportunity.
+
+00:18:32.000 --> 00:18:44.000
+Eric Severson: to add a new twist to the conversation, where CSU is not traditionally played here, and we don't have the approval to this week we're going to meet with CE. I think this starts as a.
+
+00:18:44.000 --> 00:18:48.000
+Eric Severson: CE program, and then maybe, you know, depending on.
+
+00:18:48.000 --> 00:18:58.000
+Eric Severson: where it goes after that. But it's a whole new revenue source for CSU, and it solves a problem that, again, we see in 3 distinct.
+
+00:18:58.000 --> 00:19:05.000
+Eric Severson: places, if not more, with companies that are already out there doing it, they're coming to PSU because they're interested in scale.
+
+00:19:05.000 --> 00:19:14.000
+Eric Severson: How do we get out from underneath the online delivery piece? They're doing it in person, and there's a bunch of different problems with that, but being able to scale that.
+
+00:19:14.000 --> 00:19:16.000
+Eric Severson: Is what they're curious about, so…
+
+00:19:16.000 --> 00:19:23.000
+Eric Severson: So we'll keep you informed, Jim, if that gives you one more thing to talk about with novella's Cool, if it doesn't work out, then, you know, hey.
+
+00:19:23.000 --> 00:19:26.000
+Eric Severson: it may not be a niche that CSU wants to play in, so…
+
+00:19:23.000 --> 00:19:25.000
+Jim.Forsythe: Okay.
+
+00:19:27.000 --> 00:19:30.000
+Eric Severson: Uh, is there anything you need help with this week, Jim?
+
+00:19:30.000 --> 00:19:32.000
+Jim.Forsythe: Uh, no.
+
+00:19:32.000 --> 00:19:42.000
+Eric Severson: that marketing piece that, uh, that you fulfilled the request for, how do you get feedback on what's happening after you put a request in like that?
+
+00:19:42.000 --> 00:19:44.000
+Jim.Forsythe: I call them.
+
+00:19:45.000 --> 00:19:50.000
+Eric Severson: And how often… is there a delivery date, a need-by date, that we put in those things?
+
+00:19:50.000 --> 00:19:58.000
+Jim.Forsythe: Uh, the last thing I got was that they were looking at, rather than doing a brochure or anything like that, they were looking at doing.
+
+00:19:58.000 --> 00:20:01.000
+Jim.Forsythe: One of our tabletop pull-ups.
+
+00:20:01.000 --> 00:20:13.000
+Jim.Forsythe: that I could take with me, and they could get that done in a couple of weeks. And quite frankly, I don't care what they give me, as long as it says something on there about partnered with U.S. Space Command.
+
+00:20:01.000 --> 00:20:04.000
+Eric Severson: Uh-huh. Yep.
+
+00:20:13.000 --> 00:20:15.000
+Eric Severson: Yep.
+
+00:20:14.000 --> 00:20:21.000
+Jim.Forsythe: If I just get a sheet of paper that says, CSU is partnered with U.S. Space Command, I can take it from there. That's all I want on there.
+
+00:20:21.000 --> 00:20:27.000
+Jim.Forsythe: Uh, so they're working on that. Uh, Mike wanted to make sure that.
+
+00:20:27.000 --> 00:20:41.000
+Jim.Forsythe: that was okay to say. But, you know, and I don't know what MOU… you know, Mike and Joanne worked on this MOU with U.S. Space Command. They had all those contacts, so I don't know what document they signed.
+
+00:20:41.000 --> 00:20:43.000
+Eric Severson: Sure.
+
+00:20:41.000 --> 00:20:46.000
+Jim.Forsythe: But most of our MOUs have a place on there where they authorize us using their.
+
+00:20:45.000 --> 00:20:47.000
+Eric Severson: Yep.
+
+00:20:46.000 --> 00:20:52.000
+Jim.Forsythe: logo, or whatever. Now, I don't know if they maybe didn't authorize it, but…
+
+00:20:52.000 --> 00:20:59.000
+Jim.Forsythe: Mike has that MOU, so I've asked him to review that, and look at that, and see if there's any option, or…
+
+00:20:59.000 --> 00:21:08.000
+Jim.Forsythe: Because if we're gonna go to these space programs, my gosh, I mean, we need something like that for credibility right off the bat, I think.
+
+00:21:08.000 --> 00:21:14.000
+Eric Severson: Yeah, totally agree, totally agree. And so, do you get to look at it before they put it into production, or how does that typically work?
+
+00:21:15.000 --> 00:21:20.000
+Jim.Forsythe: Uh, sometimes yes, mostly no.
+
+00:21:20.000 --> 00:21:28.000
+Eric Severson: And so, the issue of the logos, I would assume that it should be okay, because our logo is on their site, listed as a partner, right?
+
+00:21:28.000 --> 00:21:30.000
+Jim.Forsythe: Mm-hmm, mhm.
+
+00:21:29.000 --> 00:21:33.000
+Eric Severson: Uh, how do you make sure that that happens?
+
+00:21:33.000 --> 00:21:38.000
+Eric Severson: You just send them a note saying, hey, the logo is important, can you let me know if this is gonna happen?
+
+00:21:37.000 --> 00:21:42.000
+Jim.Forsythe: Yeah, I've been doing that. There's been a whole chain of emails about that, yeah.
+
+00:21:39.000 --> 00:21:41.000
+Eric Severson: Okay, okay.
+
+00:21:41.000 --> 00:21:44.000
+Eric Severson: Okay, okay. And is it…
+
+00:21:43.000 --> 00:21:47.000
+Jim.Forsythe: Were you copied on those, Tony? I don't know. I don't remember who's on them.
+
+00:21:46.000 --> 00:21:49.000
+Tony Atchley: No, no, I wasn't copied on.
+
+00:21:47.000 --> 00:21:51.000
+Jim.Forsythe: A lot of people… there's a lot of people on it.
+
+00:21:51.000 --> 00:22:00.000
+Eric Severson: Yep. Uh, I would love to see those, only because I'm thinking about marketing process, marketing approval process, especially as it goes to landing pages.
+
+00:21:56.000 --> 00:21:58.000
+Jim.Forsythe: Yeah.
+
+00:22:00.000 --> 00:22:02.000
+Jim.Forsythe: Well…
+
+00:22:00.000 --> 00:22:04.000
+Eric Severson: And other assets, just to get a handle on it myself.
+
+00:22:03.000 --> 00:22:08.000
+Jim.Forsythe: here's… here's where it's at. It's with, uh, Lucinda in the marketing department.
+
+00:22:08.000 --> 00:22:21.000
+Jim.Forsythe: And she works with academics, and the reason for that, and I'm just going by what I've been told and what people want me to do, is that the content for our brochures and our flyers all come out of academics.
+
+00:22:22.000 --> 00:22:24.000
+Eric Severson: Yep.
+
+00:22:22.000 --> 00:22:25.000
+Jim.Forsythe: So, they designed…
+
+00:22:25.000 --> 00:22:34.000
+Jim.Forsythe: the brochures that we have, the flyers, and the content of all of that. So, rather than going through our marketing folks.
+
+00:22:34.000 --> 00:22:43.000
+Jim.Forsythe: when I say are, I mean the people who work with outreach and that. Lucinda is a resource for academics, so it's kind of going through.
+
+00:22:43.000 --> 00:22:48.000
+Jim.Forsythe: They all report up through Dale, but I mean, it's kind of going through that…
+
+00:22:48.000 --> 00:22:53.000
+Eric Severson: So, Lucinda gets all the content from a subject matter expert in academics?
+
+00:22:48.000 --> 00:22:50.000
+Jim.Forsythe: Channel.
+
+00:22:53.000 --> 00:22:57.000
+Jim.Forsythe: Correct. Is that your understanding, Tony?
+
+00:22:54.000 --> 00:22:56.000
+Eric Severson: Okay, and then who thinks about…
+
+00:22:56.000 --> 00:23:00.000
+Eric Severson: Who thinks about the persuasive aspect of how to present that?
+
+00:23:00.000 --> 00:23:10.000
+Tony Atchley: Yeah, yeah. It would always be good to, you know, have a review step that kind of circulates it back through for, you know, feedback.
+
+00:23:00.000 --> 00:23:03.000
+Jim.Forsythe: Me. I push it.
+
+00:23:10.000 --> 00:23:17.000
+Tony Atchley: Uh… you obviously don't want to slow the process down, but, you know, at the same time, um…
+
+00:23:17.000 --> 00:23:27.000
+Tony Atchley: don't want to get it and say, I wish we had done it this way, you know, kind of thing. But Lucinda, uh, Lucinda's kind of a new cog in the wheel.
+
+00:23:27.000 --> 00:23:34.000
+Tony Atchley: uh, so to speak, they… academics hasn't always had that resource, so I think they…
+
+00:23:34.000 --> 00:23:38.000
+Tony Atchley: Recently put her in place within the last year.
+
+00:23:35.000 --> 00:23:40.000
+Eric Severson: Oh, yeah, yeah, yeah, I've heard about this. And is she part of academics, or is she part of marketing?
+
+00:23:40.000 --> 00:23:43.000
+Eric Severson: Does she report to academics or marketing? Anybody know?
+
+00:23:42.000 --> 00:23:51.000
+Tony Atchley: I think she reports to marketing, but, um, but there's dot line… there's dot line some direction, I don't know which.
+
+00:23:44.000 --> 00:23:46.000
+Eric Severson: Okay.
+
+00:23:46.000 --> 00:23:49.000
+Jim.Forsythe: Kind of a dotted line to…
+
+00:23:51.000 --> 00:23:53.000
+Tony Atchley: Yeah.
+
+00:23:51.000 --> 00:24:01.000
+Eric Severson: And guys, I put a headcount in the budget that did not get approved for marketing head for Caroline, and I'm continuing to tell or suggest to Caroline that the.
+
+00:24:03.000 --> 00:24:15.000
+Eric Severson: the way that we do marketing here feels very parochial. I've come from very large organizations, and it is faster and easier to get stuff done than it seems to be here, and so it definitely.
+
+00:24:15.000 --> 00:24:22.000
+Eric Severson: Don't see anybody working with a B2B focus on marketing, and I'm continuing to advocate for, how do we do two things?
+
+00:24:23.000 --> 00:24:30.000
+Eric Severson: AI absolutely should be used for making this a more seamless process.
+
+00:24:30.000 --> 00:24:36.000
+Eric Severson: Uh, over the weekend, I built landing page generators that I'll show you guys. I know Sherry spent 6 weeks.
+
+00:24:36.000 --> 00:24:41.000
+Eric Severson: Struggling and arguing with Brittany over getting a basic landing page done.
+
+00:24:41.000 --> 00:24:47.000
+Eric Severson: And there's no reason for that, absolutely no reason for that, so finding a way to.
+
+00:24:48.000 --> 00:24:55.000
+Eric Severson: Maybe help educate people about how we deal with these workflows so that they're not so frustrating, they're not so bureaucratic.
+
+00:24:55.000 --> 00:25:02.000
+Eric Severson: And so that you do have academics involved, but you have somebody that looks at it from a persuasive perspective as well, saying.
+
+00:25:02.000 --> 00:25:13.000
+Eric Severson: Will this thing meet the objectives of the promotion that we're intending it for? Uh, if that's marketing, great, but at some point, that should be the people that are sitting there making the magic happen.
+
+00:25:13.000 --> 00:25:18.000
+Eric Severson: That's you guys, right? And so I'm super curious about the process and the workflow.
+
+00:25:18.000 --> 00:25:25.000
+Eric Severson: Uh, because I think it's an area for CSU to really review and to improve.
+
+00:25:25.000 --> 00:25:31.000
+Eric Severson: Uh, and that's why, if you think I'm lost in the weeds in this stuff, that's across the board, I'm looking at.
+
+00:25:31.000 --> 00:25:39.000
+Eric Severson: How do we go faster in 2026? And marketing comes up, like, over and over and over again.
+
+00:25:39.000 --> 00:25:44.000
+Eric Severson: 6 weeks for one, 200,000 member, uh…
+
+00:25:44.000 --> 00:25:49.000
+Eric Severson: partnership through the American Nursing Association for one.
+
+00:25:49.000 --> 00:25:56.000
+Eric Severson: landing page is ridiculous. I mean, we're never going to grow effectively if that's the pace.
+
+00:25:56.000 --> 00:26:01.000
+Eric Severson: That we can… we have to take with this stuff. And so, not being critical, just…
+
+00:25:59.000 --> 00:26:04.000
+Jim.Forsythe: By the way, I just forward you an email of those conversations… some of those conversations.
+
+00:26:02.000 --> 00:26:05.000
+Eric Severson: Perfect. Perfect. Thank you.
+
+00:26:05.000 --> 00:26:08.000
+Eric Severson: Okay. Uh, Jim, are you using AI this week?
+
+00:26:09.000 --> 00:26:11.000
+Jim.Forsythe: Uh, what is it again?
+
+00:26:11.000 --> 00:26:13.000
+Eric Severson: How are you using AI this week?
+
+00:26:13.000 --> 00:26:15.000
+Jim.Forsythe: What, what, what is it again?
+
+00:26:15.000 --> 00:26:19.000
+Eric Severson: At some point…
+
+00:26:17.000 --> 00:26:19.000
+Duane Brown: Artificial intelligence.
+
+00:26:19.000 --> 00:26:26.000
+Eric Severson: At some point, if there's anything I could do to help you with AI, you can count on my enthusiastic support of it, right? So…
+
+00:26:25.000 --> 00:26:34.000
+Jim.Forsythe: Okay. Well, I'll tell you what, I do have… I do have a lot of artificial intelligence, but uh… no, I…
+
+00:26:26.000 --> 00:26:28.000
+Eric Severson: Okay.
+
+00:26:35.000 --> 00:26:43.000
+Jim.Forsythe: Uh, but just to update you real quick on a couple of things, uh, we had… and this isn't this week, but there's a lot of.
+
+00:26:44.000 --> 00:26:57.000
+Jim.Forsythe: catch up to do this next week. But, you know, we've been working with Space Florida, uh, and we've made some good contacts there. They're hosting a space day, don't have the exact date yet, so I gotta get that clarified this week.
+
+00:26:46.000 --> 00:26:48.000
+Eric Severson: Yeah.
+
+00:26:57.000 --> 00:27:07.000
+Jim.Forsythe: get that all set up. Mike is going to be working with Matt Chestnut, who is the Director of Business Development for Space Florida.
+
+00:27:07.000 --> 00:27:18.000
+Jim.Forsythe: is based out of Titusville, so we kind of divided up. Mike wants to work directly with him, go to maybe some of their events that they have locally. Uh, I've been working with Melissa Stoker.
+
+00:27:18.000 --> 00:27:25.000
+Jim.Forsythe: And Eric, I think you were on that call, but she's a local rep for the Northwest County. Well, she's just been promoted.
+
+00:27:25.000 --> 00:27:36.000
+Jim.Forsythe: to all of the regional reps in the state report to her now, and she reports, so they… and I gotta follow up, because just before Christmas, they were down for a…
+
+00:27:36.000 --> 00:27:44.000
+Jim.Forsythe: A state meeting in their headquarters, and she was presenting all of our information to all of the regional reps.
+
+00:27:44.000 --> 00:27:51.000
+Jim.Forsythe: to promote it and get it out there. So… I'm gonna work with her, Mike's gonna work with Matt.
+
+00:27:51.000 --> 00:27:56.000
+Jim.Forsythe: Uh, we also had a follow-up ULA launch.
+
+00:27:56.000 --> 00:28:03.000
+Jim.Forsythe: Uh, which builds all the fuselages, and they build all the missiles, they work with everybody. Blue Horizon, all of that.
+
+00:28:03.000 --> 00:28:12.000
+Jim.Forsythe: Uh, so we're moving forward with that. Uh, Heather Wilson, who is their chief liaison and.
+
+00:28:12.000 --> 00:28:18.000
+Jim.Forsythe: Community person who's just been elected to the Board of Manufacture Alabama. I'll see her next week.
+
+00:28:18.000 --> 00:28:25.000
+Jim.Forsythe: Uh, she's also been elected to the board of the Huntsville Chamber, so that's a great contact we have there. She's.
+
+00:28:25.000 --> 00:28:32.000
+Jim.Forsythe: she… Mike and I had a conference call with her recently, and she's very receptive, very open.
+
+00:28:33.000 --> 00:28:40.000
+Jim.Forsythe: Uh, we're also working closely with NextOps, and again, it's going back to marketing. Are you familiar with NextOps?
+
+00:28:41.000 --> 00:28:43.000
+Eric Severson: Nope.
+
+00:28:41.000 --> 00:28:47.000
+Jim.Forsythe: Okay, Mike Perry thought this was a great organization for us to get tied in with, but they work with veterans.
+
+00:28:48.000 --> 00:28:56.000
+Jim.Forsythe: Next opportunity, think of it that way, and preparing them for future careers as they transition out of the military. They're nationwide.
+
+00:28:56.000 --> 00:29:06.000
+Jim.Forsythe: Uh, we have a great contact here for the state of Alabama, and their office in Alabama is actually based in the Chamber, uh, Huntsville Chamber headquarters building.
+
+00:29:06.000 --> 00:29:15.000
+Jim.Forsythe: separate operation there, but they want to promote us more. So, we had a conference call with Maddie Zimmerman, who is their marketing person.
+
+00:29:15.000 --> 00:29:21.000
+Jim.Forsythe: And after a lot of discussion, it ended up where she's going to work directly with Wendy.
+
+00:29:21.000 --> 00:29:28.000
+Jim.Forsythe: Uh, and this is… this is not a criticism, but an example of what you were talking about, Eric.
+
+00:29:28.000 --> 00:29:40.000
+Jim.Forsythe: I was trying to get some promotional materials for Next Stop for them to take and promote and utilize with their membership and so forth, and promote this space operations program.
+
+00:29:41.000 --> 00:29:46.000
+Jim.Forsythe: And the initial email I got back was a link to our, uh…
+
+00:29:48.000 --> 00:29:53.000
+Jim.Forsythe: our page where we can order brochures and flyers, saying, Jim, just go to here and we can.
+
+00:29:53.000 --> 00:29:57.000
+Jim.Forsythe: You can order whatever you want that's on the web page.
+
+00:29:59.000 --> 00:30:01.000
+Eric Severson: Yeah.
+
+00:30:00.000 --> 00:30:05.000
+Jim.Forsythe: So, I thought, well, I know about that, I have that, that's not really what I was looking for.
+
+00:30:05.000 --> 00:30:12.000
+Jim.Forsythe: Uh, so Janelle has taken that on also to come up with a flyer for us.
+
+00:30:12.000 --> 00:30:15.000
+Jim.Forsythe: Uh, and a story, because…
+
+00:30:16.000 --> 00:30:21.000
+Jim.Forsythe: I think we can get with all of the chambers, uh, the big ones, Huntsville, Montgomery.
+
+00:30:22.000 --> 00:30:29.000
+Jim.Forsythe: Uh, Mobile, they're all willing to do not… not a press release, but actually a story for us.
+
+00:30:29.000 --> 00:30:32.000
+Jim.Forsythe: Uh, if we write it and give it to them, at no cost.
+
+00:30:33.000 --> 00:30:35.000
+Eric Severson: And what's the story…
+
+00:30:35.000 --> 00:30:37.000
+Eric Severson: What's the story about?
+
+00:30:37.000 --> 00:30:44.000
+Jim.Forsythe: The story is basically going to be about our new program, and what it has to offer, and how it's on the cutting edge.
+
+00:30:44.000 --> 00:30:50.000
+Jim.Forsythe: building up CSUs, being on the cutting edge of developing this, and what the careers lead to.
+
+00:30:51.000 --> 00:30:55.000
+Jim.Forsythe: For them to publish it and show that it's something new and exciting.
+
+00:30:55.000 --> 00:31:04.000
+Eric Severson: Okay, and so Janelle goes to where for that? Why does… again, I… sorry, that feels like ultimately a marketing content piece.
+
+00:31:05.000 --> 00:31:09.000
+Eric Severson: And it has to come out of academics, because they're the subject matter experts on this.
+
+00:31:09.000 --> 00:31:12.000
+Jim.Forsythe: Uh, that's your pay grade and not mine.
+
+00:31:11.000 --> 00:31:15.000
+Eric Severson: Okay. Okay. Alright.
+
+00:31:15.000 --> 00:31:21.000
+Eric Severson: Uh, well, let's keep moving on, because we're at time already. So, Duane, what do you got for focus this week?
+
+00:31:16.000 --> 00:31:18.000
+Tony Atchley: Okay.
+
+00:31:21.000 --> 00:31:30.000
+Duane Brown: Uh, finishing up, um, the Epley stuff this morning. I started that Friday, getting that renewed. Um, and then the email I sent you, Eric.
+
+00:31:30.000 --> 00:31:32.000
+Eric Severson: Yep.
+
+00:31:30.000 --> 00:31:36.000
+Duane Brown: Uh, last week was pertaining to the, uh, all the landing page information that we met about.
+
+00:31:36.000 --> 00:31:38.000
+Eric Severson: Yep.
+
+00:31:36.000 --> 00:31:42.000
+Duane Brown: Um, the week you were here. Um, sending that over so I can input that and start getting working on that.
+
+00:31:42.000 --> 00:31:45.000
+Duane Brown: Um, and throwing some stuff out.
+
+00:31:43.000 --> 00:31:50.000
+Eric Severson: let's… let me… let me ask you to do one thing, uh, in addition to that. Maybe you were already planning on it, but it's the…
+
+00:31:50.000 --> 00:31:58.000
+Eric Severson: Next week, we're together, and I'd like it if you'd come, Duane, and present the benefit strategy.
+
+00:31:53.000 --> 00:31:55.000
+Duane Brown: Mm-hmm.
+
+00:31:57.000 --> 00:31:59.000
+Duane Brown: Yes, the PowerPoint.
+
+00:31:58.000 --> 00:32:05.000
+Eric Severson: I think the benefit… the benefit company strategy, there's one document that had 3 points in it, and I think I called it the…
+
+00:32:01.000 --> 00:32:03.000
+Duane Brown: Mm-hmm.
+
+00:32:06.000 --> 00:32:09.000
+Eric Severson: Uh, meeting outcomes, or something like that.
+
+00:32:08.000 --> 00:32:10.000
+Duane Brown: Yeah, you sent that to Tony and I.
+
+00:32:10.000 --> 00:32:15.000
+Eric Severson: Yeah, that… I think that's all we need to talk about, and then, you know, to say…
+
+00:32:10.000 --> 00:32:12.000
+Duane Brown: Yep, yep.
+
+00:32:13.000 --> 00:32:15.000
+Duane Brown: Okay.
+
+00:32:16.000 --> 00:32:23.000
+Eric Severson: Strategy for 26 wraps around those 3 things and, you know, it's maybe.
+
+00:32:23.000 --> 00:32:28.000
+Eric Severson: One or two slides showing, here's what we're gonna do for a quarterly review.
+
+00:32:28.000 --> 00:32:37.000
+Eric Severson: Here's, you know, the points of emphasis, and then you could potentially say, and we're always looking for new, uh, benefit company partners.
+
+00:32:37.000 --> 00:32:39.000
+Duane Brown: Mm-hmm.
+
+00:32:38.000 --> 00:32:45.000
+Eric Severson: So… and then… and then for me, I'd love it if we could get a conversation with Scholarship America going at some point in the next month or two, right?
+
+00:32:44.000 --> 00:32:46.000
+Duane Brown: Okay.
+
+00:32:45.000 --> 00:32:49.000
+Eric Severson: Just the same discovery, what can we do that's different?
+
+00:32:49.000 --> 00:32:51.000
+Duane Brown: Got it.
+
+00:32:50.000 --> 00:32:58.000
+Eric Severson: So, uh, and I'll share with you some of the… certainly the Notebook LM stuff, but some of the other things. Over the weekend, I was just really…
+
+00:32:51.000 --> 00:32:53.000
+Duane Brown: Okay.
+
+00:32:58.000 --> 00:33:05.000
+Eric Severson: plug it away at this… this thing with Sherry in 6 weeks for the American Nursing Association.
+
+00:33:05.000 --> 00:33:10.000
+Eric Severson: Blows me away, and if we're gonna move more nimbly and quickly around.
+
+00:33:10.000 --> 00:33:17.000
+Eric Severson: B2B, one of the premises is we've got to be able to shape that offer around B2B, not around… it's an internally focused.
+
+00:33:17.000 --> 00:33:19.000
+Duane Brown: Hmm.
+
+00:33:18.000 --> 00:33:23.000
+Eric Severson: page, right? Uh, it is ultimately a conversion page for prospects.
+
+00:33:24.000 --> 00:33:29.000
+Eric Severson: But we need to still be able to do things with those pages that.
+
+00:33:29.000 --> 00:33:32.000
+Eric Severson: 6 weeks for one page is insane, so…
+
+00:33:32.000 --> 00:33:37.000
+Duane Brown: Plus, they have all the… I mean, I'm not downing, you know, marketing, but they have.
+
+00:33:37.000 --> 00:33:40.000
+Duane Brown: All these landing pages that have already been created.
+
+00:33:40.000 --> 00:33:42.000
+Duane Brown: And I'll say…
+
+00:33:40.000 --> 00:33:50.000
+Eric Severson: So the thing that I'm curious about there is they're created, but I can't find them on the internet. So I have many mapping services.
+
+00:33:50.000 --> 00:33:51.000
+Duane Brown: Mm-hmm.
+
+00:33:50.000 --> 00:33:57.000
+Eric Severson: that will map out of a comprehensive website, none of those appear. So there's no SEO, there's nothing.
+
+00:33:57.000 --> 00:34:07.000
+Eric Severson: that tells… you have to know the exact URL, or you can't find them. And I probably made Tony crazy going, where the are the landing page list again?
+
+00:34:01.000 --> 00:34:03.000
+Duane Brown: Mm-hmm. Mm-hmm.
+
+00:34:07.000 --> 00:34:14.000
+Eric Severson: And so, just while we're here together, is there a list so that I can see all… what partners have landing pages, what don't?
+
+00:34:14.000 --> 00:34:19.000
+Duane Brown: Um, I mean, I can get the list for our companies for business development.
+
+00:34:19.000 --> 00:34:22.000
+Eric Severson: Yeah. Yeah, yeah.
+
+00:34:19.000 --> 00:34:26.000
+Duane Brown: But as far as… I think it's, uh, isn't it ColumbiaSouthern.com forward slash the company name?
+
+00:34:27.000 --> 00:34:29.000
+Duane Brown: If you put that in… no.
+
+00:34:27.000 --> 00:34:38.000
+Eric Severson: Not always, ANA is sitting in there as American Nursing Association, so you can sit and guess, and is there one for every single learning partner, or only on request?
+
+00:34:32.000 --> 00:34:35.000
+Duane Brown: Gotcha. Right.
+
+00:34:39.000 --> 00:34:41.000
+Tony Atchley: Only on request. Yeah.
+
+00:34:39.000 --> 00:34:43.000
+Duane Brown: I think only on request, yeah. Yeah, for the learning partner side, yeah.
+
+00:34:40.000 --> 00:34:50.000
+Eric Severson: Okay. I just want to see a full inventory of where are they, and usually I could find this stuff without having to go ask somebody, but it also means.
+
+00:34:45.000 --> 00:34:47.000
+Duane Brown: Right.
+
+00:34:50.000 --> 00:35:03.000
+Eric Severson: no one else can find those things. So why is that? Why would we want to keep them a secret, exactly? Uh, and so there's just a whole raft of marketing issues that I'm starting to get curious about.
+
+00:34:52.000 --> 00:34:54.000
+Duane Brown: Right.
+
+00:35:03.000 --> 00:35:12.000
+Eric Severson: But it would really help me if you have a list of those, or can get a list of all of our learning partner landing pages, that would be outstanding, because again, it's not easy, I haven't been able to figure it out.
+
+00:35:07.000 --> 00:35:09.000
+Duane Brown: Mm-hmm.
+
+00:35:09.000 --> 00:35:11.000
+Duane Brown: Okay.
+
+00:35:12.000 --> 00:35:14.000
+Duane Brown: Okay. Got it.
+
+00:35:13.000 --> 00:35:16.000
+Eric Severson: So… Tony, what you got for focus this week?
+
+00:35:14.000 --> 00:35:27.000
+Tony Atchley: Yeah, I think, you know, so to kind of wrap a number of different conversations here this morning, uh, the landing page piece, um, and the isolation of that, I think, has been.
+
+00:35:27.000 --> 00:35:34.000
+Tony Atchley: Um, you know, the, um, visibility of those has always been…
+
+00:35:34.000 --> 00:35:36.000
+Tony Atchley: kind of, um…
+
+00:35:36.000 --> 00:35:50.000
+Tony Atchley: account team giving that to a Signal Mutual, for instance, and having them repurpose that in their world. Um, so, you know, kind of a focused use of that landing page, as opposed to.
+
+00:35:50.000 --> 00:36:00.000
+Tony Atchley: you know, a broad… a broader reach, a more of an industry reach. So, maybe something that we, you know, definitely want to look into in the future, but.
+
+00:36:00.000 --> 00:36:06.000
+Tony Atchley: you know, um, the landing page piece, I think, has got to get back to more of a customized.
+
+00:36:06.000 --> 00:36:13.000
+Tony Atchley: You know, type of approach, and we've got to have some parameters from which we can build around.
+
+00:36:13.000 --> 00:36:21.000
+Tony Atchley: Some, uh, additional tools that are built into it, uh, just things that really get into that persuasive.
+
+00:36:21.000 --> 00:36:28.000
+Tony Atchley: Uh, kind of mindset with it, as opposed to it being, you know, just a static place to go, you know, for navigation.
+
+00:36:28.000 --> 00:36:30.000
+Tony Atchley: So…
+
+00:36:28.000 --> 00:36:33.000
+Eric Severson: And who… is it Brittany Armistead that builds these things? Who builds these things?
+
+00:36:32.000 --> 00:36:43.000
+Tony Atchley: Uh, it's, uh, under her team, you know, yeah, but they've really, truly, it's been a template, you know, so all they do each time there's a request.
+
+00:36:37.000 --> 00:36:39.000
+Duane Brown: Mm-hmm.
+
+00:36:44.000 --> 00:36:58.000
+Tony Atchley: it's basically a name change, uh, establishing a URL, uh, maybe some tracking, uh, things that go into it behind the scenes, but other than that, there's no customization that goes into each of them whatsoever. You know, that's all been.
+
+00:36:58.000 --> 00:37:00.000
+Eric Severson: No.
+
+00:36:59.000 --> 00:37:01.000
+Tony Atchley: Established.
+
+00:36:59.000 --> 00:37:05.000
+Duane Brown: Unless we ask, like, with Epley, you know, the nursing, I mean, it's not… it's still basic.
+
+00:37:05.000 --> 00:37:09.000
+Duane Brown: But it's… the verbiage has changed, basically. Yeah, yeah.
+
+00:37:07.000 --> 00:37:09.000
+Tony Atchley: Yeah. Yeah.
+
+00:37:08.000 --> 00:37:12.000
+Eric Severson: And when did that happen? Did that happen recently?
+
+00:37:12.000 --> 00:37:15.000
+Eric Severson: Dwayne? With that, please? Last year.
+
+00:37:12.000 --> 00:37:18.000
+Duane Brown: Oh, last year… no, last year, we did that with that leaf, with… we changed the verbiage for the nursing.
+
+00:37:18.000 --> 00:37:23.000
+Duane Brown: Uh, partners that Atlay deals with. So it was more of a nursing, yeah.
+
+00:37:21.000 --> 00:37:31.000
+Eric Severson: Yeah, so… I think the landing page strategy for 2026 is exactly the same as the strategy that we use with the benefit companies, right? It's those 3 things.
+
+00:37:31.000 --> 00:37:38.000
+Eric Severson: differentiation, segmentation, and tracking. Uh, and really, the reason I'm after a list is I want to give.
+
+00:37:38.000 --> 00:37:43.000
+Eric Severson: I want to make a request of Dale to see the click traffic on these.
+
+00:37:43.000 --> 00:37:46.000
+Eric Severson: pages. And then, again, I want to.
+
+00:37:46.000 --> 00:37:53.000
+Eric Severson: gently open up a conversation about, why are these things orphaned pages? Why… shouldn't we have these discoverable by.
+
+00:37:54.000 --> 00:38:00.000
+Eric Severson: the world, right? Uh, I mean, so what if a non-Signal Mutual member finds the Signal Mutual.
+
+00:38:00.000 --> 00:38:07.000
+Eric Severson: partner page, it may drive interest anyway, right? Especially if we're highlighting.
+
+00:38:07.000 --> 00:38:13.000
+Eric Severson: The four maritime safety courses, and how that fits in, and what's in those courses, and…
+
+00:38:13.000 --> 00:38:20.000
+Eric Severson: Why you might want to be interested in taking that stuff. And I don't think we want to do this as a.
+
+00:38:20.000 --> 00:38:26.000
+Eric Severson: one-off, right? It needs to be more of a living thing, and again, for me, without getting off track.
+
+00:38:26.000 --> 00:38:39.000
+Eric Severson: AI enables so much of this right now. I'm curious to see, is this a policy problem? Is this a tools and awareness problem over in marketing? Or how can I help you guys understand.
+
+00:38:40.000 --> 00:38:41.000
+Eric Severson: you know…
+
+00:38:42.000 --> 00:38:49.000
+Eric Severson: It's not just busy work. We can find a way to, you know, level up the effort here so that you're not.
+
+00:38:50.000 --> 00:38:52.000
+Eric Severson: Constantly having to do…
+
+00:38:52.000 --> 00:38:54.000
+Eric Severson: The burden of, you know.
+
+00:38:53.000 --> 00:38:55.000
+Tony Atchley: Yep.
+
+00:38:54.000 --> 00:38:56.000
+Eric Severson: Landing page tweaks.
+
+00:38:57.000 --> 00:39:08.000
+Tony Atchley: I think the other thing that, you know, we come back to is, uh, you know, the need for the launch kit. Um, you know, and I keep calling it a launch kit, but back to the space ops, you know.
+
+00:39:04.000 --> 00:39:06.000
+Eric Severson: Yeah.
+
+00:39:08.000 --> 00:39:16.000
+Tony Atchley: We should not be at this point, you know, with that program, and again, it's much like Signal Mutual, where.
+
+00:39:16.000 --> 00:39:27.000
+Tony Atchley: You know, we've, um, we don't have a out-front opportunity to really begin to build the story, build the, um, the promotion of it.
+
+00:39:27.000 --> 00:39:42.000
+Tony Atchley: And now, we're all scrambling, you know, after the fact, um, chamber, you know, type opportunities that are here, and we don't have the collateral and the means, you know, to get out there and really start.
+
+00:39:42.000 --> 00:39:44.000
+Tony Atchley: Um…
+
+00:39:44.000 --> 00:39:46.000
+Eric Severson: Yeah, totally agree.
+
+00:39:44.000 --> 00:39:47.000
+Tony Atchley: You know, evangelizing it, so, yep.
+
+00:39:46.000 --> 00:39:51.000
+Eric Severson: Totally agree. Later today, I'm having a meeting with Sherry to go over.
+
+00:39:51.000 --> 00:39:59.000
+Eric Severson: the space ops plan. Jim, I'm going to add you to that, if you can join. It's an opportunity just to listen, because I'm still trying to figure out.
+
+00:39:59.000 --> 00:40:04.000
+Eric Severson: Um, how to bring a little bit more…
+
+00:40:02.000 --> 00:40:06.000
+Jim.Forsythe: Who's doing… Eric, who's doing the space ops plan?
+
+00:40:06.000 --> 00:40:09.000
+Eric Severson: Sherry, so this is the problem right now.
+
+00:40:07.000 --> 00:40:10.000
+Jim.Forsythe: What are they doing? I don't know anything about it.
+
+00:40:09.000 --> 00:40:18.000
+Eric Severson: No, neither do I. This is part of the… this is part of the challenge at CSU right now, is everybody's doing everything around certain programs.
+
+00:40:18.000 --> 00:40:24.000
+Eric Severson: And there's no checklist, there's no formal list of organization, there's none of that stuff. And so, that…
+
+00:40:24.000 --> 00:40:31.000
+Eric Severson: does not make my OCD, you know, nerve happy, and so the… I'm trying to figure out.
+
+00:40:32.000 --> 00:40:42.000
+Eric Severson: what can we own? How can we put together a good plan to follow? It's gotta be simple and a checklist. The thing that I sent out earlier is way too big, I got that, Tony, we've got a.
+
+00:40:42.000 --> 00:40:52.000
+Eric Severson: bang it down into four executable things with checklists and accountabilities. And then we, Jim, we do need to figure out what's our collaboration model with Sherry and team on this.
+
+00:40:52.000 --> 00:41:03.000
+Eric Severson: They're probably just talking about going to conferences, but nonetheless, you shouldn't be in the dark about that. Uh, we… we are… Sherry and I are actively looking at how do we.
+
+00:41:03.000 --> 00:41:12.000
+Eric Severson: Collaborate more effectively, and this is all in that… in the theme of, hey, there's a new program, and it doesn't seem like there's a…
+
+00:41:12.000 --> 00:41:20.000
+Eric Severson: clear doc. If it's not written down, I don't think it's real, guys, and you'll hear this from me over and over again. If there's not a written down plan, it's just.
+
+00:41:20.000 --> 00:41:37.000
+Eric Severson: well-intentioned people doing stuff in the world. That's different than write it down, execute it, check it off, right? And this is one of the areas where a lot of people doing a lot of things, and academics, and business development, and outreach, and I would put it charitably in the.
+
+00:41:37.000 --> 00:41:50.000
+Eric Severson: well-intentioned, but possibly grabastically disorganized state. And so how do we… how do we think about, uh, a level of organization that is warranted, but not stifling?
+
+00:41:50.000 --> 00:42:00.000
+Eric Severson: So then, this is the other thing, and maybe there's a better way to do this, but this makes me crazy of not being able to look at a course and understand when is it offered.
+
+00:42:00.000 --> 00:42:05.000
+Eric Severson: So, we have part of the website, and I scrape stuff off our website all the time.
+
+00:42:05.000 --> 00:42:12.000
+Eric Severson: The only place I've found that shows when a course is offered is a little area on the website that I'm sure nobody goes to.
+
+00:42:12.000 --> 00:42:20.000
+Eric Severson: And so, I did this first for OSH, and you can see… let me make this a tad bigger so you can see what this is.
+
+00:42:20.000 --> 00:42:27.000
+Eric Severson: So your start dates are across the top here. If there's a 1, it means that course is offered during that period of time.
+
+00:42:27.000 --> 00:42:35.000
+Eric Severson: So, OSH12301-2305 offered every single term.
+
+00:42:36.000 --> 00:42:38.000
+Eric Severson: The new course…
+
+00:42:38.000 --> 00:42:45.000
+Eric Severson: was offered, uh, October 1, I don't think anybody's in there. The next offering is January 21st.
+
+00:42:45.000 --> 00:42:55.000
+Eric Severson: Again, this is why, to Tony's point, we should be having a well-organized promotion campaign. I don't really know who's accountable for filling those seats.
+
+00:42:55.000 --> 00:43:01.000
+Eric Severson: And maybe in a purely online school, it's not that big a deal, but my previous experience would be people get fired.
+
+00:43:01.000 --> 00:43:06.000
+Eric Severson: Because you've got classroom space, you've got instructors dedicated, if you come up with a goose egg.
+
+00:43:06.000 --> 00:43:19.000
+Eric Severson: for a course offering date, there was a massive amount of trauma that happened as a result of that. I get it's not the same here, but I also don't feel like there's anybody other than maybe admissions.
+
+00:43:19.000 --> 00:43:28.000
+Eric Severson: Working to try to figure out who do we get into that course right now? The next one is right after that, 218, and then.
+
+00:43:28.000 --> 00:43:34.000
+Eric Severson: There's only one more in 527. So, for the new maritime course sequences.
+
+00:43:35.000 --> 00:43:42.000
+Eric Severson: it's not a… I get now why the urgency is a little lower. We take a very sort of slow approach to building, I guess.
+
+00:43:42.000 --> 00:43:54.000
+Eric Severson: stuff into this, seeds into this. I think there's a promotion opportunity and an organization opportunity. Jim, I'm gonna invite you to this. I just want you to listen to the… it's Sherry's meeting. I'm glad that we're having it.
+
+00:43:54.000 --> 00:43:59.000
+Eric Severson: It's gonna include, you know, I hope, what's the MOU look like, what's the conference schedule look like.
+
+00:43:59.000 --> 00:44:14.000
+Eric Severson: Well, how are we coordinating across all the different parts of the organization? At least it's a start for that. And this, I'm showing you to say, hey, it's not as urgent as I initially thought, because you don't have to fill all these seats, and here's space.
+
+00:44:14.000 --> 00:44:16.000
+Eric Severson: So, Space Ops…
+
+00:44:17.000 --> 00:44:23.000
+Eric Severson: 11.5, I don't think there were very many of anybody that went into Intro to Space Ops.
+
+00:44:23.000 --> 00:44:29.000
+Eric Severson: I don't think it happened on 12-3 either. The next one isn't till 325.
+
+00:44:29.000 --> 00:44:34.000
+Eric Severson: So, if the goal is to butts in seats, essentially, which is, of course, the university's goal.
+
+00:44:34.000 --> 00:44:40.000
+Eric Severson: the next time we have to worry about intro to space operations isn't until March. But, at the same time.
+
+00:44:40.000 --> 00:44:45.000
+Eric Severson: You've got fundamental orbital mechanics, space domain awareness, space policy and governance, space…
+
+00:44:46.000 --> 00:44:53.000
+Eric Severson: Uh, so there's, it's not every, the cadence of offerings is not every single week. I do think that we want to start to invoke.
+
+00:44:53.000 --> 00:45:08.000
+Eric Severson: specific courses and how, when they're offered, that makes it actionable for people, right? The fact that we have a program is swell. What do you do if you want to get into that, or before that? Why would you want to get into that program? What are the jobs?
+
+00:45:08.000 --> 00:45:20.000
+Eric Severson: and the opportunities connected to it, and then at some point, here's the path to doing that. Not just a button on a website that says apply now, but a little bit of information saying, here are the next offerings for this period of time.
+
+00:45:20.000 --> 00:45:29.000
+Eric Severson: So, Tony, this is, I think, something that we need to go back to Signal with and say, okay, what can we do to try to take aim at, uh, you know, 218.
+
+00:45:29.000 --> 00:45:36.000
+Eric Severson: 325, 426, to try to figure out, you know, are we promoting with enough urgency to try to get some.
+
+00:45:36.000 --> 00:45:38.000
+Eric Severson: Some folks to sign up for those things.
+
+00:45:38.000 --> 00:45:40.000
+Tony Atchley: Mm-hmm, mhm.
+
+00:45:40.000 --> 00:45:46.000
+Eric Severson: We're 15 minutes over. Uh, is there anything else, Tony, you want to hit, uh, for focus for the week?
+
+00:45:46.000 --> 00:45:55.000
+Tony Atchley: Uh, no, um, just my, uh, AI opportunity, uh, stems back to, uh, last week. So, quick story, I had…
+
+00:45:55.000 --> 00:46:00.000
+Tony Atchley: Uh, fiber optic cable installed in my neighborhood about 90 days ago.
+
+00:46:01.000 --> 00:46:13.000
+Tony Atchley: Contractor just so happened to cut through my water line in the process of that. They did patch it up, but in the process, on the, uh, service side.
+
+00:46:01.000 --> 00:46:03.000
+Eric Severson: That's a life-changing experience.
+
+00:46:14.000 --> 00:46:17.000
+Tony Atchley: I, uh, have discovered a leak.
+
+00:46:17.000 --> 00:46:27.000
+Tony Atchley: That leak, um, has introduced, um, pressure issues into my house that I started hearing in the very back end.
+
+00:46:27.000 --> 00:46:30.000
+Tony Atchley: Um… and…
+
+00:46:30.000 --> 00:46:38.000
+Tony Atchley: Uh, you know, started doing some investigation, which led me to the, the, uh, the leak on the source side.
+
+00:46:38.000 --> 00:46:47.000
+Tony Atchley: Uh, I've spent, uh, now it's 7 days trying to get the utility company out here to address the leak, to stabilize that.
+
+00:46:47.000 --> 00:46:55.000
+Tony Atchley: So that I can, um, begin to, you know, backtrack. In the meantime, on New Year's Day.
+
+00:46:55.000 --> 00:46:57.000
+Jim.Forsythe: Oh.
+
+00:46:55.000 --> 00:47:01.000
+Tony Atchley: Uh, in our patio lanai area, I started having water bubble up under my slab.
+
+00:47:01.000 --> 00:47:03.000
+Duane Brown: Oh, no.
+
+00:47:01.000 --> 00:47:03.000
+Eric Severson: Oh, boy.
+
+00:47:02.000 --> 00:47:09.000
+Tony Atchley: So, my whole point in giving you that is AI, uh, I started to build a story.
+
+00:47:09.000 --> 00:47:15.000
+Tony Atchley: And it gave me a complete roadmap of everything that I need to take to the utility.
+
+00:47:15.000 --> 00:47:26.000
+Tony Atchley: to take to the AT&T contractor when we get to that point. The insurance call that I've already made to my homeowner's insurance to try to figure out, you know, where to navigate next.
+
+00:47:26.000 --> 00:47:32.000
+Tony Atchley: And, uh, so, it was very useful from that standpoint, so, uh, you know, just…
+
+00:47:32.000 --> 00:47:34.000
+Tony Atchley: Another, uh, another example.
+
+00:47:34.000 --> 00:47:36.000
+Duane Brown: Wow.
+
+00:47:34.000 --> 00:47:39.000
+Eric Severson: Yeah, it's a great example, and I think the way to apply that in a business context.
+
+00:47:34.000 --> 00:47:36.000
+Tony Atchley: Oh, yeah.
+
+00:47:39.000 --> 00:47:44.000
+Eric Severson: Is anytime there is a…
+
+00:47:44.000 --> 00:47:53.000
+Eric Severson: opportunity to think a little bit differently, to… I like to call it narrowing the distance between idea and execution. So, the work.
+
+00:47:53.000 --> 00:48:04.000
+Eric Severson: is what narrows the distance between idea and execution. On marketing, it is that instead of just giving them an order, I'd like to start to look at how close can we come to giving them.
+
+00:48:04.000 --> 00:48:09.000
+Eric Severson: Here's the work, 3 quarters done. Review it, approve it, and let's move forward so it doesn't take 6 weeks.
+
+00:48:09.000 --> 00:48:18.000
+Eric Severson: on a campaign memo, or follow-up memos, I'm happy to show you guys how to put the context in there, previous emails.
+
+00:48:18.000 --> 00:48:31.000
+Eric Severson: Uh, if you do get a transcript, transcripts, and then you use it for a thought partner, and it just accelerates. Tony, you probably could have got there through a series of trial and error over weeks and weeks and weeks.
+
+00:48:31.000 --> 00:48:38.000
+Eric Severson: But it gives you a much better structure to try and implement, and it's fantastic for that. Works well for that, and.
+
+00:48:35.000 --> 00:48:37.000
+Tony Atchley: Yep.
+
+00:48:38.000 --> 00:48:41.000
+Eric Severson: You should think about that for all business contexts, too.
+
+00:48:41.000 --> 00:48:47.000
+Eric Severson: internal collaboration in particular, how do we… how do we improve the level of internal collaboration?
+
+00:48:47.000 --> 00:48:54.000
+Eric Severson: Uh, and often it may be just making sure that you've asked AI, have I thought of everything? Before you hit send.
+
+00:48:54.000 --> 00:49:04.000
+Eric Severson: have I thought of everything? Give me, you know, the perspective from this person's job, or this person's perspective. And it can act as a sounding board like that.
+
+00:49:04.000 --> 00:49:09.000
+Eric Severson: Which can help you think of additional thoughts to put in there, or just be sensitive to.
+
+00:49:09.000 --> 00:49:16.000
+Eric Severson: I always put in there, what questions am I most likely to get asked as a result of this email, right, from this person's perspective.
+
+00:49:16.000 --> 00:49:31.000
+Eric Severson: And that's usually Dale, and it'll give me a long list of, here's what a CMO at a university, online university, might be interested in or respond to, and it just gives me a little bit more depth of thinking before I get into those conversations with them, so…
+
+00:49:31.000 --> 00:49:39.000
+Eric Severson: Okay, good. Anything, uh, this week, I am working on the strategy for 26 and the deck for next week.
+
+00:49:40.000 --> 00:49:44.000
+Eric Severson: Um, Jim, if you could help me if you'd send me a one-page.
+
+00:49:45.000 --> 00:49:54.000
+Eric Severson: Here are the priorities that you see for 26, high level, that you're focused on. Uh, I'd like to include that as part of the overall slide, just as an update for that.
+
+00:49:55.000 --> 00:49:58.000
+Eric Severson: Uh, and Jim, are you coming in next week for that?
+
+00:49:58.000 --> 00:50:01.000
+Jim.Forsythe: Yeah, I've, uh, on, uh…
+
+00:50:01.000 --> 00:50:09.000
+Jim.Forsythe: Tuesday, the 13th, I'm going to Montgomery. Uh, it's the Manufacture Alabama Legislative Reception.
+
+00:50:04.000 --> 00:50:06.000
+Eric Severson: Right.
+
+00:50:09.000 --> 00:50:11.000
+Eric Severson: Yep.
+
+00:50:09.000 --> 00:50:17.000
+Jim.Forsythe: That evening, and so a lot… all the politicians come in, they're getting ready to start their legislative session, but all the.
+
+00:50:17.000 --> 00:50:22.000
+Jim.Forsythe: Big manufacturing corporations are also there, so those are the people that I like to meet.
+
+00:50:22.000 --> 00:50:31.000
+Jim.Forsythe: And I just sent Tony an email a while ago, I'm getting meetings set up. I let people know that I was going to be coming up there, and so far, Hyundai Mobus.
+
+00:50:31.000 --> 00:50:39.000
+Jim.Forsythe: Uh, I don't know if you're familiar with them or not, but Mobus is the Hyundai division that manufactures the batteries for EV vehicles.
+
+00:50:39.000 --> 00:50:44.000
+Jim.Forsythe: They're all separate entities, and they've asked me to, as long as I'm in town, to stop by for a meeting and.
+
+00:50:45.000 --> 00:50:56.000
+Jim.Forsythe: visit with them for a while. Then I've also gotten a request from Hyundai Transformers. They build all the huge… they're not affiliated with motors at all. They build all the huge transformers that go.
+
+00:50:56.000 --> 00:51:01.000
+Jim.Forsythe: On, like, uh, cruise ships, Navy vessels for electrical power.
+
+00:51:01.000 --> 00:51:12.000
+Jim.Forsythe: these things are the size of a train car, and so, uh, uh, Tony Wojo, we call him, is the HR guy there. We've gotten to be good friends over the years, and…
+
+00:51:12.000 --> 00:51:18.000
+Jim.Forsythe: His daughter's in our MBA program, and uh… so I'm gonna be going there.
+
+00:51:16.000 --> 00:51:23.000
+Eric Severson: Jim, if you wouldn't mind, I would love to hear about their staffing plans, right? How are they doing?
+
+00:51:23.000 --> 00:51:30.000
+Eric Severson: Are they able to find enough local talent? Are they able to find the jobs and fill the jobs that they want?
+
+00:51:31.000 --> 00:51:36.000
+Eric Severson: Especially at that lower level, right? We're not talking about the credential jobs, but the…
+
+00:51:36.000 --> 00:51:38.000
+Jim.Forsythe: Mm-hmm.
+
+00:51:36.000 --> 00:51:43.000
+Eric Severson: The entry-level stuff, just to see, you know, hey, is this a problem for your organization or not?
+
+00:51:43.000 --> 00:51:55.000
+Tony Atchley: Yeah, Jim, at the appropriate time, uh, you know, with this CTR relationship, they've got a, uh, they've got initiatives in the automotive space as well, so they've already got.
+
+00:51:55.000 --> 00:52:00.000
+Tony Atchley: connections at, um, Mercedes-Benz, um…
+
+00:51:59.000 --> 00:52:01.000
+Eric Severson: BMW.
+
+00:52:00.000 --> 00:52:09.000
+Tony Atchley: Yeah, and BMW, so, uh, Hyundai's gonna be a natural extension of that, you know, at some point when we, you know, when we get to that point.
+
+00:52:09.000 --> 00:52:15.000
+Tony Atchley: Um, I don't know if you guys saw it, but 60 Minutes had a piece on.
+
+00:52:15.000 --> 00:52:22.000
+Tony Atchley: Uh, the Hyundai plant over near Savannah, Jim, uh, yesterday. Yeah, yeah, really, uh, really…
+
+00:52:17.000 --> 00:52:20.000
+Jim.Forsythe: Yeah, I saw it.
+
+00:52:22.000 --> 00:52:26.000
+Tony Atchley: Interesting, uh, where that's going from the labor force standpoint.
+
+00:52:26.000 --> 00:52:30.000
+Jim.Forsythe: Are you guys aware that we are working with BMW?
+
+00:52:31.000 --> 00:52:34.000
+Eric Severson: in what way? We've got a learning partnership, you mean?
+
+00:52:34.000 --> 00:52:36.000
+Jim.Forsythe: Not yet, it's in the works.
+
+00:52:36.000 --> 00:52:38.000
+Eric Severson: Who is working that?
+
+00:52:36.000 --> 00:52:39.000
+Jim.Forsythe: Uh… actually, huh?
+
+00:52:39.000 --> 00:52:42.000
+Eric Severson: Who's working that? Is that you, or who is working that?
+
+00:52:41.000 --> 00:52:46.000
+Jim.Forsythe: Yeah, yeah. Well, if you want to take us out, I'll just tell you really what happened.
+
+00:52:42.000 --> 00:52:44.000
+Eric Severson: Great.
+
+00:52:46.000 --> 00:52:49.000
+Jim.Forsythe: Uh, whenever, uh…
+
+00:52:49.000 --> 00:52:55.000
+Jim.Forsythe: Uh, Amy Ross came on board. In her introduction, it said she used to work for BMW.
+
+00:52:55.000 --> 00:53:00.000
+Jim.Forsythe: So I called her up that day and told her I was coming by the next day to meet her, and uh…
+
+00:53:00.000 --> 00:53:07.000
+Jim.Forsythe: So I went over there, and she gave… it ended up, she worked for a lot of the executives over there.
+
+00:53:07.000 --> 00:53:09.000
+Eric Severson: Yep.
+
+00:53:07.000 --> 00:53:13.000
+Jim.Forsythe: So, I provided her with some information, and she put me in touch with the right person.
+
+00:53:13.000 --> 00:53:22.000
+Jim.Forsythe: Uh, and he actually came, so I had a conference call with him, and Amy joined us, we had a conference call, went over the MOU, went through everything.
+
+00:53:22.000 --> 00:53:35.000
+Jim.Forsythe: He said he likes to visit any places, so he actually… he and his wife, who actually works… he's over training and development, his wife works in HR, and they drove over to the space operations introduction we had at Columbia Southern.
+
+00:53:35.000 --> 00:53:37.000
+Eric Severson: Yep.
+
+00:53:35.000 --> 00:53:45.000
+Jim.Forsythe: And Caroline set them up at the, uh, hotel where you stay, and they came in and did some sightseeing and attended the event.
+
+00:53:45.000 --> 00:53:51.000
+Jim.Forsythe: And it's just kind of going through… he sent me an email before the holiday saying it was going to be a priority, but…
+
+00:53:51.000 --> 00:53:58.000
+Jim.Forsythe: It's going through the process of a bureaucracy to put an MOU together with them, so I don't know if you were aware of that or not, but…
+
+00:53:57.000 --> 00:54:05.000
+Eric Severson: And what's… what is the… is it BMW's desire to change the MOU, or is it stuck somewhere with us?
+
+00:54:06.000 --> 00:54:10.000
+Jim.Forsythe: It's nowhere, it's just going through the approval process of a bureaucracy.
+
+00:54:10.000 --> 00:54:18.000
+Jim.Forsythe: nobody's requested any kind of changes, they just have our standard MOU, and so far, nobody's said anything about it, it's just that there's a…
+
+00:54:19.000 --> 00:54:23.000
+Jim.Forsythe: A process they have to go through for approval.
+
+00:54:25.000 --> 00:54:28.000
+Duane Brown: Up the chain of command, like our stuff that we get from the companies.
+
+00:54:28.000 --> 00:54:32.000
+Jim.Forsythe: Yeah, and I've also found out that.
+
+00:54:32.000 --> 00:54:38.000
+Jim.Forsythe: whether it be Hyundai, BMW, anybody, if they're a foreign-owned company.
+
+00:54:38.000 --> 00:54:46.000
+Jim.Forsythe: Uh, like at Hyundai, a lot of things happen, but until somebody with a Korean name signs off on it, it's not official.
+
+00:54:50.000 --> 00:54:53.000
+Eric Severson: Well, very exciting.
+
+00:54:51.000 --> 00:54:56.000
+Jim.Forsythe: But I just want to let you know we are working with BMW, and have been for a couple of months.
+
+00:54:54.000 --> 00:54:56.000
+Eric Severson: Very good.
+
+00:54:56.000 --> 00:55:00.000
+Eric Severson: Oh, good. No, that's… that's awesome. And again, I think this…
+
+00:55:01.000 --> 00:55:04.000
+Eric Severson: New… the discovery there would be…
+
+00:55:06.000 --> 00:55:11.000
+Eric Severson: at some point, to ask about, uh, the CTR relationship.
+
+00:55:11.000 --> 00:55:18.000
+Eric Severson: And, you know, and as this… as our relationship with CTR develops, it'll be curious to hear.
+
+00:55:18.000 --> 00:55:22.000
+Eric Severson: Because, again, if they're doing a big business with CTR.
+
+00:55:22.000 --> 00:55:29.000
+Eric Severson: if CTR's partnership with CSU outsources the.
+
+00:55:29.000 --> 00:55:32.000
+Eric Severson: Online education will begin to pick up.
+
+00:55:32.000 --> 00:55:35.000
+Eric Severson: revenue from BMW.
+
+00:55:35.000 --> 00:55:43.000
+Eric Severson: hires or trainees. And it's just important to know about that as you're going into it, and say, you know, just to hear.
+
+00:55:44.000 --> 00:55:54.000
+Eric Severson: what level of the BMW business is this? Do they care about this very much? You know, tell us about how that's all gone. So we've got another set of eyes and ears.
+
+00:55:54.000 --> 00:56:00.000
+Eric Severson: from a customer perspective on a CTR relationship. The CTR and signal mutual relationship's a big deal.
+
+00:56:00.000 --> 00:56:09.000
+Eric Severson: Uh, for the shipbuilding industry. The CTR-CSU relationship could be a very big deal for expanding into a completely new revenue source.
+
+00:56:09.000 --> 00:56:16.000
+Eric Severson: Uh, and it's… it's hitting a lot of major employers already. And so I'm just super curious to hear.
+
+00:56:16.000 --> 00:56:25.000
+Eric Severson: As that comes up, it's really the broader conversation about how's your staffing plan? You know, do you have trouble filling your entry-level positions? What are the ways that you go about doing that?
+
+00:56:26.000 --> 00:56:32.000
+Eric Severson: You know, hey, are you hiring anybody, putting them through a short-term training program? How's that working? All that stuff, so…
+
+00:56:33.000 --> 00:56:44.000
+Eric Severson: we're way over, guys. So, uh, thank you for the time and attention. Again, I'm around this week. I'll try to get Wednesday, the deck out to everybody, and Duane, you and I can schedule time tomorrow.
+
+00:56:44.000 --> 00:56:50.000
+Duane Brown: Okay. Quick question. As a team, what are we doing next week for the team thing?
+
+00:56:44.000 --> 00:56:47.000
+Eric Severson: Tomorrow afternoon, okay. Yep.
+
+00:56:50.000 --> 00:56:57.000
+Eric Severson: Oh, so I did not get a, uh… I think you're on your own for the team.
+
+00:56:58.000 --> 00:57:06.000
+Eric Severson: costume, I've heard she likes it, right? And so, I did not execute on a baseball theme. I have sitting in my closet.
+
+00:57:00.000 --> 00:57:02.000
+Duane Brown: Nope.
+
+00:57:05.000 --> 00:57:08.000
+Duane Brown: Ha!
+
+00:57:06.000 --> 00:57:10.000
+Eric Severson: enough, uh, Formula One wear, so that…
+
+00:57:09.000 --> 00:57:11.000
+Duane Brown: There you go, okay.
+
+00:57:10.000 --> 00:57:20.000
+Eric Severson: The way that I see this, hoping to see this thing fall out, is that you've got 2 or 3 talking points for why you've got the uniform one that you've got for the team.
+
+00:57:20.000 --> 00:57:27.000
+Eric Severson: Uh, and… it's either that, or it'd be too hard for us to all come up with a single team.
+
+00:57:20.000 --> 00:57:22.000
+Duane Brown: For the team, yeah.
+
+00:57:26.000 --> 00:57:28.000
+Duane Brown: Right, no, no.
+
+00:57:27.000 --> 00:57:34.000
+Eric Severson: I find the three of you want to stay with a baseball theme, that… because it's easy, that's great. I would just think about one or two.
+
+00:57:34.000 --> 00:57:40.000
+Eric Severson: talking points of why the team is important and how it might apply to CSU.
+
+00:57:40.000 --> 00:57:42.000
+Eric Severson: Right? Super high level.
+
+00:57:40.000 --> 00:57:46.000
+Duane Brown: Then I'll… then I'll just wear a jersey, then. I'm not going full board pants and everything.
+
+00:57:45.000 --> 00:58:00.000
+Eric Severson: Well, if you have it, if you have it, I think that there's, uh, there's, uh, you know, spirit and motivation points, Duane. So, I'll be coming in a full-bore thing, right? Just because I get it, there's spirit and motivation points for that.
+
+00:57:47.000 --> 00:57:49.000
+Duane Brown: Nope.
+
+00:58:00.000 --> 00:58:05.000
+Duane Brown: So you have the full, like, NASCAR body driver suit.
+
+00:58:00.000 --> 00:58:02.000
+Eric Severson: Uh…
+
+00:58:05.000 --> 00:58:16.000
+Eric Severson: Well, no, I have the uniform that they wear outside of the car, but all that is, is a jersey, a hat, and black pants. I got that, I got that covered, so…
+
+00:58:06.000 --> 00:58:08.000
+Duane Brown: Ha!
+
+00:58:15.000 --> 00:58:18.000
+Duane Brown: Tony, what are you wearing?
+
+00:58:19.000 --> 00:58:21.000
+Tony Atchley: I, uh…
+
+00:58:21.000 --> 00:58:29.000
+Tony Atchley: Uh, I'm gonna come with the, um, workforce development, uh…
+
+00:58:29.000 --> 00:58:34.000
+Tony Atchley: Safety industry, uh, kind of approach to, um…
+
+00:58:34.000 --> 00:58:36.000
+Tony Atchley: Skills building.
+
+00:58:37.000 --> 00:58:45.000
+Tony Atchley: So, uh, I will… I will be, uh, garbed with a hard hat and, uh, various… various look to support that.
+
+00:58:42.000 --> 00:58:44.000
+Duane Brown: Got it.
+
+00:58:43.000 --> 00:58:46.000
+Eric Severson: Awesome. Yeah.
+
+00:58:45.000 --> 00:58:47.000
+Duane Brown: Got it. There you go.
+
+00:58:46.000 --> 00:58:51.000
+Eric Severson: Safety vest, all that stuff, big boots, steel toad.
+
+00:58:48.000 --> 00:58:50.000
+Tony Atchley: Yeah, yeah.
+
+00:58:51.000 --> 00:58:53.000
+Tony Atchley: That's it.
+
+00:58:53.000 --> 00:58:56.000
+Jim.Forsythe: That's on Tuesday only, right?
+
+00:58:56.000 --> 00:59:03.000
+Eric Severson: I don't know when that is. I just says blocked out for Tuesday, Wednesday, Thursday. Tony, how does that typically go?
+
+00:59:01.000 --> 00:59:07.000
+Jim.Forsythe: Oh, well, I thought… I thought I saw an email about the costume was on Tuesday.
+
+00:59:07.000 --> 00:59:11.000
+Eric Severson: I missed that. If you did, send it to me, please.
+
+00:59:08.000 --> 00:59:10.000
+Jim.Forsythe: If the kicker off.
+
+00:59:08.000 --> 00:59:20.000
+Tony Atchley: Well, no… no, I haven't… I guess we'll see the agenda coming out today, uh, you know, with more details, but I think Tuesday, we're, um…
+
+00:59:21.000 --> 00:59:25.000
+Tony Atchley: uh, we're not coming together as a group until Wednesday, right?
+
+00:59:25.000 --> 00:59:27.000
+Duane Brown: I think so.
+
+00:59:25.000 --> 00:59:28.000
+Eric Severson: I didn't know, I just have…
+
+00:59:27.000 --> 00:59:30.000
+Jim.Forsythe: Well, I don't know, I thought it was Tuesday, Wednesday, and Thursday, I don't know.
+
+00:59:29.000 --> 00:59:33.000
+Eric Severson: That's… on my calendar, it's Tuesday, Wednesday, Thursday, blocked off.
+
+00:59:31.000 --> 00:59:34.000
+Duane Brown: I think I saw that too, Tony.
+
+00:59:32.000 --> 00:59:39.000
+Tony Atchley: Yeah, well, I think we're… the, uh, management is coming together on Tuesday was the last I heard before the holidays, so…
+
+00:59:37.000 --> 00:59:39.000
+Duane Brown: Mm-hmm.
+
+00:59:39.000 --> 00:59:42.000
+Duane Brown: There was an email, I think. I remember reading that.
+
+00:59:39.000 --> 00:59:41.000
+Jim.Forsythe: Alright.
+
+00:59:42.000 --> 00:59:48.000
+Jim.Forsythe: Well, I'll be driving back from Montgomery Wednesday morning, and if there's something, I'll be there Wednesday and Thursday.
+
+00:59:48.000 --> 00:59:51.000
+Duane Brown: Wearing his CSU polo.
+
+00:59:51.000 --> 00:59:53.000
+Jim.Forsythe: There you go.
+
+00:59:55.000 --> 00:59:57.000
+Eric Severson: Well, you guys have… you guys have…
+
+00:59:55.000 --> 00:59:59.000
+Jim.Forsythe: I got a… I got a Makos hat.
+
+01:00:00.000 --> 01:00:02.000
+Eric Severson: Okay, I mean, I would go with…
+
+01:00:00.000 --> 01:00:03.000
+Duane Brown: Hey, something… something's better than nothing.
+
+01:00:02.000 --> 01:00:07.000
+Jim.Forsythe: That's a high school, that's an Orange Beach high school mascot, the makeup.
+
+01:00:06.000 --> 01:00:11.000
+Eric Severson: I think it's… I think that's a fair thing, although if there's a way…
+
+01:00:13.000 --> 01:00:19.000
+Eric Severson: to link it into your priorities. And so, from my perspective, your priorities are local.
+
+01:00:19.000 --> 01:00:26.000
+Eric Severson: local workforce development, right, Jim? And so, is there a local baseball team would be fine with that, right?
+
+01:00:26.000 --> 01:00:28.000
+Duane Brown: There you go.
+
+01:00:26.000 --> 01:00:29.000
+Jim.Forsythe: Well, that's what the Makos are, they're the high school.
+
+01:00:30.000 --> 01:00:33.000
+Jim.Forsythe: It's the Orange Beach High School Mikos.
+
+01:00:30.000 --> 01:00:32.000
+Eric Severson: Perfect.
+
+01:00:33.000 --> 01:00:35.000
+Duane Brown: It's local.
+
+01:00:35.000 --> 01:00:37.000
+Eric Severson: It's local.
+
+01:00:36.000 --> 01:00:38.000
+Duane Brown: There you go.
+
+01:00:37.000 --> 01:00:39.000
+Eric Severson: Okay.
+
+01:00:37.000 --> 01:00:41.000
+Tony Atchley: I got a… I got a blue Wahoo's hat if you need it.
+
+01:00:40.000 --> 01:00:45.000
+Duane Brown: I was gonna ask you about… I was gonna say, are you coming decked out in blue water?
+
+01:00:45.000 --> 01:00:50.000
+Eric Severson: Perfect. Alright guys, thank you. Have a good rest of the day.
+
+01:00:46.000 --> 01:00:50.000
+Duane Brown: That's awesome. Okay. Yes, sir.
+
+01:00:50.000 --> 01:00:52.000
+Tony Atchley: Alright.
+
+01:00:51.000 --> 01:00:53.000
+Jim.Forsythe: Hey, what time is that meeting?
+
+01:00:53.000 --> 01:01:00.000
+Eric Severson: We'll find out probably in this next meeting. We'll make sure that it's clear that we need a…
+
+01:01:00.000 --> 01:01:03.000
+Eric Severson: A start and end schedule, so…
+
+01:01:03.000 --> 01:01:06.000
+Jim.Forsythe: No, I'm in with Jerry. What time is that?
+
+01:01:04.000 --> 01:01:06.000
+Eric Severson: Uh…
+
+01:01:06.000 --> 01:01:09.000
+Eric Severson: Oh, that is at…
+
+01:01:10.000 --> 01:01:16.000
+Eric Severson: 1 o'clock, and I cannot forge you that meeting, uh, she's got that locked down.
+
+01:01:17.000 --> 01:01:25.000
+Eric Severson: So, it's me, Caroline, and Sherry. So, I'll take meeting notes and send you the meeting notes from that.
+
+01:01:24.000 --> 01:01:29.000
+Jim.Forsythe: I was gonna say, I can contact Sherry and have her include me, if you want.
+
+01:01:27.000 --> 01:01:32.000
+Eric Severson: Yeah, why don't you contact her and ask her if it's, if it's something that you, that, uh.
+
+01:01:33.000 --> 01:01:42.000
+Eric Severson: she thinks you should be part of. I know at a high level, we're trying to work out more frequent collaboration, and one of the things we're doing is just having a regular Monday meeting with three of us.
+
+01:01:35.000 --> 01:01:37.000
+Jim.Forsythe: Alright.
+
+01:01:43.000 --> 01:01:47.000
+Eric Severson: And so, it may be just about that. Uh, so…
+
+01:01:43.000 --> 01:01:44.000
+Jim.Forsythe: Okay.
+
+01:01:46.000 --> 01:01:48.000
+Jim.Forsythe: Okay.
+
+01:01:48.000 --> 01:01:50.000
+Duane Brown: Happy New Year, by the way, everybody.
+
+01:01:48.000 --> 01:01:51.000
+Eric Severson: Okay. Happy New Year, indeed.
+
+01:01:51.000 --> 01:01:53.000
+Eric Severson: Alright.
+
+01:01:51.000 --> 01:01:53.000
+Jim.Forsythe: 2, or…
+
+01:01:54.000 --> 01:02:04.000
+Eric Severson: So, Jim, if you want to reach out to Sherry and ask about that, it's a Zoom Meeting chat about space, and there's no other details about that.
+
+01:02:04.000 --> 01:02:06.000
+Jim.Forsythe: Oh, okay.
+
+01:02:06.000 --> 01:02:08.000
+Eric Severson: Okay, thanks guys.
+
+01:02:07.000 --> 01:02:09.000
+Jim.Forsythe: Alright, bye.
+
+01:02:09.000 --> 01:02:11.000
+Eric Severson: Bye-bye.
+

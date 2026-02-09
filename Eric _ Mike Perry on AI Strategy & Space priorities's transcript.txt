@@ -1,0 +1,1358 @@
+WEBVTT
+
+00:00:52.000 --> 00:00:54.000
+Eric Severson: Goodbye.
+
+00:00:53.000 --> 00:00:55.000
+Mike Perry: Well, hello there, Eric, how you doing?
+
+00:00:55.000 --> 00:00:58.000
+Eric Severson: Doing well today, thank you very much. So…
+
+00:00:57.000 --> 00:00:59.000
+Mike Perry: Good, good.
+
+00:00:58.000 --> 00:01:03.000
+Eric Severson: So, definitely, uh, appreciate the… the look at the slideshow.
+
+00:01:04.000 --> 00:01:06.000
+Eric Severson: Uh, went through it…
+
+00:01:06.000 --> 00:01:11.000
+Eric Severson: Pretty well. I mean, there's a lot, a lot of info here. And so…
+
+00:01:10.000 --> 00:01:12.000
+Mike Perry: Yeah.
+
+00:01:11.000 --> 00:01:17.000
+Eric Severson: Sounds like you were heading up the AI thing totally before the COE, is that right?
+
+00:01:17.000 --> 00:01:19.000
+Mike Perry: That's correct, yes.
+
+00:01:18.000 --> 00:01:21.000
+Eric Severson: Yeah, awesome. So, um…
+
+00:01:20.000 --> 00:01:22.000
+Mike Perry: Yeah.
+
+00:01:22.000 --> 00:01:32.000
+Eric Severson: The curiosity that I had in the COE is, is there a strategy document for the whole institution.
+
+00:01:32.000 --> 00:01:37.000
+Eric Severson: And if not, where is that? Should that be part of the framing of all of this?
+
+00:01:37.000 --> 00:01:43.000
+Eric Severson: Uh, and then, you know, the only other thing that I'm looking for is.
+
+00:01:38.000 --> 00:01:40.000
+Mike Perry: Yep.
+
+00:01:43.000 --> 00:01:47.000
+Eric Severson: Who are the people that are most.
+
+00:01:47.000 --> 00:01:56.000
+Eric Severson: engaged in using AI around the organization. Um, you know, this is an area that I'm super passionate about, right? I've spent.
+
+00:01:55.000 --> 00:01:57.000
+Mike Perry: Yeah.
+
+00:01:56.000 --> 00:02:07.000
+Eric Severson: I still have a consulting business that I'm running that is most… mostly sales and marketing, but now I'd say about 90% of it is AI integration and enablement.
+
+00:02:07.000 --> 00:02:15.000
+Eric Severson: Everything from training to, uh, co-developing to, in some cases, developing solutions for.
+
+00:02:15.000 --> 00:02:24.000
+Eric Severson: Mostly smaller-sized companies. And so, I'm… I'm on board. I've drank the Kool-Aid, I'm totally immersed in the stuff.
+
+00:02:18.000 --> 00:02:20.000
+Mike Perry: Yeah.
+
+00:02:25.000 --> 00:02:27.000
+Mike Perry: Yeah. Yeah.
+
+00:02:26.000 --> 00:02:30.000
+Eric Severson: And so, it sounds like… has that been your journey? What's your… what's your…
+
+00:02:29.000 --> 00:02:36.000
+Mike Perry: Yeah, yeah. Yeah, so same… so similar, right? So, um, coming out of, um, the Air Force.
+
+00:02:36.000 --> 00:02:41.000
+Mike Perry: we were on the tail… well, the tail end of the career, uh, we kind of focused on.
+
+00:02:41.000 --> 00:02:53.000
+Mike Perry: how do we move the Air Force into using more AI to kind of help us kind of streamline some of our functions, which led into warfighting later, but at first it was more automating some of our processes.
+
+00:02:53.000 --> 00:03:04.000
+Mike Perry: So, while I was still serving, I was working on my doctorate, and part of the dissertation focused on, um, you know, strategic foresight and digital transformation.
+
+00:03:05.000 --> 00:03:15.000
+Mike Perry: So the doctorate focused on emerging technologies and leading through the digital age. So that's what got me into AI and other emerging technologies.
+
+00:03:15.000 --> 00:03:23.000
+Mike Perry: So I used that to help the Air Force and the first sergeants, and it happened at a crazy time during COVID, so we were able to take some of.
+
+00:03:23.000 --> 00:03:28.000
+Mike Perry: You know, the digital things that were going on around that time, and transition.
+
+00:03:28.000 --> 00:03:40.000
+Mike Perry: our… I guess we call it, um, our AFSC, our Air Force Specialty Code for First Hardens, and use AI and technologies to kind of continue our missions across the globe to engage with.
+
+00:03:40.000 --> 00:03:48.000
+Mike Perry: Our bases and our populations. Uh, so I'm like, man, this is sweet, uh, to be able to use this technology to do these things, so…
+
+00:03:43.000 --> 00:03:45.000
+Eric Severson: Sweet.
+
+00:03:48.000 --> 00:03:56.000
+Mike Perry: I started nerding out on learning any and everything I can about it, and like you, I drank the Kool-Aid.
+
+00:03:56.000 --> 00:04:02.000
+Mike Perry: So when I got to CSU, um, as an online university, I'm thinking, man, they've been in business 30 plus years.
+
+00:04:02.000 --> 00:04:06.000
+Mike Perry: and I get in, I'm like, you not… you guys aren't up on…
+
+00:04:06.000 --> 00:04:14.000
+Mike Perry: something I… I mean, I'm new to it at the time, so I was kind of shocked that they weren't, so in the conversation with Janelle and Ken.
+
+00:04:14.000 --> 00:04:22.000
+Mike Perry: who was already thinking that we need to move in that direction, um, once they found out that I had a little bit of experience in it.
+
+00:04:22.000 --> 00:04:29.000
+Mike Perry: I opened my mouth during a meeting, um, it's kind of… it's kind of how I wound up.
+
+00:04:30.000 --> 00:04:38.000
+Mike Perry: getting tagged with it, because Janelle was familiar with my, um, final project for my doctoral journey.
+
+00:04:38.000 --> 00:04:45.000
+Mike Perry: And so, when I started it, there was lots of, um… and I did the same thing you normally do when you're trying to figure out.
+
+00:04:45.000 --> 00:04:52.000
+Mike Perry: The baseline of where you are, I say, well, you know, what's the motivation for change? And, you know, in academia.
+
+00:04:52.000 --> 00:05:01.000
+Mike Perry: No one wanted to… AI's cheating. So, the first stage of it was trying to find the momentum to get folks to kind of embrace it. So what I did was.
+
+00:05:02.000 --> 00:05:09.000
+Mike Perry: Um, with the AI committee, I lobbied to make sure we had people from across the university, right? Staff.
+
+00:05:09.000 --> 00:05:19.000
+Mike Perry: faculty, program leadership, um, directors, and we wound up having about 30-something people in, and we started training people like Travis, um, Smith.
+
+00:05:20.000 --> 00:05:31.000
+Mike Perry: He has a brother who's an AI expert, wrote books on it. Jen Steinford had a contact, so we were bringing people in outside the institution.
+
+00:05:31.000 --> 00:05:37.000
+Mike Perry: who are educating our committee on the benefits of AI. So, after I got… and they were…
+
+00:05:37.000 --> 00:05:41.000
+Mike Perry: all in. So once I got them, it took maybe two and a half months.
+
+00:05:42.000 --> 00:05:47.000
+Mike Perry: to get them playing around with some of the platforms, and so they were in. So once we got there.
+
+00:05:47.000 --> 00:05:54.000
+Mike Perry: We had a charge that, um, Janelle and Ken gave us, about 5 different things they wanted us to accomplish. That was our…
+
+00:05:54.000 --> 00:06:02.000
+Mike Perry: I guess the beginning of our strategy document, and that's what led us into getting out to the things that we had, our buckets.
+
+00:06:02.000 --> 00:06:04.000
+Mike Perry: So, long story short.
+
+00:06:04.000 --> 00:06:11.000
+Mike Perry: Once we got that momentum growing with those folks, the plan was for us to come up with, um, um, a proposal.
+
+00:06:11.000 --> 00:06:23.000
+Mike Perry: Kind of tackle some low-hanging fruit that we can get into right away, go ahead and beta test some things that we were already using within this institution, bring in some new technologies that we maybe hadn't tried yet.
+
+00:06:23.000 --> 00:06:31.000
+Mike Perry: and see how we can kind of improve some of our processes across academia, and then even on the data side. And I think that's around the time Jason came on board as well.
+
+00:06:31.000 --> 00:06:37.000
+Mike Perry: Um, and by the end of it, our job, we were tasked with the AI committee.
+
+00:06:37.000 --> 00:06:42.000
+Mike Perry: to come up with a proposal for how the university should move forward with AI integration.
+
+00:06:42.000 --> 00:06:47.000
+Mike Perry: But in the meantime, we were making such good progress, because Janelle and Kim were part of the committee.
+
+00:06:47.000 --> 00:06:56.000
+Mike Perry: We wound up coming out with a policy for AI use. We wound up coming out with some trainings that were already being developed.
+
+00:06:56.000 --> 00:07:01.000
+Mike Perry: we were… we were making some really, really good progress, but then that's when the DS team stood up.
+
+00:07:01.000 --> 00:07:07.000
+Mike Perry: And part of our recommendations was to future-proof our institution as we imported integration.
+
+00:07:07.000 --> 00:07:12.000
+Mike Perry: Um, and the recommendation was for us to come up with a center of excellence eventually.
+
+00:07:12.000 --> 00:07:19.000
+Mike Perry: But what happened was, it started, and it ended the AI committee, which was really more like a…
+
+00:07:20.000 --> 00:07:29.000
+Mike Perry: I guess a work… a task force, um, and then the AI committee picked up, so I… and like I mentioned during the meeting, I think that there was a gap there.
+
+00:07:29.000 --> 00:07:35.000
+Mike Perry: With the readout that should have led to the strategy document for, hey, here's the recommendations for the committee.
+
+00:07:35.000 --> 00:07:47.000
+Mike Perry: here's the strategy that we think that the institution should roll with as we integrate AI into, you know, whether it's academics or whatever other parts of the institution we want to roll out with.
+
+00:07:47.000 --> 00:07:52.000
+Mike Perry: Um, and then, you know, just kind of where we are now. So I think that there's a lot of redundant.
+
+00:07:52.000 --> 00:08:00.000
+Mike Perry: efforts going on right now under the Center of Excellence without really knowing the full work that the AI community already.
+
+00:08:00.000 --> 00:08:02.000
+Mike Perry: Accomplished.
+
+00:08:02.000 --> 00:08:04.000
+Eric Severson: Yeah.
+
+00:08:02.000 --> 00:08:10.000
+Mike Perry: And I think there's a habit of, uh, for a lot of the humbleness of the AI committee members who are part of the AI.
+
+00:08:10.000 --> 00:08:18.000
+Mike Perry: COE to not want to step on any toes or hurt any feelings and go along with it, if that makes sense, because like, hey, if someone else's baby.
+
+00:08:18.000 --> 00:08:25.000
+Mike Perry: So, we'll roll with the punches and let it do what it needs to do, is kind of where we are now.
+
+00:08:26.000 --> 00:08:31.000
+Eric Severson: Well, that explains a lot, because when I read through the deck, I'm like, oh my goodness, I…
+
+00:08:31.000 --> 00:08:39.000
+Eric Severson: I… everybody should see this. It is most definitely a ton of work and insight there.
+
+00:08:40.000 --> 00:08:44.000
+Eric Severson: And I guess my motivation is… I want to…
+
+00:08:44.000 --> 00:08:51.000
+Eric Severson: put a little more energy into this. Some days, I feel like we're missing it completely, right? The CO…
+
+00:08:50.000 --> 00:08:52.000
+Mike Perry: Mm-hmm.
+
+00:08:51.000 --> 00:08:56.000
+Eric Severson: The COE meets infrequently and really is focused on.
+
+00:08:56.000 --> 00:09:07.000
+Eric Severson: you know, there are important policy issues and procedural issues, but I feel like it's moving glacially, and that a framing statement and some just energy, right?
+
+00:09:03.000 --> 00:09:05.000
+Mike Perry: Yeah.
+
+00:09:07.000 --> 00:09:09.000
+Mike Perry: Yeah.
+
+00:09:07.000 --> 00:09:15.000
+Eric Severson: So, energy around the enabling components of this, uh, are…
+
+00:09:15.000 --> 00:09:19.000
+Eric Severson: Missing, or it feels to me like it's missing, right?
+
+00:09:18.000 --> 00:09:21.000
+Mike Perry: Yeah, I agree. Yeah.
+
+00:09:20.000 --> 00:09:27.000
+Eric Severson: And I love Jason, I've known Jason, we worked together at Pearson, he's a traditional IT guy, and I think that.
+
+00:09:26.000 --> 00:09:28.000
+Mike Perry: Yeah.
+
+00:09:27.000 --> 00:09:29.000
+Eric Severson: Right now, we need…
+
+00:09:29.000 --> 00:09:37.000
+Eric Severson: But we could do well with an overarching strategy, and maybe even a committee that's focused, like the other one was.
+
+00:09:37.000 --> 00:09:43.000
+Eric Severson: that provides some high-level direction and energy and prioritization, and then the COE.
+
+00:09:44.000 --> 00:09:51.000
+Eric Severson: As an orchestration layer can focus on the things that they're focusing on, which are pretty tactical stuff.
+
+00:09:51.000 --> 00:09:53.000
+Mike Perry: Yes.
+
+00:09:52.000 --> 00:10:02.000
+Eric Severson: that's not going to change. I mean, again, I'm not… yes, we have to have policy. Yes, we have to have guidelines. I… that is not the reason to get excited about.
+
+00:10:02.000 --> 00:10:11.000
+Eric Severson: the capabilities of this stuff. It's the transformation that needs to come, but that has to have vision and enthusiasm and strong support.
+
+00:10:02.000 --> 00:10:04.000
+Mike Perry: Right.
+
+00:10:11.000 --> 00:10:14.000
+Eric Severson: Uh, and I would love to help.
+
+00:10:14.000 --> 00:10:19.000
+Eric Severson: It ignite that, because it just feels a little absent right now.
+
+00:10:18.000 --> 00:10:29.000
+Mike Perry: Oh, Eric, we had that, and Jason and I had a great conversation after the COE meeting, and, you know, I said… and the same conversation you're having with me, I had with him.
+
+00:10:29.000 --> 00:10:31.000
+Eric Severson: Okay.
+
+00:10:29.000 --> 00:10:34.000
+Mike Perry: I said, look, you know, I said, look, this is kind of where we are now. I said, but, you know.
+
+00:10:34.000 --> 00:10:48.000
+Mike Perry: to the point of… and I tiptoed around it in the meeting, but I said, look, you know, we had the momentum when we had a larger pot of people, and we had the momentum going, and we were pulling people in, that's what we want. When we skinnied it down.
+
+00:10:48.000 --> 00:10:56.000
+Mike Perry: Now we have a broader scope of people out there that has no idea about what's happening, and then we loosen the buy-in and the momentum that we had at the time.
+
+00:10:57.000 --> 00:11:02.000
+Mike Perry: So we gotta figure out a way to kind of, um, you know, get people back into the…
+
+00:11:02.000 --> 00:11:08.000
+Mike Perry: Into the groove of knowing that, hey, you know, this is CSU's journey into.
+
+00:11:08.000 --> 00:11:17.000
+Mike Perry: um, making these things happen, not just a small group of folks kind of chipping away, and then I even… and during the AI committee, what we did was.
+
+00:11:17.000 --> 00:11:23.000
+Mike Perry: we gave them a couple of blueprints. We dropped off, um, in the chat box and in a couple other places in our minutes.
+
+00:11:23.000 --> 00:11:37.000
+Mike Perry: I use ASU as a benchmark to say, look, this is the copy and paste. They have a whole freaking web page out there with all the stuff that our committee, the COE's working on right now. They already have that built.
+
+00:11:37.000 --> 00:11:44.000
+Mike Perry: Copy paste. This is easy. They have a COE built and ready, we can take that and say, hey, here's our website.
+
+00:11:44.000 --> 00:11:56.000
+Mike Perry: here's what we got, and the COE can act as a node for people to kind of filter information through and come in and play around with technologies and do things. So I saw… in my mind, the COE was something different than what it is now.
+
+00:11:56.000 --> 00:12:03.000
+Mike Perry: Because really, the COE seems more like a… I call it a task force to kind of get after, like you said, something tactical.
+
+00:12:03.000 --> 00:12:14.000
+Mike Perry: Versus, you know, the COE being this real learning environment where people can come and play and learn and experience and get exposure, and…
+
+00:12:14.000 --> 00:12:17.000
+Mike Perry: and all those kinds of things. So I agree with you completely, on…
+
+00:12:17.000 --> 00:12:20.000
+Mike Perry: In your, in your line of thinking, so…
+
+00:12:19.000 --> 00:12:30.000
+Eric Severson: Well, I would… uh, you can count on me for whatever positive influence I can have. I would even look around and say, is there a precedent somewhere where we can find.
+
+00:12:31.000 --> 00:12:43.000
+Eric Severson: a steering committee and a COE. So the COE, Jason and the DS group are trained IT people, and they are focused, I think, relentlessly on the data issue.
+
+00:12:43.000 --> 00:12:45.000
+Mike Perry: Mm-hmm.
+
+00:12:44.000 --> 00:12:50.000
+Eric Severson: Which is definitely an issue, but it isn't… and yes, it will be… it is super important.
+
+00:12:50.000 --> 00:12:58.000
+Eric Severson: But the rest of it is just not happening. The enablement, the enthusiasm, and the energy isn't there.
+
+00:12:53.000 --> 00:12:55.000
+Mike Perry: Yeah.
+
+00:12:58.000 --> 00:13:09.000
+Eric Severson: the use cases aren't there, right? Understanding, asking what people are doing is fine, right? That's okay, but really, it's what problems do you.
+
+00:13:07.000 --> 00:13:09.000
+Mike Perry: Yeah.
+
+00:13:09.000 --> 00:13:18.000
+Eric Severson: Here's a framework for thinking about problems that this stuff could solve. Where are the bottlenecks in your particular part of the world? And, uh, I…
+
+00:13:13.000 --> 00:13:15.000
+Mike Perry: Yeah.
+
+00:13:18.000 --> 00:13:25.000
+Eric Severson: I was relieved to see your deck, because I was sitting here kind of panicking about.
+
+00:13:25.000 --> 00:13:31.000
+Eric Severson: We're so far behind, as far as I could determine, on even just thinking about.
+
+00:13:31.000 --> 00:13:36.000
+Eric Severson: You know, where is the innovation around the student experience, the teaching and learning?
+
+00:13:35.000 --> 00:13:40.000
+Mike Perry: Oh my gosh, Eric, we were there, so in that deck, it even… it looks…
+
+00:13:40.000 --> 00:13:47.000
+Mike Perry: pretty good, because the team did a good job, but here's how it was supposed to flow. We're supposed to get in front of, um…
+
+00:13:41.000 --> 00:13:43.000
+Eric Severson: Yes.
+
+00:13:47.000 --> 00:13:49.000
+Mike Perry: Ken and the President's Council.
+
+00:13:49.000 --> 00:13:56.000
+Mike Perry: Um, in the deck, I was gonna do a quick introduction, and the major part of the presentation was gonna be.
+
+00:13:57.000 --> 00:14:03.000
+Mike Perry: Tom Heitman walking through, he's gonna pull up and show exact… to your point about the use cases, here's a student's journey.
+
+00:14:03.000 --> 00:14:13.000
+Mike Perry: here's how we use Synthesia, or whatever. He's gonna take them through and show the bot, or how students utilize the bot. So he's gonna introduce the SEs and teams.
+
+00:14:13.000 --> 00:14:19.000
+Mike Perry: So, the student side-facing side of what AI does from the student experience, and then…
+
+00:14:19.000 --> 00:14:29.000
+Mike Perry: Um, Megan Bowers and team is going to show from the faculty side, and Julia Hart, so we're going to really take them to an immersive experience, what… for how AI can transform.
+
+00:14:29.000 --> 00:14:38.000
+Mike Perry: CSU. That was what the presentation was supposed to be. And then say, okay, so here's the test… here's the… here's the peek under the curtain of what we can do.
+
+00:14:33.000 --> 00:14:35.000
+Eric Severson: Well…
+
+00:14:38.000 --> 00:14:44.000
+Mike Perry: So, and here's our recommendation for how we move forward, and that goes into the strategy document piece that you were talking about.
+
+00:14:45.000 --> 00:14:51.000
+Eric Severson: And then there's funding and support, right? And all… now we're into 2026, and I…
+
+00:14:47.000 --> 00:14:49.000
+Mike Perry: Exactly.
+
+00:14:51.000 --> 00:14:58.000
+Eric Severson: I will certainly talk to Caroline about this, and occasionally I get an audience with Ken, and my number 1 issue is.
+
+00:14:59.000 --> 00:15:03.000
+Eric Severson: You gotta accelerate your engagement on all things AI.
+
+00:15:03.000 --> 00:15:09.000
+Eric Severson: uh, just have to, right? Because I guarantee, I spent 30 years at a course materials provider, Pearson Education.
+
+00:15:10.000 --> 00:15:15.000
+Eric Severson: I spent 5 years at a trade school, right? So, at UTI.
+
+00:15:11.000 --> 00:15:13.000
+Mike Perry: No! Yeah.
+
+00:15:15.000 --> 00:15:21.000
+Eric Severson: I know where people are innovating like crazy right now, because.
+
+00:15:21.000 --> 00:15:22.000
+Mike Perry: Yeah.
+
+00:15:21.000 --> 00:15:26.000
+Eric Severson: Empowers smaller groups of people to do a dramatic amount of work.
+
+00:15:25.000 --> 00:15:27.000
+Mike Perry: Uh, yes.
+
+00:15:27.000 --> 00:15:35.000
+Eric Severson: And, you know, if you wanted to be anxious about it, there's one or two small players around that get enabled.
+
+00:15:35.000 --> 00:15:46.000
+Eric Severson: And our main affordability advantage will evaporate because people can afford, you know, the snooze of the world. Those big ticket tuition places are gonna come under duress.
+
+00:15:47.000 --> 00:15:55.000
+Eric Severson: As these, uh, innovations allow way leaner organizations to come out and compete. And at that point.
+
+00:15:54.000 --> 00:15:56.000
+Mike Perry: Yeah.
+
+00:15:55.000 --> 00:16:05.000
+Eric Severson: If your affordability thing falls away, that's table stakes, oh my god, and you've got nothing but out-of-the-box blackboard experience, you cannot.
+
+00:16:05.000 --> 00:16:10.000
+Eric Severson: wait for your LMS provider to do it all, right? They're not going to do it. You can't really wait.
+
+00:16:10.000 --> 00:16:16.000
+Mike Perry: It's already happened, yeah. It's already happening, and I told… yeah, I sent them a couple articles to Janelle and Misty.
+
+00:16:11.000 --> 00:16:13.000
+Eric Severson: Yeah, yeah.
+
+00:16:16.000 --> 00:16:28.000
+Mike Perry: Well, maybe 5 months ago, because I said, look, you know, yeah, we've been online now, but if you look at what's happening with the other brick and mortar, especially even the Ivy Leagues, they're dipping into the online versions now, because.
+
+00:16:28.000 --> 00:16:46.000
+Mike Perry: they realize that it's a money pot. And so, when you look at, um, Cornell and eCarnell and what they're doing, you look at MIT and how they're coming out with the credentials and the micro-credentials online, and they're dropping their prices, and I'm like, this is going to become a highly competitive… exactly, this is going to be a highly competitive market at this point.
+
+00:16:41.000 --> 00:16:43.000
+Eric Severson: That's where we should get nervous.
+
+00:16:44.000 --> 00:16:46.000
+Eric Severson: Yeah.
+
+00:16:47.000 --> 00:16:49.000
+Mike Perry: Uh, it's gonna get crazy, so…
+
+00:16:48.000 --> 00:16:54.000
+Eric Severson: Yeah, and this is the time to be… I mean, we're already behind, but this is the time to be jacking that up to.
+
+00:16:52.000 --> 00:16:54.000
+Mike Perry: Yeah.
+
+00:16:55.000 --> 00:17:04.000
+Eric Severson: So, I could imagine a steering committee, sounds like what you guys had, that is really establishing the leadership and the direction on the strategy, and espousing it.
+
+00:17:04.000 --> 00:17:12.000
+Eric Severson: putting some money aside and figuring out how to enable it. And then this COE is really…
+
+00:17:08.000 --> 00:17:10.000
+Mike Perry: Yeah.
+
+00:17:12.000 --> 00:17:17.000
+Eric Severson: focused on preparation, right? Get your data squared away.
+
+00:17:16.000 --> 00:17:18.000
+Mike Perry: Hmm.
+
+00:17:17.000 --> 00:17:26.000
+Eric Severson: I've talked to Jason a couple of times about building use cases as opposed to asking people what they're doing, starting to identify how do we build a literacy around.
+
+00:17:26.000 --> 00:17:33.000
+Eric Severson: The bottlenecks and it's really almost transformation first and then second.
+
+00:17:32.000 --> 00:17:34.000
+Mike Perry: Yeah.
+
+00:17:33.000 --> 00:17:38.000
+Eric Severson: what are the tools that are most appropriate to go into that? And so…
+
+00:17:36.000 --> 00:17:38.000
+Mike Perry: Exactly, yeah.
+
+00:17:38.000 --> 00:17:49.000
+Eric Severson: And so the part, then, that I get, uh, curious about is, you've definitely covered the educational side and student journey appropriately. I don't see anything for.
+
+00:17:49.000 --> 00:17:59.000
+Eric Severson: the internal components, so the use cases and bottlenecks that are in marketing, that are in IT, that are roadblocks to.
+
+00:17:54.000 --> 00:17:55.000
+Mike Perry: Mm-hmm.
+
+00:17:59.000 --> 00:18:10.000
+Eric Severson: you know, if I wanted to be rough about it, I would say, if you're a CMO, you should triple your output expectations with zero additional headcount. You do have to train them. You have to train them.
+
+00:18:10.000 --> 00:18:20.000
+Eric Severson: If you're sitting over IT, you should triple your expectation about what that team should be doing, and challenging the notion of buying software over creating it.
+
+00:18:20.000 --> 00:18:32.000
+Eric Severson: But only after you've enabled that team, both spiritually, this is not the devil's work, this is really important, and then, you know, with the bits and the bytes. And I just don't get the sense that we're.
+
+00:18:32.000 --> 00:18:36.000
+Eric Severson: We're anywhere on those sorts of comments.
+
+00:18:34.000 --> 00:18:43.000
+Mike Perry: Well, Eric, if I can speak honestly to you, uh, so when we pulled the team together, I made it a point to bring in.
+
+00:18:44.000 --> 00:18:53.000
+Mike Perry: people from marketing was on the team, and IT, for the very reason you mentioned, because when we had our priorities listed.
+
+00:18:53.000 --> 00:18:58.000
+Mike Perry: the first thing I thought about was, since we're online, we have to figure out a way, because if you looked at.
+
+00:18:58.000 --> 00:19:06.000
+Mike Perry: in the past year or two, where we put a lot of our monies towards our advertising, it was on CSU as a whole.
+
+00:19:06.000 --> 00:19:11.000
+Mike Perry: So we kept pushing. Look, we have to figure out ways to get out there. We talked about we need a younger population.
+
+00:19:11.000 --> 00:19:22.000
+Mike Perry: We can't do that if we're on LinkedIn. That's not what a younger population is. Um, and we have to be quicker, uh, we have to move a little bit faster in terms of getting out our marketing products.
+
+00:19:22.000 --> 00:19:27.000
+Mike Perry: We can't wait weeks for an article on a program we release.
+
+00:19:27.000 --> 00:19:34.000
+Mike Perry: You know, so we had them on, and quite frankly, I think that, from a marketing standpoint.
+
+00:19:34.000 --> 00:19:45.000
+Mike Perry: we probably need a little bit more of an outside perspective for some folks who are probably a little bit more steeped in the benefits of AI to come in and help in that.
+
+00:19:46.000 --> 00:19:56.000
+Mike Perry: Vein to help our marketing team understand. And even… and I'll give you another example. If you look at our marketing program within CSU, our programs.
+
+00:19:56.000 --> 00:20:01.000
+Mike Perry: you're not gonna see any AI built into those programs, into the lesson plan. It's crazy.
+
+00:20:01.000 --> 00:20:03.000
+Mike Perry: So…
+
+00:20:03.000 --> 00:20:05.000
+Eric Severson: Todd…
+
+00:20:03.000 --> 00:20:05.000
+Mike Perry: You know, we need the experience.
+
+00:20:05.000 --> 00:20:07.000
+Eric Severson: Yep, so the…
+
+00:20:08.000 --> 00:20:10.000
+Eric Severson: I agree completely.
+
+00:20:08.000 --> 00:20:10.000
+Mike Perry: Or the talent, the talent, yeah.
+
+00:20:10.000 --> 00:20:15.000
+Eric Severson: Totally agree, and so the, you know, in a very small way, the…
+
+00:20:15.000 --> 00:20:24.000
+Eric Severson: thing that killed me over here recently was we signed a big partnership agreement with the American Nurses Association, right? 200,000 members.
+
+00:20:24.000 --> 00:20:26.000
+Mike Perry: Yep.
+
+00:20:24.000 --> 00:20:37.000
+Eric Severson: And it took 6 weeks to put a landing page together so that we could begin to drive that activity there. And it was all… it was all an inefficient friction in the marketing process.
+
+00:20:37.000 --> 00:20:46.000
+Eric Severson: And so, a completely… so maybe the way to influence this is to find a way to re-establish that steering committee of executives, seniors.
+
+00:20:47.000 --> 00:20:52.000
+Eric Severson: And to do exactly what you said, start bringing in, you know, guest speakers to evangelize.
+
+00:20:52.000 --> 00:21:01.000
+Eric Severson: the benefits of this stuff, because again, I don't… if Jason is supposed to be doing that, we could try it through Jason, but honestly, I think it should be Ken.
+
+00:21:01.000 --> 00:21:08.000
+Eric Severson: Ken should be leading that as the head of the university, with the level of engagement and importance that it is.
+
+00:21:08.000 --> 00:21:17.000
+Eric Severson: and then in each of the, you know, again, for me, when he said, I want to focus on optimizing our internal stuff, I thought.
+
+00:21:17.000 --> 00:21:23.000
+Eric Severson: Here's 15 AI projects that will help your admissions team deal with low staffing and high turnover, right?
+
+00:21:23.000 --> 00:21:25.000
+Mike Perry: Mm-hmm.
+
+00:21:24.000 --> 00:21:29.000
+Eric Severson: text bots, voice agents, and, uh, AI, uh…
+
+00:21:29.000 --> 00:21:34.000
+Eric Severson: Conversational intelligence off of all of their transcripts will dramatically unlock.
+
+00:21:32.000 --> 00:21:34.000
+Mike Perry: Yeah.
+
+00:21:34.000 --> 00:21:43.000
+Eric Severson: time, and improve the interaction. Over in Student Support, the same exact kind of thing. We could, you know, all the way to interactive avatars.
+
+00:21:37.000 --> 00:21:39.000
+Mike Perry: Yes.
+
+00:21:43.000 --> 00:21:53.000
+Eric Severson: unlocks, it meets the student when and where they are in a way that's unbiased, unfatiguing, and non-judgmental, right? How could you not be.
+
+00:21:52.000 --> 00:21:54.000
+Mike Perry: Yeah.
+
+00:21:53.000 --> 00:22:00.000
+Eric Severson: Driving down that road. And then just all the other roadblocks internally, uh, around here should be.
+
+00:22:01.000 --> 00:22:05.000
+Eric Severson: I feel like I want to, you know, ring the fire bell, going, hey, man.
+
+00:22:04.000 --> 00:22:10.000
+Mike Perry: Yeah, and Jason, when we mentioned it during the COE meeting, um…
+
+00:22:10.000 --> 00:22:17.000
+Mike Perry: when we identify the gap, he did mention that, yeah, we need to get that back on the calendar to get in front of Ken and.
+
+00:22:17.000 --> 00:22:22.000
+Mike Perry: whoever Ken deems the audience to be, because I do think that we need to put what the work.
+
+00:22:22.000 --> 00:22:32.000
+Mike Perry: the work we've already done in front of them, and like you said, we need some kind of overall strategy, and my guess is, once Ken sees the work that we've already been able to accomplish.
+
+00:22:32.000 --> 00:22:38.000
+Mike Perry: It will spark. It will… at least he'll know exactly, look, we aren't as far behind as we thought.
+
+00:22:38.000 --> 00:22:44.000
+Mike Perry: And we need to make sure that the broader audience, management 1 and 2, are aware of the things that are out there.
+
+00:22:44.000 --> 00:22:51.000
+Mike Perry: Uh, we need to get this same briefing and information and strategy document in front of them, so we got everyone marching to the same tune.
+
+00:22:51.000 --> 00:22:56.000
+Mike Perry: Um, and then we can kind of get that momentum, and I like the words you used, we need to start evangelizing.
+
+00:22:56.000 --> 00:22:58.000
+Eric Severson: Yes.
+
+00:22:56.000 --> 00:23:03.000
+Mike Perry: So, so, uh, we need that momentum. We can allow it to lapse. Um, this is just not the time to allow it to lapse at all.
+
+00:23:03.000 --> 00:23:05.000
+Mike Perry: Um, so… yeah.
+
+00:23:04.000 --> 00:23:14.000
+Eric Severson: Okay, well, so whatever I can do, that's my… we're aligned 100%, and I want to, you know, breathe the energy into this thing and get it going at the highest level as possible.
+
+00:23:09.000 --> 00:23:11.000
+Mike Perry: Yeah.
+
+00:23:15.000 --> 00:23:20.000
+Eric Severson: Um, and, you know, the two things I keep going at Jason about are…
+
+00:23:20.000 --> 00:23:26.000
+Eric Severson: We need a plan to build a use case library, Jason, across every division and every department, and so…
+
+00:23:25.000 --> 00:23:29.000
+Mike Perry: He got… he got excited about that. Um, who… who would…
+
+00:23:30.000 --> 00:23:37.000
+Mike Perry: Who would lead that? I mean, Elwin had a great idea when he brought it up, but would that be something that each department would kind of.
+
+00:23:37.000 --> 00:23:39.000
+Mike Perry: Have a champion to…
+
+00:23:37.000 --> 00:23:44.000
+Eric Severson: So, it's a great question. I mean, I think that, um, I'm not sure. I think that, uh…
+
+00:23:45.000 --> 00:23:46.000
+Eric Severson: They're…
+
+00:23:47.000 --> 00:23:57.000
+Eric Severson: There could be a… you know, I don't see business analysts in any of the IT functions, and it's a missing gap, and it's somebody…
+
+00:23:49.000 --> 00:23:51.000
+Mike Perry: So…
+
+00:23:53.000 --> 00:23:55.000
+Mike Perry: Yeah.
+
+00:23:56.000 --> 00:23:58.000
+Mike Perry: Yeah.
+
+00:23:58.000 --> 00:24:06.000
+Eric Severson: That is literate in the business, that can communicate effectively with the constituents in every one of the departments.
+
+00:24:06.000 --> 00:24:12.000
+Eric Severson: That could lead this sort of thing, right? And I just don't… I don't know that they have that.
+
+00:24:07.000 --> 00:24:10.000
+Mike Perry: Yeah. Yeah. Yeah.
+
+00:24:11.000 --> 00:24:18.000
+Mike Perry: No, we don't. We only have, um, business analysts in the business analyst department, which is kind of over there.
+
+00:24:19.000 --> 00:24:25.000
+Mike Perry: Sit next to Diaz, so… and that's what… who was that? Ed Witherington, I believe, and…
+
+00:24:25.000 --> 00:24:32.000
+Mike Perry: that's it, but there's, like you said, there's no tentacles into the actual departments, right? So, if I had to figure out who it would be for us, it would be.
+
+00:24:33.000 --> 00:24:38.000
+Mike Perry: someone like Misty Kill, who happens to go out there and dig up data herself for academics, and…
+
+00:24:38.000 --> 00:24:44.000
+Mike Perry: you know, work closely with folks, so there's no one designated with the ability to go in there for each of those departments to.
+
+00:24:44.000 --> 00:24:52.000
+Mike Perry: To pull that data on the regular. And plus, the other point about it is, um, they're still parsing through, making sure that the data is.
+
+00:24:52.000 --> 00:24:54.000
+Mike Perry: sound to…
+
+00:24:54.000 --> 00:25:04.000
+Eric Severson: And those can go concurrently, right? The data integrity has to be squared away, right? That's the plumbing. When you flush the toilet, it's got to work nicely, otherwise everybody gets unhappy.
+
+00:24:55.000 --> 00:24:57.000
+Mike Perry: To use. They can, yeah.
+
+00:24:59.000 --> 00:25:01.000
+Mike Perry: Yeah.
+
+00:25:02.000 --> 00:25:04.000
+Mike Perry: You got it.
+
+00:25:04.000 --> 00:25:06.000
+Mike Perry: Yeah.
+
+00:25:04.000 --> 00:25:09.000
+Eric Severson: But the concurrency is… so, they're…
+
+00:25:09.000 --> 00:25:14.000
+Eric Severson: For 10 years of my life, I moved out of selling and into a business.
+
+00:25:14.000 --> 00:25:19.000
+Eric Severson: development role within an organization. So I sat in between IT and the business units.
+
+00:25:19.000 --> 00:25:23.000
+Eric Severson: And the charge was to ensure that.
+
+00:25:23.000 --> 00:25:33.000
+Eric Severson: technology products stopped failing at the rate they were, and this was at Pearson. So we built a CRM that was highly customized around the needs of an academic institution's.
+
+00:25:33.000 --> 00:25:41.000
+Eric Severson: Uh, working on curriculum materials. And we just don't have that kind of person anywhere in the… in the… so I think that conversation starts with Ken about.
+
+00:25:41.000 --> 00:25:48.000
+Eric Severson: You need part evangelist, highly communicative, low… they don't need to be coders.
+
+00:25:48.000 --> 00:25:53.000
+Eric Severson: But they need to be committed to going out and working with the business units to help.
+
+00:25:53.000 --> 00:26:00.000
+Eric Severson: Understand what is a use case, how do we identify it, how do we document it, how do we build that library?
+
+00:26:00.000 --> 00:26:08.000
+Eric Severson: Uh, and then it's all… in large organizations, I often see this coming from the Office of Transformation.
+
+00:26:08.000 --> 00:26:11.000
+Eric Severson: Which is, you know, you have an office of.
+
+00:26:08.000 --> 00:26:10.000
+Mike Perry: Yeah.
+
+00:26:11.000 --> 00:26:17.000
+Eric Severson: project management, like a PMO, sometimes there, but it kind of evolved to.
+
+00:26:15.000 --> 00:26:17.000
+Mike Perry: Yep.
+
+00:26:17.000 --> 00:26:27.000
+Eric Severson: Uh, transformation office that then staffs with those kind of folks that kind of sits between your operational division units and your.
+
+00:26:27.000 --> 00:26:34.000
+Eric Severson: your, uh, technology organization. I think that's a good conversation for us to try to get on somebody's radar at some point.
+
+00:26:30.000 --> 00:26:32.000
+Mike Perry: Yeah.
+
+00:26:35.000 --> 00:26:42.000
+Mike Perry: I agree. Um, I am going to figure out a way to send you an invite as a collaborator for that slide deck.
+
+00:26:42.000 --> 00:26:45.000
+Eric Severson: Perfect. Yeah, perfect.
+
+00:26:42.000 --> 00:26:47.000
+Mike Perry: That we sent you? Uh, so that way, because I love what you're saying, um, about…
+
+00:26:48.000 --> 00:26:54.000
+Mike Perry: Uh, because I think that we need to add that as a recommendation. So, um, I like the use cases, um…
+
+00:26:54.000 --> 00:26:59.000
+Mike Perry: And if we're gonna put this as a presentation up for where we need to go, we need…
+
+00:27:00.000 --> 00:27:03.000
+Mike Perry: we need to put it in there, right? So, um…
+
+00:27:03.000 --> 00:27:05.000
+Eric Severson: I mean, there's…
+
+00:27:03.000 --> 00:27:06.000
+Mike Perry: Love to have you as a collaborator on here.
+
+00:27:05.000 --> 00:27:11.000
+Eric Severson: I'd love it, I'd love it. And again, on just the simple one idea, you know, I'd love to get.
+
+00:27:07.000 --> 00:27:09.000
+Mike Perry: Yeah.
+
+00:27:12.000 --> 00:27:16.000
+Eric Severson: I know we're almost out of time, so I have one other question before we go on. Okay, okay.
+
+00:27:13.000 --> 00:27:18.000
+Mike Perry: No, no, I'm good. Yeah, I'm good. I'm just making sure I'm trying to type a note to make sure I don't…
+
+00:27:18.000 --> 00:27:21.000
+Mike Perry: Forget to send that to you.
+
+00:27:20.000 --> 00:27:24.000
+Eric Severson: I would love to see, uh…
+
+00:27:21.000 --> 00:27:23.000
+Mike Perry: Alright.
+
+00:27:28.000 --> 00:27:35.000
+Eric Severson: That conversation in IT as well, because we're… I know of 2 different companies that have.
+
+00:27:36.000 --> 00:27:44.000
+Eric Severson: Traditionally, when you're doing a use case library, you've got to employ McKinsey or some big consulting firm that charges you arm and a leg.
+
+00:27:43.000 --> 00:27:45.000
+Mike Perry: Yeah.
+
+00:27:44.000 --> 00:27:46.000
+Eric Severson: And interviews the whole organization.
+
+00:27:46.000 --> 00:27:48.000
+Mike Perry: Yes.
+
+00:27:47.000 --> 00:27:57.000
+Eric Severson: voice agents? Voice agents are astonishingly good right now, right? There are companies that are building voice agents that, uh, will interview you.
+
+00:27:51.000 --> 00:27:53.000
+Mike Perry: Mm-hmm.
+
+00:27:57.000 --> 00:28:10.000
+Eric Severson: And we'll collect your use case, we'll build up the, you know, all the messy descriptions from all of the people in no organization, cleanse it, create it, organize it, structure it, put it in a database.
+
+00:28:10.000 --> 00:28:14.000
+Eric Severson: So there are AI tech solutions.
+
+00:28:14.000 --> 00:28:24.000
+Eric Severson: that have already been built, and frankly, an IT organization that, you know, is building stuff could probably do this pretty easily for us.
+
+00:28:15.000 --> 00:28:17.000
+Mike Perry: Yeah.
+
+00:28:24.000 --> 00:28:29.000
+Eric Severson: And then you've got, you know, you've got a dogfooding argument, uh, going on in that case.
+
+00:28:29.000 --> 00:28:39.000
+Eric Severson: There are just so many different ways for us to make that a virtuous loop of looking at AI to build AI solutions to help us figure out how to leverage AI across the enterprise.
+
+00:28:35.000 --> 00:28:37.000
+Mike Perry: Yeah.
+
+00:28:39.000 --> 00:28:41.000
+Eric Severson: more effectively.
+
+00:28:39.000 --> 00:28:42.000
+Mike Perry: Yeah. I agree.
+
+00:28:41.000 --> 00:28:53.000
+Eric Severson: Uh, what's been your experience about using tools internally and getting through? You know, I'm frustrated with the amount of kickback I get from the IT organization. Everything is a no.
+
+00:28:53.000 --> 00:29:01.000
+Eric Severson: Right? Can I install Whisper Flow? No, you cannot, it's not approved. Whisper Flow, if you haven't… do you know about Whisper Flow?
+
+00:29:01.000 --> 00:29:04.000
+Mike Perry: I don't. I don't.
+
+00:29:02.000 --> 00:29:07.000
+Eric Severson: Voice dictation, we can speak at 120 words per minute, you can type.
+
+00:29:07.000 --> 00:29:09.000
+Mike Perry: Oh, yeah, yeah, yeah, yeah.
+
+00:29:08.000 --> 00:29:18.000
+Eric Severson: you're super skilled, you can type at 70. This is one of the, it's changed my life sort of technologies. It takes a little while to get used to it. Astonishingly good.
+
+00:29:15.000 --> 00:29:16.000
+Mike Perry: Mm-hmm.
+
+00:29:18.000 --> 00:29:27.000
+Eric Severson: I have a giant computer that I sit over here and I work on 90% of the time because the CSU thing is so locked down and so restricted, you can't do stuff.
+
+00:29:27.000 --> 00:29:32.000
+Eric Severson: So, how have you… have you been able to build a sandbox or get approval for stuff, or no?
+
+00:29:32.000 --> 00:29:45.000
+Mike Perry: Oh, this is gonna… so this is gonna sound, uh, probably bad, but… so, uh, really, whenever we need something, um, if, uh, Janelle makes it happen, so if we say we need, I've never been…
+
+00:29:45.000 --> 00:29:53.000
+Mike Perry: told, no, I can't, right? Whatever I need installed, but what I do, especially if it comes to some stuff I need on the IT side.
+
+00:29:53.000 --> 00:30:00.000
+Mike Perry: I tend to do it on my own, so I don't use the CSU computer. I have subscriptions to all my AI stuff.
+
+00:30:00.000 --> 00:30:06.000
+Mike Perry: on my personal computer, I knock it out a lot myself. I get yelled at because I'm using my own funds instead of…
+
+00:30:00.000 --> 00:30:02.000
+Eric Severson: Yeah.
+
+00:30:06.000 --> 00:30:11.000
+Mike Perry: You know, but for me, I just don't have time to go with the back and forth of.
+
+00:30:06.000 --> 00:30:08.000
+Eric Severson: Okay.
+
+00:30:11.000 --> 00:30:19.000
+Mike Perry: being… I don't like being told no, uh, and I don't like… I don't like to have to wait, right? So… so to… I… for me.
+
+00:30:13.000 --> 00:30:15.000
+Eric Severson: No.
+
+00:30:16.000 --> 00:30:18.000
+Eric Severson: Yes.
+
+00:30:19.000 --> 00:30:25.000
+Mike Perry: I move at the speed of go, so I just kind of just do it on my own, so I haven't had experiences.
+
+00:30:25.000 --> 00:30:31.000
+Mike Perry: With, um, being told no. I think there was one time, this was maybe a couple years ago.
+
+00:30:31.000 --> 00:30:38.000
+Mike Perry: when I was attempting to… oh, you know what it was? It was… I was trying to connect my freaking wireless.
+
+00:30:38.000 --> 00:30:44.000
+Mike Perry: headphones to the CSU thing, and I couldn't do it. I'm like, why can't I connect.
+
+00:30:44.000 --> 00:30:46.000
+Mike Perry: On my wireless keyboard at home.
+
+00:30:47.000 --> 00:30:52.000
+Mike Perry: Um, and I was sitting there trying to connect with someone to help me. I was like, you know, this is ridiculous.
+
+00:30:52.000 --> 00:30:57.000
+Mike Perry: So I ordered me a wired thing, and I use it for CSU, but then I just started using my own.
+
+00:30:52.000 --> 00:30:54.000
+Eric Severson: Yeah.
+
+00:30:57.000 --> 00:31:04.000
+Mike Perry: Mac instead of the CSU computer, unless I need to do something on Omega when I would get on CSU computer and I do it that way.
+
+00:31:04.000 --> 00:31:07.000
+Mike Perry: So, it's a sad…
+
+00:31:07.000 --> 00:31:12.000
+Mike Perry: time, it's a sad excuse, but that's kind of how I do it. No, I don't think it is, but…
+
+00:31:09.000 --> 00:31:11.000
+Eric Severson: It's not just me.
+
+00:31:11.000 --> 00:31:16.000
+Eric Severson: This is not just me. 90% of my work is over there, because I can sun-restricted as mine, right?
+
+00:31:12.000 --> 00:31:14.000
+Mike Perry: No.
+
+00:31:16.000 --> 00:31:20.000
+Mike Perry: Yeah, and I don't know the… and I guess…
+
+00:31:21.000 --> 00:31:28.000
+Mike Perry: I don't know the reason, but I… you're not the only person that said that they've had lots of difficulties. Like, I know a few of my faculty.
+
+00:31:28.000 --> 00:31:33.000
+Mike Perry: I've complained about trying to download certain things, or have access to certain.
+
+00:31:33.000 --> 00:31:37.000
+Mike Perry: Um, things that they would like to have to kind of enhance their…
+
+00:31:37.000 --> 00:31:44.000
+Mike Perry: Classroom experiences with students, and they don't… they can't do it right then, so they have to wait or put in a ticket.
+
+00:31:44.000 --> 00:31:50.000
+Mike Perry: Or something to make it happen. And again, they're military-minded folks, so they're not gonna wait on that stuff. They're gonna…
+
+00:31:51.000 --> 00:31:53.000
+Mike Perry: Just kind of do it on their own, so…
+
+00:31:53.000 --> 00:32:07.000
+Eric Severson: we need a sandbox environment. I mean, one of the things is that there… the speed of innovation is so slow here, it's ridiculous, and it's, frankly, a risk. And there's gotta be a way. You know, I hear all these people talking about, oh, shadow IT, and I think quietly.
+
+00:32:08.000 --> 00:32:15.000
+Eric Severson: When an institution puts policies ahead of individual success, you're gonna lose, period.
+
+00:32:15.000 --> 00:32:22.000
+Eric Severson: If your policies prevent individual success, you will lose every single time, right? And that…
+
+00:32:16.000 --> 00:32:17.000
+Mike Perry: Yeah.
+
+00:32:22.000 --> 00:32:24.000
+Mike Perry: Yeah.
+
+00:32:22.000 --> 00:32:33.000
+Eric Severson: Shadow IT is, honestly, it's an example of administrative failure. It's leadership failure and administrative failure, and it's happening over here like crazy.
+
+00:32:33.000 --> 00:32:41.000
+Eric Severson: Because the tools are too good and too empowering and in pockets all over the place, right? And so, that would be my other pitch to Ken is.
+
+00:32:38.000 --> 00:32:40.000
+Mike Perry: Yeah.
+
+00:32:41.000 --> 00:32:48.000
+Eric Severson: get yourself organized around this, man. Let us help you figure out how to put a sandbox environment in place.
+
+00:32:48.000 --> 00:32:53.000
+Eric Severson: So that you can have… you can…
+
+00:32:53.000 --> 00:33:02.000
+Eric Severson: build literacy internally at a much faster rate. Your best ideas are going to come from the people that are closest to the problems.
+
+00:33:02.000 --> 00:33:10.000
+Eric Severson: of either student engagement, teaching and learning, you know, marketing, and IT. It's not going to come from an external, but you first have to.
+
+00:33:10.000 --> 00:33:20.000
+Eric Severson: educate and enable them about possibilities and the boundaries, and then you have to okay some experimentation. And we are so not in that category here, it's…
+
+00:33:20.000 --> 00:33:23.000
+Eric Severson: It's, you know, we got…
+
+00:33:22.000 --> 00:33:29.000
+Mike Perry: You know, it would… it would be interesting to request from Scott Oswald and team, um, the number of, um.
+
+00:33:29.000 --> 00:33:33.000
+Mike Perry: Ticket request that's come in with people asking for…
+
+00:33:33.000 --> 00:33:41.000
+Mike Perry: Um, different types of things, and just see how many have been approved, disapproved, and the rationale, reasons behind. He has to have all that data, right? So…
+
+00:33:42.000 --> 00:33:45.000
+Mike Perry: And I think that'll be a telltale sign to…
+
+00:33:42.000 --> 00:33:44.000
+Eric Severson: Got it.
+
+00:33:44.000 --> 00:33:46.000
+Eric Severson: Sure.
+
+00:33:45.000 --> 00:33:48.000
+Mike Perry: to, uh, to show Ken, say, look, here's what people are asking for.
+
+00:33:48.000 --> 00:33:55.000
+Mike Perry: They have to have pretty good reasons why. Let's take a deeper dive into this and figure out, are we missing the mark on a few things?
+
+00:33:55.000 --> 00:34:01.000
+Eric Severson: Or let's have an exception policy, a process that documents it, puts it together, makes you aware of it, right? Because again.
+
+00:33:57.000 --> 00:33:59.000
+Mike Perry: Yeah.
+
+00:34:01.000 --> 00:34:03.000
+Mike Perry: Yeah.
+
+00:34:01.000 --> 00:34:10.000
+Eric Severson: you got Janelle, I do not have the benefit of someone that will loudly argue on our behalf for this at this point, and so…
+
+00:34:09.000 --> 00:34:10.000
+Mike Perry: Yeah.
+
+00:34:10.000 --> 00:34:20.000
+Eric Severson: Uh, so, other ways to say, let's make it visible. Transparent sunlight disinfects everything. Let's make it transparent so people can see, hey, this is…
+
+00:34:20.000 --> 00:34:24.000
+Eric Severson: An important thing to be struggling with a little bit more.
+
+00:34:24.000 --> 00:34:32.000
+Eric Severson: Okay. Well, last thing, the strategy that I've started to use, and it is not a gentle strategy.
+
+00:34:25.000 --> 00:34:26.000
+Mike Perry: Okay.
+
+00:34:32.000 --> 00:34:42.000
+Eric Severson: But, uh, with marketing, it took 6 weeks to build a landing page for the American Nursing Association. 6 weeks.
+
+00:34:42.000 --> 00:34:49.000
+Eric Severson: It took me about 6 hours to build a landing page builder, yes, exactly.
+
+00:34:45.000 --> 00:34:48.000
+Mike Perry: I'm gonna say, you can go to… go to GoDaddy!
+
+00:34:49.000 --> 00:34:51.000
+Mike Perry: Right.
+
+00:34:50.000 --> 00:35:00.000
+Eric Severson: And then a compliance checker, so that every piece of copy runs through a compliance checker and comes out with a grade, a report, an audit, and an improved.
+
+00:35:00.000 --> 00:35:12.000
+Eric Severson: bit of copy, so that as Duane and Tony and my team, or Jim, put marketing requests in, I'm giving them an audit report to include with it, and images of exactly what we want.
+
+00:35:12.000 --> 00:35:27.000
+Eric Severson: to try to reduce the amount of friction as we're moving through this. And so, and then I'm showing them. Here, I did it in Copilot, which sucks, but here it is in… in Claudet, or in Gemini in a Gem, or in ChatGPT as a custom GPT. There's a million ways to do it.
+
+00:35:16.000 --> 00:35:18.000
+Mike Perry: Yeah.
+
+00:35:28.000 --> 00:35:34.000
+Eric Severson: I'm not a programmer, I'm an English major, I'm a sales guy, so the, you know, the hurdles are.
+
+00:35:34.000 --> 00:35:39.000
+Eric Severson: Quickly falling away to the curious, let's get going on some of this to move.
+
+00:35:39.000 --> 00:35:47.000
+Eric Severson: the friction out, and now I'm down to, here, I did it. I built it, look, take a look. I don't want to be the builder, I want you guys to be the builder.
+
+00:35:46.000 --> 00:35:51.000
+Mike Perry: Yeah, I mean, it'll literally write the code for you, give the… I mean, it…
+
+00:35:50.000 --> 00:35:52.000
+Eric Severson: Yeah.
+
+00:35:51.000 --> 00:35:59.000
+Mike Perry: I mean, this is way… today is way easy, so if it's taking 6 weeks to do anything, someone's doing something wrong.
+
+00:35:59.000 --> 00:36:04.000
+Eric Severson: Yes, exactly, and it came down to bandwidth and approval.
+
+00:36:04.000 --> 00:36:10.000
+Eric Severson: Both of those are, you know, things that you can… you can potentially improve through these tools, so…
+
+00:36:10.000 --> 00:36:12.000
+Mike Perry: Yeah.
+
+00:36:11.000 --> 00:36:20.000
+Eric Severson: Thank you for talking to me about this. Uh, I'm super excited to, again, breeze some energy and enthusiasm back into this. I love getting a steering committee going again.
+
+00:36:21.000 --> 00:36:26.000
+Eric Severson: and then just maybe figuring out… maybe Jason can bring that forward, and I can talk to Jason about how…
+
+00:36:26.000 --> 00:36:31.000
+Eric Severson: How, uh, beneficial it will be to have that senior level.
+
+00:36:31.000 --> 00:36:37.000
+Eric Severson: setting priorities and making directional things. And again, if he pushes back on that.
+
+00:36:37.000 --> 00:36:43.000
+Eric Severson: Okay, but at least that's a… one… what do you think about that, as a way to get that steering committee back in… in…
+
+00:36:43.000 --> 00:36:45.000
+Eric Severson: constituted.
+
+00:36:45.000 --> 00:36:54.000
+Mike Perry: Yeah, I think that… well, he said he would mention it, but, um, I'm already in the process. I want to have a conversation with you first, but I'm already gonna send a message back to, um.
+
+00:36:55.000 --> 00:37:05.000
+Mike Perry: Janelle and Ken say, hey, just a heads up, here's where we are with the, um… because we did identify the gap, right? So, Ken, we never did get in front of you with what we did, so we love.
+
+00:37:01.000 --> 00:37:03.000
+Eric Severson: Yeah.
+
+00:37:05.000 --> 00:37:10.000
+Mike Perry: To have the opportunity for… to close out the work that 32, 33 of your.
+
+00:37:11.000 --> 00:37:15.000
+Mike Perry: Um, employees did, over the course of about 13 months.
+
+00:37:16.000 --> 00:37:25.000
+Mike Perry: with the AI Committee, um, so we'd love to have that opportunity. And I think that'll open the door for that to happen, and it won't be stepping on toes, so to speak.
+
+00:37:21.000 --> 00:37:23.000
+Eric Severson: Oh, perfect.
+
+00:37:26.000 --> 00:37:34.000
+Mike Perry: And Jason was part of that committee as well, right? So… so, I mean, he was an advisor on it, so it… and he's aware, we had a conversation, so…
+
+00:37:28.000 --> 00:37:30.000
+Eric Severson: Okay, good. Sweet.
+
+00:37:34.000 --> 00:37:40.000
+Mike Perry: Um, and I wouldn't email or reach out to them without having him on the… on the CC line, so…
+
+00:37:40.000 --> 00:37:46.000
+Eric Severson: Okay, cool. Then I'll… I will do nothing, but be it… be enthusiastically.
+
+00:37:41.000 --> 00:37:43.000
+Mike Perry: Yeah, I… I'm…
+
+00:37:46.000 --> 00:37:53.000
+Eric Severson: present. Uh, the other thing I was gonna take a look at is, in the deck that you have.
+
+00:37:53.000 --> 00:37:55.000
+Mike Perry: Yeah.
+
+00:37:53.000 --> 00:37:59.000
+Eric Severson: Is… is it… does it include the non-educational parts of CSU?
+
+00:37:59.000 --> 00:38:04.000
+Eric Severson: So, marketing, IT, uh, student support, you know.
+
+00:38:05.000 --> 00:38:07.000
+Eric Severson: Outreach. B Dev.
+
+00:38:07.000 --> 00:38:17.000
+Mike Perry: Uh, you know, I gotta go back and look now, because I think that it was… when… it was a broader stroke to it, so it was faculty and staff, right? So, if you think faculty and staff.
+
+00:38:17.000 --> 00:38:25.000
+Mike Perry: it was kind of supposed to be all-encompassing, so when you got to the portions where it talked about, under Dr. Hart's team, when it was talking about faculty and staff training.
+
+00:38:25.000 --> 00:38:33.000
+Mike Perry: that was across the board, but they didn't specify that there was going to be training for marketing, right? They didn't specify it was going to be training for IT.
+
+00:38:33.000 --> 00:38:43.000
+Mike Perry: Because we didn't get that far into the weeds of who was going to get what training outside of… really, the focus at the time, Janelle wants to focus on the academic and student-facing side of the house, so…
+
+00:38:41.000 --> 00:38:43.000
+Eric Severson: Sure.
+
+00:38:44.000 --> 00:38:49.000
+Mike Perry: Um, that's definitely something that we need to add to it, because, to your point.
+
+00:38:49.000 --> 00:38:52.000
+Mike Perry: That… that… there's a need, there's a gap there.
+
+00:38:52.000 --> 00:39:00.000
+Eric Severson: There's a little bit of a gap there, and it aligns perfectly to what Ken was talking about in terms of internal optimization, and frankly, it's an area that I'm both experienced in and.
+
+00:39:01.000 --> 00:39:14.000
+Eric Severson: and passionate in, right? Uh, in the… the unsexy, or the, you know, the back office part, uh, I think it's more appropriate to put the money and focus on the student experience, but…
+
+00:39:14.000 --> 00:39:18.000
+Eric Severson: There's still upside to all the, you know.
+
+00:39:19.000 --> 00:39:22.000
+Mike Perry: So, what I want to do then, if you're okay with it, um…
+
+00:39:23.000 --> 00:39:26.000
+Mike Perry: I think that that's a strong, um…
+
+00:39:27.000 --> 00:39:33.000
+Mike Perry: category, um, that didn't get a lot of attention, but is a huge part of what we do at CSU.
+
+00:39:34.000 --> 00:39:39.000
+Mike Perry: So when we get the green light to do something more with the subcommittee.
+
+00:39:39.000 --> 00:39:42.000
+Mike Perry: Um, we'd love to have you…
+
+00:39:42.000 --> 00:39:48.000
+Mike Perry: Back with us, with the subcommittee stand-up, and maybe that's an effort, if you have the bandwidth, that you can.
+
+00:39:48.000 --> 00:39:50.000
+Mike Perry: You can share.
+
+00:39:50.000 --> 00:39:55.000
+Eric Severson: I would, I would love that. Again, I spent 10 years at Pearson building an organization.
+
+00:39:56.000 --> 00:40:00.000
+Eric Severson: That did that, that sat in between the business users and the…
+
+00:40:01.000 --> 00:40:10.000
+Eric Severson: IT organization, and it was almost all internally focused, right? So, our products at Pearson were textbooks or educational materials.
+
+00:40:10.000 --> 00:40:18.000
+Eric Severson: That was the equivalent of the academic environment, and that was handled separately. All I did was all of the internal staff facing.
+
+00:40:18.000 --> 00:40:31.000
+Eric Severson: tools and optimizations, it was mostly sales and marketing, but it was a decade of my career that I took a, you know, a step out of the primary selling and business development role and did that, and loved it, had a great time with it. And so.
+
+00:40:31.000 --> 00:40:33.000
+Mike Perry: Yeah.
+
+00:40:32.000 --> 00:40:37.000
+Eric Severson: You know, experienced and passionate about those things that many people will find to be unsexy, so…
+
+00:40:37.000 --> 00:40:47.000
+Mike Perry: I love it, I love it. Okay, so I will, between tonight and tomorrow, send a note to Ken and Janelle. I'll give Janelle a heads up with a text.
+
+00:40:47.000 --> 00:40:53.000
+Mike Perry: I'll be at CSU next week, so I'll find some time to sit with both of them, too, and go into more detail.
+
+00:40:53.000 --> 00:40:57.000
+Mike Perry: Um, and… and we'll… we'll reignite this then.
+
+00:40:57.000 --> 00:41:06.000
+Eric Severson: Perfect. Al should actually be around later part of the week, too. I'm going to the space thing in Tallahassee with Jim and Tony on Tuesday.
+
+00:41:07.000 --> 00:41:11.000
+Eric Severson: And then I'm driving over to CSU for the rest of the… rest of the week, so I may run in.
+
+00:41:07.000 --> 00:41:09.000
+Mike Perry: Okay.
+
+00:41:10.000 --> 00:41:12.000
+Mike Perry: Well, I'll see you next week. Yeah.
+
+00:41:11.000 --> 00:41:14.000
+Eric Severson: Yeah, perfect. Alright, thanks a ton.
+
+00:41:13.000 --> 00:41:15.000
+Mike Perry: Alright, brother, see you later.
+
+00:41:15.000 --> 00:41:17.000
+Eric Severson: Talk soon.
+

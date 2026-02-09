@@ -1,0 +1,1163 @@
+WEBVTT
+
+00:01:00.000 --> 00:01:02.000
+Eric Severson: Okay, can you hear me?
+
+00:01:07.000 --> 00:01:09.000
+Tom Malek: Yes and yes, yes and yes.
+
+00:01:09.000 --> 00:01:13.000
+Eric Severson: Okay. Um, so…
+
+00:01:14.000 --> 00:01:17.000
+Eric Severson: This is one of the things I'm trying to finish off for her this week.
+
+00:01:21.000 --> 00:01:27.000
+Eric Severson: In Salesforce, her primary…
+
+00:01:28.000 --> 00:01:39.000
+Eric Severson: um, reporting mechanism is around events, and she does a weekly event planner and an after-action report in Salesforce.com. It's the primary thing.
+
+00:01:39.000 --> 00:01:46.000
+Eric Severson: That the outreach team uses to manage their information, okay?
+
+00:01:47.000 --> 00:01:54.000
+Eric Severson: And this is a complete dump from 2020 to 2025 of the after-action rod data.
+
+00:01:55.000 --> 00:02:00.000
+Eric Severson: The thing that is so challenging about this is here, you will see.
+
+00:01:55.000 --> 00:01:57.000
+Tom Malek: Nice.
+
+00:02:01.000 --> 00:02:03.000
+Eric Severson: that they have…
+
+00:02:03.000 --> 00:02:08.000
+Eric Severson: embedded. There's no reference information here.
+
+00:02:08.000 --> 00:02:14.000
+Eric Severson: So, it's almost as though if you were sitting in a CRM.
+
+00:02:09.000 --> 00:02:12.000
+Tom Malek: Oh yeah, I'm used to using this. Yeah.
+
+00:02:17.000 --> 00:02:22.000
+Eric Severson: Yeah. So… they tried to tell me that ad code.
+
+00:02:22.000 --> 00:02:29.000
+Eric Severson: is generic to the events, it is not. They tried to tell me a bunch of different stuff that I kept going in here.
+
+00:02:29.000 --> 00:02:34.000
+Eric Severson: And finding, it is not. So I'm like, Caroline, I think you do want to get to the point where you can.
+
+00:02:34.000 --> 00:02:39.000
+Eric Severson: She just gave raw numbers. I'm like, Caroline, is that good news or bad news? And she just looked at me, she didn't know.
+
+00:02:39.000 --> 00:02:44.000
+Eric Severson: I'm like, let me help you with this. I think this is something that you might want to see.
+
+00:02:44.000 --> 00:02:50.000
+Eric Severson: Uh, Sherry thinks it's all bullshit. She thinks that her managers can manage it with their reps.
+
+00:02:50.000 --> 00:02:55.000
+Eric Severson: This is fucking adoption tracking, Tom. This is no different than all of the lessons learned about.
+
+00:02:52.000 --> 00:02:54.000
+Tom Malek: Mm-hmm, yes, correct, right.
+
+00:02:55.000 --> 00:02:59.000
+Eric Severson: If you don't provide management insight or oversight.
+
+00:02:59.000 --> 00:03:08.000
+Eric Severson: what are you doing? Well, we handle that on a one-on-one basis. You have 4 brand new managers. How do you know that they know how to give that information out, and then spreading silence.
+
+00:03:08.000 --> 00:03:10.000
+Tom Malek: Yes, I think… yeah.
+
+00:03:08.000 --> 00:03:12.000
+Eric Severson: Well, and so, what I've got…
+
+00:03:13.000 --> 00:03:15.000
+Eric Severson: Here…
+
+00:03:15.000 --> 00:03:21.000
+Eric Severson: is I cleaned it up, and, you know, and again, only because I'm stubborn did I sit down.
+
+00:03:21.000 --> 00:03:26.000
+Eric Severson: and clean up all their And right away.
+
+00:03:26.000 --> 00:03:29.000
+Eric Severson: They have a 4% lead…
+
+00:03:31.000 --> 00:03:34.000
+Eric Severson: Gen… drop off.
+
+00:03:34.000 --> 00:03:39.000
+Eric Severson: Fewer leads this year by 4% than last year.
+
+00:03:39.000 --> 00:03:45.000
+Eric Severson: Is that good news or bad news? I don't know yet, but that was the first thing. Did you know that? No, I did not know that.
+
+00:03:41.000 --> 00:03:43.000
+Tom Malek: That's terrible news.
+
+00:03:46.000 --> 00:03:51.000
+Eric Severson: Now, this is by program area.
+
+00:03:51.000 --> 00:03:55.000
+Eric Severson: By year. 25 is green.
+
+00:03:51.000 --> 00:03:53.000
+Tom Malek: Yep, that's what I was saying.
+
+00:03:55.000 --> 00:03:57.000
+Eric Severson: Look at that, from…
+
+00:03:57.000 --> 00:04:01.000
+Eric Severson: That's big in fire. That's big in OSH.
+
+00:04:01.000 --> 00:04:03.000
+Eric Severson: Up in CJ…
+
+00:04:03.000 --> 00:04:07.000
+Eric Severson: Here we have two new disciplines, nursing and education.
+
+00:04:05.000 --> 00:04:08.000
+Tom Malek: Yes. Yeah.
+
+00:04:07.000 --> 00:04:13.000
+Eric Severson: HR, I don't know why it went up, I don't even know what HC is, it's down. Blank is too much, that's.
+
+00:04:13.000 --> 00:04:18.000
+Eric Severson: hygiene. This is academic partnerships, no, and learning partnerships.
+
+00:04:16.000 --> 00:04:18.000
+Tom Malek: HC is healthcare information.
+
+00:04:18.000 --> 00:04:22.000
+Eric Severson: Healthcare. I don't know how that's different than nursing, do you?
+
+00:04:22.000 --> 00:04:24.000
+Tom Malek: No.
+
+00:04:23.000 --> 00:04:25.000
+Eric Severson: So…
+
+00:04:24.000 --> 00:04:31.000
+Tom Malek: But I'm guessing because Natalie Azell is the leader of nursing and healthcare, and that's the only thing on here that's HC.
+
+00:04:32.000 --> 00:04:45.000
+Eric Severson: we can look at this by program and owner, so that you could… or you could look at it by owner. I mean, once you get the data so that you can.
+
+00:04:45.000 --> 00:04:50.000
+Eric Severson: Manipulated, you can look at it 55 different ways.
+
+00:04:50.000 --> 00:04:57.000
+Eric Severson: Here's your blitzes, right? So, look at the difference in blitzes. 713 in 2024.
+
+00:04:51.000 --> 00:04:53.000
+Tom Malek: Yeah. Yep.
+
+00:04:58.000 --> 00:05:05.000
+Eric Severson: to 180 leads in 2025. So, they didn't do blitzes in 2025.
+
+00:05:05.000 --> 00:05:14.000
+Eric Severson: Of course, there's always that data hygiene thing. And so, again, she has said very positive things to me. Here is by person.
+
+00:05:14.000 --> 00:05:19.000
+Eric Severson: I wondered, is this across the board, or is this because you've promoted a bunch of new leaders.
+
+00:05:19.000 --> 00:05:32.000
+Eric Severson: in the middle of the year, and you took your strongest lead gen people and made them managers, where it's gonna be a year where you, you know, train them up. What is it? And she had no idea about any of this stuff.
+
+00:05:26.000 --> 00:05:28.000
+Tom Malek: Yes. Yeah.
+
+00:05:33.000 --> 00:05:39.000
+Eric Severson: So, here's a good example. Teresa is a, you know, she's a new manager.
+
+00:05:39.000 --> 00:05:44.000
+Eric Severson: That's last year, this is this year. There's a huge drop-off in lead gen.
+
+00:05:44.000 --> 00:05:49.000
+Eric Severson: For, uh, Natalie, there's a little drop off, not a huge, but a little one.
+
+00:05:50.000 --> 00:05:55.000
+Eric Severson: We add data labels in here, it'll be a little easier to see what they were. Add data labels.
+
+00:05:56.000 --> 00:06:01.000
+Eric Severson: Yeah, so, I mean, Teresa dropped in half, 729 to 382.
+
+00:06:02.000 --> 00:06:06.000
+Eric Severson: Uh, Renee Wright, almost in half, 502 to 398.
+
+00:06:07.000 --> 00:06:13.000
+Eric Severson: Where's Ernie? Ernie, of course, 1,200 to $1,000. Still, Ernie's, you know, Ernie's a workhorse, man.
+
+00:06:13.000 --> 00:06:21.000
+Eric Severson: Uh, Kim Smith, 1100 to 815. There are a bunch of them here that are down. A couple of new ones in here.
+
+00:06:20.000 --> 00:06:27.000
+Tom Malek: Is it because they split them out and made new territories, and now it's getting… but then you would see, like, other people.
+
+00:06:21.000 --> 00:06:23.000
+Eric Severson: So…
+
+00:06:28.000 --> 00:06:35.000
+Tom Malek: That's very… And then is it… are you looking at it year to… I mean, are the year-to-date things correct?
+
+00:06:28.000 --> 00:06:34.000
+Eric Severson: You… you're in the new one, so, Henry…
+
+00:06:38.000 --> 00:06:43.000
+Tom Malek: That's… this is all, like, likely to be true, though. That looks… that's probably accurate.
+
+00:06:41.000 --> 00:06:45.000
+Eric Severson: Yeah, I mean, that's the year-to-date thing is, well.
+
+00:06:51.000 --> 00:06:53.000
+Eric Severson: Uh, yeah, and so then…
+
+00:06:51.000 --> 00:06:53.000
+Tom Malek: He froze.
+
+00:06:54.000 --> 00:06:59.000
+Eric Severson: Education and nursing are up, yeah. So, this then gets to…
+
+00:07:00.000 --> 00:07:08.000
+Eric Severson: maybe that's good news. So a 4% decline in leads might not be bad news, right? It's certainly something you should know.
+
+00:07:08.000 --> 00:07:12.000
+Eric Severson: And you should know why, so you have a story for that.
+
+00:07:09.000 --> 00:07:13.000
+Tom Malek: But, you know, I guess there, again, it's like, if…
+
+00:07:13.000 --> 00:07:19.000
+Tom Malek: These seem so slight, like, if you saw giant whiffs, like, potentially.
+
+00:07:19.000 --> 00:07:30.000
+Tom Malek: fire… well, maybe there was a conference that didn't happen yet, or the conference was delayed. Like, last year it was, like, the second week of January, and this year it got moved to the first week of February.
+
+00:07:32.000 --> 00:07:43.000
+Tom Malek: I don't know, I mean, I'm used to working with you with data, and, like, the first thing that we do, typically, is go ahead and try to shoot holes in it, because the first thing someone's gonna do is at us about how it's not right.
+
+00:07:33.000 --> 00:07:36.000
+Eric Severson: Uh, from $44.90 to 29?
+
+00:07:40.000 --> 00:07:42.000
+Eric Severson: Sure.
+
+00:07:43.000 --> 00:07:49.000
+Eric Severson: Well, so, but this is just out of Salesforce, which we own 100%, so if it's not right.
+
+00:07:49.000 --> 00:07:55.000
+Eric Severson: the only thing you can point at is data maintenance and hygiene, right? And there is some of that, for sure.
+
+00:07:52.000 --> 00:08:02.000
+Tom Malek: Correct, yeah. But that's okay. If I were a manager, I would like to know that somebody didn't update their work, or that it's a problem like that, versus being down.
+
+00:08:02.000 --> 00:08:13.000
+Eric Severson: Alright, so right now, Sherry's got it all undercover and says, trust me, they know what they're doing. I'm like, okay, fine, but, you know, that's not an excuse for not having insight.
+
+00:08:07.000 --> 00:08:09.000
+Tom Malek: Yeah, yeah.
+
+00:08:13.000 --> 00:08:26.000
+Eric Severson: or potentially oversight as a management team. And let's say that that 4% overall decline in lead gen isn't necessarily bad. The next level that I was gonna look at.
+
+00:08:16.000 --> 00:08:18.000
+Tom Malek: Mm-hmm.
+
+00:08:26.000 --> 00:08:31.000
+Eric Severson: Is, look, if you're giving… in education and nursing.
+
+00:08:31.000 --> 00:08:33.000
+Eric Severson: Are… are we…
+
+00:08:33.000 --> 00:08:38.000
+Eric Severson: Focused on lead gen for undergrad, or disproportionately for grad?
+
+00:08:36.000 --> 00:08:38.000
+Tom Malek: Time period for this.
+
+00:08:38.000 --> 00:08:41.000
+Eric Severson: Because if you're replacing…
+
+00:08:41.000 --> 00:08:51.000
+Eric Severson: leads that were driving graduate or undergrad degrees in FIR with graduate degrees in education and nursing, you're going to be net ahead.
+
+00:08:49.000 --> 00:08:51.000
+Tom Malek: Yeah.
+
+00:08:51.000 --> 00:08:53.000
+Tom Malek: Yeah.
+
+00:08:52.000 --> 00:09:03.000
+Eric Severson: Right? So that's the next cut of this, would be to say, I suspect this is all about the year of transformation, where they elevated and specialized.
+
+00:09:03.000 --> 00:09:06.000
+Eric Severson: the teams. And you took probably.
+
+00:09:04.000 --> 00:09:13.000
+Tom Malek: Yes, and I would say, too, like, it looks like a zero-sum gain of the amount of people resources you have, that's where your leads are going to come from.
+
+00:09:06.000 --> 00:09:08.000
+Eric Severson: Yeah.
+
+00:09:14.000 --> 00:09:16.000
+Eric Severson: Correct.
+
+00:09:14.000 --> 00:09:25.000
+Tom Malek: So, are the nursing and education programs that you're selling more expensive and lead to more revenue than fire? Otherwise, you probably should have left them in fire, because you make more money.
+
+00:09:24.000 --> 00:09:35.000
+Eric Severson: Correct! Correct. And the other question is, is this a one-year adjustment while the team gets up to speed, or is it going to stay like this? And OSHA's probably.
+
+00:09:34.000 --> 00:09:40.000
+Tom Malek: Yeah, especially if they pulled people away to assign them something else. Yeah. These are all good questions that…
+
+00:09:36.000 --> 00:09:44.000
+Eric Severson: Correct. But the fact is, they're not having… the fact is, they're not having any of these conversations, and that's where I think.
+
+00:09:44.000 --> 00:09:55.000
+Eric Severson: That's why I keep doing this, to say, so there are some underlying things that I would like them to, hey, let me get to this point where Caroline can consume it.
+
+00:09:44.000 --> 00:09:46.000
+Tom Malek: They've never done it.
+
+00:09:55.000 --> 00:09:57.000
+Tom Malek: Mm-hmm.
+
+00:09:55.000 --> 00:10:01.000
+Eric Severson: Uh, and then I've spent a little bit more time with the underlying, you know, assumptions.
+
+00:10:01.000 --> 00:10:03.000
+Tom Malek: Yep.
+
+00:10:02.000 --> 00:10:07.000
+Eric Severson: The thing I want to get them to do is to say, look, I fixed this for you.
+
+00:10:07.000 --> 00:10:11.000
+Eric Severson: Now I want you to fix it in…
+
+00:10:11.000 --> 00:10:18.000
+Eric Severson: This is an ongoing cluster of a high magnitude.
+
+00:10:16.000 --> 00:10:22.000
+Tom Malek: Yeah, you gotta go in and, like, normalize the data, put it in the right labels, give it all the right naming, yeah.
+
+00:10:18.000 --> 00:10:21.000
+Eric Severson: Right? I want you guys to…
+
+00:10:22.000 --> 00:10:25.000
+Tom Malek: You know what you need, Eric? You need a glossary.
+
+00:10:22.000 --> 00:10:29.000
+Eric Severson: I've done that, but I'm not doing… I've done that one time for the entire history.
+
+00:10:30.000 --> 00:10:42.000
+Eric Severson: Yes, Exactly. But the problem is, every day they add to this, it up the data set, because there… there's all of these that are pink are my work.
+
+00:10:37.000 --> 00:10:40.000
+Tom Malek: Yes, of course. Yeah.
+
+00:10:42.000 --> 00:10:51.000
+Eric Severson: Look at all the cleaning and normalizing that's going on here. That's a of work. What they need to do is fix Salesforce, so the first thing you pick.
+
+00:10:42.000 --> 00:10:44.000
+Tom Malek: Yeah.
+
+00:10:51.000 --> 00:10:56.000
+Eric Severson: Is the generic instance of the… of the event.
+
+00:10:56.000 --> 00:11:03.000
+Eric Severson: Then you can customize it with the rest of this. This is super Bush League.
+
+00:10:57.000 --> 00:10:58.000
+Tom Malek: Yeah.
+
+00:11:01.000 --> 00:11:03.000
+Tom Malek: I don't think you heard me.
+
+00:11:03.000 --> 00:11:08.000
+Eric Severson: To be compounding it all together like that, and it just simply prevents you from doing.
+
+00:11:06.000 --> 00:11:08.000
+Tom Malek: Can you hear me? Are you there?
+
+00:11:08.000 --> 00:11:10.000
+Eric Severson: What, what?
+
+00:11:09.000 --> 00:11:15.000
+Tom Malek: I… you were going for a long time. I said… I said you need… you need to create a glossary.
+
+00:11:11.000 --> 00:11:13.000
+Eric Severson: Are we… are we stuck?
+
+00:11:13.000 --> 00:11:15.000
+Eric Severson: I am here.
+
+00:11:15.000 --> 00:11:17.000
+Eric Severson: Hello.
+
+00:11:18.000 --> 00:11:20.000
+Tom Malek: Can you hear me?
+
+00:11:20.000 --> 00:11:23.000
+Eric Severson: I can hear you, can you hear me?
+
+00:11:21.000 --> 00:11:23.000
+Tom Malek: you know?
+
+00:11:23.000 --> 00:11:29.000
+Tom Malek: Sometimes you were getting a little choppy, that's why I tried to stop you. Plus, you didn't laugh when I said you need to create a glossary.
+
+00:11:27.000 --> 00:11:29.000
+Eric Severson: Really?
+
+00:11:30.000 --> 00:11:33.000
+Eric Severson: No, no, I heard it. I heard it.
+
+00:11:35.000 --> 00:11:45.000
+Tom Malek: Yeah, so what I was saying, you go back to that graph that you had that showed all of that, like, what I want underneath it is, like, what I would call the total addressable market, so it's like, how many nurses, like.
+
+00:11:45.000 --> 00:11:55.000
+Tom Malek: Because you could say, credibly, you could say with fire, you… this is… this is a marketplace that is operating with the most legacy and the most, um…
+
+00:11:57.000 --> 00:12:10.000
+Tom Malek: efficiency. Like, you seem to know everybody, you've been to every conference, like, how are you going to grow that? You don't necessarily need more resources there, but you don't want to diminish your resources too much, because you can't afford to have the leads go down. It's a big… it's a profit center for you.
+
+00:12:10.000 --> 00:12:22.000
+Tom Malek: And then, with the OSH programs, it's like, what are you missing? Are there safety organizations or places that would consume safety programs? You mentioned one earlier with, uh…
+
+00:12:22.000 --> 00:12:27.000
+Tom Malek: uh, heavier industry. Uh, Huntington Ingalls would be a good one.
+
+00:12:27.000 --> 00:12:32.000
+Tom Malek: And so I'd like, you know, with education, like, what's the strategy? And then, do they have one?
+
+00:12:32.000 --> 00:12:36.000
+Tom Malek: Nursing is pretty clear, you just signed the ANA. That is… that is huge!
+
+00:12:37.000 --> 00:12:39.000
+Tom Malek: Because of the potential that it has.
+
+00:12:39.000 --> 00:12:41.000
+Eric Severson: Only if something happens.
+
+00:12:40.000 --> 00:12:45.000
+Tom Malek: Only if something happens. I don't see anything happening. There's nothing happening.
+
+00:12:41.000 --> 00:12:44.000
+Eric Severson: Only if something actively happens.
+
+00:12:45.000 --> 00:12:52.000
+Tom Malek: you know, you're squabbling over, like, getting a webpage built. How can you… how can you do outreach to, like, the biggest total addressable market?
+
+00:12:46.000 --> 00:12:48.000
+Eric Severson: Nope.
+
+00:12:53.000 --> 00:13:02.000
+Tom Malek: And then for you, it frees you up to, like, okay, what can you pull in? Like, can you get enough contacts in space to, like, have that covered by one of the…
+
+00:13:02.000 --> 00:13:04.000
+Tom Malek: One of these managers.
+
+00:13:07.000 --> 00:13:11.000
+Eric Severson: Right. So, for me, it's still…
+
+00:13:08.000 --> 00:13:14.000
+Tom Malek: And then, especially with the… with the, uh, that you're doing with NCCER and that…
+
+00:13:15.000 --> 00:13:17.000
+Tom Malek: whatever, 8, 8…
+
+00:13:17.000 --> 00:13:19.000
+Tom Malek: A CT.
+
+00:13:18.000 --> 00:13:22.000
+Eric Severson: ADTC. American Diesel Training Center.
+
+00:13:19.000 --> 00:13:21.000
+Tom Malek: ADTC.
+
+00:13:21.000 --> 00:13:23.000
+Tom Malek: CRTC RT.
+
+00:13:24.000 --> 00:13:28.000
+Eric Severson: 8, well, them, them two. That got…
+
+00:13:26.000 --> 00:13:28.000
+Tom Malek: For CTR.
+
+00:13:28.000 --> 00:13:31.000
+Eric Severson: That got… we had a meeting with them last week where…
+
+00:13:31.000 --> 00:13:35.000
+Eric Severson: The academics got anxious about…
+
+00:13:35.000 --> 00:13:37.000
+Eric Severson: The.
+
+00:13:38.000 --> 00:13:40.000
+Eric Severson: Of course.
+
+00:13:43.000 --> 00:13:45.000
+Eric Severson: The issue there became…
+
+00:13:46.000 --> 00:13:47.000
+Eric Severson: What do we do about the.
+
+00:13:48.000 --> 00:13:49.000
+Eric Severson: Community college relationship.
+
+00:13:49.000 --> 00:13:51.000
+Tom Malek: Yeah.
+
+00:13:51.000 --> 00:13:53.000
+Eric Severson: So…
+
+00:13:54.000 --> 00:13:59.000
+Eric Severson: Well, I'll send this to you. You can, you know, use this not in an addressable market way.
+
+00:13:59.000 --> 00:14:02.000
+Eric Severson: I mean, honestly, they should be looking at…
+
+00:14:02.000 --> 00:14:09.000
+Eric Severson: And this is Sherry, and so I'm not gonna get in the way of this. I mean, look, they've clearly figured out how to start new.
+
+00:14:09.000 --> 00:14:12.000
+Eric Severson: Programs in education and nursing.
+
+00:14:11.000 --> 00:14:13.000
+Tom Malek: Yeah.
+
+00:14:12.000 --> 00:14:20.000
+Eric Severson: I do think that with two guys, Eric and Tony, you don't really need us in something like education.
+
+00:14:20.000 --> 00:14:28.000
+Eric Severson: Education is super easy to figure out, right? There's a structure that is visible and clear.
+
+00:14:24.000 --> 00:14:26.000
+Tom Malek: Yeah.
+
+00:14:28.000 --> 00:14:35.000
+Eric Severson: To every state and every county and every city. You… this education is the ultimate.
+
+00:14:36.000 --> 00:14:46.000
+Eric Severson: You need bodies to cover the events, period. I think nursing is similar. It's not hard to figure out the organization of healthcare.
+
+00:14:42.000 --> 00:14:44.000
+Tom Malek: Yeah.
+
+00:14:47.000 --> 00:14:53.000
+Eric Severson: Space is different. There's no unifying place, and there's a.
+
+00:14:49.000 --> 00:14:51.000
+Tom Malek: Yeah.
+
+00:14:53.000 --> 00:14:57.000
+Eric Severson: Confusion of military, civilian. This is where…
+
+00:14:55.000 --> 00:14:58.000
+Tom Malek: And there's only so many companies.
+
+00:14:57.000 --> 00:15:07.000
+Eric Severson: Correct, and this is where Eric and Tony can be much more useful. Education and nursing is largely about geography, right? Because there are.
+
+00:15:07.000 --> 00:15:15.000
+Eric Severson: Schools and hospitals everywhere, predictably. Aerospace does not have that same.
+
+00:15:15.000 --> 00:15:20.000
+Eric Severson: You know, underlying assumption. You gotta go figure out where is it, exactly.
+
+00:15:20.000 --> 00:15:30.000
+Eric Severson: That's useful for Eric and Tony, not education. Now, that doesn't mean education isn't a big upside, and this is one of the things.
+
+00:15:30.000 --> 00:15:35.000
+Eric Severson: I wanted to get to with Caroline is, from a staffing strategy perspective.
+
+00:15:35.000 --> 00:15:45.000
+Eric Severson: How do you know whether or not the teams that you've built are adequate for the opportunity that CSU is facing?
+
+00:15:45.000 --> 00:15:59.000
+Tom Malek: Oh, we can't do that, Eric. Oh, no, we can't do that. Like, it's all, like, we all have it, it's like, oh, you just, it's all apples and oranges. You can't, like, measure any of that. You think we can trust any of our systems? No. We do it based on how we've always done it, and look at how successful we've been.
+
+00:15:45.000 --> 00:15:47.000
+Eric Severson: This gets…
+
+00:15:59.000 --> 00:16:01.000
+Tom Malek: Sorry.
+
+00:16:00.000 --> 00:16:06.000
+Eric Severson: I got it. And so, at least I want to bring a visibility to that.
+
+00:16:06.000 --> 00:16:17.000
+Eric Severson: Uh, effort. So, the other thing is, is, is the same adoption tracking stuff, where they're building… I sat with, with Ernie, who I like.
+
+00:16:17.000 --> 00:16:24.000
+Eric Severson: quite a bit. He is a little tedious, but a smart, you know, head and heart are aligned, and he's a worker.
+
+00:16:18.000 --> 00:16:20.000
+Tom Malek: Mm-hmm.
+
+00:16:24.000 --> 00:16:29.000
+Eric Severson: And he's going through finishing off their itineraries for the year. And when I asked him about it.
+
+00:16:29.000 --> 00:16:35.000
+Eric Severson: How do you do that? There's… it's all one-on-one with the manager and the individual.
+
+00:16:36.000 --> 00:16:41.000
+Eric Severson: And it's pretty much what we did last year, right?
+
+00:16:41.000 --> 00:16:47.000
+Eric Severson: Uh, and so, okay, there's also, I guarantee there are ways to look at.
+
+00:16:48.000 --> 00:16:52.000
+Eric Severson: individual performance in this whole thing. So what we don't have.
+
+00:16:53.000 --> 00:16:59.000
+Eric Severson: in this data, and what I'm aware of, but it's too much work for me to take on right now.
+
+00:16:59.000 --> 00:17:03.000
+Eric Severson: Is calculating conversion.
+
+00:17:03.000 --> 00:17:09.000
+Eric Severson: by cohort. So, we have overall conversion assumptions.
+
+00:17:06.000 --> 00:17:08.000
+Tom Malek: Yeah.
+
+00:17:09.000 --> 00:17:15.000
+Eric Severson: But at UTI, we would do both generalized functions, meaning.
+
+00:17:15.000 --> 00:17:28.000
+Eric Severson: Let's do all conversion and fire, all conversion and safety. Versus, let's look very specifically at this lead converted to this application, to this enrollment.
+
+00:17:28.000 --> 00:17:34.000
+Eric Severson: by this person. Then you can see, do you have differences in conversion.
+
+00:17:34.000 --> 00:17:44.000
+Eric Severson: by outreach Rep. So, yep, they're not actually enrolling, but they are… there is a level of preparation and follow-up to that handoff.
+
+00:17:45.000 --> 00:17:51.000
+Eric Severson: That I think probably varies across the team and, you know, and again.
+
+00:17:51.000 --> 00:17:57.000
+Eric Severson: I don't know that we can get to this until Jason has really.
+
+00:17:57.000 --> 00:18:03.000
+Eric Severson: Unfuck the plumbing, right? Because… yeah, but there is way… there are definitely ways.
+
+00:17:59.000 --> 00:18:01.000
+Tom Malek: Oh, yeah.
+
+00:18:01.000 --> 00:18:03.000
+Tom Malek: Wow.
+
+00:18:04.000 --> 00:18:09.000
+Eric Severson: to evaluate rep performance and outreach. It's certainly more than just raw numbers.
+
+00:18:09.000 --> 00:18:17.000
+Eric Severson: But it is raw numbers. How many did you go to? How many leads did you create? And then… and then how many of those turned into enrollments is a reasonable.
+
+00:18:17.000 --> 00:18:19.000
+Tom Malek: Oh, yeah. Yep.
+
+00:18:17.000 --> 00:18:19.000
+Eric Severson: Thing to look for.
+
+00:18:19.000 --> 00:18:21.000
+Eric Severson: We can't do that today.
+
+00:18:20.000 --> 00:18:22.000
+Tom Malek: No.
+
+00:18:21.000 --> 00:18:23.000
+Eric Severson: Yeah.
+
+00:18:26.000 --> 00:18:29.000
+Eric Severson: Of the things, if you think about…
+
+00:18:26.000 --> 00:18:31.000
+Tom Malek: Yeah, thanks for showing that to me, that's pretty cool. I'm glad it all exists.
+
+00:18:29.000 --> 00:18:33.000
+Eric Severson: Yeah, I'll send it to you. And again, my biggest bugaboo is…
+
+00:18:33.000 --> 00:18:37.000
+Tom Malek: All I've ever seen is a report that shows…
+
+00:18:34.000 --> 00:18:36.000
+Eric Severson: Can we…
+
+00:18:37.000 --> 00:18:39.000
+Tom Malek: by account.
+
+00:18:40.000 --> 00:18:42.000
+Tom Malek: Um…
+
+00:18:42.000 --> 00:18:46.000
+Tom Malek: Leads, applications, and uh… enrollments.
+
+00:18:48.000 --> 00:18:53.000
+Tom Malek: And I've always used those. Like, one of the scariest numbers that I saw.
+
+00:18:52.000 --> 00:18:54.000
+Eric Severson: Across multiple years?
+
+00:18:54.000 --> 00:18:56.000
+Tom Malek: Uh-huh.
+
+00:18:55.000 --> 00:18:57.000
+Eric Severson: Across multiple years?
+
+00:18:56.000 --> 00:18:58.000
+Tom Malek: Yes.
+
+00:18:57.000 --> 00:18:59.000
+Eric Severson: I don't think I've ever seen that.
+
+00:18:59.000 --> 00:19:06.000
+Tom Malek: Ed… Ed Weathington had to send me the data. He had to, like, pull the… pull the together and send it to me in a file.
+
+00:19:07.000 --> 00:19:09.000
+Eric Severson: Yeah.
+
+00:19:09.000 --> 00:19:16.000
+Tom Malek: But that now goes back 3 or 4 years. But then, even when I took that, I've sent that to you, like, years ago.
+
+00:19:12.000 --> 00:19:14.000
+Eric Severson: You…
+
+00:19:15.000 --> 00:19:18.000
+Eric Severson: Yeah, I have it, and I can get it.
+
+00:19:16.000 --> 00:19:26.000
+Tom Malek: Yeah, you don't have to go… it's nothing to look at, it's just… it's just what we're talking about. Like, it's the kind of report you would have for, you know, the… your monthly update as a sales manager at…
+
+00:19:26.000 --> 00:19:28.000
+Tom Malek: You know, Pearson Industries.
+
+00:19:28.000 --> 00:19:31.000
+Eric Severson: In 1992.
+
+00:19:32.000 --> 00:19:36.000
+Tom Malek: Well, certainly by 97, Matt changed the world, dude.
+
+00:19:36.000 --> 00:19:42.000
+Eric Severson: It made it a little better. So, again, I'm gonna finish this off and give it to her, let her dig into.
+
+00:19:42.000 --> 00:19:51.000
+Eric Severson: you know, I'm happy to help you with this stuff. Uh, for you, I would be happier if you went about expanding your…
+
+00:19:51.000 --> 00:19:57.000
+Eric Severson: footprint in the AI range outside of Caroline. This stuff…
+
+00:19:55.000 --> 00:19:57.000
+Tom Malek: Yep.
+
+00:19:57.000 --> 00:20:00.000
+Eric Severson: I think is a comment about…
+
+00:20:00.000 --> 00:20:06.000
+Eric Severson: You know, there are two… you should have management visibility, and you don't, really, right?
+
+00:20:05.000 --> 00:20:07.000
+Tom Malek: No, right.
+
+00:20:06.000 --> 00:20:12.000
+Eric Severson: And all the time you put metrics together, it's a single point in time.
+
+00:20:12.000 --> 00:20:17.000
+Eric Severson: So, these are things that will help you. We really need to look at the degree of.
+
+00:20:18.000 --> 00:20:24.000
+Eric Severson: degree enrollment or application in FIR and OSH versus education and nursing.
+
+00:20:25.000 --> 00:20:26.000
+Eric Severson: If you're trading.
+
+00:20:27.000 --> 00:20:29.000
+Eric Severson: Uh…
+
+00:20:29.000 --> 00:20:37.000
+Eric Severson: bachelor's for master's, that's a net revenue gain. If you're trading master's for bachelor's, that's not a net revenue gain.
+
+00:20:33.000 --> 00:20:35.000
+Tom Malek: Yeah.
+
+00:20:37.000 --> 00:20:46.000
+Eric Severson: That's super easy, since we have a one-size-fits-all pricing model. By the way, that's probably another thing to pick up with Ken at some point, to go, hey.
+
+00:20:37.000 --> 00:20:39.000
+Tom Malek: Right.
+
+00:20:41.000 --> 00:20:43.000
+Tom Malek: Yeah.
+
+00:20:46.000 --> 00:20:51.000
+Eric Severson: You ever think about pricing relative to the salaries that people get? Does it make any sense to you that you.
+
+00:20:51.000 --> 00:20:56.000
+Eric Severson: Charge the same amount to generate a social worker as you do a cybercrime specialist.
+
+00:20:56.000 --> 00:21:03.000
+Eric Severson: Right? When you know that social worker's gonna make jack and that cybercrime specialist is gonna make a bunch of money.
+
+00:21:04.000 --> 00:21:06.000
+Eric Severson: Um…
+
+00:21:06.000 --> 00:21:12.000
+Eric Severson: It's easier to calculate, you know, how things are going, but if you're ever really in a squeeze for profitability.
+
+00:21:11.000 --> 00:21:15.000
+Tom Malek: I don't think I ever realized that. They charge the same for every degree?
+
+00:21:15.000 --> 00:21:17.000
+Eric Severson: Yep. Yep.
+
+00:21:18.000 --> 00:21:22.000
+Eric Severson: If you look at our… it's a… it's a credit hour, uh, cost.
+
+00:21:22.000 --> 00:21:29.000
+Eric Severson: I don't know how many universities differentiate. I know UTI sure the does.
+
+00:21:29.000 --> 00:21:38.000
+Eric Severson: Uh, yeah, I don't know how many universities differentiate. If you're an undergrad, you're probably playing the same for computer science, engineering, or social work.
+
+00:21:29.000 --> 00:21:31.000
+Tom Malek: Oh, yeah.
+
+00:21:38.000 --> 00:21:43.000
+Eric Severson: Is that right? No, that seems a little fucked, to me, at least.
+
+00:21:43.000 --> 00:21:48.000
+Eric Severson: And so, I wouldn't lower the social work, I would raise the tuition.
+
+00:21:48.000 --> 00:21:55.000
+Eric Severson: I would look at the tuition as it applies, as it aligns to expected earnings, right?
+
+00:21:56.000 --> 00:22:01.000
+Eric Severson: At least think about it, uh, as a way to adjust things.
+
+00:22:01.000 --> 00:22:08.000
+Eric Severson: Um, because we definitely did that at UTI big time. Uh, and I know, because I was constantly working on.
+
+00:22:08.000 --> 00:22:14.000
+Eric Severson: The incentive metrics and the legal people hated anything that looked like a percentage of tuition.
+
+00:22:15.000 --> 00:22:19.000
+Eric Severson: They hated it. They felt like it exposed us legally to all sorts of problems.
+
+00:22:20.000 --> 00:22:24.000
+Eric Severson: Which is why, you know, I spent so much time rolling around in that.
+
+00:22:25.000 --> 00:22:27.000
+Tom Malek: Yeah.
+
+00:22:25.000 --> 00:22:30.000
+Eric Severson: And there may be a good answer for it, it's probably some big-ass thing about.
+
+00:22:30.000 --> 00:22:35.000
+Eric Severson: affordability. Um, and I, you know, again, I wouldn't…
+
+00:22:35.000 --> 00:22:37.000
+Eric Severson: Push too hard, but…
+
+00:22:37.000 --> 00:22:47.000
+Eric Severson: You know, the cost of materials seem like an easy area for you to bring in a hard ass if you really need to look for margin, uh, distance quickly.
+
+00:22:47.000 --> 00:22:58.000
+Eric Severson: I would say beat the out of the publishers to see what can happen there. And the other place would be, you know, look carefully at differentiated pricing.
+
+00:22:58.000 --> 00:23:00.000
+Eric Severson: Those are two things you could do.
+
+00:23:00.000 --> 00:23:04.000
+Tom Malek: And then how much did, uh… it was $15 million in publishing?
+
+00:23:00.000 --> 00:23:02.000
+Eric Severson: Relatively.
+
+00:23:03.000 --> 00:23:08.000
+Eric Severson: 15 to 18. Somewhere in between 15 and 18.
+
+00:23:10.000 --> 00:23:15.000
+Eric Severson: Again, it's not in the nature of the place, but if you… if Ken needed.
+
+00:23:16.000 --> 00:23:22.000
+Eric Severson: To look at margin improvement rapidly, the two things that I can think of that you could do.
+
+00:23:22.000 --> 00:23:30.000
+Eric Severson: Without tremendous amounts of internal turmoil is, again, beat the living out of the publishers.
+
+00:23:30.000 --> 00:23:35.000
+Eric Severson: And, uh… and then look at differentiated pricing.
+
+00:23:36.000 --> 00:23:41.000
+Eric Severson: of the two, differentiated pricing would be even easier. You just put it in place.
+
+00:23:39.000 --> 00:23:49.000
+Tom Malek: I mean, I like throwing low numbers out there, so, like, what I would tell Ken on $15 million, just 5% is $750,000.
+
+00:23:49.000 --> 00:23:51.000
+Eric Severson: Sure.
+
+00:23:49.000 --> 00:23:57.000
+Tom Malek: So, like, you know, 10% is a million and a half. That might be a tough nut if you've already… if you're using eBooks that are already super cheap.
+
+00:23:57.000 --> 00:24:02.000
+Eric Severson: How do we know they are super cheap? Who do you suppose negotiated super cheap? Wendy?
+
+00:23:57.000 --> 00:24:00.000
+Tom Malek: In which… in which… in which way?
+
+00:24:05.000 --> 00:24:07.000
+Tom Malek: Yeah, I mean, that's a good point.
+
+00:24:08.000 --> 00:24:12.000
+Tom Malek: But… I mean, e-books are sold on the open market for, like.
+
+00:24:13.000 --> 00:24:20.000
+Tom Malek: $39.99 for a semester's youth, and if you're ringing the bell on that every 6 weeks using the same book.
+
+00:24:20.000 --> 00:24:26.000
+Tom Malek: You know, for like 10 different terms, like, I mean, who's looking at those details just to make sure that you're not doing that?
+
+00:24:26.000 --> 00:24:28.000
+Eric Severson: Nobody, right?
+
+00:24:28.000 --> 00:24:30.000
+Eric Severson: It's a big number.
+
+00:24:29.000 --> 00:24:37.000
+Tom Malek: I mean, but it's possible that, hey, we're going to give you a book on the individual and not on the, like, student ID number. I don't know, there's lots of ways to kind of look at.
+
+00:24:37.000 --> 00:24:43.000
+Tom Malek: Yeah, so yeah, you're right, if he wants to save $1,000,000, I mean, that's less than 10% of what you're spending.
+
+00:24:45.000 --> 00:24:48.000
+Tom Malek: That seems like a pretty easy ask.
+
+00:24:49.000 --> 00:24:55.000
+Tom Malek: Now, the challenge is gonna go back… the challenge would go back to Janelle, like, hey, sorry, Janelle, but…
+
+00:24:49.000 --> 00:24:52.000
+Eric Severson: Yep, differentiated pricing.
+
+00:24:55.000 --> 00:25:02.000
+Tom Malek: You know, these 40 classes… these 40 courses that you've selected materials on in your business program, they all have to change to Cengage.
+
+00:25:03.000 --> 00:25:09.000
+Tom Malek: You can no longer use Pearson, so, like, go to… but they're so frickin' interchangeable, that shouldn't be hard.
+
+00:25:05.000 --> 00:25:08.000
+Eric Severson: Well, there's… there's probably…
+
+00:25:09.000 --> 00:25:15.000
+Eric Severson: There's probably some… I mean, again, I… of the many documents that I wrote, one of them.
+
+00:25:15.000 --> 00:25:20.000
+Eric Severson: That you have is all about complete independence on materials.
+
+00:25:21.000 --> 00:25:25.000
+Eric Severson: Right? And so there could be a route that just looks at.
+
+00:25:25.000 --> 00:25:30.000
+Eric Severson: where is there an area that you could start to either use OER, or…
+
+00:25:30.000 --> 00:25:33.000
+Eric Severson: if… again, back to the AI thought.
+
+00:25:33.000 --> 00:25:38.000
+Eric Severson: What does the AI progress suggest for.
+
+00:25:38.000 --> 00:25:43.000
+Eric Severson: Institutions, and their relationship with publishers and content.
+
+00:25:43.000 --> 00:25:55.000
+Eric Severson: Right? And what are those… what are the opportunities in there? You could start off at a very basic level. When was the last time you brought in all your publishers and put their knuckles in a vice?
+
+00:25:55.000 --> 00:26:04.000
+Eric Severson: and said, honestly, and just cranked the bejesus out of it, nobody here does that. They take the price as the price, right? I used to have.
+
+00:26:01.000 --> 00:26:03.000
+Tom Malek: No.
+
+00:26:04.000 --> 00:26:11.000
+Eric Severson: At Pearson, I used to have conversations about negotiating with the hotels because things were getting too expensive, and.
+
+00:26:11.000 --> 00:26:16.000
+Eric Severson: That the woman that did all of the event planning negotiated, never.
+
+00:26:16.000 --> 00:26:18.000
+Tom Malek: Yeah.
+
+00:26:16.000 --> 00:26:22.000
+Eric Severson: Well, that's the price. I'm like, did you ask? Well, no, that's the price. They gave me the price for Priceless.
+
+00:26:21.000 --> 00:26:24.000
+Tom Malek: You said you wanted to go here.
+
+00:26:22.000 --> 00:26:28.000
+Eric Severson: Yeah. I was like, because it's not her budget, and not her money, and she didn't really care. And so…
+
+00:26:28.000 --> 00:26:29.000
+Tom Malek: Right.
+
+00:26:28.000 --> 00:26:33.000
+Eric Severson: It's the same premise here of saying, alright, put the publishers under duress.
+
+00:26:34.000 --> 00:26:43.000
+Eric Severson: And let's see what happens. You'll probably get something out of that. And then, who is thinking about, actively, the instructional materials model.
+
+00:26:44.000 --> 00:26:52.000
+Eric Severson: in the New World. Uh, and again, we know at least one major online publisher in.
+
+00:26:52.000 --> 00:26:57.000
+Eric Severson: University of Phoenix went from being Pearson's number one customer to nothing.
+
+00:26:57.000 --> 00:27:03.000
+Eric Severson: And University of Phoenix didn't do anything but gain benefit out of that. So we should look at that model and say.
+
+00:27:03.000 --> 00:27:09.000
+Eric Severson: What can we learn from that about course materials and an online institution?
+
+00:27:09.000 --> 00:27:13.000
+Eric Severson: And, you know, what do you want to… how do you want to handle that?
+
+00:27:14.000 --> 00:27:17.000
+Eric Severson: Is anybody talking about that, for sake, right?
+
+00:27:16.000 --> 00:27:18.000
+Tom Malek: Probably not. I'll… I mean…
+
+00:27:18.000 --> 00:27:28.000
+Tom Malek: I kind of want to ask, but I kind of don't want to do that work. Oh, hey, meet Tom, former publishing guy who's going to squeeze the out of your knuckles, right? You know, it's like, oh, meet Pat Sullivan.
+
+00:27:29.000 --> 00:27:33.000
+Tom Malek: I hated that guy. I don't want to hate… I don't want people…
+
+00:27:34.000 --> 00:27:38.000
+Tom Malek: But, if we could, like, be in the background and help Wendy, fine.
+
+00:27:39.000 --> 00:27:45.000
+Eric Severson: Yeah, I mean, I don't really care anymore about that. I have no desire to work for a publisher again, so it'd be…
+
+00:27:42.000 --> 00:27:44.000
+Tom Malek: No.
+
+00:27:44.000 --> 00:27:48.000
+Tom Malek: No, right, that's what I'm… okay, so you're saying that…
+
+00:27:47.000 --> 00:27:58.000
+Eric Severson: Yeah. I mean, it would be… I would… I would feel bad for Allie's out of it. I would feel bad for Beth Munoz, maybe, but I don't know how bad I would feel about that.
+
+00:27:48.000 --> 00:27:50.000
+Tom Malek: It doesn't matter, it doesn't matter.
+
+00:27:56.000 --> 00:28:07.000
+Tom Malek: I don't even know if it's her. I mean, it would be Scott Schaefer. He would have, like, skin in the game with McGraw-Hill, but, you know, likelihood, he probably has the least amount of market share, and it might be a way that he could.
+
+00:28:07.000 --> 00:28:10.000
+Tom Malek: Expand his, you know, somebody's gonna win.
+
+00:28:10.000 --> 00:28:26.000
+Tom Malek: But we need to review all the to be able to see what you could do. Alright, I might ask if I can review the file. Hey, look, I mean, I would assume working with Wendy, who enables and supports his whiskey buying, be a lot more fun than working with Caroline, who's been beating on me lately.
+
+00:28:14.000 --> 00:28:17.000
+Eric Severson: I bet you we're paying rack rate?
+
+00:28:27.000 --> 00:28:29.000
+Eric Severson: Maybe.
+
+00:28:30.000 --> 00:28:32.000
+Eric Severson: Baby!
+
+00:28:31.000 --> 00:28:33.000
+Tom Malek: Alright.
+
+00:28:33.000 --> 00:28:35.000
+Tom Malek: Well…
+
+00:28:34.000 --> 00:28:38.000
+Eric Severson: So, I'll… I'll send you this. Don't do…
+
+00:28:37.000 --> 00:28:39.000
+Tom Malek: Do you miss the winter wonderland?
+
+00:28:39.000 --> 00:28:44.000
+Eric Severson: Oh, yeah, no, I'll… I want nothing to do with that.
+
+00:28:42.000 --> 00:28:44.000
+Tom Malek: It's not too bad.
+
+00:28:44.000 --> 00:28:46.000
+Eric Severson: No, thank you.
+
+00:28:45.000 --> 00:28:47.000
+Tom Malek: Yeah.
+
+00:28:46.000 --> 00:28:48.000
+Eric Severson: Sunny and 70 here today.
+
+00:28:51.000 --> 00:28:53.000
+Tom Malek: That's awesome.
+
+00:28:52.000 --> 00:28:56.000
+Eric Severson: Yeah. What else? What else should we chat about? Anything?
+
+00:28:53.000 --> 00:28:55.000
+Tom Malek: Alright.
+
+00:28:55.000 --> 00:28:58.000
+Tom Malek: No, thanks for talking to me, it was good, yeah.
+
+00:28:58.000 --> 00:29:01.000
+Eric Severson: Yeah, I…
+
+00:28:59.000 --> 00:29:03.000
+Tom Malek: I'll, uh, I'll follow up with Ken this week and keep things moving.
+
+00:29:02.000 --> 00:29:08.000
+Eric Severson: Yeah, I'm excited for you to pull me along with that, and then just, you know, in the interest of.
+
+00:29:08.000 --> 00:29:11.000
+Eric Severson: of smooth water. Keep.
+
+00:29:12.000 --> 00:29:14.000
+Eric Severson: Caroline involved.
+
+00:29:14.000 --> 00:29:16.000
+Eric Severson: Uh, with this whole thing, so…
+
+00:29:15.000 --> 00:29:18.000
+Tom Malek: Yeah, I'll forward anything I write to Ken, I'll forward it to her.
+
+00:29:18.000 --> 00:29:20.000
+Eric Severson: Okay.
+
+00:29:19.000 --> 00:29:21.000
+Tom Malek: No problem.
+
+00:29:21.000 --> 00:29:23.000
+Eric Severson: What else? Anything else?
+
+00:29:22.000 --> 00:29:24.000
+Tom Malek: I don't think so, should there be?
+
+00:29:24.000 --> 00:29:26.000
+Eric Severson: I don't think so.
+
+00:29:25.000 --> 00:29:27.000
+Tom Malek: Okay.
+
+00:29:26.000 --> 00:29:28.000
+Eric Severson: See ya.
+
+00:29:27.000 --> 00:29:29.000
+Tom Malek: Bye.
+

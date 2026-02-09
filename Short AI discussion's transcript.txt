@@ -1,0 +1,365 @@
+WEBVTT
+
+00:00:42.000 --> 00:00:44.000
+Jennifer LeeHooper: Good morning.
+
+00:00:43.000 --> 00:00:52.000
+Eric Severson: Hey, good morning, Jennifer. I don't remember if I mentioned this to you when I was darkening your doorstep, but prior to meeting you, I had reached out to Sonya.
+
+00:00:52.000 --> 00:00:56.000
+Eric Severson: Saying, hey, curious about having a quick conversation about this, so…
+
+00:00:56.000 --> 00:00:59.000
+Eric Severson: That was the genesis for all this.
+
+00:00:59.000 --> 00:01:01.000
+Jennifer LeeHooper: Oh, wonderful.
+
+00:01:01.000 --> 00:01:03.000
+Sonya Kopp: Hey, Eric!
+
+00:01:02.000 --> 00:01:04.000
+Eric Severson: Sonya, how are you today?
+
+00:01:04.000 --> 00:01:06.000
+Sonya Kopp: I'm alright, thanks.
+
+00:01:06.000 --> 00:01:08.000
+Eric Severson: Okay.
+
+00:01:06.000 --> 00:01:08.000
+Sonya Kopp: Alright, so…
+
+00:01:07.000 --> 00:01:09.000
+Jennifer LeeHooper: Okay.
+
+00:01:09.000 --> 00:01:12.000
+Sonya Kopp: What did you want to chat with us about?
+
+00:01:12.000 --> 00:01:16.000
+Eric Severson: So, uh, when… I have a…
+
+00:01:16.000 --> 00:01:21.000
+Eric Severson: experience at a for-profit trade school, Universal Technical Institute, where.
+
+00:01:21.000 --> 00:01:30.000
+Eric Severson: I was the head of admissions, and we had a fair amount of iterations every time we wanted to do a.
+
+00:01:30.000 --> 00:01:38.000
+Eric Severson: marketing brochure, landing page revision, going through… we had a marketing contact, and then things would go through legal compliance as well.
+
+00:01:38.000 --> 00:01:45.000
+Eric Severson: And I just remember that being a process that had a lot of.
+
+00:01:45.000 --> 00:01:54.000
+Eric Severson: education potential for my team. We were, uh, caught in these iterations where we would submit things, requests, and they would get pushed back.
+
+00:01:54.000 --> 00:01:59.000
+Eric Severson: And it would go through a very long process, with several iterations, getting to.
+
+00:01:59.000 --> 00:02:08.000
+Eric Severson: what UTI considered compliant, uh, copy. And, uh, since then, I've spent a couple of years working as an AI consultant.
+
+00:02:08.000 --> 00:02:18.000
+Eric Severson: And I was just super curious to see… I now, as a business development guy at CSU, I'm looking at wanting to revise a bunch of landing pages for our learning partners.
+
+00:02:18.000 --> 00:02:25.000
+Eric Severson: And I'm already seeing a little bit of, not friction, but a little bit of iteration when we ask for marketing flyers or tools.
+
+00:02:25.000 --> 00:02:34.000
+Eric Severson: And I just wanted to ask about, you know, the perspective on using AI as a way to help people submit.
+
+00:02:35.000 --> 00:02:38.000
+Eric Severson: Close to compliant, ready, uh, copy.
+
+00:02:39.000 --> 00:02:43.000
+Eric Severson: Has that been a conversation or a topic or anything you guys have thought about?
+
+00:02:43.000 --> 00:02:48.000
+Sonya Kopp: It has, um, we've… we've worked hard talking with, um…
+
+00:02:48.000 --> 00:02:55.000
+Sonya Kopp: the marketing to develop… to develop something. I don't know where they are on that.
+
+00:02:55.000 --> 00:03:00.000
+Sonya Kopp: Which is one of the reasons I suggested looping in marketing in this.
+
+00:03:00.000 --> 00:03:02.000
+Eric Severson: Sure.
+
+00:03:01.000 --> 00:03:07.000
+Sonya Kopp: Um, but yeah, it has been a conversation, um, so that…
+
+00:03:07.000 --> 00:03:10.000
+Sonya Kopp: That first review could be done by…
+
+00:03:11.000 --> 00:03:14.000
+Sonya Kopp: AI after we have loaded everything in.
+
+00:03:14.000 --> 00:03:25.000
+Eric Severson: Okay. Uh, and who in marketing are you working with, or could I reach out to? Certainly, Dale, I know Dale, but is it Brittany Armistead or Brittany, uh, BG?
+
+00:03:26.000 --> 00:03:31.000
+Sonya Kopp: It would be with Dale and BG, I'm not exactly sure, but I think…
+
+00:03:31.000 --> 00:03:33.000
+Sonya Kopp: Connor?
+
+00:03:33.000 --> 00:03:40.000
+Sonya Kopp: Maze was the person that was working on that, but like I said, I don't know where that lies right now.
+
+00:03:35.000 --> 00:03:37.000
+Eric Severson: Mm-hmm.
+
+00:03:40.000 --> 00:03:51.000
+Eric Severson: Okay. Um, well, I'll go ahead and… I have something, because of the prior experience and me just wondering, is this a way to…
+
+00:03:51.000 --> 00:03:56.000
+Eric Severson: start to educate my team, me, Tony, and Dwayne on this process.
+
+00:03:56.000 --> 00:04:03.000
+Eric Severson: Uh, happy to run that through you if you'd like to see it or have an idea about how it works, or I can just go talk to BG and Dale to say, hey, is this…
+
+00:04:03.000 --> 00:04:06.000
+Eric Severson: Is this the kind of thing you're thinking about? Can I help you with this?
+
+00:04:08.000 --> 00:04:15.000
+Sonya Kopp: I'd be happy to, you know, to have a conversation with all of us. I would, you know, I would prefer to have.
+
+00:04:16.000 --> 00:04:23.000
+Sonya Kopp: group meetings, as opposed to multiple, multiple, multiple meetings. Just have everybody in the same conversation.
+
+00:04:18.000 --> 00:04:20.000
+Eric Severson: Sure.
+
+00:04:23.000 --> 00:04:28.000
+Eric Severson: Totally makes sense. So, I'll go ahead and connect with those guys, and if they've already got something that they're.
+
+00:04:29.000 --> 00:04:34.000
+Eric Severson: they're done and they're working on, great. Uh, I know this is a…
+
+00:04:34.000 --> 00:04:36.000
+Eric Severson: Uh, something that I…
+
+00:04:36.000 --> 00:04:45.000
+Eric Severson: want to try to help reduce the friction on and educate my team on, so, you know, I'll sort it out with those guys.
+
+00:04:45.000 --> 00:04:49.000
+Sonya Kopp: Tell me… tell me about what you mean by the friction.
+
+00:04:49.000 --> 00:04:57.000
+Eric Severson: multiple iterations, delays on request to completion, you know, making that as tight as possible. And again, these are things that…
+
+00:04:58.000 --> 00:05:08.000
+Eric Severson: I've encountered a little bit here, not nearly as much as at UTI. At Universal Technical Institute, it would take 3 to 4 iterations, and that would take something that might be weeks and turn it into months.
+
+00:05:08.000 --> 00:05:22.000
+Eric Severson: And part of it is, you know, making sure that I get enough lead time squared away with my team, but then… then educating my team as to what you can say and why and why not, and then, again, reducing the number of iterations, mostly from my team through.
+
+00:05:22.000 --> 00:05:24.000
+Eric Severson: the compliance process.
+
+00:05:26.000 --> 00:05:34.000
+Sonya Kopp: So, we do typically do, um, compliance training with every department every year, and your team has been through it.
+
+00:05:35.000 --> 00:05:37.000
+Sonya Kopp: A couple of times.
+
+00:05:36.000 --> 00:05:38.000
+Eric Severson: Mm-hmm.
+
+00:05:37.000 --> 00:05:39.000
+Sonya Kopp: Um…
+
+00:05:40.000 --> 00:05:45.000
+Sonya Kopp: I will also just tell you, just part of it is…
+
+00:05:45.000 --> 00:05:49.000
+Sonya Kopp: At CSU, we work very lean.
+
+00:05:49.000 --> 00:05:51.000
+Sonya Kopp: Right? So there is…
+
+00:05:49.000 --> 00:05:51.000
+Eric Severson: Sure.
+
+00:05:51.000 --> 00:05:56.000
+Sonya Kopp: A limited number of people who are reviewing that information.
+
+00:05:56.000 --> 00:06:02.000
+Sonya Kopp: For all the things that are coming through, both in marketing and in our team.
+
+00:06:02.000 --> 00:06:04.000
+Sonya Kopp: Oh…
+
+00:06:05.000 --> 00:06:09.000
+Sonya Kopp: So, just, just as a, you know…
+
+00:06:09.000 --> 00:06:15.000
+Eric Severson: Yeah, no, I've experienced the staffing model here, I've been here for about 6 months, and thought.
+
+00:06:16.000 --> 00:06:25.000
+Eric Severson: Especially given the leanness, making sure that the stuff that my team puts into the front end of the approval process is as.
+
+00:06:25.000 --> 00:06:35.000
+Eric Severson: you know, close to approval ready as possible just makes it easier for us to, you know, operate in a lean environment. That's really what I was thinking about here, is.
+
+00:06:36.000 --> 00:06:40.000
+Eric Severson: How do I reduce the time from request to completion?
+
+00:06:40.000 --> 00:06:42.000
+Eric Severson: So…
+
+00:06:41.000 --> 00:06:47.000
+Sonya Kopp: Yeah, I mean, I would… I would also recommend that until this is.
+
+00:06:47.000 --> 00:06:51.000
+Sonya Kopp: You know, until we've had this meeting, if you guys have anything.
+
+00:06:51.000 --> 00:07:02.000
+Sonya Kopp: send it to us first. I will promise… I can almost 100% guarantee that we will look at it faster and move it through more quickly.
+
+00:07:00.000 --> 00:07:02.000
+Eric Severson: Sure.
+
+00:07:02.000 --> 00:07:07.000
+Sonya Kopp: So that then whatever you submit to marketing, you can say has already been through.
+
+00:07:07.000 --> 00:07:11.000
+Eric Severson: That'd be fantastic. That'd be fantastic.
+
+00:07:07.000 --> 00:07:09.000
+Sonya Kopp: compliance.
+
+00:07:11.000 --> 00:07:13.000
+Eric Severson: That was really it.
+
+00:07:12.000 --> 00:07:19.000
+Sonya Kopp: But they have… they have, um… we just did a review of an entire spreadsheet.
+
+00:07:19.000 --> 00:07:31.000
+Sonya Kopp: Of superlatives and things like that, that we have reviewed, so that's what we try to do with them, is approve a lot of stuff up front, so that every time they're.
+
+00:07:31.000 --> 00:07:35.000
+Sonya Kopp: Updating something, it doesn't have to come back to us.
+
+00:07:35.000 --> 00:07:39.000
+Eric Severson: Yeah, totally get it, and I think this would be…
+
+00:07:39.000 --> 00:07:47.000
+Eric Severson: I mean, I've seen things like the brand standards and guidelines and the accepted phrases, and those are good source documents to start to use.
+
+00:07:47.000 --> 00:07:52.000
+Eric Severson: in that AI model, so it would take the copy, and it would check it against.
+
+00:07:52.000 --> 00:08:03.000
+Eric Severson: Of course, all the DOE regs, all the, you know, uh, Consumer Fraud Protection Bureau, the… all of those, uh, plus then the CSU standards on top of that.
+
+00:08:03.000 --> 00:08:06.000
+Eric Severson: And again, the…
+
+00:08:06.000 --> 00:08:14.000
+Eric Severson: What I'm envisioning is a quick audit that tells my guys, here's… gives it a, you know, red, yellow.
+
+00:08:14.000 --> 00:08:21.000
+Eric Severson: Green assessment, and it gives them the, here's why, if it's yellow or red.
+
+00:08:21.000 --> 00:08:26.000
+Eric Severson: why that might be a concern, and here's how you might want to fix it. So…
+
+00:08:25.000 --> 00:08:33.000
+Sonya Kopp: Is your team going to be developing their own content? Like, that stuff's not going through marketing anymore?
+
+00:08:33.000 --> 00:08:38.000
+Eric Severson: Well, no, I think when we make… have you ever seen a marketing request form?
+
+00:08:38.000 --> 00:08:43.000
+Eric Severson: the marketing… yeah, so that's where I'm envisioning the… my team will…
+
+00:08:38.000 --> 00:08:40.000
+Sonya Kopp: Sure.
+
+00:08:44.000 --> 00:08:55.000
+Eric Severson: check before they put into that, here's what we're after, right? And again, it is to reduce the number of iterations with a very small lean team in marketing as a way to try to get.
+
+00:08:55.000 --> 00:09:04.000
+Eric Severson: Our specification nailed down, both visually and then from a, hey, we've run this through compliance, here, a checker at least.
+
+00:09:04.000 --> 00:09:08.000
+Eric Severson: Here's the, you know, either the audit, or here's the tool itself, and…
+
+00:09:08.000 --> 00:09:17.000
+Eric Severson: used to be you could buy these tools, but they're between 20 and 50 grand, and I know at UTI we looked at several different, uh, tools like that, and.
+
+00:09:17.000 --> 00:09:23.000
+Eric Severson: never really committed because they were enterprise-wide, they were very expensive. So we had one guy who was.
+
+00:09:23.000 --> 00:09:30.000
+Eric Severson: in marketing who was educated on compliance, and that poor guy was the bottleneck for all of the inbound.
+
+00:09:30.000 --> 00:09:33.000
+Eric Severson: The poor man's life was miserable, and…
+
+00:09:33.000 --> 00:09:41.000
+Eric Severson: really slowed everything down. And at that time, we did do the compliance training, of course, we did it twice a year, and we even had a…
+
+00:09:41.000 --> 00:09:46.000
+Eric Severson: you know, an online course that we were taking at UTI for that, but…
+
+00:09:46.000 --> 00:09:52.000
+Eric Severson: It didn't seem to sink in to my marketing and admissions team members.
+
+00:09:52.000 --> 00:09:59.000
+Eric Severson: when they were making requests for promotions, flyers, things like that. And so, by bringing it a little closer.
+
+00:09:59.000 --> 00:10:05.000
+Eric Severson: To the actual work process. Uh, and again, I haven't… I've experienced, sort of.
+
+00:10:05.000 --> 00:10:12.000
+Eric Severson: long delays in getting stuff done, but I haven't really experienced, uh, and I'm imagining that part of that is compliance checking.
+
+00:10:12.000 --> 00:10:18.000
+Eric Severson: Because it always gets edited a little bit. So, helping educate my free guys, and maybe the outreach team in general.
+
+00:10:18.000 --> 00:10:28.000
+Eric Severson: here's how to reduce the… again, I'm going to call it friction. I don't mean it to be disparaging. I absolutely get that we keep our tuition costs down by running lean.
+
+00:10:28.000 --> 00:10:34.000
+Eric Severson: And so, what can I do on that inbound to make sure that we're providing stuff that is.
+
+00:10:34.000 --> 00:10:44.000
+Eric Severson: You know, requires minimal level of effort, easy to review, and then, you know, secondarily educates my team so that they understand how to do it every time they're submitting stuff.
+
+00:10:44.000 --> 00:10:54.000
+Eric Severson: So it's really geared toward that marketing form that we are asked to fill out to make sure that what goes in there is as close to compliant as possible.
+
+00:10:55.000 --> 00:11:03.000
+Sonya Kopp: Okay, I mean, I just, as I said, I know that marketing brought something to us previously, so…
+
+00:11:03.000 --> 00:11:10.000
+Sonya Kopp: I'm happy to, the two of us, the three of us, to get in a meeting with Dale and BG and see where that is.
+
+00:11:11.000 --> 00:11:18.000
+Eric Severson: Yeah, great. And again, what changes it for me at this moment is the $20,000 to $50,000 expense for an enterprise-wide tool.
+
+00:11:18.000 --> 00:11:21.000
+Sonya Kopp: This was something that they were creating.
+
+00:11:20.000 --> 00:11:26.000
+Eric Severson: yeah, that's… AI has enabled, this whole new thing, so… Okay. Well, great. Well, I appreciate the few minutes.
+
+00:11:26.000 --> 00:11:28.000
+Sonya Kopp: Alright.
+
+00:11:26.000 --> 00:11:29.000
+Eric Severson: Uh, good to see you again, Jennifer. Thank you very much.
+
+00:11:29.000 --> 00:11:31.000
+Sonya Kopp: Thanks, Eric.
+
+00:11:30.000 --> 00:11:32.000
+Eric Severson: Yep, bye guys.
+
+00:11:31.000 --> 00:11:33.000
+Sonya Kopp: Bye.
+

@@ -1,0 +1,2534 @@
+WEBVTT
+
+00:01:10.000 --> 00:01:12.000
+Eric Severson: How am I…
+
+00:01:12.000 --> 00:01:15.000
+Eric Severson: My outlook is all locked up, of course.
+
+00:01:16.000 --> 00:01:20.000
+Eric Severson: Uh, these idiot messages keep popping up.
+
+00:01:22.000 --> 00:01:25.000
+Eric Severson: Uh… now I'm talking to Tony.
+
+00:01:25.000 --> 00:01:27.000
+Eric Severson: Dang.
+
+00:01:29.000 --> 00:01:34.000
+Eric Severson: I can't… I don't know what the is wrong with this. Do you get those messages that pop up the warnings about meetings?
+
+00:01:35.000 --> 00:01:39.000
+Tony Atchley: Uh, yeah, yeah, down in the right-hand corner, or…
+
+00:01:39.000 --> 00:01:45.000
+Eric Severson: Well, for me, it's… it's… it's up… I'm gonna try to shut off all of Outlook and see what happens.
+
+00:01:46.000 --> 00:01:48.000
+Eric Severson: Come on…
+
+00:01:50.000 --> 00:01:56.000
+Eric Severson: I was scheduling another meeting, the one with Misty, and this idiot box came up, and it won't go, and now I can't tell.
+
+00:01:57.000 --> 00:02:02.000
+Eric Severson: Hang on a second, Tony, if I get disconnected, I'll call you back. I can't tell if I forgot to put Tom in the meeting.
+
+00:02:04.000 --> 00:02:06.000
+Tony Atchley: I saw him in there earlier.
+
+00:02:07.000 --> 00:02:09.000
+Eric Severson: Oh, good.
+
+00:02:07.000 --> 00:02:09.000
+Tony Atchley: When I pull that up…
+
+00:02:12.000 --> 00:02:17.000
+Eric Severson: Maybe I can get rid of my Outlook problem, there we go, and not lose the meeting, that's good.
+
+00:02:17.000 --> 00:02:20.000
+Tony Atchley: It shows him in there, and… yeah.
+
+00:02:20.000 --> 00:02:22.000
+Eric Severson: Okay.
+
+00:02:21.000 --> 00:02:23.000
+Tony Atchley: Yep.
+
+00:02:37.000 --> 00:02:39.000
+Tony Atchley: There it comes.
+
+00:02:39.000 --> 00:02:41.000
+Eric Severson: Perfect.
+
+00:02:43.000 --> 00:02:45.000
+Tom Heitman: Hey, guys.
+
+00:02:45.000 --> 00:02:47.000
+Tony Atchley: Hey, Tom.
+
+00:02:46.000 --> 00:02:48.000
+Eric Severson: Uh-huh.
+
+00:02:48.000 --> 00:02:50.000
+Tom Heitman: Sorry about that.
+
+00:02:50.000 --> 00:02:57.000
+Eric Severson: No worries at all. Now, have we met, uh, everyone, there's a lot of bearded guys at, uh, CSU, so…
+
+00:02:56.000 --> 00:02:59.000
+Tom Heitman: Yeah, I know, right?
+
+00:02:58.000 --> 00:03:01.000
+Eric Severson: I'm not sure if we've actually met before.
+
+00:03:01.000 --> 00:03:04.000
+Tom Heitman: I don't know. There's…
+
+00:03:02.000 --> 00:03:07.000
+Eric Severson: I don't think so. I'm new-ish to CSU.
+
+00:03:05.000 --> 00:03:07.000
+Tom Heitman: Yeah?
+
+00:03:07.000 --> 00:03:09.000
+Tom Heitman: Okay.
+
+00:03:08.000 --> 00:03:13.000
+Eric Severson: And I joined, uh, to work with Tony and Dwayne on Caroline's team, so we're…
+
+00:03:12.000 --> 00:03:14.000
+Tom Heitman: Oh, nice.
+
+00:03:13.000 --> 00:03:17.000
+Eric Severson: Yep, very exciting, doing a bunch of business development stuff.
+
+00:03:14.000 --> 00:03:16.000
+Tom Heitman: Okay.
+
+00:03:17.000 --> 00:03:19.000
+Tom Heitman: Yeah. Good deal.
+
+00:03:18.000 --> 00:03:23.000
+Eric Severson: And there were two sort of reasons that I wanted to spend a little bit of time with you. One.
+
+00:03:24.000 --> 00:03:29.000
+Eric Severson: We've got a couple of partnership deals that are…
+
+00:03:29.000 --> 00:03:34.000
+Eric Severson: Very exciting, and uh… and include some custom curriculum in it.
+
+00:03:34.000 --> 00:03:40.000
+Eric Severson: So I want to talk to you about those, but even more broadly, I'm just super interested in.
+
+00:03:36.000 --> 00:03:38.000
+Tom Heitman: Okay.
+
+00:03:40.000 --> 00:03:46.000
+Eric Severson: Uh, all things IDT, so that as we are talking with partners.
+
+00:03:46.000 --> 00:03:54.000
+Eric Severson: about custom curriculum, I'm saying the right thing. I'm not… I'm not putting us out over a barrel, or saying things that are just not good.
+
+00:03:49.000 --> 00:03:51.000
+Tom Heitman: Sure.
+
+00:03:54.000 --> 00:04:02.000
+Eric Severson: correct. I do have a fair amount of education experience. I worked for 30 years for Pearson Education. I was in a variety of different roles.
+
+00:04:00.000 --> 00:04:02.000
+Tom Heitman: Okay.
+
+00:04:02.000 --> 00:04:14.000
+Eric Severson: head of sales for higher ed, so in those… in that capacity, I went through the physical to digital transition, so we were very involved in the first LMSs that were out there, in building the.
+
+00:04:14.000 --> 00:04:19.000
+Eric Severson: Content cartridges, if you've ever seen the My Labs or the Mastering Series.
+
+00:04:19.000 --> 00:04:28.000
+Eric Severson: I sold those for decades, and so I know about supporting faculty with those things, and have a, you know, working knowledge of what does it take to build.
+
+00:04:24.000 --> 00:04:26.000
+Tom Heitman: Yeah.
+
+00:04:28.000 --> 00:04:36.000
+Eric Severson: you know, basic Blackboard, uh, or course management stuff. But here, I was definitely curious to… to… just to hear.
+
+00:04:32.000 --> 00:04:34.000
+Tom Heitman: Sure, sure.
+
+00:04:36.000 --> 00:04:46.000
+Eric Severson: how does it… how does IDT work here? What should we be thinking about on the front end of it when we're talking with partners, especially about customizing curriculum?
+
+00:04:46.000 --> 00:04:52.000
+Tom Heitman: Sure, sure. So, uh, first of all, yes, we actually… we use MyLabs, we use Mastering.
+
+00:04:52.000 --> 00:05:03.000
+Tom Heitman: We obviously go way back with Pearson. Pearson is our biggest vendor when it comes to… I call it learning resources now, textbooks, whatever you want to call it.
+
+00:05:01.000 --> 00:05:03.000
+Eric Severson: Yep.
+
+00:05:04.000 --> 00:05:09.000
+Tom Heitman: Um, so we have a pretty good relationship with Pearson, um, but…
+
+00:05:09.000 --> 00:05:19.000
+Tom Heitman: All that to say, we don't discriminate against any vendors. I mean, we use Cengage, we use McGraw-Hill, we use Sage, we use… you name it, we probably have something with them.
+
+00:05:20.000 --> 00:05:24.000
+Tom Heitman: Um, but obviously that's not where all of our curriculum and resources come from.
+
+00:05:25.000 --> 00:05:30.000
+Tom Heitman: Um, so just a quick, quick overview of IDT, just at a high level.
+
+00:05:30.000 --> 00:05:37.000
+Tom Heitman: Um, we can… there's 35 of us. Uh, we are a remote team at this point in time.
+
+00:05:37.000 --> 00:05:45.000
+Tom Heitman: Um, myself and the Associate Dean, Elizabeth McWinney, we go into the office Tuesdays and Thursdays, but everybody else is…
+
+00:05:45.000 --> 00:05:47.000
+Tom Heitman: Scattered throughout the country.
+
+00:05:47.000 --> 00:05:55.000
+Tom Heitman: Um… we have 3 main teams within IDT. We have the instructional design team.
+
+00:05:55.000 --> 00:06:00.000
+Tom Heitman: We have the editing team, and we have the course technology team.
+
+00:06:00.000 --> 00:06:06.000
+Tom Heitman: Um, and that's kind of the linear process course development follows.
+
+00:06:06.000 --> 00:06:11.000
+Tom Heitman: So… I can kind of walk you through what it looks like to develop.
+
+00:06:11.000 --> 00:06:16.000
+Tom Heitman: a course, a CSU course that you as a student would take.
+
+00:06:16.000 --> 00:06:18.000
+Tom Heitman: But before I do that.
+
+00:06:19.000 --> 00:06:23.000
+Tom Heitman: We do… you were talking about curriculum and, you know.
+
+00:06:23.000 --> 00:06:34.000
+Tom Heitman: partnerships and opportunities and things like that. Just because we follow a process and we create courses for CSU doesn't mean we don't… like, right now, we have 4 different projects going on that.
+
+00:06:35.000 --> 00:06:45.000
+Tom Heitman: are completely different from the CSU model. Uh, so just because we do things a certain way for CSU doesn't mean when you're talking to.
+
+00:06:45.000 --> 00:06:51.000
+Tom Heitman: Someone about an opportunity, we can customize pretty much anything and do it however they want us to do it.
+
+00:06:51.000 --> 00:07:02.000
+Tom Heitman: Or, if they don't know how they want to do it, we can partner them with somebody on our team and be like, what do you think about this? Or this is… this works with this different type of subject area, and…
+
+00:07:02.000 --> 00:07:06.000
+Tom Heitman: you know, here's some examples, that kind of thing, so…
+
+00:07:06.000 --> 00:07:14.000
+Tom Heitman: We're fine thinking outside the box as well, so I kind of wanted to put that out there first, but typical day in the life of IDT is.
+
+00:07:14.000 --> 00:07:24.000
+Tom Heitman: Um… obviously, you know, Tony knows, everybody knows, we're going nuts with new programs, so a majority of what we're doing right now is new content, new courses.
+
+00:07:24.000 --> 00:07:33.000
+Tom Heitman: And, um, really how that works is academics on the front end, the deans, program directors, they get together, they say, this is what we want to do.
+
+00:07:33.000 --> 00:07:47.000
+Tom Heitman: Um, they work with Wendy Styren in Learning Resources to find out what textbooks are available, what learning resources are available, what labs are available. Maybe sometimes the academic program director or one of the faculty members has an idea, they say.
+
+00:07:47.000 --> 00:07:57.000
+Tom Heitman: hey, there's this product out here that works great for X, and we talk about that, and there's a series of meetings that go on kind of before any development starts.
+
+00:07:57.000 --> 00:08:03.000
+Tom Heitman: Uh, and they put together, um, what's called a course resource form.
+
+00:08:03.000 --> 00:08:12.000
+Tom Heitman: that has the course description, course outcomes, any resources that are going to be used. Uh, if I'm boring you at any point, just stop me and say I don't care about this stuff, but…
+
+00:08:12.000 --> 00:08:24.000
+Tom Heitman: I promise this will only take 5 minutes. So, we do… we kind of have that, it goes through the UCC University Curriculum Committee, gets approved, and then it comes to us, Elizabeth specifically.
+
+00:08:14.000 --> 00:08:16.000
+Eric Severson: Perfect.
+
+00:08:24.000 --> 00:08:29.000
+Tom Heitman: And she pairs a course writer who is typically a faculty member, but a subject matter expert in the field.
+
+00:08:30.000 --> 00:08:32.000
+Tom Heitman: She pairs them with an instructional designer.
+
+00:08:32.000 --> 00:08:41.000
+Tom Heitman: And they have 10 weeks to design that course. It all goes into a big Word document at this point in time. We're trying some other things this year, but right now.
+
+00:08:41.000 --> 00:08:51.000
+Tom Heitman: It's what's called an instructional packet, and that's where all the curriculum and all the content of the course goes first. So, they map all the outcomes to the assignments.
+
+00:08:52.000 --> 00:09:06.000
+Tom Heitman: They put in all the assessment questions, they put in any unit lessons, everything goes in there. Obviously, there's SharePoint OneDrive on the back end to capture supplemental resources, but for the most part, it's all outlined in a document. That takes about 10 weeks. It does have a peer review process.
+
+00:09:07.000 --> 00:09:12.000
+Tom Heitman: Um, so when the ID's finished with that, they pass it to another ID, they review it.
+
+00:09:12.000 --> 00:09:18.000
+Tom Heitman: The academic program director signs off on it, and it's passed to the editing team.
+
+00:09:18.000 --> 00:09:27.000
+Tom Heitman: The editing team spends a week, week and a half going through it. Are all the T's crossed, all the I's dotted? Are all the commas in the right place? But they do much, much more than that.
+
+00:09:27.000 --> 00:09:33.000
+Tom Heitman: They… you wouldn't think it, but we've had issues with plagiarism in the past.
+
+00:09:33.000 --> 00:09:40.000
+Tom Heitman: uh, faculty member says, I'm gonna take the easy way out, I'm just gonna copy and paste a chapter of this textbook and throw it in a document and send it on, and…
+
+00:09:40.000 --> 00:09:50.000
+Tom Heitman: Um, or, you know, they don't quite understand what paraphrasing is, so they, they have this article, they want to use it, they're doing it innocently, but, you know.
+
+00:09:50.000 --> 00:09:57.000
+Tom Heitman: Hey guys, we can't do that, kind of a deal. They also look for ADA compliance, that's a big deal for us.
+
+00:09:51.000 --> 00:09:52.000
+Eric Severson: Yeah.
+
+00:09:57.000 --> 00:10:07.000
+Tom Heitman: making sure that everything is accessible to all students, um, working with the Office of Disability Services where we need to, to make sure that that's all tied up.
+
+00:10:07.000 --> 00:10:16.000
+Tom Heitman: Um, and so that takes a week, week and a half. Uh, and then they pass it to our course technology team, who takes that instructional packet that they've been working on.
+
+00:10:16.000 --> 00:10:23.000
+Tom Heitman: And for a week, week and a half, they, um, load everything into Blackboard, make sure that it all works, um…
+
+00:10:24.000 --> 00:10:30.000
+Tom Heitman: They have what's called the build, and then the final review. Someone comes behind that.
+
+00:10:30.000 --> 00:10:37.000
+Tom Heitman: Uh, it's deployed to Blackboard, and then, um, it's copied, the sections are copied.
+
+00:10:37.000 --> 00:10:43.000
+Tom Heitman: And then about 3 weeks before the course starts, the faculty get access to those sections that they're going to be teaching.
+
+00:10:43.000 --> 00:10:45.000
+Tom Heitman: They can load up their…
+
+00:10:45.000 --> 00:10:51.000
+Tom Heitman: Discussion board questions, or tweak their professor profiles, or add whatever it is that they want, and then…
+
+00:10:51.000 --> 00:11:06.000
+Tom Heitman: it's launched to the students. Um, and we do that 11 times a year, obviously. You know, we have 11 terms. Um, we've been breaking records with the number of sections that we've been running. We've had over a thousand sections in some of the B terms.
+
+00:10:58.000 --> 00:11:00.000
+Eric Severson: Yep.
+
+00:11:06.000 --> 00:11:15.000
+Tom Heitman: So there's a lot that goes to it, but that instructional packet sets us up for success for all the SAX narratives, for anybody that comes in and audits anything, because it's got all that.
+
+00:11:16.000 --> 00:11:28.000
+Tom Heitman: It's got all the alignment for the outcomes, um, it's got all the check marks that the… saying that the academic program director and the teaching faculty signed off on this course, the content is good, it wasn't just.
+
+00:11:28.000 --> 00:11:35.000
+Tom Heitman: random Tom Heitman writing this course, you know? Um, and then we have shifted to where.
+
+00:11:35.000 --> 00:11:40.000
+Tom Heitman: We base everything off the Quality Matters rubric, so all courses.
+
+00:11:40.000 --> 00:11:50.000
+Tom Heitman: are up to Quality Matters standards. Um, they're not all stamped as Quality Matters, because that costs money, and it takes time to do that.
+
+00:11:50.000 --> 00:11:57.000
+Tom Heitman: Um, but we have 84 courses, QM officially certified, and we continue to.
+
+00:11:57.000 --> 00:12:02.000
+Tom Heitman: put more through the process every year. We usually get 10 to 15 through.
+
+00:12:02.000 --> 00:12:08.000
+Tom Heitman: process. Um, so, from a technical standpoint.
+
+00:12:09.000 --> 00:12:19.000
+Tom Heitman: Um, that's kind of what we do. Um, if you're asking, okay, well, what are our courses mainly consist of? I don't know, I mean, have you… have you seen many of our courses in Blackboard?
+
+00:12:20.000 --> 00:12:27.000
+Eric Severson: You know, I haven't even… I'm new enough to not have even asked, can I log into Blackboard as a…
+
+00:12:27.000 --> 00:12:30.000
+Tom Heitman: Sure. Is that something…
+
+00:12:27.000 --> 00:12:31.000
+Eric Severson: Yeah. Can I log in to Blackboard?
+
+00:12:30.000 --> 00:12:38.000
+Tom Heitman: Uh, I think everybody can, but if not, we can certainly get you… we can figure that out, for sure. Yeah, I mean, that's no problem at all.
+
+00:12:32.000 --> 00:12:34.000
+Eric Severson: Oh.
+
+00:12:38.000 --> 00:12:51.000
+Eric Severson: So, no, no, I have not, but I would like to, because again, part of what we have to do is describe the student experience for people, and you know, I can do good enough based on 30 years of higher education sales, but it would be good to be able to see.
+
+00:12:45.000 --> 00:12:47.000
+Tom Heitman: Right.
+
+00:12:51.000 --> 00:12:53.000
+Tom Heitman: Yeah, yeah, yeah, yeah.
+
+00:12:51.000 --> 00:12:55.000
+Eric Severson: Everybody's got a little bit of a different approach, so…
+
+00:12:54.000 --> 00:13:08.000
+Tom Heitman: So I can definitely get you in there and make you kind of a demo dummy copy of a course that you can play around in and just kind of see how it is, but I will tell you, um, one of the things that students have really responded to over the years that I've been here.
+
+00:13:09.000 --> 00:13:16.000
+Tom Heitman: is… our courses have a very consistent model. They're all set up… content's obviously not all the same.
+
+00:13:16.000 --> 00:13:25.000
+Tom Heitman: But everything's in the same spot. They're always gonna know where the syllabus is, they're always gonna know what to expect in each one of the units, because there's 8 units in our courses, right?
+
+00:13:25.000 --> 00:13:29.000
+Tom Heitman: And for the most part, they all follow the same formula.
+
+00:13:30.000 --> 00:13:39.000
+Tom Heitman: Uh, Unit 1 has an introduction discussion board, um, and then it's got a knowledge… it's got content, and then a knowledge check kind of quiz.
+
+00:13:39.000 --> 00:13:49.000
+Tom Heitman: Section 2, or Unit 2 has a live lecture component. All the courses now have to have that live lecture component where the student is actually getting to know the faculty member.
+
+00:13:49.000 --> 00:13:55.000
+Tom Heitman: Uh, they can go in and ask questions, the faculty member can kind of discuss what's coming up in the course, and the key points to.
+
+00:13:55.000 --> 00:14:03.000
+Tom Heitman: jot down as they work through it. Um, Unit 3 is the first, like, assignment that the student has to do.
+
+00:14:03.000 --> 00:14:12.000
+Tom Heitman: And then Unit 4 is kind of a journal reflection. Up to this point, what have you learned, and how can you apply that in whatever field you're.
+
+00:14:12.000 --> 00:14:21.000
+Tom Heitman: in, kind of a deal. And then it repeats itself. 5 is the discussion board, 6 is the live lecture, 7 is the assignment, and 8 is the…
+
+00:14:21.000 --> 00:14:26.000
+Tom Heitman: Now, that can change a little bit, but for the most part, that's…
+
+00:14:26.000 --> 00:14:31.000
+Tom Heitman: I mean, that's the consistent workflow of a course, and um…
+
+00:14:31.000 --> 00:14:38.000
+Tom Heitman: We try to do our best to set the faculty up for success in teaching that, so each unit is going to have.
+
+00:14:38.000 --> 00:14:49.000
+Tom Heitman: Some kind of unit lesson in it that allows the faculty to link their experiences with the concepts that are being taught within that particular course.
+
+00:14:49.000 --> 00:14:54.000
+Tom Heitman: Um, sorry if you're here. We got a new puppy today, and she's going nuts in the other room.
+
+00:14:52.000 --> 00:14:55.000
+Eric Severson: Ah, good for you!
+
+00:14:54.000 --> 00:15:02.000
+Tom Heitman: Uh, apparently, my wife left her to go pick up our son from school, so she's not happy about that. But, um…
+
+00:15:03.000 --> 00:15:15.000
+Tom Heitman: They all have a unit lesson, some of them are videos, some of them are audio clips, some of them are narrated PowerPoint, some of them are just static written lectures with images and things, but.
+
+00:15:15.000 --> 00:15:21.000
+Tom Heitman: You know, the point of those is, okay, you're reading about this in the textbook, or you're learning about this in my lab, or whatever.
+
+00:15:22.000 --> 00:15:29.000
+Tom Heitman: that's great, but you're my professor. Why is that important, and what have you done in the past to be successful that maybe I could learn from you.
+
+00:15:29.000 --> 00:15:41.000
+Tom Heitman: By taking this course, kind of a deal, right? Um, and then we try to supplement that with authentic assignments. So, not all of our courses are just read the book, answer the questions. Depending on what it is.
+
+00:15:42.000 --> 00:15:47.000
+Tom Heitman: you know, Tony, you and I were at that fire conference, remember? Like, you know, a lot of our fire courses.
+
+00:15:47.000 --> 00:15:57.000
+Tom Heitman: We got firefighters that want to be officers, right? Well, a lot of, as we all know, as we move up, there's more and more paperwork that has to be done, so…
+
+00:15:58.000 --> 00:16:14.000
+Tom Heitman: Why not give them a scenario, but then based on what happens in that scenario, here are the forms that you would typically fill out, this is how you fill them out, these are the key players, this is who you turn it into, this is how it should be formatted. Like, so we're trying to give them.
+
+00:16:14.000 --> 00:16:25.000
+Tom Heitman: You know, that experience. Obviously, you can do so much in the online environment, but, like, trying to at least give them those skills so that whenever they go for whatever job that is.
+
+00:16:25.000 --> 00:16:31.000
+Tom Heitman: you know, they at least know what that is. Um, I don't know if y'all heard this morning, Jackie and.
+
+00:16:31.000 --> 00:16:38.000
+Tom Heitman: The leadership talking about the PowerPoints. Everybody hates the PowerPoints. Well, thank God somebody used a PowerPoint, because.
+
+00:16:38.000 --> 00:16:50.000
+Tom Heitman: You know, like, there's PowerPoints out there, but, you know, I mean, a big part of business is you have to give a presentation about, you know, your numbers that quarter, or, you know.
+
+00:16:50.000 --> 00:16:56.000
+Tom Heitman: If you're in marketing, you have to give a presentation about the product that you're pushing, or, you know, whatever, so…
+
+00:16:56.000 --> 00:17:03.000
+Tom Heitman: We do try to keep in mind that, um, there are specific skills in certain areas that.
+
+00:17:03.000 --> 00:17:08.000
+Tom Heitman: these students need to know, and so we try to do the best that we can. Now.
+
+00:17:08.000 --> 00:17:17.000
+Tom Heitman: just like any big successful business, there's a lot of change, there's a lot of, okay, we're gonna try this, we're gonna try that. So, you know, not everything's perfect, but, um…
+
+00:17:17.000 --> 00:17:31.000
+Tom Heitman: We have a ticket system, much like IT, to where if faculty or a student or whoever finds an issue, or they find that an assignment's not really working, a lot of students are struggling with it, they can submit that ticket, we go in.
+
+00:17:31.000 --> 00:17:36.000
+Tom Heitman: We assign somebody to it, and we update that particular piece of the course. So…
+
+00:17:37.000 --> 00:17:48.000
+Tom Heitman: That's kind of how we work. It's, you know, in instructional design, there's the evaluation process, and you're always evaluating, and so that's what I feel like we're doing. You can always get better, right? And there's always some…
+
+00:17:48.000 --> 00:17:51.000
+Tom Heitman: New thing coming down the pike.
+
+00:17:51.000 --> 00:18:01.000
+Tom Heitman: for instance, I showed in leadership a while back, you know, they have the new AI chatbot feature in Blackboard, where you can set up a scenario and you can actually interact with the chat. So we've been…
+
+00:18:01.000 --> 00:18:06.000
+Tom Heitman: Toying with that and putting that out in a limited number of courses, seeing how students react to that.
+
+00:18:06.000 --> 00:18:15.000
+Tom Heitman: Uh, we got a software with AI avatars where they talk to you on screen and do different things, and so we've been experimenting with that.
+
+00:18:15.000 --> 00:18:26.000
+Tom Heitman: Um, that's not in all courses, but, you know, you gotta start somewhere, and you only have the capacity to do so much of that at one time, but I feel like we're trying to innovate as we go.
+
+00:18:26.000 --> 00:18:32.000
+Tom Heitman: While keeping that consistent, flexible model that the students have come accustomed to, so…
+
+00:18:33.000 --> 00:18:39.000
+Tom Heitman: I know I've been blowing a lot of wind, so I'll stop for a minute and see. Was that even what you were looking for, or did I just waste…
+
+00:18:36.000 --> 00:18:42.000
+Eric Severson: No, that was… yes, yes, yes, but definitely we want to get to the…
+
+00:18:39.000 --> 00:18:41.000
+Tom Heitman: 19 minutes over time.
+
+00:18:42.000 --> 00:18:46.000
+Eric Severson: the custom part of this conversation, but I had a couple of quick questions, so…
+
+00:18:44.000 --> 00:18:46.000
+Tom Heitman: Sure.
+
+00:18:47.000 --> 00:18:49.000
+Eric Severson: Uh, do…
+
+00:18:49.000 --> 00:18:57.000
+Eric Severson: Do you have, uh, people that do the assessments, that create assessments, if they're not coming out of a publisher, or do the faculty have to do that?
+
+00:18:58.000 --> 00:19:03.000
+Tom Heitman: We… the instructional designers do that. They… they… well, they partner with the…
+
+00:19:00.000 --> 00:19:03.000
+Eric Severson: They do the testing and the quizzes.
+
+00:19:03.000 --> 00:19:07.000
+Tom Heitman: So, a lot of times, how it works is…
+
+00:19:07.000 --> 00:19:14.000
+Tom Heitman: The faculty don't… they know what they want to teach, and they know what they want the students to get out of the course, but they don't know how to go about getting there.
+
+00:19:14.000 --> 00:19:25.000
+Tom Heitman: And so that's where the IDs come in and say, you know, they say, well, this subject, let's just create a test. Are you sure you want to create a test, or do you want to create some other type of assessment?
+
+00:19:25.000 --> 00:19:31.000
+Tom Heitman: To… to measure those skills. Uh, so we have a… we have a group that does that.
+
+00:19:26.000 --> 00:19:28.000
+Eric Severson: Okay.
+
+00:19:32.000 --> 00:19:39.000
+Eric Severson: So, is every ID an assessment, uh, skilled assessment person, or do you have specialized assessment folks?
+
+00:19:39.000 --> 00:19:45.000
+Tom Heitman: I mean, academics has a whole department just on assessment. I mean, John Hope is our assessment guy.
+
+00:19:42.000 --> 00:19:44.000
+Eric Severson: Assessment.
+
+00:19:45.000 --> 00:19:47.000
+Eric Severson: Okay.
+
+00:19:45.000 --> 00:19:50.000
+Tom Heitman: Uh, John came from Instruction. He was me in 2000…
+
+00:19:50.000 --> 00:19:58.000
+Tom Heitman: 14, 15, 16, and he moved to academics to just be over assessment, and all he does is work with rubrics.
+
+00:19:59.000 --> 00:20:04.000
+Tom Heitman: General education competencies, uh, measuring assessment, uh, he…
+
+00:20:04.000 --> 00:20:09.000
+Tom Heitman: If we ever have any kind of issue, we go to him, but…
+
+00:20:09.000 --> 00:20:14.000
+Tom Heitman: Every single one of our instructional designers, when it comes to actually taking the learning outcomes.
+
+00:20:14.000 --> 00:20:25.000
+Tom Heitman: and assessing them some way with some sort of tool or medium, that's what we do every day. I mean, yeah, all of our IDs are skilled in that, and that's what they do. They create those different types of assessment.
+
+00:20:25.000 --> 00:20:27.000
+Tom Heitman: To measure those outcomes.
+
+00:20:25.000 --> 00:20:32.000
+Eric Severson: Uh, so the… awesome. So that was perfect, and I wanted… the second set of questions are about…
+
+00:20:32.000 --> 00:20:38.000
+Eric Severson: You know, when we're talking about new learning partners, or we're at a conference, and we're representing CSU.
+
+00:20:38.000 --> 00:20:51.000
+Eric Severson: almost always, the question about how are you thinking about implementing AI comes up. So you hit two things that are enormously helpful for us just to hear. The chatbot that sits inside of, uh…
+
+00:20:48.000 --> 00:20:50.000
+Tony Atchley: Oh.
+
+00:20:52.000 --> 00:20:57.000
+Eric Severson: Blackboard, and then the avatar. What are you doing? Who are you using for avatars?
+
+00:20:52.000 --> 00:20:54.000
+Tom Heitman: Yeah.
+
+00:20:57.000 --> 00:21:04.000
+Tom Heitman: So, we signed a contract with Synthesia, uh, Robert Cunningham mentioned it earlier today.
+
+00:21:03.000 --> 00:21:06.000
+Eric Severson: I saw that today, yeah, I saw his…
+
+00:21:05.000 --> 00:21:14.000
+Tom Heitman: Um, and really what that does is allows us to either create custom avatars, so, like, we create avatars of each other.
+
+00:21:14.000 --> 00:21:16.000
+Eric Severson: Yep.
+
+00:21:14.000 --> 00:21:24.000
+Tom Heitman: Uh, with, you know, a little CSU logo on our shirt, or whatever. Um, or they have, I think it's, like, 1,200 prefabricated avatars, and you can build.
+
+00:21:24.000 --> 00:21:31.000
+Tom Heitman: lessons around those avatars. Uh, if you take the annual training, and you take the, uh…
+
+00:21:31.000 --> 00:21:37.000
+Tom Heitman: the anti… which I think is funny on an online school, but I know it's there, the anti-hazing module.
+
+00:21:37.000 --> 00:21:47.000
+Tom Heitman: you'll kind of see that in action, where a person comes up and talks to you and talks about the points on the screen. It's basically avatars that we can create presentations around.
+
+00:21:47.000 --> 00:21:52.000
+Tom Heitman: Um, what we're working on and exploring, and we haven't quite got there yet.
+
+00:21:53.000 --> 00:21:55.000
+Tom Heitman: Is where you…
+
+00:21:55.000 --> 00:22:01.000
+Tom Heitman: ask a question, and the avatar talks back to you. Like, right now, that's all in, like, Word form.
+
+00:22:01.000 --> 00:22:08.000
+Tom Heitman: Um, but we're trying to work with Synthesia, and I don't have a timeline on this, it's just something that we're kind of…
+
+00:22:08.000 --> 00:22:14.000
+Tom Heitman: Going back and forth with them on of, like, to where you could actually have someone.
+
+00:22:14.000 --> 00:22:21.000
+Tom Heitman: In that course at all time, where you could ask them a question, and then you can actually kind of talk back and forth to them.
+
+00:22:21.000 --> 00:22:24.000
+Tom Heitman: Uh, problem with that is that gets pricey.
+
+00:22:24.000 --> 00:22:26.000
+Eric Severson: Yeah. Yeah.
+
+00:22:24.000 --> 00:22:29.000
+Tom Heitman: Um, and so, we're taking small steps to try to…
+
+00:22:29.000 --> 00:22:32.000
+Tom Heitman: Figure out ways to.
+
+00:22:32.000 --> 00:22:40.000
+Tom Heitman: Spruce up the courses while not being left behind. I think, you know, if we don't use some of these tools, we're gonna get left behind.
+
+00:22:40.000 --> 00:22:47.000
+Tom Heitman: But it goes further than just the technology glitz and glamour pieces, you know, um…
+
+00:22:47.000 --> 00:22:54.000
+Tom Heitman: I had the privilege of serving on the AI committee. Tony, are you on that? I feel like you're on that. Or you're on that?
+
+00:22:52.000 --> 00:22:54.000
+Eric Severson: I am.
+
+00:22:52.000 --> 00:22:54.000
+Tony Atchley: No, Eric is, yeah.
+
+00:22:54.000 --> 00:22:56.000
+Eric Severson: Hi, I mean…
+
+00:22:54.000 --> 00:22:59.000
+Tom Heitman: Yeah, and so, I don't know why they haven't posted all those policies.
+
+00:22:57.000 --> 00:23:00.000
+Eric Severson: Been a while since we've had a meeting, hasn't it?
+
+00:23:00.000 --> 00:23:17.000
+Tom Heitman: Right, but all those, like, policies and procedures that that group came up with. So, I mean, I think that's an important piece that we need to get out in front of our students, and really anybody who asks about it. Like, not only are we trying to use these tools, but we're trying to use them responsibly, and we do have policies in place, and we do have…
+
+00:23:17.000 --> 00:23:30.000
+Tom Heitman: Expectations for not just the students and how they use it, but staff and how they use it, and let people know that, yeah, we're using it to accentuate our content, but we're not using it to just generate all of our content, that type of thing.
+
+00:23:30.000 --> 00:23:32.000
+Tom Heitman: Um, I mean, we do have…
+
+00:23:33.000 --> 00:23:39.000
+Tom Heitman: uh, team… it's not Team GPT anymore, it was bought by somebody, and they… it's something else now, but, like, you know, we do use…
+
+00:23:40.000 --> 00:23:47.000
+Tom Heitman: Team ChatGPT to help with some of the, um, you know, words, some of the content, and things like that, but…
+
+00:23:45.000 --> 00:23:47.000
+Eric Severson: Sure. Yeah, yeah, sure.
+
+00:23:47.000 --> 00:23:51.000
+Tom Heitman: I create little videos and stuff like that, but…
+
+00:23:48.000 --> 00:23:50.000
+Eric Severson: And…
+
+00:23:51.000 --> 00:23:53.000
+Tom Heitman: You know.
+
+00:23:52.000 --> 00:23:55.000
+Eric Severson: So, super helpful for us to stay…
+
+00:23:56.000 --> 00:24:06.000
+Eric Severson: in touch with how you're thinking about the student experience and or efficiencies in the back office, right? I heard Ken talk about that this morning as well.
+
+00:24:04.000 --> 00:24:06.000
+Tom Heitman: Yeah.
+
+00:24:06.000 --> 00:24:08.000
+Tom Heitman: Yeah.
+
+00:24:06.000 --> 00:24:10.000
+Eric Severson: And then also, just for me personally, so, uh, I have…
+
+00:24:10.000 --> 00:24:14.000
+Eric Severson: For the 2 years prior to joining.
+
+00:24:14.000 --> 00:24:19.000
+Eric Severson: CSU, I was operating as a consultant, and that became an AI consultant.
+
+00:24:19.000 --> 00:24:21.000
+Tom Heitman: Okay.
+
+00:24:19.000 --> 00:24:25.000
+Eric Severson: So I've done a bunch of things in sales and marketing, and I still have a couple of clients that I continue to work with.
+
+00:24:26.000 --> 00:24:29.000
+Eric Severson: that I had projects that were partway through.
+
+00:24:29.000 --> 00:24:41.000
+Eric Severson: Avatars is one, as a… I've been a sales leader for over 30 years, and so sales training with avatars is a huge part of the opportunity with AI.
+
+00:24:37.000 --> 00:24:39.000
+Tom Heitman: Mm-hmm.
+
+00:24:42.000 --> 00:24:45.000
+Eric Severson: Have you looked at Hey Jen? Have you heard of HeyGen ever?
+
+00:24:45.000 --> 00:24:50.000
+Tom Heitman: Yeah, we've looked at HeyGen, and Synthesia does a lot of the same things it does, but yeah, HeyGen…
+
+00:24:50.000 --> 00:24:57.000
+Eric Severson: Agent, a little ahead on the interactive side. I like Synthesia, we use… I'm also the COO for a small startup, a group of.
+
+00:24:50.000 --> 00:24:52.000
+Tom Heitman: Um…
+
+00:24:52.000 --> 00:24:54.000
+Tom Heitman: Yeah.
+
+00:24:57.000 --> 00:25:05.000
+Eric Severson: former EdTech friends, and we use Synthesia for all of the onboarding, all of the…
+
+00:24:59.000 --> 00:25:01.000
+Tom Heitman: Yeah.
+
+00:25:05.000 --> 00:25:11.000
+Eric Severson: training, uh, and it's a little nicer, I thought, presentation, but…
+
+00:25:06.000 --> 00:25:08.000
+Tom Heitman: Yeah.
+
+00:25:11.000 --> 00:25:16.000
+Eric Severson: Hey Gen's definitely ahead on that interactive, although it gets pricey, right?
+
+00:25:14.000 --> 00:25:17.000
+Tom Heitman: Yeah. Right. And…
+
+00:25:17.000 --> 00:25:23.000
+Tom Heitman: That's what we did when we kind of looked at some of these tools. We just had to wait, like, what did we want now?
+
+00:25:23.000 --> 00:25:32.000
+Tom Heitman: And we didn't want to lock ourselves into a long-term contract, either. Um, and I agree, HeyGen had a little more…
+
+00:25:26.000 --> 00:25:28.000
+Eric Severson: Yeah.
+
+00:25:32.000 --> 00:25:44.000
+Tom Heitman: options when it came… I mean, since these are really just presentation, like, that's… that's it, you know? It's got more features now, I mean, they keep adding things, but like, hey, Jen, you're right. I mean, there's a little more…
+
+00:25:37.000 --> 00:25:39.000
+Eric Severson: Yeah.
+
+00:25:44.000 --> 00:25:48.000
+Tom Heitman: Around it, a little more robust features, um…
+
+00:25:48.000 --> 00:25:54.000
+Eric Severson: I did role-play applications in ENCE and HeyGen.
+
+00:25:49.000 --> 00:25:50.000
+Tom Heitman: But I don't… I don't…
+
+00:25:54.000 --> 00:25:59.000
+Eric Severson: But it got to be too expensive for the client, because, you know.
+
+00:25:57.000 --> 00:25:59.000
+Tom Heitman: Yeah.
+
+00:25:59.000 --> 00:26:04.000
+Eric Severson: Again, it wasn't more expensive than a live trainer doing a role play.
+
+00:26:04.000 --> 00:26:06.000
+Tom Heitman: Yeah.
+
+00:26:04.000 --> 00:26:11.000
+Eric Severson: But it was still a ticker going, and it was early, early days. They're so much better now. It was maybe too…
+
+00:26:12.000 --> 00:26:21.000
+Eric Severson: you know, big version upgrades, less, and it was a little glitchy, so it was… but it's super cool stuff, that, and voice, I'm doing voice with.
+
+00:26:13.000 --> 00:26:16.000
+Tom Heitman: Mm-hmm. Mm-hmm.
+
+00:26:21.000 --> 00:26:33.000
+Eric Severson: to other, uh, clients where, you know, that might be an interesting thing to think about. The latency is lower, the cost is lower, you don't have the visual stuff, and so…
+
+00:26:33.000 --> 00:26:43.000
+Eric Severson: That is to the point now where, you know, I'm telling clients, I really think you should tell people this isn't a human, this is an AI that they're talking with, and I don't think that's the right way to go about it.
+
+00:26:40.000 --> 00:26:42.000
+Tom Heitman: Yeah.
+
+00:26:43.000 --> 00:26:48.000
+Eric Severson: And the CEO looked at me and said, they don't have any idea. Why should I tell them?
+
+00:26:47.000 --> 00:26:49.000
+Tom Heitman: Yeah.
+
+00:26:48.000 --> 00:26:55.000
+Eric Severson: I'm like, I don't know, I think maybe we should probably tell them, but… but that technology is really getting good, the voice.
+
+00:26:51.000 --> 00:26:53.000
+Tom Heitman: Yeah, yeah, yeah.
+
+00:26:55.000 --> 00:27:02.000
+Eric Severson: Uh, the voice stuff, and so you can do… that might be a way to support students, uh, in there.
+
+00:27:01.000 --> 00:27:03.000
+Tom Heitman: Yeah.
+
+00:27:02.000 --> 00:27:05.000
+Eric Severson: So, we have a couple of…
+
+00:27:06.000 --> 00:27:13.000
+Eric Severson: deals that are, uh, kind of like LiveView, right, technology. I don't know if that's hit your desk yet, but the…
+
+00:27:12.000 --> 00:27:16.000
+Tom Heitman: Oh yeah, we're about done with the first course for that, yeah.
+
+00:27:16.000 --> 00:27:24.000
+Eric Severson: Well, tell us about that. How did that, uh, process go from, uh, you know, description through, you know, first course?
+
+00:27:24.000 --> 00:27:32.000
+Tom Heitman: So, the way that these usually come across my desk are Misty sends them to me, she sends me the MOU.
+
+00:27:32.000 --> 00:27:38.000
+Tom Heitman: She sends me some details on what we're gonna do with this one. I think they wanted.
+
+00:27:38.000 --> 00:27:45.000
+Tom Heitman: One of the micro-credentials done for a conference that you guys, I guess, are probably going to in March.
+
+00:27:45.000 --> 00:27:51.000
+Tom Heitman: Um, so they wanted it done by February, or maybe it's in February, I don't know, they wanted it done by February.
+
+00:27:51.000 --> 00:27:59.000
+Tom Heitman: And so, uh, she sent that to us, and I asked her some questions, and this particular case.
+
+00:27:59.000 --> 00:28:05.000
+Tom Heitman: She's like, oh, set it up like the ODP courses, the, uh, officer development program courses we did for the IAFC.
+
+00:28:06.000 --> 00:28:16.000
+Tom Heitman: Um, and basically, what I do is take that back, I say, alright, how many hours is this going to be? Is it 10 to 30 hours? Is it a typical.
+
+00:28:16.000 --> 00:28:23.000
+Tom Heitman: 150 hour course, like, what does this look like? Um, what kind of…
+
+00:28:23.000 --> 00:28:29.000
+Tom Heitman: structure do you want? Do you want it to be units? Does it need to be modules? How long do they need to be?
+
+00:28:29.000 --> 00:28:37.000
+Tom Heitman: What do they need to entail? So we have a kickoff meeting, basically, where I just ask all my questions. Um, I don't have an official checklist, but I kind of have.
+
+00:28:37.000 --> 00:28:42.000
+Tom Heitman: the same questions that I ask every time. A lot of it is also, like.
+
+00:28:42.000 --> 00:28:51.000
+Tom Heitman: do we brand this in any way? You know, does this go in Blackboard, or is this an external? We have iSpring. Have you used iSpring, Eric?
+
+00:28:51.000 --> 00:28:53.000
+Eric Severson: No, never even heard it.
+
+00:28:51.000 --> 00:28:57.000
+Tom Heitman: You heard of, uh, Captivate, or, um, Storyline, or…
+
+00:28:54.000 --> 00:28:56.000
+Eric Severson: Yeah, yeah.
+
+00:28:56.000 --> 00:28:58.000
+Eric Severson: Yeah.
+
+00:28:57.000 --> 00:29:03.000
+Tom Heitman: it's a course authoring tool that allows you to build learning modules, but it's outside Blackboard.
+
+00:29:03.000 --> 00:29:17.000
+Tom Heitman: So, it's got some of those AI avatar-type features that's embedded into… it's not as robust as, like, a Synthesia or a HeyGen, but you can kind of create… we tell people it's PowerPoint on steroids, but the point is.
+
+00:29:17.000 --> 00:29:22.000
+Tom Heitman: You know, we can create a standalone product that's branded just for them, um…
+
+00:29:23.000 --> 00:29:30.000
+Tom Heitman: And so, sometimes it's that, or sometimes there's a partnership where they're like, nope, we want you to push it through Blackboard.
+
+00:29:30.000 --> 00:29:36.000
+Tom Heitman: Um, so we'll work with you to give you the content, um, and then you… you create it in Blackboard, and then you…
+
+00:29:37.000 --> 00:29:42.000
+Tom Heitman: Uh, continuing education is the one that, you know, manages the students that come in and everything.
+
+00:29:43.000 --> 00:29:51.000
+Tom Heitman: So we ask all those questions, and determine what the needs are, and then we treat it a little bit like.
+
+00:29:51.000 --> 00:29:58.000
+Tom Heitman: A regular course by using that, like, instructional packet, and so we'll get one of the instructional designers on board with whoever.
+
+00:29:59.000 --> 00:30:09.000
+Tom Heitman: the contact is, um… or a lot of times it's just, like, one of our deans or program directors, like this one, I know that Jason's been working with.
+
+00:30:09.000 --> 00:30:16.000
+Tom Heitman: Mike Perry and Tamara Mura, and pulling content from courses that we already have.
+
+00:30:16.000 --> 00:30:21.000
+Tom Heitman: and repackaging those. And so that's kind of, in this particular case with LiveView.
+
+00:30:22.000 --> 00:30:27.000
+Tom Heitman: there was, I think it was, like, a strategic leadership course or something that they wanted to use, and so Jason pulled that.
+
+00:30:28.000 --> 00:30:38.000
+Tom Heitman: And kind of pulled out some highlights and ran it by Tamara and Mike and said, is this kind of what you're looking for? They're like, yeah, I use these units. So he just repackaged those, spruced them up.
+
+00:30:38.000 --> 00:30:44.000
+Tom Heitman: added some different images, um, and put that in Blackboard in a… I think it's…
+
+00:30:44.000 --> 00:30:55.000
+Tom Heitman: I don't know if it's 8 units, I think it's 3 or 4 units, um, but I think this one's 20 to 30 hours. It's got a little assessment at the end. Like I said, it'll run through continuing education.
+
+00:30:56.000 --> 00:31:00.000
+Tom Heitman: We run it through the editor, we run it through the tech, and off it goes.
+
+00:30:56.000 --> 00:30:58.000
+Eric Severson: So, let me describe…
+
+00:31:00.000 --> 00:31:05.000
+Eric Severson: Yeah, that's… that's perfect. That's exactly what I was looking for, and…
+
+00:31:04.000 --> 00:31:06.000
+Tom Heitman: Yeah.
+
+00:31:05.000 --> 00:31:07.000
+Eric Severson: I will… let me describe…
+
+00:31:07.000 --> 00:31:12.000
+Eric Severson: two projects that we've got going, and when I say projects, they're, uh…
+
+00:31:12.000 --> 00:31:14.000
+Eric Severson: Potential partnerships.
+
+00:31:14.000 --> 00:31:16.000
+Tom Heitman: Uh-huh.
+
+00:31:14.000 --> 00:31:17.000
+Eric Severson: And I'd love to make sure that.
+
+00:31:18.000 --> 00:31:24.000
+Eric Severson: As many of the issues that we can put upstream.
+
+00:31:24.000 --> 00:31:31.000
+Eric Severson: Uh, and I'll… and I'll… your checklist that doesn't exist would be something, and I would definitely love to know the top.
+
+00:31:31.000 --> 00:31:37.000
+Eric Severson: 5 or 6 things that we can think about and introduce, especially with customers.
+
+00:31:31.000 --> 00:31:33.000
+Tom Heitman: Mm-hmm, mhm.
+
+00:31:37.000 --> 00:31:42.000
+Eric Severson: That are maybe not used to educational delivery, so…
+
+00:31:42.000 --> 00:31:52.000
+Eric Severson: We've got this very… I think this is an enormously cool opportunity. Uh, Tony found this through Sigma Mutual and through one of their partners.
+
+00:31:52.000 --> 00:31:58.000
+Eric Severson: a company called CTR. CTR is a staffing company, uh, that…
+
+00:31:58.000 --> 00:32:05.000
+Eric Severson: realize that's working with the shipbuilding industry and some of the aerospace manufacturers in Alabama.
+
+00:32:05.000 --> 00:32:17.000
+Eric Severson: They realized the demand for workers, for labor, was so far out of their ability to find local talent, or even relocating talent.
+
+00:32:17.000 --> 00:32:22.000
+Eric Severson: That the staffing firm hired a subject matter expert will just.
+
+00:32:22.000 --> 00:32:28.000
+Eric Severson: Pick the first example, welding, which is a big deal in the shipbuilding industry, right?
+
+00:32:28.000 --> 00:32:33.000
+Eric Severson: They found a welder, the welder put together a 75-page PDF.
+
+00:32:33.000 --> 00:32:39.000
+Eric Severson: And the staffing firm also is a recruiting firm, right? So they recruit and they staff for temp.
+
+00:32:39.000 --> 00:32:41.000
+Eric Severson: They they recruit.
+
+00:32:42.000 --> 00:32:49.000
+Eric Severson: people with aptitude, but not the skills. They put them through, uh, I think it's a 10-week process right now.
+
+00:32:49.000 --> 00:32:56.000
+Eric Severson: that is in person with Larry the Welder delivering, uh, some kind of classroom experience with a PDF, right?
+
+00:32:56.000 --> 00:33:02.000
+Eric Severson: And then at the end of that, this particular company places their graduates with.
+
+00:33:02.000 --> 00:33:13.000
+Eric Severson: the shipbuilders who have… one of them has, like, an outstanding rack for welders of 150, right? So they're not… there's this crazy imbalance between demand and supply.
+
+00:33:13.000 --> 00:33:21.000
+Eric Severson: And with all the stuff going on with the Golden Fleet, the maritime, you know, stuff, the demand for labor is just going to go up like that.
+
+00:33:21.000 --> 00:33:25.000
+Eric Severson: They came to us, or through Signal Mutual, and they said, look.
+
+00:33:26.000 --> 00:33:31.000
+Eric Severson: we don't really know what we're doing. We don't really view ourselves as an educational delivery.
+
+00:33:31.000 --> 00:33:41.000
+Eric Severson: group. We'd like to partner with you guys. We'd like to figure out how to take not just this program, but a bunch of these skills, uh, and, and.
+
+00:33:41.000 --> 00:33:48.000
+Eric Severson: trades preparation. We'd like you guys to be able to be our partner for instructional delivery.
+
+00:33:48.000 --> 00:34:01.000
+Eric Severson: And then, because it's welding, there may be 6 weeks of online stuff followed by 4 weeks of in-person, let's practice and skill and validate that you actually have the skills, right?
+
+00:33:55.000 --> 00:33:57.000
+Tom Heitman: Yep.
+
+00:34:01.000 --> 00:34:12.000
+Eric Severson: Uh, and so, what's interesting to me about this is two things. One, it feels like we're not… we don't have a lot of this in the CSU.
+
+00:34:13.000 --> 00:34:19.000
+Eric Severson: process, meaning we're certainly not… I don't see a lot of revenue generation from this kind of thing.
+
+00:34:19.000 --> 00:34:25.000
+Eric Severson: And so it's new revenue generation. I don't think it's a killer amount of revenue, because it's a 6-week non-degree program.
+
+00:34:25.000 --> 00:34:34.000
+Eric Severson: But it, nonetheless, it's revenue generation, and maybe more importantly, it allows me and Tony to change the dialogue or the conversation with.
+
+00:34:34.000 --> 00:34:47.000
+Eric Severson: learning partners from, you know, the current conversation is about stackable credentials for sure, but retention, degree program, promotion, all that stuff. Now we can bring that all the way to the front.
+
+00:34:47.000 --> 00:34:56.000
+Eric Severson: and say, you know, let us help you with your workforce solutions. Let us help you with your very basic needs, especially in these skilled trade environments.
+
+00:34:56.000 --> 00:35:04.000
+Eric Severson: We'll, uh, we've got a partner, we'll do the recruiting, we'll put them through university, you know, qualified online training.
+
+00:35:04.000 --> 00:35:09.000
+Eric Severson: Uh, and at the end of that, they've got physical training, and then they go into, you know, the job.
+
+00:35:10.000 --> 00:35:21.000
+Eric Severson: If CSU is part of that from the very beginning, that changes how the employers think about us, number one, and number two, both the employers and that cohort of.
+
+00:35:21.000 --> 00:35:32.000
+Eric Severson: I call it labor to leader. That cohort of welders is going to think about, well, if I like this, and I'm sticking with Engels for 3 or 4 years.
+
+00:35:32.000 --> 00:35:41.000
+Eric Severson: and Ingalls is adding 150 welders every quarter, you know, there's gonna need to be some supervisors, there's gonna need to be some managers, and that's when.
+
+00:35:40.000 --> 00:35:42.000
+Tom Heitman: Yeah.
+
+00:35:41.000 --> 00:35:46.000
+Eric Severson: they… then… then we think they'll come back and think about CSU.
+
+00:35:45.000 --> 00:35:48.000
+Tom Heitman: Comes full circle, yeah. That makes sense.
+
+00:35:46.000 --> 00:35:57.000
+Eric Severson: Yeah. So, we haven't met with Misty yet, we'll be meeting with her shortly, but I just was curious, today we had a yet but another conversation with this.
+
+00:35:57.000 --> 00:36:03.000
+Eric Severson: partner, recruiting staffing partner. And I was… and they're very excited about, uh, the potential to work with us.
+
+00:36:03.000 --> 00:36:05.000
+Tom Heitman: Mm-hmm.
+
+00:36:03.000 --> 00:36:11.000
+Eric Severson: And we were getting down into things like, do you want… what's the structure of the course that you want to do? Is it a cohort?
+
+00:36:12.000 --> 00:36:21.000
+Eric Severson: Uh, so that we can follow through. How much have you thought about quizzes and grading, and how you want to measure that yet? Do you have those rubrics?
+
+00:36:21.000 --> 00:36:27.000
+Eric Severson: It's Larry, the welder, sitting in a room for, you know, 10 weeks with a bunch of other guys trying to be welders in a PDF.
+
+00:36:25.000 --> 00:36:27.000
+Tom Heitman: Yeah.
+
+00:36:27.000 --> 00:36:38.000
+Eric Severson: So they don't have the educational background, haven't thought about all of these things, which got me… which I realized, oh boy, they don't know, and at this stage, I figured it would be.
+
+00:36:28.000 --> 00:36:30.000
+Tom Heitman: Mm-hmm.
+
+00:36:38.000 --> 00:36:44.000
+Eric Severson: something that would get worked out later, but in the interest of educating prospects, I did want to sort of.
+
+00:36:44.000 --> 00:36:49.000
+Eric Severson: Think about and hear from you about how… what are those key questions.
+
+00:36:49.000 --> 00:36:57.000
+Eric Severson: In a situation like this, that we would be well served to ask the upfront and at least get them thinking about.
+
+00:36:57.000 --> 00:37:04.000
+Eric Severson: Uh, those things. And then from your perspective, so it's a PDF, they definitely want to know if we can.
+
+00:37:04.000 --> 00:37:17.000
+Eric Severson: improve the safety content, and it's welding, so I'm sure we don't have a, you know, a series of welding, uh, I'm assuming we don't have welding content anymore, but we certainly have safety content.
+
+00:37:13.000 --> 00:37:16.000
+Tom Heitman: Right. Right.
+
+00:37:17.000 --> 00:37:19.000
+Tom Heitman: Yes.
+
+00:37:18.000 --> 00:37:23.000
+Eric Severson: And so, how would something like that work if it, if it came into you? Is it just like LVT?
+
+00:37:24.000 --> 00:37:34.000
+Tom Heitman: Uh, yeah, I mean, more or less, like, we're doing something similar to what you're… we've done this in the past with people.
+
+00:37:35.000 --> 00:37:40.000
+Tom Heitman: Uh, we're working on another… are you… are you guys familiar with the Green Training Services project?
+
+00:37:40.000 --> 00:37:46.000
+Tom Heitman: You know about that one? Okay, so… this one came through Dana.
+
+00:37:41.000 --> 00:37:43.000
+Eric Severson: I do not.
+
+00:37:42.000 --> 00:37:44.000
+Tony Atchley: No.
+
+00:37:47.000 --> 00:37:52.000
+Tom Heitman: strategic academic partnerships? I don't know, I can't keep all you guys straight, I don't know who does what, but…
+
+00:37:51.000 --> 00:37:53.000
+Eric Severson: Yeah.
+
+00:37:52.000 --> 00:37:58.000
+Tom Heitman: But she came to me and said, hey, look, there's this company out in Las Vegas.
+
+00:37:58.000 --> 00:38:07.000
+Tom Heitman: they're CSU graduates, they… they fly people out, they put them on site for, like you said, 10 weeks, or whatever it is.
+
+00:38:08.000 --> 00:38:13.000
+Tom Heitman: And their whole purpose is safety and construction equipment.
+
+00:38:13.000 --> 00:38:19.000
+Tom Heitman: Like, they talk about the different types of equipment, they talk about how to use it safely, they talk about.
+
+00:38:19.000 --> 00:38:27.000
+Tom Heitman: What it all is, and how it works, and why this could happen, and why that could happen, and why it's important to use these.
+
+00:38:27.000 --> 00:38:32.000
+Tom Heitman: Certifications to make sure you're doing it right, all the things, and they're like.
+
+00:38:32.000 --> 00:38:37.000
+Tom Heitman: We've hit a ceiling because the in person, you can only go so far.
+
+00:38:37.000 --> 00:38:42.000
+Tom Heitman: And so they were like, there are aspects of this that we could put online.
+
+00:38:42.000 --> 00:38:50.000
+Tom Heitman: Um, there are aspects of this that we could keep, you know, on-site, or we could have some kind of hybrid, you know, what do you guys think?
+
+00:38:50.000 --> 00:38:55.000
+Tom Heitman: And, um, that's where, again, we got in a room with their…
+
+00:38:55.000 --> 00:39:02.000
+Tom Heitman: owners, and they're, uh, like you said, kind of Larry the Welder, but just in a different.
+
+00:39:02.000 --> 00:39:09.000
+Tom Heitman: space, um, and then some of our instructional designers, Misty was on the call, some of the safety people were on the call.
+
+00:39:09.000 --> 00:39:14.000
+Tom Heitman: And we just had a conversation, and they said, look, this is what we're looking for.
+
+00:39:14.000 --> 00:39:23.000
+Tom Heitman: And then we started asking some of the high-level questions about, well, how many weeks do you want it to be? Do you want it fully online?
+
+00:39:23.000 --> 00:39:28.000
+Tom Heitman: Um, like I said earlier, is this just your branding, or is it CSUs? Is it a partnership?
+
+00:39:29.000 --> 00:39:35.000
+Tom Heitman: What's the timeline for this? You know, when are you looking? Everybody's timeline is yesterday.
+
+00:39:35.000 --> 00:39:41.000
+Tom Heitman: But… when you have a bunch of these projects, it can't be yesterday, so what's reasonable based on.
+
+00:39:41.000 --> 00:39:50.000
+Tom Heitman: on this, um, you know, where is… what kind of demographic do you have? I mean, do these people have access to…
+
+00:39:50.000 --> 00:39:56.000
+Tom Heitman: computers that can do some of these things, you know, you still have to think about some of that, and it's mainly for…
+
+00:39:56.000 --> 00:40:06.000
+Tom Heitman: firewalls and things like that, um, because if you send them elsewhere, sometimes you can't all… you know, they have to get permission to go to those sites and things like that. So, um…
+
+00:40:06.000 --> 00:40:14.000
+Tom Heitman: And then Misty comes in, well, what does this partnership look like? What's the revenue share? How much are we gonna charge for this? How often are we gonna…
+
+00:40:14.000 --> 00:40:21.000
+Tom Heitman: offer it, you know, those types of things, um, and then an MOU comes together, and usually.
+
+00:40:22.000 --> 00:40:29.000
+Tom Heitman: We get answers to those questions. Who are the key people that we are going to work with? Who are your point of contacts? Who is Larry the Welder?
+
+00:40:29.000 --> 00:40:40.000
+Tom Heitman: Are there other people? You know, that kind of stuff. Are there certificates that you want attached to this? How do we deliver those? Who signs off on those? Um, that's another thing we're…
+
+00:40:29.000 --> 00:40:31.000
+Eric Severson: Yep.
+
+00:40:40.000 --> 00:40:57.000
+Tom Heitman: working on a wildland fire thing, and it's actually the wildland fire concentration, Tony, you know all about that, but like, you know, there's… when they get done with it, there's the, I don't know, SR90 and SR60 and whatever your check marks are for this and that, and the next thing, and.
+
+00:40:46.000 --> 00:40:48.000
+Tony Atchley: Yep.
+
+00:40:57.000 --> 00:41:02.000
+Tom Heitman: That's just part of the course. Is any of that going to be involved? And if so.
+
+00:41:02.000 --> 00:41:09.000
+Tom Heitman: Do you distribute that? Does continuing education at CSU distribute that? Does some outside entity distribute that that we have a partnership with?
+
+00:41:09.000 --> 00:41:16.000
+Tom Heitman: So, questions like that, I can write some of these down and send them to you, but I'm just kind of giving you an example of some of the things that.
+
+00:41:17.000 --> 00:41:22.000
+Tom Heitman: Depending on what the industry is, those are some of the questions that we ask.
+
+00:41:22.000 --> 00:41:26.000
+Tom Heitman: Up front, so that at least then we have a framework to go back and say.
+
+00:41:26.000 --> 00:41:34.000
+Tom Heitman: All right, IDT, alright, subject matter experts at CSU, alright, Misty Academic Administration, alright, continuing education.
+
+00:41:34.000 --> 00:41:40.000
+Tom Heitman: This is what we're working with. How do we want to outline this? How does this timeline work?
+
+00:41:41.000 --> 00:41:45.000
+Tom Heitman: you know, can we put this in Blackboard? Like, all those different…
+
+00:41:45.000 --> 00:41:49.000
+Tom Heitman: A lot of it, too, is how complicated, or not complicated, but…
+
+00:41:49.000 --> 00:41:57.000
+Tom Heitman: how many bells and whistles do you want? Because that impacts the development time, that impacts the resources that we have, that impacts the cost.
+
+00:41:57.000 --> 00:42:02.000
+Tom Heitman: You know, if you want an avatar that's talking back and forth to you, that's gonna cost more than…
+
+00:42:02.000 --> 00:42:11.000
+Tom Heitman: you know, creating some modules out of that PDF with nice pictures and videos and things. I mean, we could do that real easily, but, you know, once you start getting into.
+
+00:42:11.000 --> 00:42:16.000
+Tom Heitman: Okay, like, for instance, nursing has Willow Labs. Have you guys ever seen the Willow Labs?
+
+00:42:17.000 --> 00:42:20.000
+Eric Severson: Yes. It's super cool, yeah.
+
+00:42:17.000 --> 00:42:25.000
+Tom Heitman: I mean, it's kind of, it's really cool, you know, you've got your patient sitting in front of you, you take their heartbeat, you ask them the questions, they, they talk back to you, like.
+
+00:42:25.000 --> 00:42:32.000
+Tom Heitman: It's not cheap, though, you know? I mean, those things are expensive, so you kind of have to talk through the resources and what.
+
+00:42:32.000 --> 00:42:38.000
+Tom Heitman: Either they're willing to spend, or what we think the students taking this are.
+
+00:42:38.000 --> 00:42:43.000
+Tom Heitman: Whoever is taking this, clients are willing to spend on this.
+
+00:42:43.000 --> 00:42:47.000
+Tom Heitman: So… I don't know, does that help at all, what I'm saying?
+
+00:42:45.000 --> 00:42:48.000
+Eric Severson: Well, this is perfect, Tom. This is exactly…
+
+00:42:47.000 --> 00:42:58.000
+Tony Atchley: Yeah, yeah. Do you… do you ever look at doing, uh, like, a crawl, walk, run, a phased approach, where, you know, you've got, uh, phase one, maybe phase two comes in with a.
+
+00:42:47.000 --> 00:42:49.000
+Tom Heitman: Okay.
+
+00:42:58.000 --> 00:43:04.000
+Tony Atchley: You know, a higher degree of complexity as far as the design work.
+
+00:43:04.000 --> 00:43:10.000
+Tony Atchley: Uh, aspect of it. Uh, have you done that sort of thing where there's built-in revisits?
+
+00:43:11.000 --> 00:43:14.000
+Tony Atchley: that you know are gonna come. Just curious.
+
+00:43:14.000 --> 00:43:21.000
+Tom Heitman: Not specifically, like you're explaining it, but I feel like, A, that's a good idea, and B.
+
+00:43:21.000 --> 00:43:28.000
+Tom Heitman: I mean, sometimes it just organically goes that way, where you get started, and then they're like, nah, this isn't quite what we're looking for, can we do this?
+
+00:43:24.000 --> 00:43:26.000
+Tony Atchley: Yeah.
+
+00:43:28.000 --> 00:43:33.000
+Tom Heitman: Sure. Or, no, let's shift, but we can do this, you know, um…
+
+00:43:34.000 --> 00:43:36.000
+Tom Heitman: Kind of a deal, uh…
+
+00:43:36.000 --> 00:43:41.000
+Tom Heitman: No, we haven't really taken that approach. But, I will also say.
+
+00:43:41.000 --> 00:43:48.000
+Tom Heitman: I'd say we have all these projects and everything, but it's probably just in the past 3 years where all of this has really started to ramp up.
+
+00:43:48.000 --> 00:43:53.000
+Tom Heitman: Um, really, that ODP was the first big…
+
+00:43:54.000 --> 00:44:00.000
+Tom Heitman: Course, or series of courses, because it ended up being 18 courses.
+
+00:44:00.000 --> 00:44:07.000
+Tom Heitman: where we kind of had that full team together, and I mean, I think that was 2023 and 2024, so, I mean, we're…
+
+00:44:07.000 --> 00:44:13.000
+Tom Heitman: We're not… we're still babies when it comes to these special project type things.
+
+00:44:13.000 --> 00:44:22.000
+Tom Heitman: But I feel like, in those 3 years, we've come up with a pretty good system, it's just, there's gonna be scenarios like you're talking about that we just haven't done yet. Doesn't mean we can't.
+
+00:44:23.000 --> 00:44:26.000
+Tom Heitman: It's just, nobody's ever brought it forward in that way, so…
+
+00:44:27.000 --> 00:44:29.000
+Tom Heitman: I like to say we're quick learners, but…
+
+00:44:29.000 --> 00:44:32.000
+Tom Heitman: You know, we all say that, right?
+
+00:44:33.000 --> 00:44:35.000
+Eric Severson: Um…
+
+00:44:35.000 --> 00:44:39.000
+Eric Severson: And in that officer development thing, are those…
+
+00:44:40.000 --> 00:44:45.000
+Eric Severson: cohort-based, or they… CE is often… no, they're not cohort-based.
+
+00:44:42.000 --> 00:44:44.000
+Tom Heitman: Yeah.
+
+00:44:44.000 --> 00:44:48.000
+Tom Heitman: No, no, they are, they are. Like, so…
+
+00:44:45.000 --> 00:44:48.000
+Eric Severson: They are. Oh, great. Terrific.
+
+00:44:48.000 --> 00:44:55.000
+Tom Heitman: A certain amount of people sign up for it, they all go into that section, and they all go through it together, and they all have that same.
+
+00:44:51.000 --> 00:44:53.000
+Eric Severson: Okay, fantastic.
+
+00:44:55.000 --> 00:45:02.000
+Tom Heitman: I think… I can't remember if there's a… I think there's a… like, a professor that oversees it, but I can't remember, but yeah, those are all…
+
+00:45:02.000 --> 00:45:07.000
+Tom Heitman: Cohort base that started this time, it's this group of people, and we push them through, yeah.
+
+00:45:07.000 --> 00:45:15.000
+Eric Severson: Cool. This has been enormously helpful. I mean, again, we're very excited about this…
+
+00:45:15.000 --> 00:45:23.000
+Eric Severson: entry point for CSU at the pre-employment phase as a way to, A, collect that new revenue.
+
+00:45:23.000 --> 00:45:31.000
+Eric Severson: Establish a different relationship with all of our potential learning partners, and uh… and then also seed.
+
+00:45:31.000 --> 00:45:41.000
+Eric Severson: you know, the downstream degree seekers. So, it was just important for me to hear, are these things possible? How might we…
+
+00:45:39.000 --> 00:45:41.000
+Tom Heitman: Yeah.
+
+00:45:42.000 --> 00:45:48.000
+Eric Severson: you know, what else do I need to think about as we're talking with our potential partners about this?
+
+00:45:48.000 --> 00:45:51.000
+Tom Heitman: I think this is great, and I think it…
+
+00:45:51.000 --> 00:45:57.000
+Tom Heitman: It's good that you guys are bringing this forward so that we can… because right now, yeah, we do these things.
+
+00:45:57.000 --> 00:46:06.000
+Tom Heitman: But it's not like an off-the-shelf process, and I think it could be. Like, I do. I really think it could be. You're asking me, well, how does this typically… well, it's a little bit different every time.
+
+00:46:06.000 --> 00:46:16.000
+Tom Heitman: And it's always gonna be a little bit different every time, but it's not like, alright, let's pull that book off the shelf and open up the pages. It's like… and it probably should be. I think that's where we're going. I think as we expand.
+
+00:46:16.000 --> 00:46:27.000
+Tom Heitman: You know, you're gonna get more of these opportunities that come forward, and it's like, we almost need… it's kind of turned into that way, where we just have a separate set of people that just work on these types of projects.
+
+00:46:27.000 --> 00:46:36.000
+Tom Heitman: Um, so that when you guys come in and say, hey, there's this opportunity, they've got this PDF, and Larry the Welder leading this program, but they want to put a part of it online, or a part of it.
+
+00:46:36.000 --> 00:46:42.000
+Tom Heitman: You know, alright, great, here it is, this is the group you're gonna be working with, this is when we can get it done.
+
+00:46:42.000 --> 00:46:48.000
+Tom Heitman: Go back, see if that's okay, back and forth, off we go. And you know exactly.
+
+00:46:48.000 --> 00:46:53.000
+Tom Heitman: what you're getting, and you know what the process is. So, I mean, I would support that.
+
+00:46:53.000 --> 00:46:57.000
+Tom Heitman: For sure. I mean, we can do that now, I'm just saying, I think…
+
+00:46:57.000 --> 00:47:02.000
+Tom Heitman: Aside from Larry the Welder, it's like, it's good to kind of start to really put this.
+
+00:47:02.000 --> 00:47:04.000
+Tom Heitman: Process in place.
+
+00:47:03.000 --> 00:47:15.000
+Eric Severson: Yeah, Tony and I have been kicking around the concept of productizing this offer so that as we go out, we've got, you know, pamphlets, flyers, a formal way of addressing.
+
+00:47:03.000 --> 00:47:05.000
+Tony Atchley: Great.
+
+00:47:15.000 --> 00:47:17.000
+Eric Severson: Our capabilities around this.
+
+00:47:17.000 --> 00:47:25.000
+Eric Severson: It sounds like… who would I touch base with to hear the story of green? What's the rest of it, Green?
+
+00:47:25.000 --> 00:47:27.000
+Tom Heitman: Green training services.
+
+00:47:26.000 --> 00:47:34.000
+Eric Severson: grain training services, because it sounds like that is extremely similar to what we're talking about with CTR.
+
+00:47:34.000 --> 00:47:40.000
+Eric Severson: And we have another company that is a recruiting company that, out of necessity.
+
+00:47:40.000 --> 00:47:45.000
+Eric Severson: Did this basic skills training for.
+
+00:47:45.000 --> 00:47:51.000
+Eric Severson: Vertiv, which is an HVAC, commercial HVAC company, and for Comfort Systems, which is a field.
+
+00:47:52.000 --> 00:48:01.000
+Eric Severson: field technician job. And they… again, back to the same problem, they couldn't find enough qualified candidates, and so…
+
+00:47:54.000 --> 00:47:56.000
+Tom Heitman: Mm-hmm.
+
+00:48:01.000 --> 00:48:10.000
+Eric Severson: they bootstrapped this, and they've reached that same point where they're like, ah, I don't know that we want to do this. We'd like to find a real educational partner to deliver this stuff.
+
+00:48:10.000 --> 00:48:11.000
+Tom Heitman: Yeah.
+
+00:48:10.000 --> 00:48:18.000
+Eric Severson: Uh, and it's in that same vein, it would could, it isn't a credential like a.
+
+00:48:18.000 --> 00:48:24.000
+Eric Severson: even maybe a certificate, but it's not… certainly not a degree. It's, you know, 10 to 12 weeks of training, you go to work.
+
+00:48:21.000 --> 00:48:22.000
+Tom Heitman: Yeah, yeah, yeah.
+
+00:48:24.000 --> 00:48:26.000
+Tom Heitman: Yep.
+
+00:48:24.000 --> 00:48:26.000
+Eric Severson: Uh, on these guys.
+
+00:48:26.000 --> 00:48:28.000
+Tom Heitman: Yeah, and, and…
+
+00:48:28.000 --> 00:48:38.000
+Tom Heitman: I think I would talk to Misty. I mean, Misty's the one that oversees, really, all of these things, so if you are talking to her later today or tomorrow, whenever it is, like, definitely…
+
+00:48:30.000 --> 00:48:32.000
+Eric Severson: Okay.
+
+00:48:33.000 --> 00:48:35.000
+Eric Severson: All that. Okay.
+
+00:48:38.000 --> 00:48:40.000
+Eric Severson: Okay.
+
+00:48:38.000 --> 00:48:43.000
+Tom Heitman: run that by her, because… I mean, it really is kind of what you're talking about. They came to us.
+
+00:48:44.000 --> 00:48:50.000
+Tom Heitman: Hey, we do it this way, we'd like to do it that way, so we can scale it, offer it a different way.
+
+00:48:50.000 --> 00:48:55.000
+Tom Heitman: Um, we know that you guys have the education thing down, you know, we're… we're…
+
+00:48:55.000 --> 00:49:03.000
+Tom Heitman: you know, graduates, we like your product, whatever. Um, here's what we have. And that's what they did. They gave us PowerPoints. They had…
+
+00:48:58.000 --> 00:49:00.000
+Eric Severson: Yeah.
+
+00:49:03.000 --> 00:49:13.000
+Tom Heitman: a series of PowerPoints that… this is what we use, and this is how we go through it, and it even had, you know, okay, time for a break, everybody go to the bathroom for 5 minutes, so, you know, you gotta take that slide out, you gotta…
+
+00:49:13.000 --> 00:49:19.000
+Tom Heitman: And the slides are real busy, because they're in there talking about them, and it's like, okay, that's not exactly…
+
+00:49:19.000 --> 00:49:28.000
+Tom Heitman: really, I mean, this doesn't work for online. We need to revamp this and package it a different way. And so that's, like, what we've been doing, working with them.
+
+00:49:28.000 --> 00:49:30.000
+Tom Heitman: Um, and…
+
+00:49:31.000 --> 00:49:40.000
+Tom Heitman: The biggest issue we run into, and I will tell you this, probably the most important question out of all of them that you ever ask these people that have content already.
+
+00:49:41.000 --> 00:49:46.000
+Tom Heitman: If it's from scratch, it's a different ballgame. But if they have the PDF, or they have the PowerPoints.
+
+00:49:46.000 --> 00:49:51.000
+Tom Heitman: where did you get that content, and do you actually have permission to use it, or did you just go to Google.
+
+00:49:52.000 --> 00:49:58.000
+Tom Heitman: And type in, give me an image for fire extinguisher, and pull that and put it in, because we can't use that.
+
+00:49:59.000 --> 00:50:06.000
+Eric Severson: What about, uh… this is off-topic, but back to my… I am obsessed with AI, absolutely obsessed.
+
+00:50:05.000 --> 00:50:07.000
+Tom Heitman: Sure.
+
+00:50:06.000 --> 00:50:15.000
+Eric Severson: Uh, are you… how do you think about image… image creation, AI images for use in… in… in our content?
+
+00:50:15.000 --> 00:50:20.000
+Tom Heitman: I mean, we use them all the time. We just cite them… we cite them a certain way, and…
+
+00:50:16.000 --> 00:50:18.000
+Eric Severson: You're doing that now, and…
+
+00:50:19.000 --> 00:50:21.000
+Eric Severson: Yeah.
+
+00:50:20.000 --> 00:50:26.000
+Tom Heitman: just let everybody know, hey, this is AI generated, we're careful with it. We don't use it for everything.
+
+00:50:27.000 --> 00:50:36.000
+Tom Heitman: Um, for instance, I created a image… well, actually, no, uh, what was it? It was in Synthesia, they don't do it anymore, but…
+
+00:50:36.000 --> 00:50:47.000
+Tom Heitman: you could take a picture of yourself from 5 different angles, and then you create an avatar, then you… in AI, you say, make Tom a firefighter fighting a fire in front of a, you know, single-dwelling house with blah blah blah blah blah.
+
+00:50:45.000 --> 00:50:47.000
+Eric Severson: Yeah.
+
+00:50:48.000 --> 00:50:58.000
+Tom Heitman: And so it did, and I was like, Keith, this is awesome, we should use this in a course. He's like, nah, man, you have a beard. Firefighters don't have beards, you can't use that. Everybody's… it's gonna be discredited.
+
+00:50:58.000 --> 00:51:03.000
+Tom Heitman: And he's like, you see that shield that's on that helmet? That's all wrong, and this and that, and I was like, you know.
+
+00:51:03.000 --> 00:51:10.000
+Tom Heitman: Burst my bubble, but, you know, Keith and I are real good friends, so it's aha. But, you know, we are careful with what we use it for.
+
+00:51:10.000 --> 00:51:15.000
+Tom Heitman: Um, so that we make sure that it's accurate, uh, but, I mean, we use it.
+
+00:51:15.000 --> 00:51:19.000
+Tom Heitman: All the time, for simple things, and, you know.
+
+00:51:19.000 --> 00:51:24.000
+Tom Heitman: you're obsessed with AI, eventually you can get the prompt right to where it…
+
+00:51:24.000 --> 00:51:27.000
+Tom Heitman: We'll give you what you're looking for, but uh…
+
+00:51:27.000 --> 00:51:29.000
+Tom Heitman: I mean…
+
+00:51:27.000 --> 00:51:35.000
+Eric Severson: I've tied myself in some knots all the way down the JSON prompting rat hole for nano banana.
+
+00:51:35.000 --> 00:51:46.000
+Eric Severson: Because, again, you can get so close, but there's always one or two things in there. Before here, I worked at Universal Technical Institute, which is a big trade school, 16 campuses around the country, and.
+
+00:51:35.000 --> 00:51:37.000
+Tom Heitman: Yeah.
+
+00:51:39.000 --> 00:51:41.000
+Tom Heitman: Always.
+
+00:51:46.000 --> 00:51:51.000
+Eric Severson: One of the things that, uh, I was the head of all admissions, and one of the things we're constantly struggling with is.
+
+00:51:51.000 --> 00:51:57.000
+Eric Severson: Our marketers would put together image… stock imagery of.
+
+00:51:57.000 --> 00:52:07.000
+Eric Severson: stuff, and they would never run it by the academics, and there, if you are putting a Kawasaki and a Harley-Davidson ad.
+
+00:52:01.000 --> 00:52:03.000
+Tom Heitman: Mm-hmm.
+
+00:52:07.000 --> 00:52:08.000
+Tom Heitman: Yeah, yeah.
+
+00:52:07.000 --> 00:52:13.000
+Eric Severson: that is not gonna work, right? Or you're talking about the wrong engine dynamics.
+
+00:52:09.000 --> 00:52:11.000
+Tom Heitman: No. Yeah, exactly.
+
+00:52:13.000 --> 00:52:20.000
+Eric Severson: With the wrong image, everybody's gonna go, these guys are jokers, they don't know what they're talking about.
+
+00:52:18.000 --> 00:52:20.000
+Tom Heitman: Right. Right.
+
+00:52:20.000 --> 00:52:24.000
+Eric Severson: So, AI's still got that little wrinkle to it as well.
+
+00:52:23.000 --> 00:52:28.000
+Tom Heitman: Yeah, I'll just… yeah, we use it with caution, that's what I'll say, but I mean, we do.
+
+00:52:28.000 --> 00:52:36.000
+Tom Heitman: use it. I mean, we use it in psychology courses, you know, show me an image of this guy talking to this girl about this thing, you know, like…
+
+00:52:37.000 --> 00:52:42.000
+Tom Heitman: And just simple things like that, but, um, you're right.
+
+00:52:41.000 --> 00:52:47.000
+Eric Severson: I have a couple of… a couple of friends that are running these edtech content companies now.
+
+00:52:42.000 --> 00:52:44.000
+Tom Heitman: Into technical things.
+
+00:52:47.000 --> 00:52:56.000
+Eric Severson: And one of them in particular calls me up, and we compare notes on… he's a videographer, and I'm curious about it, but he…
+
+00:52:55.000 --> 00:52:57.000
+Tom Heitman: Mm-hmm.
+
+00:52:56.000 --> 00:53:05.000
+Eric Severson: I think at some point, the animation world, we used to… at Pearson, we used to pay boo-coo bucks for custom animations.
+
+00:53:05.000 --> 00:53:12.000
+Eric Severson: man, that feels like it's not here yet, but boy, cutaways, even at UTI, we would spend.
+
+00:53:12.000 --> 00:53:21.000
+Eric Severson: a phenomenal amount of money to get a car, cut it in half, and make it a teaching aid as a teaching aid pretty soon.
+
+00:53:17.000 --> 00:53:19.000
+Tom Heitman: Yeah.
+
+00:53:21.000 --> 00:53:27.000
+Eric Severson: You know, you give it the technical direction, the technical specifications, and it feels like that stuff's got some pretty wild.
+
+00:53:27.000 --> 00:53:31.000
+Eric Severson: Potential to it, at just dramatically lower cost.
+
+00:53:30.000 --> 00:53:38.000
+Tom Heitman: Yeah, and where we've seen a lot of success, or… I don't know, it's still too early to tell. I say success, because I think it's cool, but like…
+
+00:53:38.000 --> 00:53:46.000
+Tom Heitman: We're using a lot of AI videos to introduce concepts, so, like, it'll be a 30-second.
+
+00:53:46.000 --> 00:53:52.000
+Tom Heitman: pieced together clip that I created in Sora of… for criminal justice, where.
+
+00:53:52.000 --> 00:53:57.000
+Tom Heitman: It starts off with a burglar breaking into a car.
+
+00:53:57.000 --> 00:54:07.000
+Tom Heitman: And then it cuts to, you know, that's a 10-second scene. And then it cuts to, uh, two guys in a suit walking in that particular area, talking about what happened.
+
+00:54:07.000 --> 00:54:15.000
+Tom Heitman: That's a 10-second scene. And then they're back at the police station or whatever, and they're talking about the evidence that they found on the scene, and how it could link…
+
+00:54:15.000 --> 00:54:25.000
+Tom Heitman: And then at the end, you know, we'll throw something funny in there, like Batman comes… or Superhero comes in and captures the thief and gets… but it's just a little 30-second, kind of almost, like, icebreaker…
+
+00:54:25.000 --> 00:54:39.000
+Tom Heitman: But it sets the scene, and then you go into, you know, forensics and, you know, what's important, and how you would actually go through the scene, and what you're looking for, and that kind of stuff, but it just… it introduces that topic in a way that, like you were saying, would cost.
+
+00:54:39.000 --> 00:54:46.000
+Tom Heitman: tons of money to do, and now I can do it in 30 minutes. You know, I create 4 clips.
+
+00:54:47.000 --> 00:54:51.000
+Tom Heitman: throw them in, uh, Clipchamp, add some different…
+
+00:54:51.000 --> 00:54:56.000
+Tom Heitman: you know, transitions to it, export it, and I'm done. And it can go right in the course. And…
+
+00:54:56.000 --> 00:54:59.000
+Tom Heitman: Cost me 20 bucks a month, you know, like…
+
+00:54:57.000 --> 00:55:02.000
+Eric Severson: That is… that is super cool. Super cool. I…
+
+00:55:00.000 --> 00:55:02.000
+Tom Heitman: Yeah.
+
+00:55:01.000 --> 00:55:10.000
+Tony Atchley: So… so, Tom, hold that thought, because you're going to have that exact application to apply to some of the coursework that's coming from LVT.
+
+00:55:10.000 --> 00:55:12.000
+Tom Heitman: Yeah. Okay.
+
+00:55:11.000 --> 00:55:13.000
+Tony Atchley: Or that's gonna be needed there, yeah.
+
+00:55:14.000 --> 00:55:23.000
+Tom Heitman: But those are the things we're experimenting with, those are the things that we're doing now, those are the things that we're starting to figure out how to put into courses, and it's just.
+
+00:55:16.000 --> 00:55:18.000
+Tony Atchley: Yeah.
+
+00:55:23.000 --> 00:55:33.000
+Tom Heitman: it snowballs, because, you know, you think of that, oh, we're using it for that, well, how could we use it for this? You know, and that's… and we can rely on you guys to help with that, too. It's like…
+
+00:55:33.000 --> 00:55:38.000
+Tom Heitman: this is what they're looking for, can you do that, or something similar to it, you know? So…
+
+00:55:38.000 --> 00:55:44.000
+Tom Heitman: We're all in for innovation. Um, I can't tell you we can do everything, but we're gonna try, you know?
+
+00:55:38.000 --> 00:55:40.000
+Eric Severson: Good.
+
+00:55:45.000 --> 00:55:53.000
+Eric Severson: You know, I think there are a couple of things that, uh, that CSU has opportunities to be more aggressive about in their promotion.
+
+00:55:54.000 --> 00:56:02.000
+Eric Severson: And I'm thinking about promotion from a B2B business-to-business perspective to future learning partners, but now, you know, there's high interest in.
+
+00:56:02.000 --> 00:56:14.000
+Eric Severson: how are you using AI in general, but specifically to enhance the student experience. So I love that you're talking to us about this. I would love to find a way to stay on top of it. It's high interest.
+
+00:56:08.000 --> 00:56:10.000
+Tom Heitman: Mm-hmm.
+
+00:56:14.000 --> 00:56:19.000
+Eric Severson: For our learning partners, right, to hear about these things, and…
+
+00:56:18.000 --> 00:56:20.000
+Tom Heitman: Yeah.
+
+00:56:19.000 --> 00:56:30.000
+Eric Severson: I don't think, you know, the other one is affordability. I think, you know, CSU is the biggest school nobody's ever heard of, and when they do hear about it, the things that are in their head are.
+
+00:56:26.000 --> 00:56:28.000
+Tom Heitman: Right.
+
+00:56:30.000 --> 00:56:37.000
+Eric Severson: they're good things, but there aren't affordability. The affordability message isn't at the top.
+
+00:56:37.000 --> 00:56:46.000
+Eric Severson: And I think there's a… just listening to this, there's a much better story that could be told about the student experience, especially in this moment in time.
+
+00:56:46.000 --> 00:56:48.000
+Tom Heitman: Mm-hmm.
+
+00:56:46.000 --> 00:56:54.000
+Eric Severson: There's so much stuff changing, uh, to know that there is an investment, and there is some innovation and some experimentation going on.
+
+00:56:48.000 --> 00:56:50.000
+Tom Heitman: Mm-hmm, mhm.
+
+00:56:54.000 --> 00:56:59.000
+Eric Severson: Uh, helps us bring that story to future learning partners.
+
+00:56:58.000 --> 00:57:04.000
+Tom Heitman: Yeah, and I've been urged to get that out in front of the university a little bit more.
+
+00:57:04.000 --> 00:57:16.000
+Tom Heitman: Just in general, you know, like, show them that you're creative, you know, show some examples of some of these things that you've been doing, and talk about why you did it, and how it can enhance the student experience, and then…
+
+00:57:17.000 --> 00:57:21.000
+Tom Heitman: Because, you know, you're talking to the whole institution. You guys might…
+
+00:57:22.000 --> 00:57:27.000
+Tom Heitman: See that, and come up with ideas, and be like, oh yeah, we should go tell our learning partners about this, and…
+
+00:57:27.000 --> 00:57:29.000
+Tom Heitman: You know? So, I mean…
+
+00:57:30.000 --> 00:57:33.000
+Tom Heitman: I think you'll start to see that from us here pretty soon, um…
+
+00:57:34.000 --> 00:57:39.000
+Tom Heitman: you know, we're just busy. I mean, it's just hard to ever stop and do those things, you know?
+
+00:57:38.000 --> 00:57:41.000
+Eric Severson: Yeah, everybody needs a marketer.
+
+00:57:39.000 --> 00:57:44.000
+Tom Heitman: Um… yeah, exactly. Uh, we just need a…
+
+00:57:44.000 --> 00:57:54.000
+Tom Heitman: Smiling face to go out and show these things and do the legwork, but I count my blessings every day. Most schools don't have a team of 35 people that do this kind of stuff.
+
+00:57:54.000 --> 00:58:01.000
+Tom Heitman: So I don't take it for granted either, and so I try to be innovative and push the limits and be like, oh, this is what we're doing.
+
+00:58:01.000 --> 00:58:07.000
+Tom Heitman: This is what you're paying these salaries for, and hopefully we can stay ahead of the curve and.
+
+00:58:07.000 --> 00:58:16.000
+Tom Heitman: you know, get some of these learning partners on board, and show them that we have these resources, and can put together products that they like, so they keep coming back. I mean, we did one for FBI LIDA.
+
+00:58:16.000 --> 00:58:23.000
+Tom Heitman: um, wasn't as in-depth, but it was… it was literally just kind of putting together some PowerPoint presentations, um, and using.
+
+00:58:24.000 --> 00:58:38.000
+Tom Heitman: iSpring and Captivate to put those… they loved it, and they keep coming back for more. I mean, we're on the third phase of their development, so you're right, the opportunities are out there, and if you can show them a good product and show them that you're continuing to look.
+
+00:58:38.000 --> 00:58:43.000
+Tom Heitman: In the future, they'll keep coming back, so that's… and that's what we want to do, so…
+
+00:58:43.000 --> 00:58:46.000
+Eric Severson: So we'll definitely talk with Misty about.
+
+00:58:43.000 --> 00:58:45.000
+Tom Heitman: you know.
+
+00:58:46.000 --> 00:58:52.000
+Eric Severson: productizing this category, because I didn't even know about green training services, but that seems like…
+
+00:58:52.000 --> 00:59:01.000
+Eric Severson: It seems like a, uh, an offering that if we're comfortable with, you know, I've been here less than 6 months, and we've got 2 really significant.
+
+00:59:01.000 --> 00:59:13.000
+Eric Severson: partnership opportunities with different companies on exactly this model. And it sounds like green sort of organically happened. I've got to imagine that there are many others out there right now.
+
+00:59:06.000 --> 00:59:08.000
+Tom Heitman: Yeah.
+
+00:59:09.000 --> 00:59:11.000
+Tom Heitman: Yeah.
+
+00:59:13.000 --> 00:59:24.000
+Eric Severson: Where, you know, it may be an unusual, it's not the Fortune 500 necessarily, but they're doing… especially because it gives us this connection to.
+
+00:59:24.000 --> 00:59:30.000
+Eric Severson: employment, right? And it almost… it almost skips the academic.
+
+00:59:30.000 --> 00:59:32.000
+Tom Heitman: Yep.
+
+00:59:30.000 --> 00:59:36.000
+Eric Severson: Connection, so it's training to employment with an promise of an academic partnership down the road if you need it.
+
+00:59:36.000 --> 00:59:41.000
+Tom Heitman: Yeah. It… and that's something I think about all the time, too, because…
+
+00:59:36.000 --> 00:59:38.000
+Eric Severson: That's pretty cool.
+
+00:59:41.000 --> 00:59:50.000
+Tom Heitman: academics truly is different than training. Um, you know, there are two sides… well, there's multiple sides to instructional design, but, like.
+
+00:59:50.000 --> 00:59:56.000
+Tom Heitman: At CSU, sometimes it is hard, it's not hard, it's just, you just have to get in that mindset, it's like.
+
+00:59:57.000 --> 01:00:04.000
+Tom Heitman: You're not talking to a traditional student that's taking a course for credit. You're talking to someone that's just trying to learn a skill.
+
+01:00:04.000 --> 01:00:08.000
+Tom Heitman: To do better, you know? Like, and…
+
+01:00:08.000 --> 01:00:19.000
+Tom Heitman: That's important to keep in mind as we have these conversations, but that's why I think some of these instructional designers that I have are really valuable, because some of them come from the business world, and they did training, and that's what they did.
+
+01:00:19.000 --> 01:00:25.000
+Tom Heitman: we've got a nice mixture of, you know, we've got school teachers, we've got people that worked at Regions Bank, we've got people that, you know.
+
+01:00:25.000 --> 01:00:32.000
+Tom Heitman: all kinds of different backgrounds for those different perspectives, you kind of pull them in and say, hey, remember when you worked at American Express?
+
+01:00:32.000 --> 01:00:34.000
+Tom Heitman: How did this work? Kind of a deal.
+
+01:00:34.000 --> 01:00:36.000
+Tom Heitman: Um, so…
+
+01:00:35.000 --> 01:00:44.000
+Tony Atchley: Selfishly, do our degree programs produce the, uh, you know, potential students for you down the road?
+
+01:00:46.000 --> 01:00:48.000
+Tom Heitman: I hope so. Um…
+
+01:00:47.000 --> 01:00:52.000
+Tony Atchley: Yeah. I mean, I mean, I'm talking about the… the IDT stuff that we…
+
+01:00:52.000 --> 01:00:54.000
+Tom Heitman: Oh, like our IDT programs?
+
+01:00:52.000 --> 01:00:55.000
+Tony Atchley: Yeah. Yeah, yeah.
+
+01:00:56.000 --> 01:01:04.000
+Tom Heitman: Uh, again, I hope so. I think it's still too young to know. Uh, the courses that we put together, I feel, should prepare students.
+
+01:00:59.000 --> 01:01:01.000
+Tony Atchley: Yeah.
+
+01:01:04.000 --> 01:01:06.000
+Tom Heitman: for that, um…
+
+01:01:07.000 --> 01:01:09.000
+Tom Heitman: There's some…
+
+01:01:09.000 --> 01:01:14.000
+Tom Heitman: Obstacles we need to get over, I'll just leave it at that, but, um…
+
+01:01:15.000 --> 01:01:17.000
+Tom Heitman: Yeah, I think that…
+
+01:01:17.000 --> 01:01:23.000
+Tom Heitman: I'd like to see us expand some of our offerings to include more of the.
+
+01:01:23.000 --> 01:01:28.000
+Tom Heitman: future, if you will, which I know is hard to capture, because it changes, but, like.
+
+01:01:28.000 --> 01:01:35.000
+Tom Heitman: I mean, the technology side of instructional design is blowing up, as you know, with all this AI stuff.
+
+01:01:35.000 --> 01:01:43.000
+Tom Heitman: And with, even with the labs and the different learning resources that the publishers come to us with, I mean, that whole industry is transforming.
+
+01:01:43.000 --> 01:01:52.000
+Tom Heitman: Um, and I understand that there's a lot of theory behind instructional design. I think that's sometimes a stumbling block at academic institutions, is they want to.
+
+01:01:52.000 --> 01:01:57.000
+Tom Heitman: You know, focus so much on adult learning theory and all these other things, it's like…
+
+01:01:58.000 --> 01:02:05.000
+Tom Heitman: Yeah, but you're not sitting there at 2 o'clock in the morning thinking, well, which theory would make the most sense to use when I'm, you know, it's…
+
+01:02:05.000 --> 01:02:10.000
+Tom Heitman: what tool am I gonna use? How am I gonna deliver this? What's the target audience? Like…
+
+01:02:10.000 --> 01:02:12.000
+Tom Heitman: So…
+
+01:02:13.000 --> 01:02:19.000
+Tom Heitman: Yeah, I do. I mean, I have confidence in it. I think we just need to continue to grow it and evolve it.
+
+01:02:19.000 --> 01:02:24.000
+Tom Heitman: Uh, but… yeah, I hope so. Um, so…
+
+01:02:22.000 --> 01:02:24.000
+Tony Atchley: Cool.
+
+01:02:24.000 --> 01:02:30.000
+Tom Heitman: And there's just… it's so weird, like, I was at dinner with a group of friends the other night, and.
+
+01:02:30.000 --> 01:02:32.000
+Tom Heitman: This, um…
+
+01:02:32.000 --> 01:02:39.000
+Tom Heitman: One of the ladies that we're friends with, she works at a company, Pure Car, or something like that.
+
+01:02:39.000 --> 01:02:50.000
+Tom Heitman: They do something in the automotive industry, and she's like, I got this new promotion, and it's like, my boss told me that I need to get a certificate in instructional design, because I'm going to be doing training and things. Well, guess what?
+
+01:02:50.000 --> 01:02:53.000
+Tom Heitman: you're in luck. So…
+
+01:02:52.000 --> 01:02:55.000
+Eric Severson: I happen to know somebody. Me.
+
+01:02:53.000 --> 01:02:59.000
+Tom Heitman: Yeah, and so, it's just… it's little things like that, and I think what I was gonna say as you guys were talking about all this, is like.
+
+01:03:00.000 --> 01:03:05.000
+Tom Heitman: Yeah, we've got green training, got FBLA, but I, I truly believe it only takes one.
+
+01:03:05.000 --> 01:03:13.000
+Tom Heitman: That sets it all off, and then word of mouth, it's like, wow, they really did this, and they tell this company, and then they want it, and then they want it, and then they want it, and then they want it.
+
+01:03:13.000 --> 01:03:17.000
+Tom Heitman: And, um, I just… I really think if we keep down this path.
+
+01:03:17.000 --> 01:03:24.000
+Tom Heitman: one or two of these is really gonna hit, and it may not seem like a big… like you were saying, it may not be the Fortune 500 company, but it might be…
+
+01:03:24.000 --> 01:03:31.000
+Tom Heitman: The pure car company that's, oh, wow, look at this, and then they want it, and they want it, and they want it, and then we have a bad problem, is…
+
+01:03:31.000 --> 01:03:35.000
+Tom Heitman: We have too much work, and we can't do it all, but… yeah. But, yeah.
+
+01:03:32.000 --> 01:03:38.000
+Eric Severson: Gotta hire more people, right? Or… or find more AI, one of the two.
+
+01:03:33.000 --> 01:03:36.000
+Tony Atchley: Yeah. Well…
+
+01:03:36.000 --> 01:03:38.000
+Tom Heitman: Yeah, exactly.
+
+01:03:37.000 --> 01:03:46.000
+Tony Atchley: Yeah, the whole… the whole LVT relationship is just that. It's… it's them, but it's… it's more the extension into their customer base.
+
+01:03:46.000 --> 01:03:48.000
+Tom Heitman: Mm-hmm.
+
+01:03:47.000 --> 01:03:57.000
+Tony Atchley: that is the big carrot for us, and where we'll be able to go with this, if they're using the curriculum that we're developing on the recommendation of LVT.
+
+01:03:55.000 --> 01:03:57.000
+Tom Heitman: Yep.
+
+01:03:57.000 --> 01:04:08.000
+Tony Atchley: then, uh, we're inserted into the Home Depots, into the Advance Autos, into the, you know, uh, into all the big retail, you know, that's out there in a criminal justice type.
+
+01:04:03.000 --> 01:04:06.000
+Tom Heitman: Yeah, yeah. Okay.
+
+01:04:08.000 --> 01:04:14.000
+Tony Atchley: Um, you know, assisting kind of mode with the technology that they're using, so…
+
+01:04:11.000 --> 01:04:13.000
+Tom Heitman: Yeah.
+
+01:04:13.000 --> 01:04:16.000
+Tom Heitman: Yeah. I love it.
+
+01:04:15.000 --> 01:04:25.000
+Eric Severson: If I wanted to learn more about how the green training services thing got started, who do you think I should follow up with just to say.
+
+01:04:25.000 --> 01:04:31.000
+Eric Severson: You know, is there a prospectus? Show me the MOU. It sounds like we're doing something very similar.
+
+01:04:31.000 --> 01:04:37.000
+Tom Heitman: I mean, I'm telling you, Misty. Misty's gonna be the one that's gonna point you to it. I know I keep saying her name, but, like.
+
+01:04:31.000 --> 01:04:33.000
+Eric Severson: Um…
+
+01:04:33.000 --> 01:04:35.000
+Eric Severson: Misty, okay, alright.
+
+01:04:35.000 --> 01:04:37.000
+Eric Severson: Okay.
+
+01:04:37.000 --> 01:04:41.000
+Tom Heitman: Dana and Misty… Dana Fuller and Misty are the two that…
+
+01:04:41.000 --> 01:04:43.000
+Eric Severson: do this stuff.
+
+01:04:42.000 --> 01:04:51.000
+Tom Heitman: did that whole thing. And really, I'm only telling you that, too, because I don't… I don't know all the contract side and how it all came about. I mean, I know that…
+
+01:04:51.000 --> 01:04:58.000
+Tom Heitman: I don't exactly know how they even came in contact with them, but I do know that they were graduates. I do know that.
+
+01:04:58.000 --> 01:05:04.000
+Tom Heitman: You know, the main issue they were having is they kind of have this on-site thing, and they wanted to.
+
+01:05:04.000 --> 01:05:06.000
+Tom Heitman: Pull it online, um…
+
+01:05:07.000 --> 01:05:14.000
+Tom Heitman: But as far as, like, the MOU and how it all came about, I mean, Misty… Misty runs all that. She's the one that worked the deal, and…
+
+01:05:14.000 --> 01:05:16.000
+Tom Heitman: Went back and forth with them and everything, so…
+
+01:05:14.000 --> 01:05:16.000
+Eric Severson: Okay.
+
+01:05:16.000 --> 01:05:18.000
+Eric Severson: And then…
+
+01:05:16.000 --> 01:05:20.000
+Tom Heitman: She's probably gonna be able to help you the most.
+
+01:05:20.000 --> 01:05:24.000
+Eric Severson: Tom, on things like, uh, metadata management.
+
+01:05:24.000 --> 01:05:29.000
+Eric Severson: Accessibility, compliance, alignments and classifications, is that all part of IDT?
+
+01:05:30.000 --> 01:05:33.000
+Tom Heitman: That's a very good question. Um…
+
+01:05:36.000 --> 01:05:39.000
+Tom Heitman: Yes and no? Um…
+
+01:05:40.000 --> 01:05:43.000
+Tom Heitman: Yeah, I guess.
+
+01:05:43.000 --> 01:05:45.000
+Tom Heitman: It it…
+
+01:05:43.000 --> 01:05:50.000
+Eric Severson: How does that work get done today? Are there tools that CSU uses for that, or is it all people?
+
+01:05:52.000 --> 01:05:53.000
+Tom Heitman: It's really…
+
+01:05:54.000 --> 01:05:57.000
+Tom Heitman: Depends on… I don't know, you named off a…
+
+01:05:57.000 --> 01:05:59.000
+Eric Severson: A bunch of stuff, right?
+
+01:05:58.000 --> 01:06:02.000
+Tom Heitman: 3 different areas, you know? Um…
+
+01:06:01.000 --> 01:06:03.000
+Eric Severson: Yeah.
+
+01:06:02.000 --> 01:06:05.000
+Tom Heitman: Accessibility, for instance.
+
+01:06:05.000 --> 01:06:11.000
+Tom Heitman: Yeah, that all falls on us. It just… it just does. I know there's an ADA compliance, um…
+
+01:06:12.000 --> 01:06:17.000
+Tom Heitman: Committee that meets occasionally, but when it comes to…
+
+01:06:17.000 --> 01:06:21.000
+Tom Heitman: ADA compliance, accessibility…
+
+01:06:21.000 --> 01:06:25.000
+Tom Heitman: I mean, it's… it's… it's… we work with…
+
+01:06:25.000 --> 01:06:32.000
+Tom Heitman: Jennifer Lee Hooper in the compliance office, and she kind of keeps us up to date on anything that's coming down from.
+
+01:06:32.000 --> 01:06:38.000
+Tom Heitman: You know, federal government or whatever, but it's really up to us to do the research, to…
+
+01:06:38.000 --> 01:06:44.000
+Tom Heitman: work with Blackboard to run the different reports. We use Blackboard Ally, it tells us if things are accessible.
+
+01:06:44.000 --> 01:06:51.000
+Tom Heitman: Um, we've got a couple of guys on our team that they're kind of dubbed ADA compliance people.
+
+01:06:51.000 --> 01:06:53.000
+Tom Heitman: That type of thing. As far as…
+
+01:06:54.000 --> 01:06:56.000
+Tom Heitman: Pulling the…
+
+01:06:58.000 --> 01:07:04.000
+Tom Heitman: I don't know, would one of them be kind of pulling the data for effectiveness within the courses, and kind of how that all works?
+
+01:07:04.000 --> 01:07:06.000
+Tom Heitman: Um…
+
+01:07:08.000 --> 01:07:12.000
+Tom Heitman: That's a conversation for drinks after work, but, um…
+
+01:07:12.000 --> 01:07:17.000
+Eric Severson: Is it all manual? Is it all people? Okay.
+
+01:07:14.000 --> 01:07:18.000
+Tom Heitman: Pretty much. It's pretty much all manual, and it shouldn't be…
+
+01:07:19.000 --> 01:07:24.000
+Tom Heitman: But it is, um, and I have my thoughts on that, but again, I could go off on a tangent for 30 minutes.
+
+01:07:24.000 --> 01:07:26.000
+Tom Heitman: Um…
+
+01:07:26.000 --> 01:07:32.000
+Tom Heitman: We're trying to shift some things to where we have a centralized system.
+
+01:07:32.000 --> 01:07:37.000
+Tom Heitman: that will give us more effective data, as opposed to working everything through Omega.
+
+01:07:37.000 --> 01:07:42.000
+Tom Heitman: And manually creating reports out of spreadsheets and things like that.
+
+01:07:39.000 --> 01:07:41.000
+Eric Severson: Aha.
+
+01:07:42.000 --> 01:07:44.000
+Eric Severson: Yeah, yeah, yeah.
+
+01:07:42.000 --> 01:07:44.000
+Tom Heitman: Um, we haven't…
+
+01:07:45.000 --> 01:07:48.000
+Tom Heitman: A found the right tool just yet.
+
+01:07:48.000 --> 01:07:55.000
+Tom Heitman: And it's just hard to get any kind of buy-in because Omega is such the precious baby at CSU.
+
+01:07:54.000 --> 01:08:04.000
+Eric Severson: No, no, I got… I didn't think about Omega. I sort of assumed that course content would have to live outside of that, uh, almost entirely, but probably.
+
+01:08:04.000 --> 01:08:09.000
+Tom Heitman: It does, but the spider web of how all that stuff is connected.
+
+01:08:04.000 --> 01:08:06.000
+Eric Severson: I didn't remember that.
+
+01:08:09.000 --> 01:08:11.000
+Eric Severson: Yeah.
+
+01:08:10.000 --> 01:08:17.000
+Tom Heitman: is mind-blowing. I mean, the way that all of our APIs and integrations work.
+
+01:08:17.000 --> 01:08:22.000
+Tom Heitman: and how they have to be set up such a certain way is part of the reason I have such a big tech team.
+
+01:08:22.000 --> 01:08:32.000
+Tom Heitman: It's because if every single assignment in Blackboard and every single rubric in Blackboard is pushed into Omega.
+
+01:08:32.000 --> 01:08:40.000
+Tom Heitman: And then the reports that Academics runs for Sax Narratives or iPads or whatever.
+
+01:08:40.000 --> 01:08:49.000
+Tom Heitman: all comes out of Omega, but what that means for me is I'm doing double the work, because I have to set it up in Blackboard, and I have to set it up in Omega, because there's nothing that…
+
+01:08:49.000 --> 01:08:57.000
+Tom Heitman: talks to each other to automate that process. And so, when I build a rubric for an assignment as a direct measure in Blackboard.
+
+01:08:58.000 --> 01:09:06.000
+Tom Heitman: that needs to be measured up to a program learning outcome to go to Sachs to say that we're doing this the correct way, I have to do all that in two different places.
+
+01:09:06.000 --> 01:09:11.000
+Tom Heitman: And it's just… there's… that's just one example about data and how we get it, but…
+
+01:09:11.000 --> 01:09:19.000
+Tom Heitman: it's just… it's kind of a messy process at this point. I'm not talking bad about anybody, and I don't think it's… it's just the way we've done it, you know what I mean? Like…
+
+01:09:16.000 --> 01:09:20.000
+Eric Severson: No, no, totally. Yeah, yeah, yeah, yeah.
+
+01:09:19.000 --> 01:09:21.000
+Tom Heitman: It just kind of is what it is, um…
+
+01:09:22.000 --> 01:09:31.000
+Eric Severson: Well, the reason I was curious about that is, uh, I have a good friend, again, I have 30 years at Pearson, and so a lot of my former colleagues.
+
+01:09:31.000 --> 01:09:43.000
+Eric Severson: uh, went out and are still in the industry doing different things. I have a good friend that founded a company called Syllabite AI, and it is, uh, being used now by Vista Higher Ed, the learning company.
+
+01:09:34.000 --> 01:09:36.000
+Tom Heitman: Mm-hmm.
+
+01:09:43.000 --> 01:09:52.000
+Eric Severson: edX is using it, and it does metadata management, alignments and classifications, accessibility compliance, RAG pipeline, and.
+
+01:09:52.000 --> 01:09:57.000
+Eric Severson: content delivery, and even content generation, and it's heavily API-based.
+
+01:09:54.000 --> 01:09:56.000
+Tom Heitman: Mm-hmm.
+
+01:09:57.000 --> 01:09:58.000
+Tom Heitman: Okay.
+
+01:09:57.000 --> 01:10:05.000
+Eric Severson: So, if there ever is a point where you're… I'll send you the link to Syllabite AI, and if there's anything remotely interesting there.
+
+01:10:05.000 --> 01:10:12.000
+Eric Severson: Uh, the guy's business is exploding, largely because most of the publishers have been cutting back on staff like crazy.
+
+01:10:12.000 --> 01:10:14.000
+Tom Heitman: Mm-hmm.
+
+01:10:12.000 --> 01:10:24.000
+Eric Severson: And so their ability to manage the content, even simple things like the alt tags, they get, you know, they got people running around with little hammers hammering away on the alt tags all over the place.
+
+01:10:15.000 --> 01:10:17.000
+Tom Heitman: Yeah.
+
+01:10:18.000 --> 01:10:20.000
+Tom Heitman: Yep.
+
+01:10:23.000 --> 01:10:25.000
+Tom Heitman: Yep.
+
+01:10:24.000 --> 01:10:32.000
+Eric Severson: And for, you know, at least at Pearson, ADA and EAA was a big deal, right? They wanted to make sure that they were.
+
+01:10:32.000 --> 01:10:39.000
+Eric Severson: Not getting sideways with somebody on that stuff. So, his business is exploding and, and uh… you know.
+
+01:10:39.000 --> 01:10:46.000
+Eric Severson: He's enabling a lot of that stuff, and if it's ever of any interest, I'd be delighted to set up a call, no pressure, and…
+
+01:10:46.000 --> 01:10:48.000
+Tom Heitman: Yeah. I…
+
+01:10:47.000 --> 01:10:49.000
+Eric Severson: That's why I was curious.
+
+01:10:49.000 --> 01:10:54.000
+Tom Heitman: I'd like to definitely keep that contact open.
+
+01:10:54.000 --> 01:10:56.000
+Tom Heitman: Um…
+
+01:10:56.000 --> 01:10:58.000
+Tom Heitman: Yeah, send me some information on that.
+
+01:10:58.000 --> 01:11:07.000
+Eric Severson: Yeah, you never know, right? You absolutely never know where, oh, look at that, I had no idea that that would be done. And again, he's an industry insider, he worked in production, uh, in.
+
+01:10:59.000 --> 01:11:01.000
+Tom Heitman: Yeah.
+
+01:11:03.000 --> 01:11:05.000
+Tom Heitman: Mm-hmm.
+
+01:11:07.000 --> 01:11:13.000
+Eric Severson: both McGraw and at, uh, Pearson for a lot of years, and so that's where that all came from.
+
+01:11:13.000 --> 01:11:15.000
+Tom Heitman: And here's…
+
+01:11:15.000 --> 01:11:19.000
+Tom Heitman: One of the biggest stumbling blocks for me…
+
+01:11:19.000 --> 01:11:24.000
+Tom Heitman: that I wrestle with every day, is there's all this new AI stuff and automation and whatever.
+
+01:11:24.000 --> 01:11:36.000
+Tom Heitman: that I don't even know about. It's like, I could have a problem that I don't even know I'm having that AI solves, but I don't know how to even identify that, you know? Without completely unraveling my process.
+
+01:11:36.000 --> 01:11:42.000
+Tom Heitman: And so, part of one of… and I was just talking about this with Elizabeth this morning, it's like, one of our goals in 2026 is.
+
+01:11:43.000 --> 01:11:48.000
+Tom Heitman: What's out there that could help us, and how do we identify what that is, you know?
+
+01:11:48.000 --> 01:11:54.000
+Tom Heitman: Um, and so I feel like companies like that could at least, if you have an initial conversation.
+
+01:11:55.000 --> 01:12:00.000
+Tom Heitman: You ask each other some questions, you could figure out, oh, I could help you with this.
+
+01:12:00.000 --> 01:12:10.000
+Tom Heitman: Great! It's what I've been looking for, you know, but I didn't even know that. Or it could be, well, no, you guys are doing this your way, and it's not really for us, but you never know if you don't.
+
+01:12:11.000 --> 01:12:14.000
+Tom Heitman: So it might be worth at least a conversation, you know?
+
+01:12:13.000 --> 01:12:25.000
+Eric Severson: I'll send you the info, and if there's any… if you're curious at all, um, I think to that last point, the guy's name is Lucas, uh, he's a great contact to make.
+
+01:12:25.000 --> 01:12:36.000
+Eric Severson: for exactly that purpose, right? Even if it's not an exact fit, he's in that space doing this sort of work, and would be able to.
+
+01:12:34.000 --> 01:12:36.000
+Tom Heitman: Mm-hmm.
+
+01:12:36.000 --> 01:12:45.000
+Eric Severson: would be delighted to just talk about it, right? There's this going on over here, there's this going on over here, and amen, it's hard to figure out how to stay on top of.
+
+01:12:38.000 --> 01:12:40.000
+Tom Heitman: Right.
+
+01:12:46.000 --> 01:12:54.000
+Eric Severson: Not just capabilities, but what's a serious capability versus what's so bleeding edge it's not even worth touching, right?
+
+01:12:53.000 --> 01:12:56.000
+Tom Heitman: Right, right, exactly.
+
+01:12:54.000 --> 01:12:57.000
+Eric Severson: Hard to know that stuff, hard to know that stuff.
+
+01:12:57.000 --> 01:12:59.000
+Tom Heitman: Oh, yeah. Oh, yeah.
+
+01:12:57.000 --> 01:13:06.000
+Eric Severson: I keep hoping that the CO, the Center of Excellence starts providing some platform or way for us to… I'd just love to know.
+
+01:13:06.000 --> 01:13:13.000
+Eric Severson: Where across the institution, uh, are interesting things going on?
+
+01:13:12.000 --> 01:13:14.000
+Tom Heitman: Yeah. Me too.
+
+01:13:13.000 --> 01:13:26.000
+Eric Severson: Jason and I worked together at Pearson for a number of years, and I was pushing… there's a company that has a voice agent that you can deploy across the enterprise to collect use cases, and it collects use cases, documents them.
+
+01:13:23.000 --> 01:13:25.000
+Tom Heitman: Mm-hmm.
+
+01:13:26.000 --> 01:13:28.000
+Eric Severson: Puts them all together, and for…
+
+01:13:29.000 --> 01:13:35.000
+Eric Severson: An institution of our size, you know, struggling to get a library of use cases.
+
+01:13:35.000 --> 01:13:37.000
+Tom Heitman: Yep.
+
+01:13:35.000 --> 01:13:46.000
+Eric Severson: it kind of turns into more of a transformation exercise first, to think about where's our process, how does AI make us think differently about those processes, and what are the ones that are really worth.
+
+01:13:47.000 --> 01:13:52.000
+Eric Severson: Either a simple automation or a more complex, you know, solution.
+
+01:13:52.000 --> 01:14:00.000
+Eric Severson: Uh, and there's stuff out there that is, you know, I'm definitely down the road of the voice agents as the next big productivity unlock.
+
+01:14:00.000 --> 01:14:02.000
+Tom Heitman: Yeah.
+
+01:14:01.000 --> 01:14:05.000
+Eric Severson: But, you know, we gotta have meetings. We gotta have meetings so I can evangelize.
+
+01:14:04.000 --> 01:14:16.000
+Tom Heitman: Gotta have meetings so that you can actually do it, yeah, yeah, I know. I think a lot of people are in that same boat, though. They're waiting to see what comes out of this Diaz team and AI Center of Excellence, and…
+
+01:14:06.000 --> 01:14:08.000
+Eric Severson: Right, right.
+
+01:14:16.000 --> 01:14:18.000
+Tom Heitman: All this talk and everything, and it's like…
+
+01:14:19.000 --> 01:14:32.000
+Tom Heitman: Okay, well, we've been doing this for a year and a half now, what do we have to show for it? And, like you said, what are other people doing? And, you know, or what are they asking for, even? What have they accomplished? Or, you know, like…
+
+01:14:32.000 --> 01:14:40.000
+Tom Heitman: just kind of having a better idea. I'm with you on that. Um, I think we all get so siloed in our day-to-day operations, it's hard to…
+
+01:14:41.000 --> 01:14:45.000
+Tom Heitman: Think about those things sometimes, and that's a horrible excuse, you know?
+
+01:14:44.000 --> 01:14:55.000
+Eric Severson: Well, the COE is a good… I'm gonna push Jason for more regular meetings, because the COE is a good boundary-spanning opportunity. That's the one time I at least, was in the company of.
+
+01:14:52.000 --> 01:14:54.000
+Tom Heitman: Mm-hmm.
+
+01:14:55.000 --> 01:15:01.000
+Eric Severson: Non, you know, alumni relations people, or outreach people, or business development people.
+
+01:14:59.000 --> 01:15:01.000
+Tom Heitman: Yeah.
+
+01:15:01.000 --> 01:15:03.000
+Tom Heitman: Yeah, for sure.
+
+01:15:02.000 --> 01:15:08.000
+Eric Severson: Terrific meeting you, Tom, today. Thank you very much for the time. I know we went a few minutes over, but I really appreciate the time and the connection.
+
+01:15:04.000 --> 01:15:06.000
+Tom Heitman: Yeah, you too.
+
+01:15:04.000 --> 01:15:06.000
+Tony Atchley: Yeah.
+
+01:15:06.000 --> 01:15:18.000
+Tom Heitman: Okay, yeah. Yeah, I hope this was helpful. I hope it kind of hit on some points that you were looking for, and I didn't just talk the whole time, but yeah, anytime you guys need anything or want to circle back around.
+
+01:15:09.000 --> 01:15:11.000
+Eric Severson: Super helpful.
+
+01:15:11.000 --> 01:15:12.000
+Tony Atchley: Super.
+
+01:15:18.000 --> 01:15:24.000
+Tom Heitman: have ideas, let me know, always happy to meet. Like you did here, just shoot me an invite, and if it…
+
+01:15:24.000 --> 01:15:33.000
+Eric Severson: Well, definitely once a quarter, I want to do a quick 30 minutes. What do you got going that we should be representing as new, innovative, exciting for our student body? I think that's…
+
+01:15:24.000 --> 01:15:26.000
+Tom Heitman: You know?
+
+01:15:34.000 --> 01:15:43.000
+Eric Severson: that resonates with potential learning partners, and I really want to be able to tell those stories with enthusiasm as much as possible, so…
+
+01:15:36.000 --> 01:15:38.000
+Tom Heitman: Mm-hmm.
+
+01:15:43.000 --> 01:15:46.000
+Tom Heitman: Yeah, absolutely, for sure, and um…
+
+01:15:46.000 --> 01:15:56.000
+Tom Heitman: you know, yeah, anytime you guys need me for something, let me know. Happy to do it. Um, and I'll keep that… I'll keep you guys in mind as we continue to move forward, and…
+
+01:15:56.000 --> 01:15:58.000
+Eric Severson: Cool.
+
+01:15:56.000 --> 01:16:01.000
+Tom Heitman: If there's something big that changes, it's like, hey, these guys probably need to know this, this is another opportunity, or…
+
+01:16:01.000 --> 01:16:07.000
+Tom Heitman: At least another something else to put in the tool belt that, when you're talking to them, hey, we do this, too. So, yeah.
+
+01:16:07.000 --> 01:16:11.000
+Eric Severson: Super cool. Alright, thanks a ton, Tom. Take care.
+
+01:16:08.000 --> 01:16:13.000
+Tom Heitman: All good. Alright, good to see you guys. Appreciate it. Bye.
+
+01:16:09.000 --> 01:16:13.000
+Tony Atchley: Perfect. All right. Good seeing you, Tom. Thank you.
+
+01:16:12.000 --> 01:16:14.000
+Eric Severson: Bye-bye.
+
